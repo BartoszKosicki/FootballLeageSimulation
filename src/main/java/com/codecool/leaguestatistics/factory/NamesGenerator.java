@@ -18,7 +18,7 @@ public class NamesGenerator {
     }
 
     public static String getTeamName() {
-        return getRandomStringFromFile("CityNames.txt") + " " + getRandomStringFromFile("TeamNames.txt");
+        return getRandomStringFromFile("/resources/CityNames.txt") + " " + getRandomStringFromFile("TeamNames.txt");
     }
 
     private static String getRandomStringFromFile(String fileName) {
