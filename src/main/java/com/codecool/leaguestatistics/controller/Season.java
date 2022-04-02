@@ -11,10 +11,15 @@ import java.util.List;
  */
 public class Season {
 
-    private List<Team> league;
+    private List<Team> WEST;
+    private List<Team> CENTRAL;
+    private List<Team> EAST;
 
     public Season() {
-        league = new ArrayList<>();
+        WEST = new ArrayList<>();
+        CENTRAL = new ArrayList<>();
+        EAST = new ArrayList<>();
+
     }
 
     /**
@@ -22,7 +27,9 @@ public class Season {
      * After all games played calls table to be displayed.
      */
     public void run() {
-        this.league = LeagueFactory.createLeague(12);
+        this.WEST = LeagueFactory.createLeague(12);
+        this.CENTRAL = LeagueFactory.createLeague(12);
+        this.EAST = LeagueFactory.createLeague(12);
         playAllGames();
         // Call Display methods below
 

@@ -5,30 +5,23 @@ import com.codecool.leaguestatistics.factory.NamesGenerator;
 /**
  * Represents player
  */
-public class Player {
+public abstract class Player{
 
-    /**
-     * Player's name
-     */
-    private String name;
+    protected String name;
+    protected int aggression;
+    protected int injuryPotential;
+    protected Playable timeCantPlay;
+    protected boolean cantplay;
+    protected int goals;
 
-    /**
-     * SkillRate is a percentage chance to score a goal
-     */
-    private int skillRate;
-
-    /**
-     * Amount of scored goals
-     */
-    private int goals;
-
-    public Player(int skillRate) {
-        name = NamesGenerator.getPlayerName();
-        this.skillRate = skillRate;
+    public Player(int aggression, int injuryPotential) {
+        this.name = NamesGenerator.getPlayerName();
+        this.aggression = aggression;
+        this.injuryPotential = injuryPotential;
+        this.goals = 0;
+        this.cantplay=false;
     }
 
-    public Player() {
-    }
 
     public String getName() {
         return name;
@@ -38,13 +31,6 @@ public class Player {
         this.name = name;
     }
 
-    public int getSkillRate() {
-        return skillRate;
-    }
-
-    public void setSkillRate(int skillRate) {
-        this.skillRate = skillRate;
-    }
 
     public int getGoals() {
         return goals;
@@ -52,5 +38,37 @@ public class Player {
 
     public void setGoals(int goals) {
         this.goals = goals;
+    }
+
+    public int getAggression() {
+        return aggression;
+    }
+
+    public void setAggression(int aggression) {
+        this.aggression = aggression;
+    }
+
+    public int getInjuryPotential() {
+        return injuryPotential;
+    }
+
+    public void setInjuryPotential(int injuryPotential) {
+        this.injuryPotential = injuryPotential;
+    }
+
+    public Playable getTimeCantPlay() {
+        return timeCantPlay;
+    }
+
+    public void setTimeCantPlay(Playable timeCantPlay) {
+        this.timeCantPlay = timeCantPlay;
+    }
+
+    public boolean isCantplay() {
+        return cantplay;
+    }
+
+    public void setCantplay(boolean cantplay) {
+        this.cantplay = cantplay;
     }
 }
