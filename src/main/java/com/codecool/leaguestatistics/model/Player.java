@@ -11,7 +11,7 @@ public abstract class Player{
     protected String name;
     protected int aggression;
     protected int injuryPotential;
-    protected Playable timeCantPlay;
+    protected Playable timeCantPlay = new Playable(0);
     protected boolean canPlay;
     protected int goals;
 
@@ -20,7 +20,7 @@ public abstract class Player{
         this.aggression = aggression;
         this.injuryPotential = injuryPotential;
         this.goals = 0;
-        this.canPlay =false;
+        this.canPlay = true;
     }
 
 
@@ -37,8 +37,8 @@ public abstract class Player{
         return goals;
     }
 
-    public void setGoals(int goals) {
-        this.goals = goals;
+    public void setGoals() {
+        goals ++;
     }
 
     public int getAggression() {

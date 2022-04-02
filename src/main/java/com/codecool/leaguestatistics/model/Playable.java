@@ -11,7 +11,9 @@ public class Playable {
         return counter;
     }
 
-    public void setCounter(int counter) {
-        this.counter = counter;
+    public void setCounter() {
+        if (counter >0) {
+            this.counter--;
+        }
     }
 }

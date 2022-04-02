@@ -20,12 +20,12 @@ public class LeagueFactory {
      * @return Full set of teams with players
      */
     public static List<Team> createLeague(int teamsInDivision) {
-        List<Integer> teamNumbers = createTeamNumber(teamsInDivision);
         List<Team> teamList = new ArrayList<>();
         for (int i = 0; i < teamsInDivision; i++) {
-            List<Player> players = getPlayers(3,7,7,4);
-            teamList.add(new Team());
+            List<Player> players = getPlayers(3,6,6,3);
+            teamList.add(new Team(players));
         }
+        Collections.shuffle(teamList);
         return teamList;
     }
 
@@ -36,21 +36,21 @@ public class LeagueFactory {
     private static Player createPlayer(Position position){
         switch (position) {
             case STRIKER -> {
-                return new Striker(Utils.getRandomValue(50, 80), Utils.getRandomValue(1, 5), Utils.getRandomValue(0, 20), Utils.getRandomValue(1, 80));
+                return new Striker(Utils.getRandomValue(60, 100), Utils.getRandomValue(1, 5), Utils.getRandomValue(0, 20), Utils.getRandomValue(1, 80));
             }
             case MIDFIELDER -> {
-                return new Midfielder(Utils.getRandomValue(30, 50), Utils.getRandomValue(30, 50), Utils.getRandomValue(1, 5), Utils.getRandomValue(1, 20));
+                return new Midfielder(Utils.getRandomValue(30, 50), Utils.getRandomValue(30, 50), Utils.getRandomValue(1, 5), Utils.getRandomValue(1, 20), Utils.getRandomValue(1,50));
             }
             case DEFENDER -> {
-                return new Defender(Utils.getRandomValue(50, 80), Utils.getRandomValue(1, 5), Utils.getRandomValue(1, 20));
+                return new Defender(Utils.getRandomValue(60, 80), Utils.getRandomValue(1, 5), Utils.getRandomValue(1, 20));
             }
             default -> {
-                return new Goalkeeper(Utils.getRandomValue(50, 80), Utils.getRandomValue(1, 5), Utils.getRandomValue(1, 10), Utils.getRandomValue(1, 80));
+                return new Goalkeeper(Utils.getRandomValue(20, 40), Utils.getRandomValue(1, 5), Utils.getRandomValue(1, 10), Utils.getRandomValue(1, 60), Utils.getRandomValue(10, 60));
             }
         }
     }
 
-    private static List<Player> getPlayers(int gkCount, int defCount, int mfdCound, int strCount) {
+    private static List<Player> getPlayers(int gkCount, int defCount, int mfdCount, int strCount) {
         List<Player> teamPlayers = new ArrayList<>();
         for (int i = 0; i < gkCount; i++) {
                 teamPlayers.add(createPlayer(Position.GOALKEEPER));
@@ -58,20 +58,11 @@ public class LeagueFactory {
         for (int i = 0; i < defCount; i++) {
             teamPlayers.add(createPlayer(Position.DEFENDER));
         }
-        for (int i = 0; i < mfdCound; i++) {
+        for (int i = 0; i < mfdCount; i++) {
             teamPlayers.add(createPlayer(Position.MIDFIELDER));
         }
         for (int i = 0; i < strCount; i++) {
             teamPlayers.add(createPlayer(Position.STRIKER));
         } return teamPlayers;
-    }
-
-    private static List<Integer> createTeamNumber(int teamInLeague){
-        List<Integer> teamNumbers = new ArrayList<>();
-        for (int i = 0; i < teamInLeague; i++) {
-            teamNumbers.add(i);
-        }
-        Collections.shuffle(teamNumbers);
-        return teamNumbers;
     }
 }
