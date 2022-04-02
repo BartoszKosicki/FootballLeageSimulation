@@ -2,6 +2,8 @@ package com.codecool.leaguestatistics.model;
 
 import com.codecool.leaguestatistics.factory.NamesGenerator;
 
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 /**
@@ -10,19 +12,94 @@ import java.util.List;
 public class Team {
 
     private String name;
-    private Division division;
     private int wins;
     private int draws;
     private int loses;
     private List<Player> players;
+    private List<Goalkeeper> gk = new ArrayList<>();
+    private List<Midfielder> midfielders = new ArrayList<>();
+    private List<Defender> defenders = new ArrayList<>();
+    private List<Striker> strikers = new ArrayList<>();
+    private List<Player> squad;
+    private int number;
+    private boolean changeSquad = false;
 
-    public Team(Division division, List<Player> players) {
+
+    public Team(List<Player> players, int number) {
         this.name = NamesGenerator.getTeamName();
-        this.division = division;
         this.players = players;
+        this.number = number;
+        setPlayersByPosition();
+        sortListByPlayersSkills();
     }
 
     public Team() {
+    }
+
+    private void setPlayersByPosition(){
+        for (Player player : players) {
+            if (player instanceof Goalkeeper) {
+                gk.add((Goalkeeper) player);
+            } else if (player instanceof Defender) {
+                defenders.add((Defender) player);
+            } else if (player instanceof Midfielder) {
+                midfielders.add((Midfielder) player);
+            } else {
+                strikers.add((Striker) player);
+            }
+        }
+    }
+
+        private void sortListByPlayersSkills(){
+            Collections.sort(gk);
+            Collections.sort(defenders);
+            Collections.sort(midfielders);
+            Collections.sort(strikers);
+        }
+
+        private void setTactics(){
+        int t442 = 0;
+        int t451 = 0;
+        int t541 = 0;
+        int t352 = 0;
+        t442 = comparePlayerSkills("t442");
+        t451 = comparePlayerSkills("t451");
+        t541 = comparePlayerSkills("t541");
+        t352 = comparePlayerSkills("t352");
+        }
+
+        private int comparePlayerSkills(String tactics){
+        switch (tactics){
+            case "t442"-> {
+                return sumPlayerSkills(4,4,2);
+            } case "t451"-> {
+                return sumPlayerSkills(4,5,1);
+            } case "t541"-> {
+                return sumPlayerSkills(5,4,1);
+            } default-> {
+                return sumPlayerSkills(3,5,2);
+            }
+        }
+    }
+
+    private int sumPlayerSkills(int defendersCount, int midfieldersCount, int strikersCount){
+        int sum = 0;
+        for (int i = 0; i < defendersCount; i++) {
+            if (!defenders.get(i).cantplay) {
+                sum += defenders.get(i).getDefenceSkill();
+            } else if (defendersCount< defenders.size()) defendersCount+=1;
+        }
+        for (int i = 0; i < midfieldersCount; i++) {
+            if (!defenders.get(i).cantplay)
+            sum+= midfielders.get(i).getAttackSkill() + midfielders.get(i).getDefenceSkill();
+            else if (midfieldersCount < midfielders.size()) midfieldersCount += 1;
+        }
+        for (int i = 0; i < strikersCount; i++) {
+            if (!defenders.get(i).cantplay)
+            sum += strikers.get(i).getAttackSkill() + strikers.get(i).getOneOnOne();
+            else if (strikersCount < strikers.size()) strikersCount +=1;
+        }
+        return sum;
     }
 
     /**
@@ -45,14 +122,6 @@ public class Team {
 
     public void setName(String name) {
         this.name = name;
-    }
-
-    public Division getDivision() {
-        return division;
-    }
-
-    public void setDivision(Division division) {
-        this.division = division;
     }
 
     public int getWins() {
@@ -85,5 +154,17 @@ public class Team {
 
     public void setPlayers(List<Player> players) {
         this.players = players;
+    }
+
+    public int getNumber() {
+        return number;
+    }
+
+    public void setNumber(int number) {
+        this.number = number;
+    }
+
+    public void setChangeSquad(boolean changeSquad) {
+        this.changeSquad = changeSquad;
     }
 }
