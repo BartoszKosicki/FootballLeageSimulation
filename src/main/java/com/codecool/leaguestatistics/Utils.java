@@ -4,7 +4,6 @@ import com.codecool.leaguestatistics.model.Team;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.HashMap;
 import java.util.List;
 import java.util.concurrent.ThreadLocalRandom;
 
@@ -14,7 +13,7 @@ import java.util.concurrent.ThreadLocalRandom;
 public class Utils {
 
     public static final int TEAM_SIZE = 11;
-
+    public static int index = 0;
     /**
      * Gets a random value from range
      */
@@ -22,7 +21,7 @@ public class Utils {
         return ThreadLocalRandom.current().nextInt(min, max);
     }
 
-    public static void generateTimeTable(List<Team> teamsInLeague){
+    public static List<RoundPair> generateTimeTable(){
         List<RoundPair> timeTable = new ArrayList<>();
         Collections.addAll(timeTable, new RoundPair(11,0), new RoundPair(1,10), new RoundPair(2,9), new RoundPair(3,8), new RoundPair(4,7), new RoundPair(5,6));
         Collections.addAll(timeTable, new RoundPair(6,11), new RoundPair(7,5), new RoundPair(8,4), new RoundPair(9,3), new RoundPair(10,2), new RoundPair(0,1));
@@ -35,6 +34,17 @@ public class Utils {
         Collections.addAll(timeTable, new RoundPair(4,11), new RoundPair(5,3), new RoundPair(6,2), new RoundPair(7,1), new RoundPair(8,0), new RoundPair(9,10));
         Collections.addAll(timeTable, new RoundPair(11,10), new RoundPair(0,9), new RoundPair(1,8), new RoundPair(3,7), new RoundPair(3,6), new RoundPair(4,5));
         Collections.addAll(timeTable, new RoundPair(5,11), new RoundPair(6,4), new RoundPair(7,3), new RoundPair(8,2), new RoundPair(9,1), new RoundPair(10,0));
+        return timeTable;
     }
+
+    private static int setPercentageToAction(int chanceToGo, int chanceNotToGo){
+        int sum = chanceToGo + chanceNotToGo;
+        return chanceToGo * 100 / sum;
+    }
+    public static boolean isAction(int chanceToSuccess, int chanceToFail){
+        int attackPercentage = setPercentageToAction(chanceToSuccess, chanceToFail);
+        return getRandomValue(0,100) <= attackPercentage;
+    }
+
 }
 

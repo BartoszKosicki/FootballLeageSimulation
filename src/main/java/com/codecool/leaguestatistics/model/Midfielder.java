@@ -1,20 +1,18 @@
 package com.codecool.leaguestatistics.model;
 
-public class Midfielder extends Player implements Comparable<Midfielder>{
-    private final Position position = Position.MIDFIELDER;
-    private int attackSkill;
-    private int defenceSkill;
+public class Midfielder extends Player implements Comparable<Midfielder>, Attacker, DefenderPotential{
+    private final int attackSkill;
+    private final int defenceSkill;
+    private final int longShot;
 
 
-    public Midfielder(int attackSkill, int defenceSkill, int aggression, int injuryPotential) {
+    public Midfielder(int attackSkill, int defenceSkill, int aggression, int injuryPotential, int distanceShot) {
         super(aggression, injuryPotential);
         this.attackSkill = attackSkill;
         this.defenceSkill = defenceSkill;
+        this.longShot = distanceShot;
     }
 
-    public Position getPosition() {
-        return position;
-    }
 
 
     @Override
@@ -30,11 +28,18 @@ public class Midfielder extends Player implements Comparable<Midfielder>{
         return defenceSkill;
     }
 
-    public void setAttackSkill(int attackSkill) {
-        this.attackSkill = attackSkill;
+
+    @Override
+    public int getAttackPotential() {
+        return this.attackSkill;
     }
 
-    public void setDefenceSkill(int defenceSkill) {
-        this.defenceSkill = defenceSkill;
+    @Override
+    public int getDefSkill() {
+        return defenceSkill;
+    }
+
+    public int getLongShot() {
+        return longShot;
     }
 }
