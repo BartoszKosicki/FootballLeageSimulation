@@ -22,7 +22,7 @@ public class Season {
      * After all games played calls table to be displayed.
      */
     public void run() {
-        this.league = LeagueFactory.createLeague(6);
+        this.league = LeagueFactory.createLeague(12);
         playAllGames();
         // Call Display methods below
 
