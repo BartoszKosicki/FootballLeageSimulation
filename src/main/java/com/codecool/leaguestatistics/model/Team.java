@@ -2,9 +2,7 @@ package com.codecool.leaguestatistics.model;
 
 import com.codecool.leaguestatistics.factory.NamesGenerator;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 
 /**
  * Represents a team.
@@ -25,10 +23,9 @@ public class Team {
     private boolean changeSquad = false;
 
 
-    public Team(List<Player> players, int number) {
+    public Team(List<Player> players) {
         this.name = NamesGenerator.getTeamName();
         this.players = players;
-        this.number = number;
         setPlayersByPosition();
         sortListByPlayersSkills();
     }
@@ -50,25 +47,69 @@ public class Team {
         }
     }
 
-        private void sortListByPlayersSkills(){
-            Collections.sort(gk);
-            Collections.sort(defenders);
-            Collections.sort(midfielders);
-            Collections.sort(strikers);
-        }
+    private void sortListByPlayersSkills(){
+        Collections.sort(gk);
+        Collections.sort(defenders);
+        Collections.sort(midfielders);
+        Collections.sort(strikers);
+    }
 
-        private void setTactics(){
-        int t442 = 0;
-        int t451 = 0;
-        int t541 = 0;
-        int t352 = 0;
-        t442 = comparePlayerSkills("t442");
-        t451 = comparePlayerSkills("t451");
-        t541 = comparePlayerSkills("t541");
-        t352 = comparePlayerSkills("t352");
-        }
+    private String setTactics(){
+        HashMap<String, Integer> tactics = new HashMap<>();
+        String bestTactics = "";
+        tactics.put("442", getSumAllPlayerSkillsForChosenTactic("t442"));
+        tactics.put("451", getSumAllPlayerSkillsForChosenTactic("t451"));
+        tactics.put("541", getSumAllPlayerSkillsForChosenTactic("t541"));
+        tactics.put("352", getSumAllPlayerSkillsForChosenTactic("t352"));
+        for (Map.Entry<String, Integer> entry : tactics.entrySet()) {
+            if (Objects.equals(entry.getValue(), Collections.max(tactics.values()))) {
+                bestTactics = entry.getKey();
+            }
+        } return bestTactics;
+    }
 
-        private int comparePlayerSkills(String tactics){
+    private void setSquad(String bestTactics){
+        switch (bestTactics){
+            case "442"-> chosePlayerToSquad(4,4,2);
+            case "451"-> chosePlayerToSquad(4,5,1);
+            case "541"-> chosePlayerToSquad(5,4,1);
+            case "352"-> chosePlayerToSquad(3,5,2);
+        }
+    }
+
+    private void chosePlayerToSquad(int defCount, int mfdCount, int strCount){
+        int gkCount = 1;
+        for (int i = 0; i < gkCount; i++) {
+            if (gk.get(i).canPlay) {
+                squad.add(gk.get(i));
+            } else if (gkCount < gk.size()) {
+                gkCount++;
+            } else squad.add(new Goalkeeper(30, 0, 0,10));
+        }
+        for (int i = 0; i < defCount; i++) {
+            if (defenders.get(i).canPlay){
+                squad.add(defenders.get(i));
+            } else if (defCount < defenders.size()) {
+                defCount++;
+            }
+        }
+        for (int i = 0; i < mfdCount; i++) {
+            if (midfielders.get(i).canPlay){
+                squad.add(midfielders.get(i));
+            } else if (mfdCount < midfielders.size()) {
+                mfdCount++;
+            }
+        }
+        for (int i = 0; i < strCount; i++) {
+            if (strikers.get(i).canPlay){
+                squad.add(strikers.get(i));
+            } else if (strCount < strikers.size()) {
+                strCount++;
+            }
+        }
+    }
+
+    private int getSumAllPlayerSkillsForChosenTactic(String tactics){
         switch (tactics){
             case "t442"-> {
                 return sumPlayerSkills(4,4,2);
@@ -85,17 +126,17 @@ public class Team {
     private int sumPlayerSkills(int defendersCount, int midfieldersCount, int strikersCount){
         int sum = 0;
         for (int i = 0; i < defendersCount; i++) {
-            if (!defenders.get(i).cantplay) {
+            if (!defenders.get(i).canPlay) {
                 sum += defenders.get(i).getDefenceSkill();
             } else if (defendersCount< defenders.size()) defendersCount+=1;
         }
         for (int i = 0; i < midfieldersCount; i++) {
-            if (!defenders.get(i).cantplay)
+            if (!defenders.get(i).canPlay)
             sum+= midfielders.get(i).getAttackSkill() + midfielders.get(i).getDefenceSkill();
             else if (midfieldersCount < midfielders.size()) midfieldersCount += 1;
         }
         for (int i = 0; i < strikersCount; i++) {
-            if (!defenders.get(i).cantplay)
+            if (!defenders.get(i).canPlay)
             sum += strikers.get(i).getAttackSkill() + strikers.get(i).getOneOnOne();
             else if (strikersCount < strikers.size()) strikersCount +=1;
         }

@@ -1,5 +1,6 @@
 package com.codecool.leaguestatistics.model;
 
+import com.codecool.leaguestatistics.Utils;
 import com.codecool.leaguestatistics.factory.NamesGenerator;
 
 /**
@@ -11,15 +12,15 @@ public abstract class Player{
     protected int aggression;
     protected int injuryPotential;
     protected Playable timeCantPlay;
-    protected boolean cantplay;
+    protected boolean canPlay;
     protected int goals;
 
     public Player(int aggression, int injuryPotential) {
-        this.name = NamesGenerator.getPlayerName();
+        this.name = "Player " + Utils.getRandomValue(0,5000);
         this.aggression = aggression;
         this.injuryPotential = injuryPotential;
         this.goals = 0;
-        this.cantplay=false;
+        this.canPlay =false;
     }
 
 
@@ -64,11 +65,11 @@ public abstract class Player{
         this.timeCantPlay = timeCantPlay;
     }
 
-    public boolean isCantplay() {
-        return cantplay;
+    public boolean isCanPlay() {
+        return canPlay;
     }
 
-    public void setCantplay(boolean cantplay) {
-        this.cantplay = cantplay;
+    public void setCanPlay(boolean canPlay) {
+        this.canPlay = canPlay;
     }
 }
