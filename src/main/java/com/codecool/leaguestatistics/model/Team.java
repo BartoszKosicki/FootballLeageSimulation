@@ -3,6 +3,7 @@ package com.codecool.leaguestatistics.model;
 import com.codecool.leaguestatistics.Utils;
 
 import java.util.*;
+import java.util.function.Predicate;
 
 /**
  * Represents a team.
@@ -123,7 +124,6 @@ public class Team {
             }
         }
         currentTactic = maxEntry.getKey();
-        System.out.println(currentTactic);
         return maxEntry.getKey();
     }
 
@@ -232,14 +232,17 @@ public class Team {
      * Helper method that finds best player with most scored goals in team
      */
     public Player getBestPlayer() {
-        throw new RuntimeException("getBestPlayer method not implemented");
+        Player best = players.stream()
+                .max(Comparator.comparing(Player::getGoals)).get();
+        System.out.println("Best scorer player in " + name + " is " + best.getName() + "he scores " + best.getGoals() +"goals");
+        return best;
     }
 
     /**
      * CurrentPoints is a sum of wins and draws points. For each win 3 points, for draw 1 point.
      */
     public int getCurrentPoints() {
-        throw new RuntimeException("getCurrentPoints method not implemented");
+        return wins*3 + draws;
     }
 
     public String getName() {
