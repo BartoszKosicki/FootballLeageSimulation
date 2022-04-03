@@ -1,6 +1,7 @@
 package com.codecool.leaguestatistics.model;
 
 import com.codecool.leaguestatistics.Utils;
+import com.codecool.leaguestatistics.factory.NamesGenerator;
 
 import java.util.*;
 import java.util.function.Predicate;
@@ -33,7 +34,7 @@ public class Team {
 
 
     public Team(List<Player> players) {
-        this.name = "Team " + Utils.getRandomValue(0,500);
+        this.name = NamesGenerator.getTeamName();
         this.players = players;
         setPlayersByPosition();
         sortListByPlayersSkills();
@@ -201,12 +202,12 @@ public class Team {
             } else if (defendersCount< allDefenders.size()) defendersCount+=1;
         }
         for (int i = 0; i < midfieldersCount; i++) {
-            if (allDefenders.get(i).canPlay)
+            if (allMidfielders.get(i).canPlay)
             sum+= allMidfielders.get(i).getAttackSkill() + allMidfielders.get(i).getDefenceSkill();
             else if (midfieldersCount < allMidfielders.size()) midfieldersCount += 1;
         }
         for (int i = 0; i < strikersCount; i++) {
-            if (allDefenders.get(i).canPlay)
+            if (allStrikers.get(i).canPlay)
             sum += allStrikers.get(i).getAttackPotential();
             else if (strikersCount < allStrikers.size()) strikersCount +=1;
         }

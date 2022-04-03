@@ -34,6 +34,8 @@ public class Season {
         this.EAST = LeagueFactory.createLeague(12);
         playAllGames();
         LeagueStatistics.getTopPlayersFromEachTeam(WEST);
+        List<Team> allTeams = LeagueStatistics.getAllTeamsSorted(WEST);
+        LeagueStatistics.printTable(allTeams);
         // Call Display methods below
 
     }
