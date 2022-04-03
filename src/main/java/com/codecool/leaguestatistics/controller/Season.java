@@ -33,6 +33,7 @@ public class Season {
         this.CENTRAL = LeagueFactory.createLeague(12);
         this.EAST = LeagueFactory.createLeague(12);
         playAllGames();
+        LeagueStatistics.getTopPlayersFromEachTeam(WEST);
         // Call Display methods below
 
     }
@@ -63,8 +64,9 @@ public class Season {
         team2.beforeMatch();
         int[] score =new int[] {0, 0};
         int gameRounds = 10;
+        int homeHandicap = 15;
         for (int i = 0; i < gameRounds; i++) {
-            boolean shot = Utils.isAction(team1.getAttackPotential()+10, team2.getDefencePotential());
+            boolean shot = Utils.isAction(team1.getAttackPotential()+homeHandicap, team2.getDefencePotential());
             if (shot){
                 Player shooter = team1.searchForShotPlayer();
                 boolean scores = checkShoot(shooter, team2.getCurrentGoalkeeper());
@@ -75,7 +77,7 @@ public class Season {
             }
         }
         for (int i = 0; i < gameRounds; i++) {
-            boolean shot = Utils.isAction(team2.getAttackPotential(), team1.getDefencePotential());
+            boolean shot = Utils.isAction(team2.getAttackPotential(), team1.getDefencePotential()+homeHandicap-5);
             if (shot){
                 Player shooter = team2.searchForShotPlayer();
                 boolean scores = checkShoot(shooter, team1.getCurrentGoalkeeper());
@@ -86,7 +88,7 @@ public class Season {
             }
         }
         resolveMatch(team1, team2, score);
-        System.out.println("Match is over.\n" +  team1.getName() + " " + score[0] +" : " + score[1] + " " + team2.getName());
+        System.out.println("Match is over.\n\n" +  team1.getName() + " " + score[0] +" : " + score[1] + " " + team2.getName());
         System.out.println(" ");
     }
 
