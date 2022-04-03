@@ -1,6 +1,7 @@
 package com.codecool.leaguestatistics.model;
 
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 
 /**
@@ -12,7 +13,11 @@ public class LeagueStatistics {
      * Gets all teams with highest points order, if points are equal next deciding parameter is sum of goals of the team.
      */
     public static List<Team> getAllTeamsSorted(List<Team> teams) {
-        throw new RuntimeException("ok");
+        List<Team> finalTable = new ArrayList<>();
+        teams.stream()
+                .sorted(Comparator.comparing(Team::getCurrentPoints))
+                .forEach(finalTable::add);
+        return finalTable;
     }
 
     /**
@@ -79,5 +84,12 @@ public class LeagueStatistics {
      */
     public static Division getStrongestDivision(List<Team> teams) {
         throw new RuntimeException("getStrongestDivision method not implemented");
+    }
+
+    public static void printTable(List<Team> teams){
+        System.out.println("NAME     "+ "PTS" +  " W " + " D " + " L " + "TOTAL");
+        teams.stream().forEach(team -> System.out.println(team.getName() + "   " + team.getCurrentPoints() + " " +
+                team.getWins() + "  " + team.getDraws() + "  " + team.getLoses()
+                +"  " + (team.getLoses()+team.getDraws()+team.getWins())));
     }
 }

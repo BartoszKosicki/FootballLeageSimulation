@@ -2,6 +2,7 @@ package com.codecool.leaguestatistics.model;
 
 import com.codecool.leaguestatistics.Utils;
 import com.codecool.leaguestatistics.factory.NamesGenerator;
+import com.codecool.leaguestatistics.factory.PlayerNames;
 
 /**
  * Represents player
@@ -16,7 +17,7 @@ public abstract class Player{
     protected int goals;
 
     public Player(int aggression, int injuryPotential) {
-        this.name = "Player " + Utils.getRandomValue(0,5000);
+        this.name = NamesGenerator.getPlayerName();
         this.aggression = aggression;
         this.injuryPotential = injuryPotential;
         this.goals = 0;
