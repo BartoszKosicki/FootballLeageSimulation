@@ -6,14 +6,12 @@ public class Midfielder extends Player implements Comparable<Midfielder>, Attack
     private final int longShot;
 
 
-    public Midfielder(int attackSkill, int defenceSkill, int aggression, int injuryPotential, int distanceShot) {
-        super(aggression, injuryPotential);
+    public Midfielder(int attackSkill, int defenceSkill, int aggression, int injuryPotential, int distanceShot, String teamName, Position position) {
+        super(aggression, injuryPotential, teamName, position);
         this.attackSkill = attackSkill;
         this.defenceSkill = defenceSkill;
         this.longShot = distanceShot;
     }
-
-
 
     @Override
     public int compareTo(Midfielder o) {
@@ -41,5 +39,10 @@ public class Midfielder extends Player implements Comparable<Midfielder>, Attack
 
     public int getLongShot() {
         return longShot;
+    }
+
+    @Override
+    public int getTotalSkill() {
+        return attackSkill + defenceSkill;
     }
 }

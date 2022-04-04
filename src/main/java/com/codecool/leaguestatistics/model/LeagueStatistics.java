@@ -1,8 +1,7 @@
 package com.codecool.leaguestatistics.model;
 
-import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.List;
+import java.util.*;
+import java.util.stream.Collectors;
 
 /**
  * Provides all necessary statistics of played season.
@@ -15,7 +14,7 @@ public class LeagueStatistics {
     public static List<Team> getAllTeamsSorted(List<Team> teams) {
         List<Team> finalTable = new ArrayList<>();
         teams.stream()
-                .sorted(Comparator.comparing(Team::getCurrentPoints))
+                .sorted(Comparator.comparing(Team::getCurrentPoints).reversed())
                 .forEach(finalTable::add);
         return finalTable;
     }
@@ -24,14 +23,18 @@ public class LeagueStatistics {
      * Gets all players from each team in one collection.
      */
     public static List<Player> getAllPlayers(List<Team> teams) {
-        throw new RuntimeException("getAllPlayers method not implemented");
+        return teams.stream()
+                .map(Team::getPlayers)
+                .flatMap(Collection::stream)
+                .collect(Collectors.toList());
     }
 
     /**
      * Gets team with the longest name
      */
     public static Team getTeamWithTheLongestName(List<Team> teams) {
-        throw new RuntimeException("getTeamWithTheLongestName method not implemented");
+        return teams.stream()
+                .max(Comparator.comparingInt(team->team.getName().length())).get();
     }
 
     /**
@@ -41,19 +44,25 @@ public class LeagueStatistics {
      * @return Collection of selected Teams.
      */
     public static List<Team> getTopTeamsWithLeastLoses(List<Team> teams, int teamsNumber) {
-        throw new RuntimeException("getTopTeamsWithLeastLoses method not implemented");
+        return teams.stream()
+                .sorted(Comparator.comparing(Team::getLoses))
+                .limit(teamsNumber)
+                .toList();
     }
 
     /**
      * Gets a player with the biggest goals number from each team.
      */
-    public static List<Player> getTopPlayersFromEachTeam(List<Team> teams) {
+    public static List<Player> getTopScorersFromEachTeam(List<Team> teams) {
         List<Player> theBestPlayers = new ArrayList<>();
                 teams.stream()
-                .forEach(team-> theBestPlayers.add(team.getBestPlayer()));
+                        .map(Team::getBestScorer)
+                        .sorted(Comparator.comparing(Player::getGoals).reversed())
+                        .forEach(theBestPlayers::add);
+                theBestPlayers.forEach(player -> System.out.println(player.getName() + " is the best scorer team " +
+                        player.getTeam() + ". He scored " + player.getGoals() + " goals"));
                 return theBestPlayers;
     }
-
     /**
      * Gets all teams, where there are players with no scored goals.
      */
@@ -67,14 +76,32 @@ public class LeagueStatistics {
      * @return Collection of Players with given or higher number of goals scored.
      */
     public static List<Player> getPlayersWithAtLeastXGoals(List<Team> teams, int goals) {
-        throw new RuntimeException("getPlayersWithAtLeastXGoals method not implemented");
+        List<Player> scorers = teams.stream()
+                .map(Team::getPlayers)
+                .flatMap(Collection::stream).toList()
+                .stream()
+                .sorted(Comparator.comparing(Player::getGoals).reversed())
+                .filter(player -> player.getGoals() >= goals).toList();
+
+        scorers.forEach(player -> System.out.println(player.getName() + " " + player.getPosition() + " from team " + player.getTeam() + " scored " + player.getGoals() + " times.\n"));
+        return scorers;
     }
 
     /**
      * Gets the player with the highest skill rate for given Division.
      */
-    public static Player getMostTalentedPlayerInDivision(List<Team> teams, Division division) {
-        throw new RuntimeException("getMostTalentedPlayerInDivision method not implemented");
+    public static Player getMostTalentedPlayerInDivision(List<Team> teams) {
+        return teams.stream()
+                .map(Team::getBestSkillPlayerInTeam).max(Comparator.comparing(Player::getTotalSkill)).get();
+    }
+
+    public static List<Player> getMostTalentedPlayersInDivision(List<Player> players, int bestXPlayers) {
+        List<Player> topTalentedPlayers = new ArrayList<>();
+        players.stream()
+                .sorted(Comparator.comparing(Player::getTotalSkill).reversed())
+                .limit(bestXPlayers)
+                .forEach(topTalentedPlayers::add);
+        return topTalentedPlayers;
     }
 
     /**
@@ -86,10 +113,17 @@ public class LeagueStatistics {
         throw new RuntimeException("getStrongestDivision method not implemented");
     }
 
+
     public static void printTable(List<Team> teams){
         System.out.println("NAME     "+ "PTS" +  " W " + " D " + " L " + "TOTAL");
         teams.stream().forEach(team -> System.out.println(team.getName() + "   " + team.getCurrentPoints() + " " +
                 team.getWins() + "  " + team.getDraws() + "  " + team.getLoses()
                 +"  " + (team.getLoses()+team.getDraws()+team.getWins())));
     }
+
+    public static Team getTeamWithMostSuspendedPlayers(List<Team> teams){
+        return teams.stream()
+                .max(Comparator.comparing(Team::getPlayerOff)).get();
+    }
+
 }

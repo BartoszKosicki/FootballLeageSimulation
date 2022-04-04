@@ -38,8 +38,8 @@
                     <compilerArgument>-Xlint:all</compilerArgument>
                     <showWarnings>true</showWarnings>
                     <showDeprecation>true</showDeprecation>
-                    <source>14</source>
-                    <target>14</target>
+                    <source>16</source>
+                    <target>16</target>
                 </configuration>
             </plugin>
             <!-- This is needed for Maven to work with JUnit 5 -->

@@ -5,8 +5,8 @@ public class Goalkeeper extends Player implements Comparable<Goalkeeper>, Defend
     private final int oneOnOne;
     private final int defLongShots;
 
-    public Goalkeeper(int defenceSkill, int aggression, int injuryPotential, int oneOnOne, int defLongShots) {
-        super(aggression, injuryPotential);
+    public Goalkeeper(int defenceSkill, int aggression, int injuryPotential, int oneOnOne, int defLongShots, String teamName, Position position) {
+        super(aggression, injuryPotential, teamName, position);
         this.oneOnOne = oneOnOne;
         this.defenceSkill = defenceSkill;
         this.defLongShots =defLongShots;
@@ -29,5 +29,10 @@ public class Goalkeeper extends Player implements Comparable<Goalkeeper>, Defend
 
     public int getDefLongShots() {
         return defLongShots;
+    }
+
+    @Override
+    public int getTotalSkill() {
+        return defenceSkill+oneOnOne;
     }
 }

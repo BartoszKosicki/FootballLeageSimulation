@@ -4,8 +4,8 @@ public class Striker extends Player implements Comparable<Striker>, Attacker{
     private final int attackSkill;
     private final int oneOnOne;
 
-    public Striker(int attackSkill, int aggression, int injuryPotential, int oneOnOne) {
-        super(aggression, injuryPotential);
+    public Striker(int attackSkill, int aggression, int injuryPotential, int oneOnOne, String teamName,Position position) {
+        super(aggression, injuryPotential, teamName,position);
         this.oneOnOne = oneOnOne;
         this.attackSkill = attackSkill;
     }
@@ -21,6 +21,11 @@ public class Striker extends Player implements Comparable<Striker>, Attacker{
 
     @Override
     public int getAttackPotential() {
+        return this.attackSkill;
+    }
+
+    @Override
+    public int getTotalSkill() {
         return this.attackSkill;
     }
 }

@@ -3,13 +3,9 @@ package com.codecool.leaguestatistics.model;
 public class Defender extends Player implements Comparable<Defender>, DefenderPotential{
     private final int defenceSkill;
 
-    public Defender(int defenceSkill, int aggression, int injuryPotential) {
-        super(aggression, injuryPotential);
+    public Defender(int defenceSkill, int aggression, int injuryPotential, String team, Position position) {
+        super(aggression, injuryPotential, team, position);
         this.defenceSkill = defenceSkill;
-    }
-
-    public int getDefenceSkill() {
-        return defenceSkill;
     }
 
     @Override
@@ -19,6 +15,11 @@ public class Defender extends Player implements Comparable<Defender>, DefenderPo
 
     @Override
     public int getDefSkill() {
+        return defenceSkill;
+    }
+
+    @Override
+    public int getTotalSkill() {
         return defenceSkill;
     }
 }
