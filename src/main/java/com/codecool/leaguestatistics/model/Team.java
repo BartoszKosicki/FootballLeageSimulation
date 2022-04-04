@@ -1,30 +1,31 @@
 package com.codecool.leaguestatistics.model;
 
 import com.codecool.leaguestatistics.Utils;
-import com.codecool.leaguestatistics.factory.NamesGenerator;
 
 import java.util.*;
-import java.util.function.Predicate;
 
 /**
  * Represents a team.
  */
 public class Team {
 
-    private String name;
+    private final String name;
     private int wins;
     private int draws;
     private int loses;
+    private final Division division;
 
     private List<Player> players;
     private List<Goalkeeper> gk = new ArrayList<>();
     private List<Midfielder> allMidfielders = new ArrayList<>();
     private List<Defender> allDefenders = new ArrayList<>();
     private List<Striker> allStrikers = new ArrayList<>();
+
     private List<Player> squad = new ArrayList<>();
     private List<Midfielder> currentMidfielders = new ArrayList<>();
     private List<Striker> currentStrikers = new ArrayList<>();
     private Goalkeeper currentGoalkeeper;
+
     private boolean changeSquad = false;
     private List<String> teamTactic = new ArrayList<>();
     private String currentTactic;
@@ -33,13 +34,21 @@ public class Team {
     private int defencePotential=0;
 
 
-    public Team(List<Player> players) {
-        this.name = NamesGenerator.getTeamName();
+    public Team(List<Player> players, String name, Division division) {
+        this.name = name;
         this.players = players;
+        this.division = division;
         setPlayersByPosition();
         sortListByPlayersSkills();
         setSquad();
         getTeamPotential();
+    }
+
+    public void startNewSeason(){
+        wins = 0;
+        draws = 0;
+        loses = 0;
+        playerOff = 0;
     }
 
     public void beforeMatch(){
@@ -58,12 +67,10 @@ public class Team {
         defencePotential = 0;
         attackPotential = 0;
         for (Player player : squad) {
-            if (player instanceof DefenderPotential) {
-                DefenderPotential p = (DefenderPotential) player;
+            if (player instanceof DefenderPotential p) {
                 defencePotential += p.getDefSkill();
             }
-            if (player instanceof Attacker) {
-                Attacker p = (Attacker) player;
+            if (player instanceof Attacker p) {
                 attackPotential += p.getAttackPotential();
             }
         }
@@ -150,7 +157,7 @@ public class Team {
             } else if (gkCount < gk.size()) {
                 gkCount++;
             } else {
-                Goalkeeper temporaryGk =new Goalkeeper(30, 0, 0, 10, 20);
+                Goalkeeper temporaryGk =new Goalkeeper(30, 0, 0, 10, 20, this.name, Position.GOALKEEPER);
                 squad.add(temporaryGk);
                 currentGoalkeeper = temporaryGk;
             }
@@ -198,7 +205,7 @@ public class Team {
         int sum = 0;
         for (int i = 0; i < defendersCount; i++) {
             if (allDefenders.get(i).canPlay) {
-                sum += allDefenders.get(i).getDefenceSkill();
+                sum += allDefenders.get(i).getDefSkill();
             } else if (defendersCount< allDefenders.size()) defendersCount+=1;
         }
         for (int i = 0; i < midfieldersCount; i++) {
@@ -226,17 +233,12 @@ public class Team {
             return currentMidfielders.get(Utils.getRandomValue(0, currentMidfielders.size()-1));
         }
     }
-
-
-
     /**
      * Helper method that finds best player with most scored goals in team
      */
-    public Player getBestPlayer() {
-        Player best = players.stream()
+    public Player getBestScorer() {
+        return players.stream()
                 .max(Comparator.comparing(Player::getGoals)).get();
-        System.out.println("Best scorer player in " + name + " is " + best.getName() + "he scores " + best.getGoals() +"goals");
-        return best;
     }
 
     /**
@@ -248,10 +250,6 @@ public class Team {
 
     public String getName() {
         return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
     }
 
     public int getWins() {
@@ -356,4 +354,21 @@ public class Team {
     public List<Player> playingPlayers(){
         return this.squad;
     }
+
+    public Player getBestSkillPlayerInTeam(){
+        Player bestPlayer = null;
+        int skillSum = 0;
+        for (Player player : players) {
+            if (player.getTotalSkill() > skillSum) {
+                skillSum = player.getTotalSkill();
+                bestPlayer = player;
+            }
+        }
+        return bestPlayer;
+    }
+
+    public Division getDivision() {
+        return division;
+    }
+
 }
