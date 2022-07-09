@@ -46,15 +46,6 @@ public class Season {
             next = scanner.nextLine();
 
         } while (!Objects.equals(next, "q"));
-
-//        LeagueStatistics.getTopPlayersFromEachTeam(WEST);
-//        LeagueStatistics.getPlayersWithAtLeastXGoals(WEST, 3);
-//        LeagueStatistics.getTopPlayersFromEachTeam(WEST);
-//        PrintFactory.MostSuspendedTeam(LeagueStatistics.getTeamWithMostSuspendedPlayers(WEST));
-//        PrintFactory.MostTalentedPlayer(LeagueStatistics.getMostTalentedPlayerInDivision(WEST), Division.West);
-//        List<Player> allPlayers = LeagueStatistics.getAllPlayers(WEST);
-//        PrintFactory.MostTalentedPlayers(LeagueStatistics.getMostTalentedPlayersInDivision(allPlayers, 20), Division.West);
-        // Call Display methods below
     }
 
     private void saveToFile(List<Team> League, String filePath) {
@@ -171,8 +162,6 @@ public class Season {
         return matchHistory.append("End of match \n\n");
 
     }
-
-
 
     private boolean checkShoot(Player player, Goalkeeper gk){
         boolean isGoal;

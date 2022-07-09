@@ -3,10 +3,14 @@ package com.codecool.leaguestatistics.model;
 import com.codecool.leaguestatistics.Utils;
 import com.codecool.leaguestatistics.factory.NamesGenerator;
 import com.codecool.leaguestatistics.factory.PlayerNames;
+import lombok.Getter;
+import lombok.Setter;
 
 /**
  * Represents player
  */
+@Getter
+@Setter
 public abstract class Player{
     protected final Position position;
     protected String name;
@@ -35,60 +39,9 @@ public abstract class Player{
     timeCantPlay = new Playable(0);
     }
 
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-
-    public int getGoals() {
-        return goals;
-    }
 
     public void setGoals() {
         goals ++;
     }
 
-    public int getAggression() {
-        return aggression;
-    }
-
-    public void setAggression(int aggression) {
-        this.aggression = aggression;
-    }
-
-    public int getInjuryPotential() {
-        return injuryPotential;
-    }
-
-    public void setInjuryPotential(int injuryPotential) {
-        this.injuryPotential = injuryPotential;
-    }
-
-    public Playable getTimeCantPlay() {
-        return timeCantPlay;
-    }
-
-    public void setTimeCantPlay(Playable timeCantPlay) {
-        this.timeCantPlay = timeCantPlay;
-    }
-
-    public boolean isCanPlay() {
-        return canPlay;
-    }
-
-    public void setCanPlay(boolean canPlay) {
-        this.canPlay = canPlay;
-    }
-
-    public String getTeam() {
-        return team;
-    }
-
-    public Position getPosition() {
-        return position;
-    }
 }
