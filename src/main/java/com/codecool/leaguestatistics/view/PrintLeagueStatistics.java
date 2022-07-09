@@ -1,5 +1,7 @@
-package com.codecool.leaguestatistics.model;
+package com.codecool.leaguestatistics.view;
 
+import com.codecool.leaguestatistics.model.Division;
+import com.codecool.leaguestatistics.model.Team;
 import com.codecool.leaguestatistics.model.players.Player;
 
 import java.util.*;
@@ -8,7 +10,7 @@ import java.util.stream.Collectors;
 /**
  * Provides all necessary statistics of played season.
  */
-public class LeagueStatistics {
+public class PrintLeagueStatistics {
 
     /**
      * Gets all teams with the highest points order, if points are equal next deciding parameter is sum of goals of the team.

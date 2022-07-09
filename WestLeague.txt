@@ -3,3236 +3,517 @@ SEASON 1
 *****************
 
 
-Match Sokół Ostrów Wielkopolski against Polonia Jeden Rybnik
-Sokół Ostrów Wielkopolski 0 : 1 Polonia Jeden Rybnik
-Dennis King scores End of match 
+Match Ślęza Płock against Ruch Legnica
+Ślęza Płock 1 : 0 Ruch Legnica
+Jonathan Ward scores Ślęza Płock 2 : 0 Ruch Legnica
+Jonathan Ward scores Ślęza Płock 3 : 0 Ruch Legnica
+Jonathan Ward scores Ślęza Płock 4 : 0 Ruch Legnica
+Jonathan Ward scores Ślęza Płock 5 : 0 Ruch Legnica
+Brian James scores Ślęza Płock 5 : 1 Ruch Legnica
+Jakub Arak scores End of match 
 
-Match BrukBet Świdnica against Wisłoka Gorzów Wielkopolski
-BrukBet Świdnica 1 : 0 Wisłoka Gorzów Wielkopolski
-Marcin Kaminski scores BrukBet Świdnica 2 : 0 Wisłoka Gorzów Wielkopolski
-Adam Lopez scores BrukBet Świdnica 2 : 1 Wisłoka Gorzów Wielkopolski
-Pawel Dawidowicz scores BrukBet Świdnica 2 : 2 Wisłoka Gorzów Wielkopolski
-Michal Janota scores BrukBet Świdnica 2 : 3 Wisłoka Gorzów Wielkopolski
-Michael Robinson scores BrukBet Świdnica 2 : 4 Wisłoka Gorzów Wielkopolski
-Fred Green scores End of match 
+Match Zagłębie Głebokie Tychy against Puszcza Łomża
+Zagłębie Głebokie Tychy 1 : 0 Puszcza Łomża
+Jerry Butler scores Zagłębie Głebokie Tychy 2 : 0 Puszcza Łomża
+Jerry Butler scores End of match 
 
-Match GKS Tarnów against Piast Rządzi Warszawa
-GKS Tarnów 1 : 0 Piast Rządzi Warszawa
-Eugen Polanski scores GKS Tarnów 1 : 1 Piast Rządzi Warszawa
-Piotr Malarczyk scores GKS Tarnów 1 : 2 Piast Rządzi Warszawa
-Piotr Malarczyk scores GKS Tarnów 1 : 3 Piast Rządzi Warszawa
-Piotr Malarczyk scores End of match 
+Match Czarni Radom against Zagłębie Ruhry Tarnowskie Góry
+Czarni Radom 1 : 0 Zagłębie Ruhry Tarnowskie Góry
+Travis Carson scores Czarni Radom 2 : 0 Zagłębie Ruhry Tarnowskie Góry
+Adam Lopez scores Czarni Radom 2 : 1 Zagłębie Ruhry Tarnowskie Góry
+Artur Jedrzejczyk scores Czarni Radom 2 : 2 Zagłębie Ruhry Tarnowskie Góry
+Patryk Dziczek scores End of match 
 
-Match Jagiellonia Tychy against Pogoń Ruska Legnica
-Jagiellonia Tychy 1 : 0 Pogoń Ruska Legnica
-Lawrence Thomas scores Jagiellonia Tychy 2 : 0 Pogoń Ruska Legnica
-Konrad Jalocha scores Jagiellonia Tychy 3 : 0 Pogoń Ruska Legnica
-Alan Uryga scores Jagiellonia Tychy 3 : 1 Pogoń Ruska Legnica
-Jesse Gray scores Jagiellonia Tychy 3 : 2 Pogoń Ruska Legnica
-Jesse Gray scores Jagiellonia Tychy 3 : 3 Pogoń Ruska Legnica
-Jesse Gray scores End of match 
+Match KKS Pociąg Siedlce against ŁKS Podbipięta Katowice
+KKS Pociąg Siedlce 1 : 0 ŁKS Podbipięta Katowice
+Marcin Cebula scores KKS Pociąg Siedlce 2 : 0 ŁKS Podbipięta Katowice
+Keith Barnes scores KKS Pociąg Siedlce 3 : 0 ŁKS Podbipięta Katowice
+Kamil Mazek scores KKS Pociąg Siedlce 3 : 1 ŁKS Podbipięta Katowice
+Krzysztof Piatek scores End of match 
 
-Match Siarka Gdańsk against KSZO Kraków
-Siarka Gdańsk 1 : 0 KSZO Kraków
-Keith Wilson scores Siarka Gdańsk 2 : 0 KSZO Kraków
-Jakub Wawrzyniak scores Siarka Gdańsk 3 : 0 KSZO Kraków
-Sebastian Rudol scores Siarka Gdańsk 4 : 0 KSZO Kraków
-Keith Wilson scores Siarka Gdańsk 4 : 1 KSZO Kraków
-Dominik Furman scores End of match 
+Match Siarka Chełm against Korona Szczyt Zamość
+Siarka Chełm 1 : 0 Korona Szczyt Zamość
+Christopher Alexander scores Siarka Chełm 2 : 0 Korona Szczyt Zamość
+Christopher Alexander scores Siarka Chełm 2 : 1 Korona Szczyt Zamość
+Wayne Collins scores Siarka Chełm 2 : 2 Korona Szczyt Zamość
+Wayne Collins scores End of match 
 
-Match Arka Tarnów against Sokół Jelenia Góra
-Arka Tarnów 1 : 0 Sokół Jelenia Góra
-Mateusz Mozdzen scores Arka Tarnów 1 : 1 Sokół Jelenia Góra
-Martin Kobylanski scores Arka Tarnów 1 : 2 Sokół Jelenia Góra
-Bartosz Nowak scores Arka Tarnów 1 : 3 Sokół Jelenia Góra
-Martin Kobylanski scores Arka Tarnów 1 : 4 Sokół Jelenia Góra
-Martin Kobylanski scores Arka Tarnów 1 : 5 Sokół Jelenia Góra
-Martin Kobylanski scores End of match 
+Match LKS Goczałkowice Suwałki against Arka Szczecin
+LKS Goczałkowice Suwałki 1 : 0 Arka Szczecin
+Roy Cook scores End of match 
 
-Match Sokół Jelenia Góra against Sokół Ostrów Wielkopolski
-Sokół Jelenia Góra 1 : 0 Sokół Ostrów Wielkopolski
-Damian Chmiel scores Sokół Jelenia Góra 2 : 0 Sokół Ostrów Wielkopolski
-Martin Kobylanski scores Sokół Jelenia Góra 3 : 0 Sokół Ostrów Wielkopolski
-Martin Kobylanski scores Sokół Jelenia Góra 4 : 0 Sokół Ostrów Wielkopolski
-Martin Kobylanski scores End of match 
+Match Arka Szczecin against Ślęza Płock
+Arka Szczecin 0 : 1 Ślęza Płock
+Douglas Moore scores End of match 
 
-Match KSZO Kraków against Arka Tarnów
-KSZO Kraków 1 : 0 Arka Tarnów
-Dominik Furman scores KSZO Kraków 2 : 0 Arka Tarnów
-Dominik Furman scores KSZO Kraków 3 : 0 Arka Tarnów
-Keith Barnes scores KSZO Kraków 3 : 1 Arka Tarnów
-Mateusz Mozdzen scores KSZO Kraków 3 : 2 Arka Tarnów
+Match Korona Szczyt Zamość against LKS Goczałkowice Suwałki
+Korona Szczyt Zamość 1 : 0 LKS Goczałkowice Suwałki
+Wayne Collins scores Korona Szczyt Zamość 2 : 0 LKS Goczałkowice Suwałki
+Wayne Collins scores Korona Szczyt Zamość 3 : 0 LKS Goczałkowice Suwałki
+Krystian Getinger scores Korona Szczyt Zamość 4 : 0 LKS Goczałkowice Suwałki
+George Scott scores Korona Szczyt Zamość 4 : 1 LKS Goczałkowice Suwałki
+Oskar Zawada scores Korona Szczyt Zamość 4 : 2 LKS Goczałkowice Suwałki
+Adam Wilk scores End of match 
+
+Match ŁKS Podbipięta Katowice against Siarka Chełm
+ŁKS Podbipięta Katowice 1 : 0 Siarka Chełm
+Krzysztof Piatek scores ŁKS Podbipięta Katowice 2 : 0 Siarka Chełm
+Piotr Marciniec scores ŁKS Podbipięta Katowice 2 : 1 Siarka Chełm
+Pawel Oleksy scores End of match 
+
+Match Zagłębie Ruhry Tarnowskie Góry against KKS Pociąg Siedlce
+Zagłębie Ruhry Tarnowskie Góry 1 : 0 KKS Pociąg Siedlce
+Artur Jedrzejczyk scores Zagłębie Ruhry Tarnowskie Góry 1 : 1 KKS Pociąg Siedlce
+Jakub Kuzdra scores End of match 
+
+Match Puszcza Łomża against Czarni Radom
+Puszcza Łomża 0 : 1 Czarni Radom
+Adam Lopez scores Puszcza Łomża 0 : 2 Czarni Radom
+Adam Lopez scores End of match 
+
+Match Ruch Legnica against Zagłębie Głebokie Tychy
+Ruch Legnica 1 : 0 Zagłębie Głebokie Tychy
+Roy Peterson scores Ruch Legnica 2 : 0 Zagłębie Głebokie Tychy
+Roy Peterson scores Ruch Legnica 2 : 1 Zagłębie Głebokie Tychy
+Jerry Butler scores Ruch Legnica 2 : 2 Zagłębie Głebokie Tychy
+Jerry Butler scores End of match 
+
+Match Ślęza Płock against Zagłębie Głebokie Tychy
+Ślęza Płock 1 : 0 Zagłębie Głebokie Tychy
+Brian James scores Ślęza Płock 1 : 1 Zagłębie Głebokie Tychy
 Bruce Young scores End of match 
 
-Match Pogoń Ruska Legnica against Siarka Gdańsk
-Pogoń Ruska Legnica 1 : 0 Siarka Gdańsk
-Shawn Powell scores Pogoń Ruska Legnica 2 : 0 Siarka Gdańsk
-Jesse Gray scores Pogoń Ruska Legnica 3 : 0 Siarka Gdańsk
-Piotr Celeban scores Pogoń Ruska Legnica 4 : 0 Siarka Gdańsk
-Jesse Gray scores Pogoń Ruska Legnica 4 : 1 Siarka Gdańsk
-Sebastian Rudol scores Pogoń Ruska Legnica 4 : 2 Siarka Gdańsk
-Keith Wilson scores Pogoń Ruska Legnica 4 : 3 Siarka Gdańsk
-Keith Wilson scores Pogoń Ruska Legnica 4 : 4 Siarka Gdańsk
-Keith Wilson scores End of match 
+Match Czarni Radom against Ruch Legnica
+Czarni Radom 1 : 0 Ruch Legnica
+Radoslaw Murawski scores Czarni Radom 2 : 0 Ruch Legnica
+Adam Lopez scores Czarni Radom 2 : 1 Ruch Legnica
+Piotr Marciniec scores Czarni Radom 2 : 2 Ruch Legnica
+Piotr Marciniec scores Czarni Radom 2 : 3 Ruch Legnica
+Jakub Czerwinski scores End of match 
 
-Match Piast Rządzi Warszawa against Jagiellonia Tychy
-Piast Rządzi Warszawa 1 : 0 Jagiellonia Tychy
-Piotr Malarczyk scores Piast Rządzi Warszawa 2 : 0 Jagiellonia Tychy
-Piotr Malarczyk scores Piast Rządzi Warszawa 3 : 0 Jagiellonia Tychy
-Piotr Malarczyk scores Piast Rządzi Warszawa 3 : 1 Jagiellonia Tychy
-Alan Uryga scores Piast Rządzi Warszawa 3 : 2 Jagiellonia Tychy
-Alan Uryga scores End of match 
-
-Match Wisłoka Gorzów Wielkopolski against GKS Tarnów
-Wisłoka Gorzów Wielkopolski 1 : 0 GKS Tarnów
-Pawel Dawidowicz scores Wisłoka Gorzów Wielkopolski 2 : 0 GKS Tarnów
-Pawel Dawidowicz scores Wisłoka Gorzów Wielkopolski 2 : 1 GKS Tarnów
-Mateusz Wdowiak scores Wisłoka Gorzów Wielkopolski 2 : 2 GKS Tarnów
-Mateusz Wdowiak scores Wisłoka Gorzów Wielkopolski 2 : 3 GKS Tarnów
-Seweryn Michalski scores End of match 
-
-Match Polonia Jeden Rybnik against BrukBet Świdnica
-Polonia Jeden Rybnik 1 : 0 BrukBet Świdnica
-Tomasz Nowak scores Polonia Jeden Rybnik 2 : 0 BrukBet Świdnica
-Gilberto Lynch scores Polonia Jeden Rybnik 3 : 0 BrukBet Świdnica
-Tomasz Nowak scores Polonia Jeden Rybnik 3 : 1 BrukBet Świdnica
-Roy Cook scores End of match 
-
-Match Sokół Ostrów Wielkopolski against BrukBet Świdnica
-Sokół Ostrów Wielkopolski 1 : 0 BrukBet Świdnica
-Mateusz Lewandowski scores Sokół Ostrów Wielkopolski 2 : 0 BrukBet Świdnica
-Mateusz Lewandowski scores Sokół Ostrów Wielkopolski 2 : 1 BrukBet Świdnica
-Bobby Caldwell scores Sokół Ostrów Wielkopolski 2 : 2 BrukBet Świdnica
-Marcin Kaminski scores End of match 
-
-Match GKS Tarnów against Polonia Jeden Rybnik
-GKS Tarnów 1 : 0 Polonia Jeden Rybnik
-Eugen Polanski scores GKS Tarnów 2 : 0 Polonia Jeden Rybnik
-Mateusz Wdowiak scores GKS Tarnów 2 : 1 Polonia Jeden Rybnik
-Tomasz Nowak scores GKS Tarnów 2 : 2 Polonia Jeden Rybnik
-Dennis King scores End of match 
-
-Match Jagiellonia Tychy against Wisłoka Gorzów Wielkopolski
-Jagiellonia Tychy 1 : 0 Wisłoka Gorzów Wielkopolski
-Victor Barrett scores Jagiellonia Tychy 1 : 1 Wisłoka Gorzów Wielkopolski
-Pawel Dawidowicz scores Jagiellonia Tychy 1 : 2 Wisłoka Gorzów Wielkopolski
-Pawel Dawidowicz scores Jagiellonia Tychy 1 : 3 Wisłoka Gorzów Wielkopolski
-Pawel Dawidowicz scores End of match 
-
-Match Siarka Gdańsk against Piast Rządzi Warszawa
-Siarka Gdańsk 1 : 0 Piast Rządzi Warszawa
-Keith Wilson scores Siarka Gdańsk 2 : 0 Piast Rządzi Warszawa
-Jakub Wawrzyniak scores Siarka Gdańsk 2 : 1 Piast Rządzi Warszawa
-Blazej Augustyn scores Siarka Gdańsk 2 : 2 Piast Rządzi Warszawa
-Piotr Malarczyk scores Siarka Gdańsk 2 : 3 Piast Rządzi Warszawa
-Maurice Massey scores End of match 
-
-Match Arka Tarnów against Pogoń Ruska Legnica
-Arka Tarnów 1 : 0 Pogoń Ruska Legnica
-Mateusz Mozdzen scores Arka Tarnów 2 : 0 Pogoń Ruska Legnica
-Bruce Young scores Arka Tarnów 3 : 0 Pogoń Ruska Legnica
-Bruce Young scores Arka Tarnów 3 : 1 Pogoń Ruska Legnica
-Karol Mackiewicz scores Arka Tarnów 3 : 2 Pogoń Ruska Legnica
-Victor Ramirez scores Arka Tarnów 3 : 3 Pogoń Ruska Legnica
-Jesse Gray scores End of match 
-
-Match Sokół Jelenia Góra against KSZO Kraków
-Sokół Jelenia Góra 1 : 0 KSZO Kraków
-Martin Kobylanski scores Sokół Jelenia Góra 2 : 0 KSZO Kraków
-Bartosz Nowak scores Sokół Jelenia Góra 3 : 0 KSZO Kraków
-Martin Kobylanski scores Sokół Jelenia Góra 3 : 1 KSZO Kraków
-Dominik Furman scores End of match 
-
-Match KSZO Kraków against Sokół Ostrów Wielkopolski
-KSZO Kraków 1 : 0 Sokół Ostrów Wielkopolski
-Duane Mills scores KSZO Kraków 2 : 0 Sokół Ostrów Wielkopolski
-Dominik Furman scores KSZO Kraków 2 : 1 Sokół Ostrów Wielkopolski
-John Parker scores End of match 
-
-Match Pogoń Ruska Legnica against Sokół Jelenia Góra
-Pogoń Ruska Legnica 1 : 0 Sokół Jelenia Góra
-Jesse Gray scores Pogoń Ruska Legnica 2 : 0 Sokół Jelenia Góra
-Jesse Gray scores Pogoń Ruska Legnica 3 : 0 Sokół Jelenia Góra
-Shawn Powell scores Pogoń Ruska Legnica 4 : 0 Sokół Jelenia Góra
-Jesse Gray scores Pogoń Ruska Legnica 4 : 1 Sokół Jelenia Góra
-Martin Kobylanski scores Pogoń Ruska Legnica 4 : 2 Sokół Jelenia Góra
-Martin Kobylanski scores Pogoń Ruska Legnica 4 : 3 Sokół Jelenia Góra
-Piotr Cwielong scores Pogoń Ruska Legnica 4 : 4 Sokół Jelenia Góra
-Piotr Cwielong scores Pogoń Ruska Legnica 4 : 5 Sokół Jelenia Góra
-Martin Kobylanski scores Pogoń Ruska Legnica 4 : 6 Sokół Jelenia Góra
-Piotr Cwielong scores End of match 
-
-Match Piast Rządzi Warszawa against Arka Tarnów
-Piast Rządzi Warszawa 0 : 1 Arka Tarnów
-Bruce Young scores Piast Rządzi Warszawa 0 : 2 Arka Tarnów
-Kamil Pestka scores End of match 
-
-Match Wisłoka Gorzów Wielkopolski against Siarka Gdańsk
-Wisłoka Gorzów Wielkopolski 1 : 0 Siarka Gdańsk
-Fred Green scores Wisłoka Gorzów Wielkopolski 2 : 0 Siarka Gdańsk
-Michael Robinson scores Wisłoka Gorzów Wielkopolski 2 : 1 Siarka Gdańsk
-Keith Wilson scores End of match 
-
-Match Polonia Jeden Rybnik against Jagiellonia Tychy
-Polonia Jeden Rybnik 1 : 0 Jagiellonia Tychy
-Tomasz Nowak scores Polonia Jeden Rybnik 1 : 1 Jagiellonia Tychy
-Konrad Jalocha scores Polonia Jeden Rybnik 1 : 2 Jagiellonia Tychy
-Alan Uryga scores Polonia Jeden Rybnik 1 : 3 Jagiellonia Tychy
-Victor Barrett scores Polonia Jeden Rybnik 1 : 4 Jagiellonia Tychy
-Konrad Jalocha scores End of match 
-
-Match BrukBet Świdnica against GKS Tarnów
-BrukBet Świdnica 1 : 0 GKS Tarnów
-Roy Cook scores BrukBet Świdnica 2 : 0 GKS Tarnów
-Marcin Kaminski scores BrukBet Świdnica 3 : 0 GKS Tarnów
-Sebastian Tyrala scores BrukBet Świdnica 4 : 0 GKS Tarnów
-Marcin Kaminski scores BrukBet Świdnica 5 : 0 GKS Tarnów
-Marcin Kaminski scores End of match 
-
-Match Sokół Ostrów Wielkopolski against GKS Tarnów
-Sokół Ostrów Wielkopolski 1 : 0 GKS Tarnów
-Tomasz Kupisz scores Sokół Ostrów Wielkopolski 1 : 1 GKS Tarnów
-Mateusz Wdowiak scores End of match 
-
-Match Jagiellonia Tychy against BrukBet Świdnica
-Jagiellonia Tychy 1 : 0 BrukBet Świdnica
-Alan Uryga scores Jagiellonia Tychy 2 : 0 BrukBet Świdnica
-Alan Uryga scores Jagiellonia Tychy 3 : 0 BrukBet Świdnica
-Alan Uryga scores Jagiellonia Tychy 3 : 1 BrukBet Świdnica
-Marcin Kaminski scores Jagiellonia Tychy 3 : 2 BrukBet Świdnica
-Marcin Kaminski scores End of match 
-
-Match Siarka Gdańsk against Polonia Jeden Rybnik
-Siarka Gdańsk 1 : 0 Polonia Jeden Rybnik
-Keith Wilson scores Siarka Gdańsk 2 : 0 Polonia Jeden Rybnik
-Keith Wilson scores Siarka Gdańsk 3 : 0 Polonia Jeden Rybnik
-Keith Wilson scores Siarka Gdańsk 3 : 1 Polonia Jeden Rybnik
-Dennis King scores Siarka Gdańsk 3 : 2 Polonia Jeden Rybnik
-Tomasz Nowak scores End of match 
-
-Match Arka Tarnów against Wisłoka Gorzów Wielkopolski
-Arka Tarnów 1 : 0 Wisłoka Gorzów Wielkopolski
-Kamil Pestka scores Arka Tarnów 2 : 0 Wisłoka Gorzów Wielkopolski
-Bruce Young scores Arka Tarnów 3 : 0 Wisłoka Gorzów Wielkopolski
-Seweryn Kielpin scores Arka Tarnów 3 : 1 Wisłoka Gorzów Wielkopolski
-Pawel Dawidowicz scores Arka Tarnów 3 : 2 Wisłoka Gorzów Wielkopolski
-Pawel Dawidowicz scores Arka Tarnów 3 : 3 Wisłoka Gorzów Wielkopolski
-Pawel Dawidowicz scores End of match 
-
-Match Sokół Jelenia Góra against Piast Rządzi Warszawa
-Sokół Jelenia Góra 1 : 0 Piast Rządzi Warszawa
-Martin Kobylanski scores Sokół Jelenia Góra 2 : 0 Piast Rządzi Warszawa
-Martin Kobylanski scores Sokół Jelenia Góra 3 : 0 Piast Rządzi Warszawa
-Martin Kobylanski scores Sokół Jelenia Góra 3 : 1 Piast Rządzi Warszawa
-Piotr Malarczyk scores Sokół Jelenia Góra 3 : 2 Piast Rządzi Warszawa
-Maurice Massey scores End of match 
-
-Match KSZO Kraków against Pogoń Ruska Legnica
-KSZO Kraków 1 : 0 Pogoń Ruska Legnica
-Dominik Furman scores KSZO Kraków 2 : 0 Pogoń Ruska Legnica
-Dominik Furman scores KSZO Kraków 2 : 1 Pogoń Ruska Legnica
-Jesse Gray scores End of match 
-
-Match Sokół Ostrów Wielkopolski against Pogoń Ruska Legnica
-Sokół Ostrów Wielkopolski 1 : 0 Pogoń Ruska Legnica
-Mateusz Lewandowski scores Sokół Ostrów Wielkopolski 1 : 1 Pogoń Ruska Legnica
-Jesse Gray scores Sokół Ostrów Wielkopolski 1 : 2 Pogoń Ruska Legnica
-Jesse Gray scores Sokół Ostrów Wielkopolski 1 : 3 Pogoń Ruska Legnica
-Jesse Gray scores End of match 
-
-Match Piast Rządzi Warszawa against KSZO Kraków
-Piast Rządzi Warszawa 1 : 0 KSZO Kraków
-Piotr Malarczyk scores Piast Rządzi Warszawa 2 : 0 KSZO Kraków
-Piotr Malarczyk scores Piast Rządzi Warszawa 3 : 0 KSZO Kraków
-Piotr Malarczyk scores Piast Rządzi Warszawa 3 : 1 KSZO Kraków
-Damian Rasak scores Piast Rządzi Warszawa 3 : 2 KSZO Kraków
-Dominik Furman scores End of match 
-
-Match Wisłoka Gorzów Wielkopolski against Sokół Jelenia Góra
-Wisłoka Gorzów Wielkopolski 1 : 0 Sokół Jelenia Góra
-Pawel Dawidowicz scores Wisłoka Gorzów Wielkopolski 2 : 0 Sokół Jelenia Góra
-Pawel Dawidowicz scores Wisłoka Gorzów Wielkopolski 3 : 0 Sokół Jelenia Góra
-Pawel Dawidowicz scores Wisłoka Gorzów Wielkopolski 3 : 1 Sokół Jelenia Góra
-Martin Kobylanski scores Wisłoka Gorzów Wielkopolski 3 : 2 Sokół Jelenia Góra
-Damian Chmiel scores Wisłoka Gorzów Wielkopolski 3 : 3 Sokół Jelenia Góra
-Bartosz Nowak scores End of match 
-
-Match Polonia Jeden Rybnik against Arka Tarnów
-Polonia Jeden Rybnik 1 : 0 Arka Tarnów
-David Phillips scores Polonia Jeden Rybnik 1 : 1 Arka Tarnów
-Bruce Young scores Polonia Jeden Rybnik 1 : 2 Arka Tarnów
-Seweryn Kielpin scores Polonia Jeden Rybnik 1 : 3 Arka Tarnów
-Kamil Pestka scores End of match 
-
-Match BrukBet Świdnica against Siarka Gdańsk
-BrukBet Świdnica 1 : 0 Siarka Gdańsk
-Marcin Kaminski scores BrukBet Świdnica 2 : 0 Siarka Gdańsk
-Marcin Kaminski scores BrukBet Świdnica 3 : 0 Siarka Gdańsk
-Marcin Kaminski scores BrukBet Świdnica 4 : 0 Siarka Gdańsk
-Marcin Kaminski scores BrukBet Świdnica 4 : 1 Siarka Gdańsk
-Keith Wilson scores BrukBet Świdnica 4 : 2 Siarka Gdańsk
-Keith Wilson scores End of match 
-
-Match GKS Tarnów against Jagiellonia Tychy
-GKS Tarnów 1 : 0 Jagiellonia Tychy
-Eugen Polanski scores GKS Tarnów 2 : 0 Jagiellonia Tychy
-Mateusz Wdowiak scores GKS Tarnów 3 : 0 Jagiellonia Tychy
-Mateusz Wdowiak scores GKS Tarnów 3 : 1 Jagiellonia Tychy
-Victor Barrett scores GKS Tarnów 3 : 2 Jagiellonia Tychy
-Alan Uryga scores GKS Tarnów 3 : 3 Jagiellonia Tychy
-Alan Uryga scores End of match 
-
-Match Jagiellonia Tychy against Sokół Ostrów Wielkopolski
-Jagiellonia Tychy 1 : 0 Sokół Ostrów Wielkopolski
-Alan Uryga scores Jagiellonia Tychy 2 : 0 Sokół Ostrów Wielkopolski
-Alan Uryga scores Jagiellonia Tychy 3 : 0 Sokół Ostrów Wielkopolski
-Alan Uryga scores Jagiellonia Tychy 4 : 0 Sokół Ostrów Wielkopolski
-Alan Uryga scores Jagiellonia Tychy 5 : 0 Sokół Ostrów Wielkopolski
-Lawrence Thomas scores Jagiellonia Tychy 5 : 1 Sokół Ostrów Wielkopolski
-Mateusz Lewandowski scores Jagiellonia Tychy 5 : 2 Sokół Ostrów Wielkopolski
-Mateusz Lewandowski scores Jagiellonia Tychy 5 : 3 Sokół Ostrów Wielkopolski
-Mateusz Lewandowski scores End of match 
-
-Match Siarka Gdańsk against GKS Tarnów
-Siarka Gdańsk 1 : 0 GKS Tarnów
-Keith Wilson scores Siarka Gdańsk 1 : 1 GKS Tarnów
-Mateusz Wdowiak scores End of match 
-
-Match Arka Tarnów against BrukBet Świdnica
-Arka Tarnów 1 : 0 BrukBet Świdnica
-Bruce Young scores Arka Tarnów 2 : 0 BrukBet Świdnica
-Mateusz Mozdzen scores Arka Tarnów 3 : 0 BrukBet Świdnica
-Bruce Young scores Arka Tarnów 3 : 1 BrukBet Świdnica
-Roy Cook scores Arka Tarnów 3 : 2 BrukBet Świdnica
-Adam Lopez scores Arka Tarnów 3 : 3 BrukBet Świdnica
-Marcin Kaminski scores Arka Tarnów 3 : 4 BrukBet Świdnica
-Sebastian Tyrala scores End of match 
-
-Match Sokół Jelenia Góra against Polonia Jeden Rybnik
-Sokół Jelenia Góra 1 : 0 Polonia Jeden Rybnik
-Martin Kobylanski scores Sokół Jelenia Góra 2 : 0 Polonia Jeden Rybnik
-Piotr Cwielong scores Sokół Jelenia Góra 3 : 0 Polonia Jeden Rybnik
-Martin Kobylanski scores Sokół Jelenia Góra 4 : 0 Polonia Jeden Rybnik
-Martin Kobylanski scores Sokół Jelenia Góra 4 : 1 Polonia Jeden Rybnik
-Dennis King scores End of match 
-
-Match KSZO Kraków against Wisłoka Gorzów Wielkopolski
-KSZO Kraków 1 : 0 Wisłoka Gorzów Wielkopolski
-Damian Rasak scores KSZO Kraków 1 : 1 Wisłoka Gorzów Wielkopolski
-Michal Janota scores KSZO Kraków 1 : 2 Wisłoka Gorzów Wielkopolski
-Fred Green scores End of match 
-
-Match Pogoń Ruska Legnica against Piast Rządzi Warszawa
-Pogoń Ruska Legnica 1 : 0 Piast Rządzi Warszawa
-Piotr Celeban scores Pogoń Ruska Legnica 2 : 0 Piast Rządzi Warszawa
-Jesse Gray scores Pogoń Ruska Legnica 3 : 0 Piast Rządzi Warszawa
-Jesse Gray scores End of match 
-
-Match Sokół Ostrów Wielkopolski against Piast Rządzi Warszawa
-Sokół Ostrów Wielkopolski 0 : 1 Piast Rządzi Warszawa
-Piotr Malarczyk scores Sokół Ostrów Wielkopolski 0 : 2 Piast Rządzi Warszawa
-Piotr Malarczyk scores End of match 
-
-Match Wisłoka Gorzów Wielkopolski against Pogoń Ruska Legnica
-Wisłoka Gorzów Wielkopolski 1 : 0 Pogoń Ruska Legnica
-Pawel Dawidowicz scores Wisłoka Gorzów Wielkopolski 2 : 0 Pogoń Ruska Legnica
-Michael Robinson scores Wisłoka Gorzów Wielkopolski 2 : 1 Pogoń Ruska Legnica
-Jesse Gray scores End of match 
-
-Match Polonia Jeden Rybnik against KSZO Kraków
-Polonia Jeden Rybnik 0 : 1 KSZO Kraków
-Dominik Furman scores Polonia Jeden Rybnik 0 : 2 KSZO Kraków
-Duane Mills scores Polonia Jeden Rybnik 0 : 3 KSZO Kraków
-Dominik Furman scores End of match 
-
-Match BrukBet Świdnica against Sokół Jelenia Góra
-BrukBet Świdnica 1 : 0 Sokół Jelenia Góra
-Marcin Kaminski scores BrukBet Świdnica 1 : 1 Sokół Jelenia Góra
-Damian Chmiel scores End of match 
-
-Match GKS Tarnów against Arka Tarnów
-GKS Tarnów 1 : 0 Arka Tarnów
-André Dej scores GKS Tarnów 2 : 0 Arka Tarnów
-Mateusz Wdowiak scores GKS Tarnów 3 : 0 Arka Tarnów
-Mateusz Wdowiak scores GKS Tarnów 4 : 0 Arka Tarnów
-Mateusz Wdowiak scores GKS Tarnów 4 : 1 Arka Tarnów
-Bruce Young scores GKS Tarnów 4 : 2 Arka Tarnów
-Sean Carter scores End of match 
-
-Match Jagiellonia Tychy against Siarka Gdańsk
-Jagiellonia Tychy 1 : 0 Siarka Gdańsk
-Victor Barrett scores Jagiellonia Tychy 1 : 1 Siarka Gdańsk
-Jakub Wawrzyniak scores Jagiellonia Tychy 1 : 2 Siarka Gdańsk
-Keith Wilson scores End of match 
-
-Match Siarka Gdańsk against Sokół Ostrów Wielkopolski
-Siarka Gdańsk 1 : 0 Sokół Ostrów Wielkopolski
-Keith Wilson scores Siarka Gdańsk 1 : 1 Sokół Ostrów Wielkopolski
-Mateusz Lewandowski scores Siarka Gdańsk 1 : 2 Sokół Ostrów Wielkopolski
-John Parker scores Siarka Gdańsk 1 : 3 Sokół Ostrów Wielkopolski
-John Parker scores Siarka Gdańsk 1 : 4 Sokół Ostrów Wielkopolski
+Match KKS Pociąg Siedlce against Puszcza Łomża
+KKS Pociąg Siedlce 1 : 0 Puszcza Łomża
+Marcin Cebula scores KKS Pociąg Siedlce 2 : 0 Puszcza Łomża
 Keith Barnes scores End of match 
 
-Match Arka Tarnów against Jagiellonia Tychy
-Arka Tarnów 1 : 0 Jagiellonia Tychy
-Bruce Young scores Arka Tarnów 2 : 0 Jagiellonia Tychy
-Bruce Young scores Arka Tarnów 3 : 0 Jagiellonia Tychy
-Kamil Pestka scores Arka Tarnów 3 : 1 Jagiellonia Tychy
-Alan Uryga scores Arka Tarnów 3 : 2 Jagiellonia Tychy
-Lawrence Thomas scores End of match 
+Match Siarka Chełm against Zagłębie Ruhry Tarnowskie Góry
+Siarka Chełm 1 : 0 Zagłębie Ruhry Tarnowskie Góry
+Filip Starzynski scores Siarka Chełm 2 : 0 Zagłębie Ruhry Tarnowskie Góry
+Christopher Alexander scores Siarka Chełm 2 : 1 Zagłębie Ruhry Tarnowskie Góry
+Artur Jedrzejczyk scores End of match 
 
-Match Sokół Jelenia Góra against GKS Tarnów
-Sokół Jelenia Góra 1 : 0 GKS Tarnów
-Martin Kobylanski scores Sokół Jelenia Góra 1 : 1 GKS Tarnów
-Eugen Polanski scores Sokół Jelenia Góra 1 : 2 GKS Tarnów
-Mateusz Wdowiak scores Sokół Jelenia Góra 1 : 3 GKS Tarnów
-Mateusz Wdowiak scores End of match 
+Match LKS Goczałkowice Suwałki against ŁKS Podbipięta Katowice
+LKS Goczałkowice Suwałki 1 : 0 ŁKS Podbipięta Katowice
+Roy Cook scores LKS Goczałkowice Suwałki 2 : 0 ŁKS Podbipięta Katowice
+Krzysztof Danielewicz scores LKS Goczałkowice Suwałki 3 : 0 ŁKS Podbipięta Katowice
+Roy Cook scores LKS Goczałkowice Suwałki 3 : 1 ŁKS Podbipięta Katowice
+Krzysztof Piatek scores LKS Goczałkowice Suwałki 3 : 2 ŁKS Podbipięta Katowice
+Krzysztof Piatek scores LKS Goczałkowice Suwałki 3 : 3 ŁKS Podbipięta Katowice
+Bartosz Jaroch scores End of match 
 
-Match KSZO Kraków against BrukBet Świdnica
-KSZO Kraków 1 : 0 BrukBet Świdnica
-Dominik Furman scores KSZO Kraków 2 : 0 BrukBet Świdnica
-Dominik Furman scores KSZO Kraków 2 : 1 BrukBet Świdnica
-Marcin Kaminski scores KSZO Kraków 2 : 2 BrukBet Świdnica
-Marcin Kaminski scores KSZO Kraków 2 : 3 BrukBet Świdnica
-Marcin Kaminski scores End of match 
-
-Match Pogoń Ruska Legnica against Polonia Jeden Rybnik
-Pogoń Ruska Legnica 1 : 0 Polonia Jeden Rybnik
-Jesse Gray scores Pogoń Ruska Legnica 2 : 0 Polonia Jeden Rybnik
-Victor Ramirez scores Pogoń Ruska Legnica 3 : 0 Polonia Jeden Rybnik
-Jesse Gray scores Pogoń Ruska Legnica 4 : 0 Polonia Jeden Rybnik
-Jesse Gray scores Pogoń Ruska Legnica 5 : 0 Polonia Jeden Rybnik
-Victor Ramirez scores End of match 
-
-Match Piast Rządzi Warszawa against Wisłoka Gorzów Wielkopolski
-Piast Rządzi Warszawa 1 : 0 Wisłoka Gorzów Wielkopolski
-Piotr Malarczyk scores Piast Rządzi Warszawa 1 : 1 Wisłoka Gorzów Wielkopolski
-Pawel Dawidowicz scores Piast Rządzi Warszawa 1 : 2 Wisłoka Gorzów Wielkopolski
-Michal Janota scores Piast Rządzi Warszawa 1 : 3 Wisłoka Gorzów Wielkopolski
-Pawel Dawidowicz scores End of match 
-
-Match Sokół Ostrów Wielkopolski against Wisłoka Gorzów Wielkopolski
-Sokół Ostrów Wielkopolski 1 : 0 Wisłoka Gorzów Wielkopolski
-John Parker scores Sokół Ostrów Wielkopolski 1 : 1 Wisłoka Gorzów Wielkopolski
-Pawel Dawidowicz scores Sokół Ostrów Wielkopolski 1 : 2 Wisłoka Gorzów Wielkopolski
-Pawel Dawidowicz scores End of match 
-
-Match Polonia Jeden Rybnik against Piast Rządzi Warszawa
-Polonia Jeden Rybnik 1 : 0 Piast Rządzi Warszawa
-Tomasz Nowak scores Polonia Jeden Rybnik 1 : 1 Piast Rządzi Warszawa
-Piotr Malarczyk scores Polonia Jeden Rybnik 1 : 2 Piast Rządzi Warszawa
-Blazej Augustyn scores End of match 
-
-Match BrukBet Świdnica against Pogoń Ruska Legnica
-BrukBet Świdnica 1 : 0 Pogoń Ruska Legnica
-Adam Lopez scores BrukBet Świdnica 2 : 0 Pogoń Ruska Legnica
-Bobby Caldwell scores BrukBet Świdnica 3 : 0 Pogoń Ruska Legnica
-Roy Cook scores BrukBet Świdnica 3 : 1 Pogoń Ruska Legnica
-Jesse Gray scores BrukBet Świdnica 3 : 2 Pogoń Ruska Legnica
-Jesse Gray scores BrukBet Świdnica 3 : 3 Pogoń Ruska Legnica
-Jesse Gray scores BrukBet Świdnica 3 : 4 Pogoń Ruska Legnica
-Jesse Gray scores BrukBet Świdnica 3 : 5 Pogoń Ruska Legnica
-Jesse Gray scores End of match 
-
-Match GKS Tarnów against KSZO Kraków
-GKS Tarnów 1 : 0 KSZO Kraków
-Mateusz Wdowiak scores GKS Tarnów 2 : 0 KSZO Kraków
-Mateusz Wdowiak scores GKS Tarnów 3 : 0 KSZO Kraków
-Mateusz Wdowiak scores GKS Tarnów 3 : 1 KSZO Kraków
-Dominik Furman scores End of match 
-
-Match Jagiellonia Tychy against Sokół Jelenia Góra
-Jagiellonia Tychy 1 : 0 Sokół Jelenia Góra
-Alan Uryga scores Jagiellonia Tychy 1 : 1 Sokół Jelenia Góra
-Piotr Cwielong scores Jagiellonia Tychy 1 : 2 Sokół Jelenia Góra
-Martin Kobylanski scores Jagiellonia Tychy 1 : 3 Sokół Jelenia Góra
-Martin Kobylanski scores Jagiellonia Tychy 1 : 4 Sokół Jelenia Góra
-Martin Kobylanski scores Jagiellonia Tychy 1 : 5 Sokół Jelenia Góra
-Bartosz Nowak scores End of match 
-
-Match Siarka Gdańsk against Arka Tarnów
-Siarka Gdańsk 1 : 0 Arka Tarnów
-Keith Wilson scores Siarka Gdańsk 1 : 1 Arka Tarnów
-Seweryn Kielpin scores Siarka Gdańsk 1 : 2 Arka Tarnów
-Bruce Young scores Siarka Gdańsk 1 : 3 Arka Tarnów
-Mateusz Mozdzen scores End of match 
-
-Match Arka Tarnów against Sokół Ostrów Wielkopolski
-Arka Tarnów 1 : 0 Sokół Ostrów Wielkopolski
-Bruce Young scores Arka Tarnów 2 : 0 Sokół Ostrów Wielkopolski
-Bruce Young scores Arka Tarnów 3 : 0 Sokół Ostrów Wielkopolski
-Bruce Young scores Arka Tarnów 4 : 0 Sokół Ostrów Wielkopolski
-Mateusz Mozdzen scores Arka Tarnów 4 : 1 Sokół Ostrów Wielkopolski
-Mateusz Lewandowski scores Arka Tarnów 4 : 2 Sokół Ostrów Wielkopolski
-Mateusz Lewandowski scores Arka Tarnów 4 : 3 Sokół Ostrów Wielkopolski
-Tomasz Kupisz scores End of match 
-
-Match Sokół Jelenia Góra against Siarka Gdańsk
-Sokół Jelenia Góra 1 : 0 Siarka Gdańsk
-Bartosz Nowak scores Sokół Jelenia Góra 2 : 0 Siarka Gdańsk
-Martin Kobylanski scores Sokół Jelenia Góra 3 : 0 Siarka Gdańsk
-Martin Kobylanski scores Sokół Jelenia Góra 4 : 0 Siarka Gdańsk
-Martin Kobylanski scores Sokół Jelenia Góra 4 : 1 Siarka Gdańsk
-Jakub Wawrzyniak scores Sokół Jelenia Góra 4 : 2 Siarka Gdańsk
-Adam Deja scores End of match 
-
-Match KSZO Kraków against Jagiellonia Tychy
-KSZO Kraków 1 : 0 Jagiellonia Tychy
-Dominik Furman scores KSZO Kraków 2 : 0 Jagiellonia Tychy
-Dominik Furman scores KSZO Kraków 2 : 1 Jagiellonia Tychy
-Alan Uryga scores End of match 
-
-Match Pogoń Ruska Legnica against GKS Tarnów
-Pogoń Ruska Legnica 1 : 0 GKS Tarnów
-Jesse Gray scores Pogoń Ruska Legnica 2 : 0 GKS Tarnów
-Piotr Celeban scores Pogoń Ruska Legnica 3 : 0 GKS Tarnów
-Shawn Powell scores Pogoń Ruska Legnica 3 : 1 GKS Tarnów
-Mateusz Wdowiak scores Pogoń Ruska Legnica 3 : 2 GKS Tarnów
-Mateusz Wdowiak scores Pogoń Ruska Legnica 3 : 3 GKS Tarnów
-Mateusz Wdowiak scores Pogoń Ruska Legnica 3 : 4 GKS Tarnów
-Mateusz Wdowiak scores End of match 
-
-Match Piast Rządzi Warszawa against BrukBet Świdnica
-Piast Rządzi Warszawa 1 : 0 BrukBet Świdnica
-Piotr Malarczyk scores Piast Rządzi Warszawa 2 : 0 BrukBet Świdnica
-Piotr Malarczyk scores Piast Rządzi Warszawa 2 : 1 BrukBet Świdnica
-Marcin Kaminski scores Piast Rządzi Warszawa 2 : 2 BrukBet Świdnica
-Marcin Kaminski scores End of match 
-
-Match Wisłoka Gorzów Wielkopolski against Polonia Jeden Rybnik
-Wisłoka Gorzów Wielkopolski 1 : 0 Polonia Jeden Rybnik
-Pawel Dawidowicz scores Wisłoka Gorzów Wielkopolski 2 : 0 Polonia Jeden Rybnik
-Dariusz Trela scores Wisłoka Gorzów Wielkopolski 3 : 0 Polonia Jeden Rybnik
-Pawel Dawidowicz scores Wisłoka Gorzów Wielkopolski 4 : 0 Polonia Jeden Rybnik
-Pawel Dawidowicz scores End of match 
-
-
-
-**************************************************************
-       TEAM NAME                            PTS   W    D    L 
-1.  Sokół Jelenia Góra                      26    8    2    1   
-2.  Wisłoka Gorzów Wielkopolski             26    8    2    1   
-3.  GKS Tarnów                              19    5    4    2   
-4.  Piast Rządzi Warszawa                   19    6    1    4   
-5.  Arka Tarnów                             17    5    2    4   
-6.  BrukBet Świdnica                        15    4    3    4   
-7.  KSZO Kraków                             15    5    0    6   
-8.  Pogoń Ruska Legnica                     15    4    3    4   
-9.  Jagiellonia Tychy                       11    3    2    6   
-10. Siarka Gdańsk                           11    3    2    6   
-11. Polonia Jeden Rybnik                     7    2    1    8   
-12. Sokół Ostrów Wielkopolski                5    1    2    8   
-**************************************************************
-
-
-   MOST TALENTED PLAYERS   
-1. Jonatan Straus from Piast Rządzi Warszawa with 99 skill points. 
-2. Lukasz Janoszka from Polonia Jeden Rybnik with 95 skill points. 
-3. Seweryn Michalski from GKS Tarnów with 95 skill points. 
-4. Karol Mackiewicz from Pogoń Ruska Legnica with 95 skill points. 
-5. Lawrence Thomas from Pogoń Ruska Legnica with 95 skill points. 
-6. Jesse Gray from Arka Tarnów with 94 skill points. 
-7. Patryk Dziczek from KSZO Kraków with 94 skill points. 
-8. Jack Bryant from Sokół Ostrów Wielkopolski with 93 skill points. 
-9. Bartlomiej Dragowski from Polonia Jeden Rybnik with 92 skill points. 
-10. Denis Gojko from GKS Tarnów with 92 skill points. 
-11. Piotr Cwielong from Sokół Jelenia Góra with 92 skill points. 
-12. Keith Barnes from KSZO Kraków with 92 skill points. 
-13. Piotr Malarczyk from Piast Rządzi Warszawa with 92 skill points. 
-14. Bartosz Kopacz from GKS Tarnów with 91 skill points. 
-15. Adam Fraczczak from GKS Tarnów with 90 skill points. 
-16. Damian Chmiel from Sokół Jelenia Góra with 90 skill points. 
-17. Damian Rasak from KSZO Kraków with 90 skill points. 
-18. Marco Carter from Piast Rządzi Warszawa with 90 skill points. 
-19. John Parker from Sokół Ostrów Wielkopolski with 90 skill points. 
-20. David Phillips from Polonia Jeden Rybnik with 89 skill points. 
-
-    BEST LEAGUE SCORERS   
-1. Martin Kobylanski STRIKER from team Sokół Jelenia Góra scores 26
-2. Jesse Gray STRIKER from team Pogoń Ruska Legnica scores 25
-3. Pawel Dawidowicz STRIKER from team Wisłoka Gorzów Wielkopolski scores 20
-4. Mateusz Wdowiak STRIKER from team GKS Tarnów scores 19
-5. Marcin Kaminski STRIKER from team BrukBet Świdnica scores 18
-6. Piotr Malarczyk STRIKER from team Piast Rządzi Warszawa scores 17
-7. Alan Uryga STRIKER from team Jagiellonia Tychy scores 16
-8. Keith Wilson STRIKER from team Siarka Gdańsk scores 16
-9. Bruce Young STRIKER from team Arka Tarnów scores 15
-10. Dominik Furman STRIKER from team KSZO Kraków scores 15
-
-
-    BEST TEAM SCORERS   
-Martin Kobylanski STRIKER from team Sokół Jelenia Góra scores 26
-Jesse Gray STRIKER from team Pogoń Ruska Legnica scores 25
-Pawel Dawidowicz STRIKER from team Wisłoka Gorzów Wielkopolski scores 20
-Mateusz Wdowiak STRIKER from team GKS Tarnów scores 19
-Marcin Kaminski STRIKER from team BrukBet Świdnica scores 18
-Piotr Malarczyk STRIKER from team Piast Rządzi Warszawa scores 17
-Alan Uryga STRIKER from team Jagiellonia Tychy scores 16
-Keith Wilson STRIKER from team Siarka Gdańsk scores 16
-Bruce Young STRIKER from team Arka Tarnów scores 15
-Dominik Furman STRIKER from team KSZO Kraków scores 15
-Mateusz Lewandowski STRIKER from team Sokół Ostrów Wielkopolski scores 9
-Tomasz Nowak STRIKER from team Polonia Jeden Rybnik scores 6
-
-*****************
-SEASON 1
-*****************
-
-
-Match Stal Częstochowa against Odra Zamulona Wejherowo
-Stal Częstochowa 1 : 0 Odra Zamulona Wejherowo
-Michal Nalepa scores Stal Częstochowa 2 : 0 Odra Zamulona Wejherowo
-Artur Sobiech scores Stal Częstochowa 3 : 0 Odra Zamulona Wejherowo
-Waldemar Sobota scores Stal Częstochowa 3 : 1 Odra Zamulona Wejherowo
-Lukasz Sierpina scores Stal Częstochowa 3 : 2 Odra Zamulona Wejherowo
-Michal Koj scores Stal Częstochowa 3 : 3 Odra Zamulona Wejherowo
-Michal Koj scores End of match 
-
-Match Wisła Płynąca Starachowice against Tomasovia Skierniewice
-Wisła Płynąca Starachowice 1 : 0 Tomasovia Skierniewice
-Alan Bowers scores End of match 
-
-Match KSZO Łódź against Podhale Bielsko-Biała
-KSZO Łódź 1 : 0 Podhale Bielsko-Biała
-Karol Linetty scores End of match 
-
-Match Wólczanka Jastrzębie-Zdrój against Skra Dąbrowa Górnicza
-Wólczanka Jastrzębie-Zdrój 0 : 1 Skra Dąbrowa Górnicza
-Kamil Glik scores End of match 
-
-Match GKS Jastrzębie Wrocław against Radomiak Radomsko
-GKS Jastrzębie Wrocław 1 : 0 Radomiak Radomsko
-Timothy Evans scores GKS Jastrzębie Wrocław 2 : 0 Radomiak Radomsko
-Timothy Evans scores GKS Jastrzębie Wrocław 2 : 1 Radomiak Radomsko
-William Bennett scores End of match 
-
-Match Arka Piekary Śląskie against Legia Czerwona Gwiazda Gdańsk
-Arka Piekary Śląskie 1 : 0 Legia Czerwona Gwiazda Gdańsk
-Albert Rogers scores Arka Piekary Śląskie 2 : 0 Legia Czerwona Gwiazda Gdańsk
-Albert Rogers scores Arka Piekary Śląskie 3 : 0 Legia Czerwona Gwiazda Gdańsk
-James Palmer scores Arka Piekary Śląskie 4 : 0 Legia Czerwona Gwiazda Gdańsk
-Albert Rogers scores Arka Piekary Śląskie 5 : 0 Legia Czerwona Gwiazda Gdańsk
-Sean Carter scores Arka Piekary Śląskie 6 : 0 Legia Czerwona Gwiazda Gdańsk
-James Palmer scores Arka Piekary Śląskie 6 : 1 Legia Czerwona Gwiazda Gdańsk
-Szymon Zurkowski scores Arka Piekary Śląskie 6 : 2 Legia Czerwona Gwiazda Gdańsk
-Jack Bryant scores End of match 
-
-Match Legia Czerwona Gwiazda Gdańsk against Stal Częstochowa
-Legia Czerwona Gwiazda Gdańsk 1 : 0 Stal Częstochowa
-Szymon Zurkowski scores Legia Czerwona Gwiazda Gdańsk 2 : 0 Stal Częstochowa
-Jack Bryant scores Legia Czerwona Gwiazda Gdańsk 2 : 1 Stal Częstochowa
-Waldemar Sobota scores Legia Czerwona Gwiazda Gdańsk 2 : 2 Stal Częstochowa
-Michal Nalepa scores Legia Czerwona Gwiazda Gdańsk 2 : 3 Stal Częstochowa
-Michal Nalepa scores End of match 
-
-Match Radomiak Radomsko against Arka Piekary Śląskie
-Radomiak Radomsko 0 : 1 Arka Piekary Śląskie
-Lukasz Piatek scores Radomiak Radomsko 0 : 2 Arka Piekary Śląskie
-Albert Rogers scores Radomiak Radomsko 0 : 3 Arka Piekary Śląskie
-Albert Rogers scores Radomiak Radomsko 0 : 4 Arka Piekary Śląskie
-Albert Rogers scores End of match 
-
-Match Skra Dąbrowa Górnicza against GKS Jastrzębie Wrocław
-Skra Dąbrowa Górnicza 1 : 0 GKS Jastrzębie Wrocław
-Jacek Goralski scores Skra Dąbrowa Górnicza 2 : 0 GKS Jastrzębie Wrocław
-Roy Peterson scores End of match 
-
-Match Podhale Bielsko-Biała against Wólczanka Jastrzębie-Zdrój
-Podhale Bielsko-Biała 1 : 0 Wólczanka Jastrzębie-Zdrój
-Mariusz Stepinski scores End of match 
-
-Match Tomasovia Skierniewice against KSZO Łódź
-End of match 
-
-Match Odra Zamulona Wejherowo against Wisła Płynąca Starachowice
-Odra Zamulona Wejherowo 1 : 0 Wisła Płynąca Starachowice
-Michal Koj scores Odra Zamulona Wejherowo 1 : 1 Wisła Płynąca Starachowice
-Arkadiusz Wozniak scores Odra Zamulona Wejherowo 1 : 2 Wisła Płynąca Starachowice
-Arkadiusz Wozniak scores Odra Zamulona Wejherowo 1 : 3 Wisła Płynąca Starachowice
-Garrett Ferguson scores End of match 
-
-Match Stal Częstochowa against Wisła Płynąca Starachowice
-Stal Częstochowa 1 : 0 Wisła Płynąca Starachowice
-Artur Sobiech scores Stal Częstochowa 1 : 1 Wisła Płynąca Starachowice
-Arkadiusz Wozniak scores End of match 
-
-Match KSZO Łódź against Odra Zamulona Wejherowo
-KSZO Łódź 1 : 0 Odra Zamulona Wejherowo
-Jaroslaw Kubicki scores KSZO Łódź 2 : 0 Odra Zamulona Wejherowo
-Karol Linetty scores KSZO Łódź 2 : 1 Odra Zamulona Wejherowo
-Michal Koj scores KSZO Łódź 2 : 2 Odra Zamulona Wejherowo
-Michal Koj scores End of match 
-
-Match Wólczanka Jastrzębie-Zdrój against Tomasovia Skierniewice
-End of match 
-
-Match GKS Jastrzębie Wrocław against Podhale Bielsko-Biała
-GKS Jastrzębie Wrocław 1 : 0 Podhale Bielsko-Biała
-Timothy Evans scores GKS Jastrzębie Wrocław 1 : 1 Podhale Bielsko-Biała
-Mariusz Stepinski scores GKS Jastrzębie Wrocław 1 : 2 Podhale Bielsko-Biała
-Terry Bell scores GKS Jastrzębie Wrocław 1 : 3 Podhale Bielsko-Biała
-Mariusz Stepinski scores GKS Jastrzębie Wrocław 1 : 4 Podhale Bielsko-Biała
-Terry Bell scores End of match 
-
-Match Arka Piekary Śląskie against Skra Dąbrowa Górnicza
-Arka Piekary Śląskie 1 : 0 Skra Dąbrowa Górnicza
-Albert Rogers scores Arka Piekary Śląskie 2 : 0 Skra Dąbrowa Górnicza
-Albert Rogers scores Arka Piekary Śląskie 3 : 0 Skra Dąbrowa Górnicza
-James Palmer scores Arka Piekary Śląskie 3 : 1 Skra Dąbrowa Górnicza
-Justin Sanchez scores Arka Piekary Śląskie 3 : 2 Skra Dąbrowa Górnicza
-Jacek Goralski scores Arka Piekary Śląskie 3 : 3 Skra Dąbrowa Górnicza
-Jacek Goralski scores End of match 
-
-Match Legia Czerwona Gwiazda Gdańsk against Radomiak Radomsko
-Legia Czerwona Gwiazda Gdańsk 1 : 0 Radomiak Radomsko
-Szymon Zurkowski scores Legia Czerwona Gwiazda Gdańsk 2 : 0 Radomiak Radomsko
-Szymon Zurkowski scores Legia Czerwona Gwiazda Gdańsk 3 : 0 Radomiak Radomsko
-Szymon Zurkowski scores Legia Czerwona Gwiazda Gdańsk 3 : 1 Radomiak Radomsko
-Rafal Pietrzak scores End of match 
-
-Match Radomiak Radomsko against Stal Częstochowa
-End of match 
-
-Match Skra Dąbrowa Górnicza against Legia Czerwona Gwiazda Gdańsk
-Skra Dąbrowa Górnicza 1 : 0 Legia Czerwona Gwiazda Gdańsk
-Roy Peterson scores Skra Dąbrowa Górnicza 1 : 1 Legia Czerwona Gwiazda Gdańsk
-Szymon Zurkowski scores Skra Dąbrowa Górnicza 1 : 2 Legia Czerwona Gwiazda Gdańsk
-Szymon Zurkowski scores Skra Dąbrowa Górnicza 1 : 3 Legia Czerwona Gwiazda Gdańsk
-Szymon Zurkowski scores End of match 
-
-Match Podhale Bielsko-Biała against Arka Piekary Śląskie
-Podhale Bielsko-Biała 1 : 0 Arka Piekary Śląskie
-Mateusz Abramowicz scores Podhale Bielsko-Biała 1 : 1 Arka Piekary Śląskie
-James Palmer scores Podhale Bielsko-Biała 1 : 2 Arka Piekary Śląskie
-James Palmer scores End of match 
-
-Match Tomasovia Skierniewice against GKS Jastrzębie Wrocław
-Tomasovia Skierniewice 0 : 1 GKS Jastrzębie Wrocław
-Timothy Evans scores Tomasovia Skierniewice 0 : 2 GKS Jastrzębie Wrocław
-Charles Gonzalez scores End of match 
-
-Match Odra Zamulona Wejherowo against Wólczanka Jastrzębie-Zdrój
-Odra Zamulona Wejherowo 1 : 0 Wólczanka Jastrzębie-Zdrój
-Michal Koj scores Odra Zamulona Wejherowo 2 : 0 Wólczanka Jastrzębie-Zdrój
-Michal Koj scores End of match 
-
-Match Wisła Płynąca Starachowice against KSZO Łódź
-Wisła Płynąca Starachowice 1 : 0 KSZO Łódź
-Arkadiusz Wozniak scores Wisła Płynąca Starachowice 1 : 1 KSZO Łódź
-Jaroslaw Kubicki scores End of match 
-
-Match Stal Częstochowa against KSZO Łódź
-Stal Częstochowa 1 : 0 KSZO Łódź
-Ernest Alexander scores Stal Częstochowa 1 : 1 KSZO Łódź
-Karol Linetty scores Stal Częstochowa 1 : 2 KSZO Łódź
-Karol Linetty scores End of match 
-
-Match Wólczanka Jastrzębie-Zdrój against Wisła Płynąca Starachowice
-Wólczanka Jastrzębie-Zdrój 0 : 1 Wisła Płynąca Starachowice
-Arkadiusz Wozniak scores End of match 
-
-Match GKS Jastrzębie Wrocław against Odra Zamulona Wejherowo
-GKS Jastrzębie Wrocław 0 : 1 Odra Zamulona Wejherowo
-Michal Koj scores End of match 
-
-Match Arka Piekary Śląskie against Tomasovia Skierniewice
-Arka Piekary Śląskie 1 : 0 Tomasovia Skierniewice
-Sean Carter scores Arka Piekary Śląskie 2 : 0 Tomasovia Skierniewice
-Albert Rogers scores Arka Piekary Śląskie 3 : 0 Tomasovia Skierniewice
-Lukasz Piatek scores Arka Piekary Śląskie 3 : 1 Tomasovia Skierniewice
-Dustin Zimmerman scores End of match 
-
-Match Legia Czerwona Gwiazda Gdańsk against Podhale Bielsko-Biała
-Legia Czerwona Gwiazda Gdańsk 1 : 0 Podhale Bielsko-Biała
-Szymon Zurkowski scores Legia Czerwona Gwiazda Gdańsk 1 : 1 Podhale Bielsko-Biała
+Match Arka Szczecin against Korona Szczyt Zamość
+Arka Szczecin 1 : 0 Korona Szczyt Zamość
+Maksymilian Hebel scores Arka Szczecin 2 : 0 Korona Szczyt Zamość
 Maksymilian Hebel scores End of match 
 
-Match Radomiak Radomsko against Skra Dąbrowa Górnicza
-Radomiak Radomsko 1 : 0 Skra Dąbrowa Górnicza
-Rafal Pietrzak scores Radomiak Radomsko 2 : 0 Skra Dąbrowa Górnicza
-Rafal Pietrzak scores Radomiak Radomsko 3 : 0 Skra Dąbrowa Górnicza
-Rafal Pietrzak scores Radomiak Radomsko 3 : 1 Skra Dąbrowa Górnicza
-Jacek Goralski scores Radomiak Radomsko 3 : 2 Skra Dąbrowa Górnicza
-Roy Peterson scores End of match 
+Match Korona Szczyt Zamość against Ślęza Płock
+Korona Szczyt Zamość 1 : 0 Ślęza Płock
+Wayne Collins scores Korona Szczyt Zamość 2 : 0 Ślęza Płock
+Wayne Collins scores Korona Szczyt Zamość 3 : 0 Ślęza Płock
+Wayne Collins scores End of match 
 
-Match Stal Częstochowa against Skra Dąbrowa Górnicza
-Stal Częstochowa 1 : 0 Skra Dąbrowa Górnicza
-Carlos Garcia scores Stal Częstochowa 2 : 0 Skra Dąbrowa Górnicza
-Waldemar Sobota scores Stal Częstochowa 3 : 0 Skra Dąbrowa Górnicza
-Waldemar Sobota scores Stal Częstochowa 3 : 1 Skra Dąbrowa Górnicza
-Jacek Goralski scores Stal Częstochowa 3 : 2 Skra Dąbrowa Górnicza
-Michal Marcjanik scores End of match 
+Match ŁKS Podbipięta Katowice against Arka Szczecin
+ŁKS Podbipięta Katowice 1 : 0 Arka Szczecin
+Damian Rasak scores ŁKS Podbipięta Katowice 2 : 0 Arka Szczecin
+Krzysztof Piatek scores ŁKS Podbipięta Katowice 3 : 0 Arka Szczecin
+Krzysztof Piatek scores ŁKS Podbipięta Katowice 4 : 0 Arka Szczecin
+Damian Rasak scores ŁKS Podbipięta Katowice 4 : 1 Arka Szczecin
+Maksymilian Hebel scores ŁKS Podbipięta Katowice 4 : 2 Arka Szczecin
+Maksymilian Hebel scores End of match 
 
-Match Podhale Bielsko-Biała against Radomiak Radomsko
-Podhale Bielsko-Biała 1 : 0 Radomiak Radomsko
-Terry Bell scores Podhale Bielsko-Biała 2 : 0 Radomiak Radomsko
-Terry Bell scores Podhale Bielsko-Biała 2 : 1 Radomiak Radomsko
-Rafal Pietrzak scores End of match 
+Match Zagłębie Ruhry Tarnowskie Góry against LKS Goczałkowice Suwałki
+Zagłębie Ruhry Tarnowskie Góry 0 : 1 LKS Goczałkowice Suwałki
+Adam Wilk scores Zagłębie Ruhry Tarnowskie Góry 0 : 2 LKS Goczałkowice Suwałki
+Adam Wilk scores Zagłębie Ruhry Tarnowskie Góry 0 : 3 LKS Goczałkowice Suwałki
+Oskar Zawada scores End of match 
 
-Match Tomasovia Skierniewice against Legia Czerwona Gwiazda Gdańsk
-Tomasovia Skierniewice 1 : 0 Legia Czerwona Gwiazda Gdańsk
-Dustin Zimmerman scores Tomasovia Skierniewice 2 : 0 Legia Czerwona Gwiazda Gdańsk
-David Phillips scores End of match 
+Match Puszcza Łomża against Siarka Chełm
+Puszcza Łomża 1 : 0 Siarka Chełm
+James Stewart scores Puszcza Łomża 1 : 1 Siarka Chełm
+Christopher Alexander scores End of match 
 
-Match Odra Zamulona Wejherowo against Arka Piekary Śląskie
-Odra Zamulona Wejherowo 1 : 0 Arka Piekary Śląskie
-Duane Mills scores Odra Zamulona Wejherowo 2 : 0 Arka Piekary Śląskie
-Michal Koj scores End of match 
+Match Ruch Legnica against KKS Pociąg Siedlce
+Ruch Legnica 1 : 0 KKS Pociąg Siedlce
+Piotr Marciniec scores Ruch Legnica 2 : 0 KKS Pociąg Siedlce
+Piotr Marciniec scores Ruch Legnica 2 : 1 KKS Pociąg Siedlce
+Keith Barnes scores End of match 
 
-Match Wisła Płynąca Starachowice against GKS Jastrzębie Wrocław
-Wisła Płynąca Starachowice 1 : 0 GKS Jastrzębie Wrocław
-Arkadiusz Wozniak scores Wisła Płynąca Starachowice 2 : 0 GKS Jastrzębie Wrocław
-Arkadiusz Wozniak scores Wisła Płynąca Starachowice 3 : 0 GKS Jastrzębie Wrocław
-Arkadiusz Wozniak scores Wisła Płynąca Starachowice 3 : 1 GKS Jastrzębie Wrocław
-Timothy Evans scores End of match 
+Match Zagłębie Głebokie Tychy against Czarni Radom
+Zagłębie Głebokie Tychy 1 : 0 Czarni Radom
+Jerry Butler scores Zagłębie Głebokie Tychy 2 : 0 Czarni Radom
+Bruce Young scores Zagłębie Głebokie Tychy 2 : 1 Czarni Radom
+Adam Lopez scores End of match 
 
-Match KSZO Łódź against Wólczanka Jastrzębie-Zdrój
-KSZO Łódź 1 : 0 Wólczanka Jastrzębie-Zdrój
-Karol Linetty scores KSZO Łódź 2 : 0 Wólczanka Jastrzębie-Zdrój
-Michal Nalepa scores KSZO Łódź 2 : 1 Wólczanka Jastrzębie-Zdrój
-Kamil Wojtkowski scores KSZO Łódź 2 : 2 Wólczanka Jastrzębie-Zdrój
-Tomasz Nowak scores End of match 
+Match Ślęza Płock against Czarni Radom
+Ślęza Płock 1 : 0 Czarni Radom
+Jonathan Ward scores Ślęza Płock 1 : 1 Czarni Radom
+Adam Lopez scores Ślęza Płock 1 : 2 Czarni Radom
+Adam Lopez scores End of match 
 
-Match Wólczanka Jastrzębie-Zdrój against Stal Częstochowa
-Wólczanka Jastrzębie-Zdrój 1 : 0 Stal Częstochowa
-Rafal Boguski scores Wólczanka Jastrzębie-Zdrój 1 : 1 Stal Częstochowa
-Carlos Garcia scores Wólczanka Jastrzębie-Zdrój 1 : 2 Stal Częstochowa
-Artur Sobiech scores End of match 
+Match KKS Pociąg Siedlce against Zagłębie Głebokie Tychy
+KKS Pociąg Siedlce 1 : 0 Zagłębie Głebokie Tychy
+Keith Barnes scores KKS Pociąg Siedlce 1 : 1 Zagłębie Głebokie Tychy
+Bruce Young scores KKS Pociąg Siedlce 1 : 2 Zagłębie Głebokie Tychy
+Jerry Butler scores End of match 
 
-Match GKS Jastrzębie Wrocław against KSZO Łódź
-GKS Jastrzębie Wrocław 1 : 0 KSZO Łódź
-Timothy Evans scores GKS Jastrzębie Wrocław 2 : 0 KSZO Łódź
-Timothy Evans scores GKS Jastrzębie Wrocław 2 : 1 KSZO Łódź
-Karol Linetty scores GKS Jastrzębie Wrocław 2 : 2 KSZO Łódź
-Jaroslaw Kubicki scores GKS Jastrzębie Wrocław 2 : 3 KSZO Łódź
-Karol Linetty scores End of match 
+Match Siarka Chełm against Ruch Legnica
+Siarka Chełm 1 : 0 Ruch Legnica
+Christopher Alexander scores Siarka Chełm 1 : 1 Ruch Legnica
+Piotr Marciniec scores End of match 
 
-Match Arka Piekary Śląskie against Wisła Płynąca Starachowice
-Arka Piekary Śląskie 1 : 0 Wisła Płynąca Starachowice
-Albert Rogers scores Arka Piekary Śląskie 2 : 0 Wisła Płynąca Starachowice
-Sean Carter scores Arka Piekary Śląskie 2 : 1 Wisła Płynąca Starachowice
-Lukasz Szukala scores End of match 
+Match LKS Goczałkowice Suwałki against Puszcza Łomża
+LKS Goczałkowice Suwałki 1 : 0 Puszcza Łomża
+Adam Wilk scores LKS Goczałkowice Suwałki 2 : 0 Puszcza Łomża
+Ricky Rodriguez scores LKS Goczałkowice Suwałki 3 : 0 Puszcza Łomża
+Adam Wilk scores LKS Goczałkowice Suwałki 3 : 1 Puszcza Łomża
+Mikolaj Kwietniewski scores LKS Goczałkowice Suwałki 3 : 2 Puszcza Łomża
+Lukasz Tyminski scores End of match 
 
-Match Legia Czerwona Gwiazda Gdańsk against Odra Zamulona Wejherowo
-Legia Czerwona Gwiazda Gdańsk 1 : 0 Odra Zamulona Wejherowo
-Jack Bryant scores Legia Czerwona Gwiazda Gdańsk 1 : 1 Odra Zamulona Wejherowo
-Michal Koj scores Legia Czerwona Gwiazda Gdańsk 1 : 2 Odra Zamulona Wejherowo
-Greg Vega scores End of match 
+Match Arka Szczecin against Zagłębie Ruhry Tarnowskie Góry
+Arka Szczecin 1 : 0 Zagłębie Ruhry Tarnowskie Góry
+Robert Lewandowski scores Arka Szczecin 1 : 1 Zagłębie Ruhry Tarnowskie Góry
+Artur Jedrzejczyk scores Arka Szczecin 1 : 2 Zagłębie Ruhry Tarnowskie Góry
+Lukasz Tyminski scores End of match 
 
-Match Radomiak Radomsko against Tomasovia Skierniewice
-Radomiak Radomsko 1 : 0 Tomasovia Skierniewice
-Lukasz Szukala scores Radomiak Radomsko 1 : 1 Tomasovia Skierniewice
-Dustin Zimmerman scores Radomiak Radomsko 1 : 2 Tomasovia Skierniewice
-Dustin Zimmerman scores End of match 
+Match Korona Szczyt Zamość against ŁKS Podbipięta Katowice
+Korona Szczyt Zamość 1 : 0 ŁKS Podbipięta Katowice
+Wayne Collins scores Korona Szczyt Zamość 2 : 0 ŁKS Podbipięta Katowice
+Wayne Collins scores Korona Szczyt Zamość 2 : 1 ŁKS Podbipięta Katowice
+Krzysztof Piatek scores Korona Szczyt Zamość 2 : 2 ŁKS Podbipięta Katowice
+Krzysztof Piatek scores Korona Szczyt Zamość 2 : 3 ŁKS Podbipięta Katowice
+Krzysztof Piatek scores Korona Szczyt Zamość 2 : 4 ŁKS Podbipięta Katowice
+Eric Morris scores End of match 
 
-Match Skra Dąbrowa Górnicza against Podhale Bielsko-Biała
-Skra Dąbrowa Górnicza 1 : 0 Podhale Bielsko-Biała
-Jacek Goralski scores Skra Dąbrowa Górnicza 2 : 0 Podhale Bielsko-Biała
-Jacek Goralski scores Skra Dąbrowa Górnicza 2 : 1 Podhale Bielsko-Biała
-Terry Bell scores End of match 
+Match Ślęza Płock against ŁKS Podbipięta Katowice
+Ślęza Płock 1 : 0 ŁKS Podbipięta Katowice
+Jonathan Ward scores Ślęza Płock 2 : 0 ŁKS Podbipięta Katowice
+Jonathan Ward scores Ślęza Płock 2 : 1 ŁKS Podbipięta Katowice
+Krzysztof Piatek scores Ślęza Płock 2 : 2 ŁKS Podbipięta Katowice
+Krzysztof Piatek scores End of match 
 
-Match Stal Częstochowa against Podhale Bielsko-Biała
-Stal Częstochowa 1 : 0 Podhale Bielsko-Biała
-Waldemar Sobota scores Stal Częstochowa 1 : 1 Podhale Bielsko-Biała
-Terry Bell scores Stal Częstochowa 1 : 2 Podhale Bielsko-Biała
-Mateusz Abramowicz scores Stal Częstochowa 1 : 3 Podhale Bielsko-Biała
-Terry Bell scores Stal Częstochowa 1 : 4 Podhale Bielsko-Biała
-Scott Cox scores End of match 
-
-Match Tomasovia Skierniewice against Skra Dąbrowa Górnicza
-Tomasovia Skierniewice 0 : 1 Skra Dąbrowa Górnicza
-Jacek Goralski scores End of match 
-
-Match Odra Zamulona Wejherowo against Radomiak Radomsko
-Odra Zamulona Wejherowo 1 : 0 Radomiak Radomsko
-Greg Vega scores Odra Zamulona Wejherowo 1 : 1 Radomiak Radomsko
-Lukasz Szukala scores Odra Zamulona Wejherowo 1 : 2 Radomiak Radomsko
-Rafal Pietrzak scores End of match 
-
-Match Wisła Płynąca Starachowice against Legia Czerwona Gwiazda Gdańsk
-Wisła Płynąca Starachowice 1 : 0 Legia Czerwona Gwiazda Gdańsk
-Arkadiusz Wozniak scores Wisła Płynąca Starachowice 2 : 0 Legia Czerwona Gwiazda Gdańsk
-Lukasz Szukala scores Wisła Płynąca Starachowice 2 : 1 Legia Czerwona Gwiazda Gdańsk
-Szymon Zurkowski scores End of match 
-
-Match KSZO Łódź against Arka Piekary Śląskie
-KSZO Łódź 0 : 1 Arka Piekary Śląskie
-Albert Rogers scores End of match 
-
-Match Wólczanka Jastrzębie-Zdrój against GKS Jastrzębie Wrocław
-Wólczanka Jastrzębie-Zdrój 0 : 1 GKS Jastrzębie Wrocław
-Timothy Evans scores Wólczanka Jastrzębie-Zdrój 0 : 2 GKS Jastrzębie Wrocław
-Lukasz Tyminski scores Wólczanka Jastrzębie-Zdrój 0 : 3 GKS Jastrzębie Wrocław
-Timothy Evans scores End of match 
-
-Match GKS Jastrzębie Wrocław against Stal Częstochowa
-GKS Jastrzębie Wrocław 1 : 0 Stal Częstochowa
-Charles Gonzalez scores GKS Jastrzębie Wrocław 1 : 1 Stal Częstochowa
-Waldemar Sobota scores GKS Jastrzębie Wrocław 1 : 2 Stal Częstochowa
-Waldemar Sobota scores End of match 
-
-Match Arka Piekary Śląskie against Wólczanka Jastrzębie-Zdrój
-Arka Piekary Śląskie 1 : 0 Wólczanka Jastrzębie-Zdrój
-Adam Mojta scores Arka Piekary Śląskie 2 : 0 Wólczanka Jastrzębie-Zdrój
-Adam Mojta scores Arka Piekary Śląskie 3 : 0 Wólczanka Jastrzębie-Zdrój
-Albert Rogers scores Arka Piekary Śląskie 4 : 0 Wólczanka Jastrzębie-Zdrój
-Adam Mojta scores Arka Piekary Śląskie 4 : 1 Wólczanka Jastrzębie-Zdrój
-Kamil Wojtkowski scores Arka Piekary Śląskie 4 : 2 Wólczanka Jastrzębie-Zdrój
-Tomasz Nowak scores End of match 
-
-Match Legia Czerwona Gwiazda Gdańsk against KSZO Łódź
-Legia Czerwona Gwiazda Gdańsk 1 : 0 KSZO Łódź
-Szymon Zurkowski scores Legia Czerwona Gwiazda Gdańsk 1 : 1 KSZO Łódź
-Karol Linetty scores Legia Czerwona Gwiazda Gdańsk 1 : 2 KSZO Łódź
-Karol Linetty scores Legia Czerwona Gwiazda Gdańsk 1 : 3 KSZO Łódź
-Karol Linetty scores Legia Czerwona Gwiazda Gdańsk 1 : 4 KSZO Łódź
-Jaroslaw Kubicki scores End of match 
-
-Match Radomiak Radomsko against Wisła Płynąca Starachowice
-Radomiak Radomsko 1 : 0 Wisła Płynąca Starachowice
-William Bennett scores Radomiak Radomsko 2 : 0 Wisła Płynąca Starachowice
-William Bennett scores End of match 
-
-Match Skra Dąbrowa Górnicza against Odra Zamulona Wejherowo
-Skra Dąbrowa Górnicza 1 : 0 Odra Zamulona Wejherowo
-Kamil Glik scores Skra Dąbrowa Górnicza 2 : 0 Odra Zamulona Wejherowo
-Jacek Goralski scores Skra Dąbrowa Górnicza 3 : 0 Odra Zamulona Wejherowo
-Jacek Goralski scores End of match 
-
-Match Podhale Bielsko-Biała against Tomasovia Skierniewice
-Podhale Bielsko-Biała 1 : 0 Tomasovia Skierniewice
-Terry Bell scores Podhale Bielsko-Biała 1 : 1 Tomasovia Skierniewice
-Dustin Zimmerman scores Podhale Bielsko-Biała 1 : 2 Tomasovia Skierniewice
-Michal Czarny scores End of match 
-
-Match Stal Częstochowa against Tomasovia Skierniewice
-Stal Częstochowa 1 : 0 Tomasovia Skierniewice
-Waldemar Sobota scores Stal Częstochowa 1 : 1 Tomasovia Skierniewice
-Pawel Stolarski scores Stal Częstochowa 1 : 2 Tomasovia Skierniewice
-Harry Ross scores Stal Częstochowa 1 : 3 Tomasovia Skierniewice
-David Phillips scores End of match 
-
-Match Odra Zamulona Wejherowo against Podhale Bielsko-Biała
-Odra Zamulona Wejherowo 1 : 0 Podhale Bielsko-Biała
-Michal Koj scores Odra Zamulona Wejherowo 2 : 0 Podhale Bielsko-Biała
-Michal Koj scores Odra Zamulona Wejherowo 3 : 0 Podhale Bielsko-Biała
-Michal Koj scores Odra Zamulona Wejherowo 3 : 1 Podhale Bielsko-Biała
-Terry Bell scores End of match 
-
-Match Wisła Płynąca Starachowice against Skra Dąbrowa Górnicza
-Wisła Płynąca Starachowice 1 : 0 Skra Dąbrowa Górnicza
-Arkadiusz Wozniak scores Wisła Płynąca Starachowice 2 : 0 Skra Dąbrowa Górnicza
-Arkadiusz Wozniak scores Wisła Płynąca Starachowice 3 : 0 Skra Dąbrowa Górnicza
-Arkadiusz Wozniak scores Wisła Płynąca Starachowice 3 : 1 Skra Dąbrowa Górnicza
-Jacek Goralski scores Wisła Płynąca Starachowice 3 : 2 Skra Dąbrowa Górnicza
-Jacek Goralski scores Wisła Płynąca Starachowice 3 : 3 Skra Dąbrowa Górnicza
-Jacek Goralski scores End of match 
-
-Match KSZO Łódź against Radomiak Radomsko
-KSZO Łódź 1 : 0 Radomiak Radomsko
-Karol Linetty scores KSZO Łódź 1 : 1 Radomiak Radomsko
-Lukasz Szukala scores KSZO Łódź 1 : 2 Radomiak Radomsko
-Rafal Pietrzak scores End of match 
-
-Match Wólczanka Jastrzębie-Zdrój against Legia Czerwona Gwiazda Gdańsk
-Wólczanka Jastrzębie-Zdrój 1 : 0 Legia Czerwona Gwiazda Gdańsk
-Tomasz Nowak scores Wólczanka Jastrzębie-Zdrój 1 : 1 Legia Czerwona Gwiazda Gdańsk
-Szymon Zurkowski scores Wólczanka Jastrzębie-Zdrój 1 : 2 Legia Czerwona Gwiazda Gdańsk
-Jack Bryant scores Wólczanka Jastrzębie-Zdrój 1 : 3 Legia Czerwona Gwiazda Gdańsk
-Szymon Zurkowski scores End of match 
-
-Match GKS Jastrzębie Wrocław against Arka Piekary Śląskie
-GKS Jastrzębie Wrocław 1 : 0 Arka Piekary Śląskie
-Charles Gonzalez scores GKS Jastrzębie Wrocław 2 : 0 Arka Piekary Śląskie
-Lukasz Tyminski scores GKS Jastrzębie Wrocław 2 : 1 Arka Piekary Śląskie
-Lukasz Piatek scores GKS Jastrzębie Wrocław 2 : 2 Arka Piekary Śląskie
-Albert Rogers scores GKS Jastrzębie Wrocław 2 : 3 Arka Piekary Śląskie
-Albert Rogers scores End of match 
-
-Match Arka Piekary Śląskie against Stal Częstochowa
-Arka Piekary Śląskie 1 : 0 Stal Częstochowa
-Albert Rogers scores Arka Piekary Śląskie 2 : 0 Stal Częstochowa
-Albert Rogers scores Arka Piekary Śląskie 2 : 1 Stal Częstochowa
-Waldemar Sobota scores End of match 
-
-Match Legia Czerwona Gwiazda Gdańsk against GKS Jastrzębie Wrocław
-Legia Czerwona Gwiazda Gdańsk 1 : 0 GKS Jastrzębie Wrocław
-Szymon Zurkowski scores Legia Czerwona Gwiazda Gdańsk 2 : 0 GKS Jastrzębie Wrocław
-Szymon Zurkowski scores Legia Czerwona Gwiazda Gdańsk 3 : 0 GKS Jastrzębie Wrocław
-Mateusz Cholewiak scores Legia Czerwona Gwiazda Gdańsk 4 : 0 GKS Jastrzębie Wrocław
-Szymon Zurkowski scores End of match 
-
-Match Radomiak Radomsko against Wólczanka Jastrzębie-Zdrój
-Radomiak Radomsko 1 : 0 Wólczanka Jastrzębie-Zdrój
-Piotr Cwielong scores Radomiak Radomsko 2 : 0 Wólczanka Jastrzębie-Zdrój
-Rafal Pietrzak scores End of match 
-
-Match Skra Dąbrowa Górnicza against KSZO Łódź
-Skra Dąbrowa Górnicza 1 : 0 KSZO Łódź
-Jacek Goralski scores Skra Dąbrowa Górnicza 2 : 0 KSZO Łódź
-Jacek Goralski scores Skra Dąbrowa Górnicza 2 : 1 KSZO Łódź
-Karol Linetty scores Skra Dąbrowa Górnicza 2 : 2 KSZO Łódź
-Karol Linetty scores Skra Dąbrowa Górnicza 2 : 3 KSZO Łódź
-Karol Linetty scores End of match 
-
-Match Podhale Bielsko-Biała against Wisła Płynąca Starachowice
-Podhale Bielsko-Biała 1 : 0 Wisła Płynąca Starachowice
-Terry Bell scores Podhale Bielsko-Biała 2 : 0 Wisła Płynąca Starachowice
-Terry Bell scores Podhale Bielsko-Biała 3 : 0 Wisła Płynąca Starachowice
-Terry Bell scores Podhale Bielsko-Biała 4 : 0 Wisła Płynąca Starachowice
-Scott Cox scores Podhale Bielsko-Biała 4 : 1 Wisła Płynąca Starachowice
-Arkadiusz Wozniak scores End of match 
-
-Match Tomasovia Skierniewice against Odra Zamulona Wejherowo
-Tomasovia Skierniewice 1 : 0 Odra Zamulona Wejherowo
-Dustin Zimmerman scores Tomasovia Skierniewice 1 : 1 Odra Zamulona Wejherowo
-Michal Koj scores Tomasovia Skierniewice 1 : 2 Odra Zamulona Wejherowo
-Michal Koj scores Tomasovia Skierniewice 1 : 3 Odra Zamulona Wejherowo
-Michal Koj scores End of match 
-
-
-
-****************************************************************
-       TEAM NAME                              PTS   W    D    L 
-1.  Arka Piekary Śląskie                      28    9    1    1   
-2.  Odra Zamulona Wejherowo                   20    6    2    3   
-3.  KSZO Łódź                                 19    5    4    2   
-4.  Wisła Płynąca Starachowice                18    5    3    3   
-5.  Skra Dąbrowa Górnicza                     17    5    2    4   
-6.  Radomiak Radomsko                         16    5    1    5   
-7.  Podhale Bielsko-Biała                     16    5    1    5   
-8.  Stal Częstochowa                          15    4    3    4   
-9.  Tomasovia Skierniewice                    14    4    2    5   
-10. Legia Czerwona Gwiazda Gdańsk             13    4    1    6   
-11. GKS Jastrzębie Wrocław                     9    3    0    8   
-12. Wólczanka Jastrzębie-Zdrój                 2    0    2    9   
-****************************************************************
-
-
-   MOST TALENTED PLAYERS   
-1. Dariusz Trela from Wólczanka Jastrzębie-Zdrój with 99 skill points. 
-2. Michal Pazdan from Skra Dąbrowa Górnicza with 99 skill points. 
-3. Waldemar Sobota from Stal Częstochowa with 99 skill points. 
-4. Jacek Goralski from Skra Dąbrowa Górnicza with 98 skill points. 
-5. Dawid Szymonowicz from Tomasovia Skierniewice with 96 skill points. 
-6. Adam Deja from Odra Zamulona Wejherowo with 95 skill points. 
-7. Sebastian Rudol from Skra Dąbrowa Górnicza with 94 skill points. 
-8. Mateusz Abramowicz from Podhale Bielsko-Biała with 94 skill points. 
-9. Lukasz Wolsztynski from Radomiak Radomsko with 92 skill points. 
-10. Mateusz Mozdzen from Podhale Bielsko-Biała with 92 skill points. 
-11. Lukasz Zwolinski from GKS Jastrzębie Wrocław with 91 skill points. 
-12. Piotr Leciejewski from GKS Jastrzębie Wrocław with 91 skill points. 
-13. Rafal Pietrzak from Radomiak Radomsko with 91 skill points. 
-14. Sebastian Rudol from Stal Częstochowa with 91 skill points. 
-15. Michal Nalepa from KSZO Łódź with 90 skill points. 
-16. Roy Peterson from Skra Dąbrowa Górnicza with 90 skill points. 
-17. Radoslaw Janukiewicz from KSZO Łódź with 89 skill points. 
-18. Jaroslaw Kubicki from KSZO Łódź with 89 skill points. 
-19. Kamil Glik from Skra Dąbrowa Górnicza with 89 skill points. 
-20. Lukasz Sierpina from Stal Częstochowa with 89 skill points. 
-
-    BEST LEAGUE SCORERS   
-1. Michal Koj STRIKER from team Odra Zamulona Wejherowo scores 16
-2. Albert Rogers STRIKER from team Arka Piekary Śląskie scores 16
-3. Szymon Zurkowski STRIKER from team Legia Czerwona Gwiazda Gdańsk scores 16
-4. Jacek Goralski STRIKER from team Skra Dąbrowa Górnicza scores 15
-
-
-    BEST TEAM SCORERS   
-Michal Koj STRIKER from team Odra Zamulona Wejherowo scores 16
-Albert Rogers STRIKER from team Arka Piekary Śląskie scores 16
-Szymon Zurkowski STRIKER from team Legia Czerwona Gwiazda Gdańsk scores 16
-Jacek Goralski STRIKER from team Skra Dąbrowa Górnicza scores 15
-Karol Linetty STRIKER from team KSZO Łódź scores 14
-Arkadiusz Wozniak STRIKER from team Wisła Płynąca Starachowice scores 13
-Terry Bell STRIKER from team Podhale Bielsko-Biała scores 12
-Timothy Evans STRIKER from team GKS Jastrzębie Wrocław scores 9
-Waldemar Sobota STRIKER from team Stal Częstochowa scores 9
-Rafal Pietrzak STRIKER from team Radomiak Radomsko scores 8
-Dustin Zimmerman MIDFIELDER from team Tomasovia Skierniewice scores 6
-Tomasz Nowak MIDFIELDER from team Wólczanka Jastrzębie-Zdrój scores 3
-
-*****************
-SEASON 1
-*****************
-
-
-Match Podhale Wodzisław Śląski against Podlasie Będzin
-Podhale Wodzisław Śląski 1 : 0 Podlasie Będzin
-Peter Anderson scores Podhale Wodzisław Śląski 2 : 0 Podlasie Będzin
-Filip Piszczek scores Podhale Wodzisław Śląski 2 : 1 Podlasie Będzin
-Patryk Lipski scores Podhale Wodzisław Śląski 2 : 2 Podlasie Będzin
-Aleksander Jagiello scores Podhale Wodzisław Śląski 2 : 3 Podlasie Będzin
-Aleksander Jagiello scores Podhale Wodzisław Śląski 2 : 4 Podlasie Będzin
-Lukasz Janoszka scores End of match 
-
-Match Górnik II Katowice against Miedź II Zgierz
-Górnik II Katowice 1 : 0 Miedź II Zgierz
-Randy Gonzales scores Górnik II Katowice 2 : 0 Miedź II Zgierz
-Maciej Domanski scores Górnik II Katowice 3 : 0 Miedź II Zgierz
-Patryk Fryc scores Górnik II Katowice 3 : 1 Miedź II Zgierz
-Radoslaw Pruchnik scores Górnik II Katowice 3 : 2 Miedź II Zgierz
-Damian Szymanski scores Górnik II Katowice 3 : 3 Miedź II Zgierz
-Damian Szymanski scores End of match 
-
-Match Orlęta Lubin against Tomasovia Ostrowiec Świętokrzyski
-Orlęta Lubin 1 : 0 Tomasovia Ostrowiec Świętokrzyski
-Garrett Ferguson scores Orlęta Lubin 1 : 1 Tomasovia Ostrowiec Świętokrzyski
-Lukasz Zaluska scores Orlęta Lubin 1 : 2 Tomasovia Ostrowiec Świętokrzyski
-Lukasz Zaluska scores End of match 
-
-Match Chojniczanka Skierniewice against Stomil Siedlce
-Chojniczanka Skierniewice 1 : 0 Stomil Siedlce
-Jakub Wojcicki scores Chojniczanka Skierniewice 2 : 0 Stomil Siedlce
-Jakub Wojcicki scores Chojniczanka Skierniewice 3 : 0 Stomil Siedlce
-Jakub Wojcicki scores Chojniczanka Skierniewice 3 : 1 Stomil Siedlce
-Maciej Gostomski scores Chojniczanka Skierniewice 3 : 2 Stomil Siedlce
-Maciej Gostomski scores Chojniczanka Skierniewice 3 : 3 Stomil Siedlce
-Maciej Gostomski scores End of match 
-
-Match Gwarek Tarnowski Bytom against Zagłębie Ruhry Jelenia Góra
-Gwarek Tarnowski Bytom 1 : 0 Zagłębie Ruhry Jelenia Góra
-Filip Piszczek scores Gwarek Tarnowski Bytom 2 : 0 Zagłębie Ruhry Jelenia Góra
-Przemyslaw Mystkowski scores Gwarek Tarnowski Bytom 2 : 1 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores Gwarek Tarnowski Bytom 2 : 2 Zagłębie Ruhry Jelenia Góra
-Kamil Dankowski scores End of match 
-
-Match Radunia Bytom against Legia Czerwona Gwiazda Radomsko
-Radunia Bytom 1 : 0 Legia Czerwona Gwiazda Radomsko
-Seweryn Kielpin scores Radunia Bytom 1 : 1 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores Radunia Bytom 1 : 2 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores Radunia Bytom 1 : 3 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores End of match 
-
-Match Legia Czerwona Gwiazda Radomsko against Podhale Wodzisław Śląski
-Legia Czerwona Gwiazda Radomsko 1 : 0 Podhale Wodzisław Śląski
-Lukasz Sekulski scores Legia Czerwona Gwiazda Radomsko 2 : 0 Podhale Wodzisław Śląski
-Lukasz Wronski scores Legia Czerwona Gwiazda Radomsko 2 : 1 Podhale Wodzisław Śląski
-Filip Piszczek scores Legia Czerwona Gwiazda Radomsko 2 : 2 Podhale Wodzisław Śląski
+Match Zagłębie Ruhry Tarnowskie Góry against Korona Szczyt Zamość
+Zagłębie Ruhry Tarnowskie Góry 1 : 0 Korona Szczyt Zamość
+Artur Jedrzejczyk scores Zagłębie Ruhry Tarnowskie Góry 2 : 0 Korona Szczyt Zamość
+Artur Jedrzejczyk scores Zagłębie Ruhry Tarnowskie Góry 3 : 0 Korona Szczyt Zamość
+Artur Jedrzejczyk scores Zagłębie Ruhry Tarnowskie Góry 4 : 0 Korona Szczyt Zamość
+Artur Jedrzejczyk scores Zagłębie Ruhry Tarnowskie Góry 5 : 0 Korona Szczyt Zamość
+Artur Jedrzejczyk scores Zagłębie Ruhry Tarnowskie Góry 5 : 1 Korona Szczyt Zamość
+Krystian Getinger scores Zagłębie Ruhry Tarnowskie Góry 5 : 2 Korona Szczyt Zamość
 Peter Anderson scores End of match 
 
-Match Zagłębie Ruhry Jelenia Góra against Radunia Bytom
-Zagłębie Ruhry Jelenia Góra 1 : 0 Radunia Bytom
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 2 : 0 Radunia Bytom
-Kamil Dankowski scores Zagłębie Ruhry Jelenia Góra 2 : 1 Radunia Bytom
-Mateusz Mozdzen scores End of match 
-
-Match Stomil Siedlce against Gwarek Tarnowski Bytom
-Stomil Siedlce 1 : 0 Gwarek Tarnowski Bytom
-Kevin Young scores Stomil Siedlce 2 : 0 Gwarek Tarnowski Bytom
-Lukasz Szukala scores Stomil Siedlce 2 : 1 Gwarek Tarnowski Bytom
-Filip Piszczek scores Stomil Siedlce 2 : 2 Gwarek Tarnowski Bytom
-Filip Piszczek scores Stomil Siedlce 2 : 3 Gwarek Tarnowski Bytom
-Filip Piszczek scores Stomil Siedlce 2 : 4 Gwarek Tarnowski Bytom
-Filip Piszczek scores End of match 
-
-Match Tomasovia Ostrowiec Świętokrzyski against Chojniczanka Skierniewice
-Tomasovia Ostrowiec Świętokrzyski 1 : 0 Chojniczanka Skierniewice
-Lukasz Zaluska scores Tomasovia Ostrowiec Świętokrzyski 2 : 0 Chojniczanka Skierniewice
-Lukasz Zaluska scores Tomasovia Ostrowiec Świętokrzyski 2 : 1 Chojniczanka Skierniewice
-Jakub Wojcicki scores Tomasovia Ostrowiec Świętokrzyski 2 : 2 Chojniczanka Skierniewice
-Jakub Wojcicki scores End of match 
-
-Match Miedź II Zgierz against Orlęta Lubin
-Miedź II Zgierz 1 : 0 Orlęta Lubin
-Damian Szymanski scores Miedź II Zgierz 2 : 0 Orlęta Lubin
-Damian Szymanski scores Miedź II Zgierz 3 : 0 Orlęta Lubin
-Damian Szymanski scores End of match 
-
-Match Podlasie Będzin against Górnik II Katowice
-Podlasie Będzin 1 : 0 Górnik II Katowice
-Lukasz Janoszka scores Podlasie Będzin 2 : 0 Górnik II Katowice
-Aleksander Jagiello scores End of match 
-
-Match Podhale Wodzisław Śląski against Górnik II Katowice
-Podhale Wodzisław Śląski 1 : 0 Górnik II Katowice
-Peter Anderson scores Podhale Wodzisław Śląski 1 : 1 Górnik II Katowice
-Fred Watson scores Podhale Wodzisław Śląski 1 : 2 Górnik II Katowice
-Fred Watson scores End of match 
-
-Match Orlęta Lubin against Podlasie Będzin
-Orlęta Lubin 1 : 0 Podlasie Będzin
-Garrett Ferguson scores Orlęta Lubin 2 : 0 Podlasie Będzin
-Garrett Ferguson scores Orlęta Lubin 2 : 1 Podlasie Będzin
-Aleksander Jagiello scores End of match 
-
-Match Chojniczanka Skierniewice against Miedź II Zgierz
-Chojniczanka Skierniewice 1 : 0 Miedź II Zgierz
-Jakub Wojcicki scores Chojniczanka Skierniewice 2 : 0 Miedź II Zgierz
-Jakub Wojcicki scores Chojniczanka Skierniewice 2 : 1 Miedź II Zgierz
-Damian Szymanski scores Chojniczanka Skierniewice 2 : 2 Miedź II Zgierz
-Damian Szymanski scores End of match 
-
-Match Gwarek Tarnowski Bytom against Tomasovia Ostrowiec Świętokrzyski
-Gwarek Tarnowski Bytom 1 : 0 Tomasovia Ostrowiec Świętokrzyski
-Filip Piszczek scores Gwarek Tarnowski Bytom 2 : 0 Tomasovia Ostrowiec Świętokrzyski
-Filip Piszczek scores Gwarek Tarnowski Bytom 2 : 1 Tomasovia Ostrowiec Świętokrzyski
-Aaron Brooks scores Gwarek Tarnowski Bytom 2 : 2 Tomasovia Ostrowiec Świętokrzyski
-Lukasz Zaluska scores Gwarek Tarnowski Bytom 2 : 3 Tomasovia Ostrowiec Świętokrzyski
-Lukasz Zaluska scores Gwarek Tarnowski Bytom 2 : 4 Tomasovia Ostrowiec Świętokrzyski
-Cezary Stefanczyk scores End of match 
-
-Match Radunia Bytom against Stomil Siedlce
-Radunia Bytom 1 : 0 Stomil Siedlce
-Mateusz Mozdzen scores Radunia Bytom 2 : 0 Stomil Siedlce
-Mateusz Mozdzen scores Radunia Bytom 3 : 0 Stomil Siedlce
-Mateusz Mozdzen scores Radunia Bytom 4 : 0 Stomil Siedlce
-Mateusz Mozdzen scores Radunia Bytom 5 : 0 Stomil Siedlce
-Mateusz Mozdzen scores Radunia Bytom 6 : 0 Stomil Siedlce
-Mateusz Mozdzen scores Radunia Bytom 6 : 1 Stomil Siedlce
-Maciej Gostomski scores Radunia Bytom 6 : 2 Stomil Siedlce
-Maciej Gostomski scores End of match 
-
-Match Legia Czerwona Gwiazda Radomsko against Zagłębie Ruhry Jelenia Góra
-Legia Czerwona Gwiazda Radomsko 1 : 0 Zagłębie Ruhry Jelenia Góra
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 1 : 1 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores Legia Czerwona Gwiazda Radomsko 1 : 2 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores End of match 
-
-Match Zagłębie Ruhry Jelenia Góra against Podhale Wodzisław Śląski
-Zagłębie Ruhry Jelenia Góra 1 : 0 Podhale Wodzisław Śląski
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 2 : 0 Podhale Wodzisław Śląski
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 3 : 0 Podhale Wodzisław Śląski
-Kamil Dankowski scores Zagłębie Ruhry Jelenia Góra 4 : 0 Podhale Wodzisław Śląski
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 4 : 1 Podhale Wodzisław Śląski
-Peter Anderson scores End of match 
-
-Match Stomil Siedlce against Legia Czerwona Gwiazda Radomsko
-Stomil Siedlce 0 : 1 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores Stomil Siedlce 0 : 2 Legia Czerwona Gwiazda Radomsko
-Lukasz Sekulski scores Stomil Siedlce 0 : 3 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores End of match 
-
-Match Tomasovia Ostrowiec Świętokrzyski against Radunia Bytom
-Tomasovia Ostrowiec Świętokrzyski 1 : 0 Radunia Bytom
-Lukasz Zaluska scores Tomasovia Ostrowiec Świętokrzyski 2 : 0 Radunia Bytom
-Lukasz Zaluska scores Tomasovia Ostrowiec Świętokrzyski 2 : 1 Radunia Bytom
-Seweryn Kielpin scores Tomasovia Ostrowiec Świętokrzyski 2 : 2 Radunia Bytom
-Mateusz Mozdzen scores End of match 
-
-Match Miedź II Zgierz against Gwarek Tarnowski Bytom
-Miedź II Zgierz 1 : 0 Gwarek Tarnowski Bytom
-Damian Szymanski scores Miedź II Zgierz 2 : 0 Gwarek Tarnowski Bytom
-Damian Szymanski scores Miedź II Zgierz 2 : 1 Gwarek Tarnowski Bytom
-Filip Piszczek scores Miedź II Zgierz 2 : 2 Gwarek Tarnowski Bytom
-Filip Piszczek scores Miedź II Zgierz 2 : 3 Gwarek Tarnowski Bytom
-Szymon Zurkowski scores End of match 
-
-Match Podlasie Będzin against Chojniczanka Skierniewice
-Podlasie Będzin 0 : 1 Chojniczanka Skierniewice
-Victor Reed scores Podlasie Będzin 0 : 2 Chojniczanka Skierniewice
-Victor Reed scores End of match 
-
-Match Górnik II Katowice against Orlęta Lubin
-Górnik II Katowice 1 : 0 Orlęta Lubin
-Fred Watson scores Górnik II Katowice 1 : 1 Orlęta Lubin
-Garrett Ferguson scores Górnik II Katowice 1 : 2 Orlęta Lubin
-Garrett Ferguson scores End of match 
-
-Match Podhale Wodzisław Śląski against Orlęta Lubin
-Podhale Wodzisław Śląski 0 : 1 Orlęta Lubin
-Garrett Ferguson scores End of match 
-
-Match Chojniczanka Skierniewice against Górnik II Katowice
-Chojniczanka Skierniewice 1 : 0 Górnik II Katowice
-Jakub Wojcicki scores Chojniczanka Skierniewice 2 : 0 Górnik II Katowice
-Ernest Hall scores Chojniczanka Skierniewice 2 : 1 Górnik II Katowice
-Fred Watson scores Chojniczanka Skierniewice 2 : 2 Górnik II Katowice
-Fred Watson scores End of match 
-
-Match Gwarek Tarnowski Bytom against Podlasie Będzin
-Gwarek Tarnowski Bytom 0 : 1 Podlasie Będzin
-Lukasz Janoszka scores Gwarek Tarnowski Bytom 0 : 2 Podlasie Będzin
-Aleksander Jagiello scores Gwarek Tarnowski Bytom 0 : 3 Podlasie Będzin
-Roy Cook scores End of match 
-
-Match Radunia Bytom against Miedź II Zgierz
-Radunia Bytom 1 : 0 Miedź II Zgierz
-Mateusz Mozdzen scores Radunia Bytom 2 : 0 Miedź II Zgierz
-Daniel Lukasik scores Radunia Bytom 3 : 0 Miedź II Zgierz
-Mateusz Mozdzen scores Radunia Bytom 3 : 1 Miedź II Zgierz
-Willie Diaz scores Radunia Bytom 3 : 2 Miedź II Zgierz
-Damian Szymanski scores Radunia Bytom 3 : 3 Miedź II Zgierz
-Damian Szymanski scores Radunia Bytom 3 : 4 Miedź II Zgierz
-Damian Szymanski scores End of match 
-
-Match Legia Czerwona Gwiazda Radomsko against Tomasovia Ostrowiec Świętokrzyski
-Legia Czerwona Gwiazda Radomsko 1 : 0 Tomasovia Ostrowiec Świętokrzyski
-Brendan Gregory scores Legia Czerwona Gwiazda Radomsko 2 : 0 Tomasovia Ostrowiec Świętokrzyski
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 3 : 0 Tomasovia Ostrowiec Świętokrzyski
-Lukasz Wronski scores Legia Czerwona Gwiazda Radomsko 4 : 0 Tomasovia Ostrowiec Świętokrzyski
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 4 : 1 Tomasovia Ostrowiec Świętokrzyski
-Lukasz Zaluska scores End of match 
-
-Match Zagłębie Ruhry Jelenia Góra against Stomil Siedlce
-Zagłębie Ruhry Jelenia Góra 1 : 0 Stomil Siedlce
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 2 : 0 Stomil Siedlce
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 2 : 1 Stomil Siedlce
-Michal Chrapek scores Zagłębie Ruhry Jelenia Góra 2 : 2 Stomil Siedlce
-Maciej Gostomski scores Zagłębie Ruhry Jelenia Góra 2 : 3 Stomil Siedlce
-Lukasz Szukala scores Zagłębie Ruhry Jelenia Góra 2 : 4 Stomil Siedlce
-Filip Jagiello scores Zagłębie Ruhry Jelenia Góra 2 : 5 Stomil Siedlce
-Kevin Young scores End of match 
-
-Match Podhale Wodzisław Śląski against Stomil Siedlce
-Podhale Wodzisław Śląski 1 : 0 Stomil Siedlce
-Filip Piszczek scores Podhale Wodzisław Śląski 2 : 0 Stomil Siedlce
-Filip Piszczek scores Podhale Wodzisław Śląski 2 : 1 Stomil Siedlce
-Maciej Gostomski scores Podhale Wodzisław Śląski 2 : 2 Stomil Siedlce
-Michal Chrapek scores End of match 
-
-Match Tomasovia Ostrowiec Świętokrzyski against Zagłębie Ruhry Jelenia Góra
-Tomasovia Ostrowiec Świętokrzyski 1 : 0 Zagłębie Ruhry Jelenia Góra
-Lukasz Zaluska scores Tomasovia Ostrowiec Świętokrzyski 2 : 0 Zagłębie Ruhry Jelenia Góra
-Bartosz Wolski scores Tomasovia Ostrowiec Świętokrzyski 3 : 0 Zagłębie Ruhry Jelenia Góra
-Lukasz Zaluska scores Tomasovia Ostrowiec Świętokrzyski 4 : 0 Zagłębie Ruhry Jelenia Góra
-Lukasz Zaluska scores Tomasovia Ostrowiec Świętokrzyski 5 : 0 Zagłębie Ruhry Jelenia Góra
-Lukasz Zaluska scores Tomasovia Ostrowiec Świętokrzyski 6 : 0 Zagłębie Ruhry Jelenia Góra
-Bartosz Wolski scores Tomasovia Ostrowiec Świętokrzyski 6 : 1 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores Tomasovia Ostrowiec Świętokrzyski 6 : 2 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores Tomasovia Ostrowiec Świętokrzyski 6 : 3 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores End of match 
-
-Match Miedź II Zgierz against Legia Czerwona Gwiazda Radomsko
-Miedź II Zgierz 1 : 0 Legia Czerwona Gwiazda Radomsko
-Damian Szymanski scores Miedź II Zgierz 1 : 1 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores Miedź II Zgierz 1 : 2 Legia Czerwona Gwiazda Radomsko
-Jeffrey Howard scores Miedź II Zgierz 1 : 3 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores End of match 
-
-Match Podlasie Będzin against Radunia Bytom
-Podlasie Będzin 1 : 0 Radunia Bytom
-Lukasz Janoszka scores Podlasie Będzin 1 : 1 Radunia Bytom
-Mateusz Mozdzen scores Podlasie Będzin 1 : 2 Radunia Bytom
-Mateusz Mozdzen scores Podlasie Będzin 1 : 3 Radunia Bytom
-Mateusz Mozdzen scores Podlasie Będzin 1 : 4 Radunia Bytom
-Mateusz Mozdzen scores End of match 
-
-Match Górnik II Katowice against Gwarek Tarnowski Bytom
-Górnik II Katowice 1 : 0 Gwarek Tarnowski Bytom
-Fred Watson scores Górnik II Katowice 2 : 0 Gwarek Tarnowski Bytom
-Fred Watson scores Górnik II Katowice 3 : 0 Gwarek Tarnowski Bytom
-Patryk Fryc scores Górnik II Katowice 3 : 1 Gwarek Tarnowski Bytom
-Filip Piszczek scores Górnik II Katowice 3 : 2 Gwarek Tarnowski Bytom
-Filip Piszczek scores Górnik II Katowice 3 : 3 Gwarek Tarnowski Bytom
-Szymon Zurkowski scores End of match 
-
-Match Orlęta Lubin against Chojniczanka Skierniewice
-Orlęta Lubin 1 : 0 Chojniczanka Skierniewice
-Garrett Ferguson scores Orlęta Lubin 2 : 0 Chojniczanka Skierniewice
-Alan Walker scores Orlęta Lubin 2 : 1 Chojniczanka Skierniewice
-Ernest Hall scores Orlęta Lubin 2 : 2 Chojniczanka Skierniewice
-Jakub Wojcicki scores End of match 
-
-Match Chojniczanka Skierniewice against Podhale Wodzisław Śląski
-Chojniczanka Skierniewice 1 : 0 Podhale Wodzisław Śląski
-Jakub Wojcicki scores Chojniczanka Skierniewice 2 : 0 Podhale Wodzisław Śląski
-Victor Reed scores End of match 
-
-Match Gwarek Tarnowski Bytom against Orlęta Lubin
-Gwarek Tarnowski Bytom 1 : 0 Orlęta Lubin
-Filip Piszczek scores Gwarek Tarnowski Bytom 2 : 0 Orlęta Lubin
-Brandon Nelson scores Gwarek Tarnowski Bytom 3 : 0 Orlęta Lubin
-Brandon Nelson scores Gwarek Tarnowski Bytom 4 : 0 Orlęta Lubin
-Szymon Zurkowski scores End of match 
-
-Match Radunia Bytom against Górnik II Katowice
-Radunia Bytom 1 : 0 Górnik II Katowice
-Lukasz Janoszka scores Radunia Bytom 2 : 0 Górnik II Katowice
-Mateusz Mozdzen scores Radunia Bytom 3 : 0 Górnik II Katowice
-Daniel Lukasik scores Radunia Bytom 3 : 1 Górnik II Katowice
-Fred Watson scores Radunia Bytom 3 : 2 Górnik II Katowice
-Maciej Domanski scores Radunia Bytom 3 : 3 Górnik II Katowice
-Lukasz Sekulski scores Radunia Bytom 3 : 4 Górnik II Katowice
-Lukasz Sekulski scores End of match 
-
-Match Legia Czerwona Gwiazda Radomsko against Podlasie Będzin
-Legia Czerwona Gwiazda Radomsko 1 : 0 Podlasie Będzin
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 2 : 0 Podlasie Będzin
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 2 : 1 Podlasie Będzin
-Aleksander Jagiello scores Legia Czerwona Gwiazda Radomsko 2 : 2 Podlasie Będzin
-Aleksander Jagiello scores End of match 
-
-Match Zagłębie Ruhry Jelenia Góra against Miedź II Zgierz
-Zagłębie Ruhry Jelenia Góra 1 : 0 Miedź II Zgierz
-Kamil Dankowski scores Zagłębie Ruhry Jelenia Góra 1 : 1 Miedź II Zgierz
-Damian Szymanski scores Zagłębie Ruhry Jelenia Góra 1 : 2 Miedź II Zgierz
-Damian Szymanski scores End of match 
-
-Match Stomil Siedlce against Tomasovia Ostrowiec Świętokrzyski
-Stomil Siedlce 1 : 0 Tomasovia Ostrowiec Świętokrzyski
-Maciej Gostomski scores Stomil Siedlce 2 : 0 Tomasovia Ostrowiec Świętokrzyski
-Maciej Gostomski scores Stomil Siedlce 3 : 0 Tomasovia Ostrowiec Świętokrzyski
-Maciej Gostomski scores Stomil Siedlce 4 : 0 Tomasovia Ostrowiec Świętokrzyski
-Filip Jagiello scores Stomil Siedlce 5 : 0 Tomasovia Ostrowiec Świętokrzyski
-Maciej Gostomski scores Stomil Siedlce 5 : 1 Tomasovia Ostrowiec Świętokrzyski
-Lukasz Zaluska scores Stomil Siedlce 5 : 2 Tomasovia Ostrowiec Świętokrzyski
-Bartosz Rymaniak scores Stomil Siedlce 5 : 3 Tomasovia Ostrowiec Świętokrzyski
-Lukasz Zaluska scores Stomil Siedlce 5 : 4 Tomasovia Ostrowiec Świętokrzyski
-Lukasz Zaluska scores End of match 
-
-Match Podhale Wodzisław Śląski against Tomasovia Ostrowiec Świętokrzyski
-Podhale Wodzisław Śląski 1 : 0 Tomasovia Ostrowiec Świętokrzyski
-Filip Piszczek scores Podhale Wodzisław Śląski 1 : 1 Tomasovia Ostrowiec Świętokrzyski
-Aaron Brooks scores Podhale Wodzisław Śląski 1 : 2 Tomasovia Ostrowiec Świętokrzyski
-Lukasz Zaluska scores End of match 
-
-Match Miedź II Zgierz against Stomil Siedlce
-Miedź II Zgierz 1 : 0 Stomil Siedlce
-Damian Szymanski scores Miedź II Zgierz 1 : 1 Stomil Siedlce
-Maciej Gostomski scores Miedź II Zgierz 1 : 2 Stomil Siedlce
-Maciej Gostomski scores Miedź II Zgierz 1 : 3 Stomil Siedlce
-Maciej Gostomski scores Miedź II Zgierz 1 : 4 Stomil Siedlce
-Maciej Gostomski scores Miedź II Zgierz 1 : 5 Stomil Siedlce
-Maciej Gostomski scores End of match 
-
-Match Podlasie Będzin against Zagłębie Ruhry Jelenia Góra
-Podlasie Będzin 0 : 1 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores Podlasie Będzin 0 : 2 Zagłębie Ruhry Jelenia Góra
-Hubert Adamczyk scores End of match 
-
-Match Górnik II Katowice against Legia Czerwona Gwiazda Radomsko
-Górnik II Katowice 1 : 0 Legia Czerwona Gwiazda Radomsko
-Fred Watson scores Górnik II Katowice 1 : 1 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores End of match 
-
-Match Orlęta Lubin against Radunia Bytom
-Orlęta Lubin 1 : 0 Radunia Bytom
-Garrett Ferguson scores Orlęta Lubin 2 : 0 Radunia Bytom
-Garrett Ferguson scores Orlęta Lubin 3 : 0 Radunia Bytom
-Sean Carter scores Orlęta Lubin 4 : 0 Radunia Bytom
-Garrett Ferguson scores Orlęta Lubin 5 : 0 Radunia Bytom
-Jeffrey Howard scores Orlęta Lubin 6 : 0 Radunia Bytom
-Garrett Ferguson scores Orlęta Lubin 6 : 1 Radunia Bytom
-Lukasz Janoszka scores Orlęta Lubin 6 : 2 Radunia Bytom
-Mateusz Mozdzen scores Orlęta Lubin 6 : 3 Radunia Bytom
-Louis Griffin scores Orlęta Lubin 6 : 4 Radunia Bytom
-Louis Griffin scores End of match 
-
-Match Chojniczanka Skierniewice against Gwarek Tarnowski Bytom
-Chojniczanka Skierniewice 1 : 0 Gwarek Tarnowski Bytom
-Jakub Wojcicki scores Chojniczanka Skierniewice 2 : 0 Gwarek Tarnowski Bytom
-Jakub Wojcicki scores Chojniczanka Skierniewice 3 : 0 Gwarek Tarnowski Bytom
-Jakub Wojcicki scores Chojniczanka Skierniewice 3 : 1 Gwarek Tarnowski Bytom
-Filip Piszczek scores Chojniczanka Skierniewice 3 : 2 Gwarek Tarnowski Bytom
-Filip Piszczek scores Chojniczanka Skierniewice 3 : 3 Gwarek Tarnowski Bytom
-Filip Piszczek scores Chojniczanka Skierniewice 3 : 4 Gwarek Tarnowski Bytom
-Filip Piszczek scores Chojniczanka Skierniewice 3 : 5 Gwarek Tarnowski Bytom
-Filip Piszczek scores End of match 
-
-Match Gwarek Tarnowski Bytom against Podhale Wodzisław Śląski
-Gwarek Tarnowski Bytom 0 : 1 Podhale Wodzisław Śląski
-Cezary Stefanczyk scores Gwarek Tarnowski Bytom 0 : 2 Podhale Wodzisław Śląski
-Kamil Pestka scores Gwarek Tarnowski Bytom 0 : 3 Podhale Wodzisław Śląski
-Kamil Pestka scores Gwarek Tarnowski Bytom 0 : 4 Podhale Wodzisław Śląski
-Steve Lewis scores End of match 
-
-Match Radunia Bytom against Chojniczanka Skierniewice
-Radunia Bytom 1 : 0 Chojniczanka Skierniewice
-Mateusz Mozdzen scores Radunia Bytom 2 : 0 Chojniczanka Skierniewice
-Mateusz Mozdzen scores Radunia Bytom 3 : 0 Chojniczanka Skierniewice
-Mateusz Mozdzen scores Radunia Bytom 4 : 0 Chojniczanka Skierniewice
-Mateusz Mozdzen scores Radunia Bytom 4 : 1 Chojniczanka Skierniewice
-Jakub Wojcicki scores Radunia Bytom 4 : 2 Chojniczanka Skierniewice
-Jakub Wojcicki scores End of match 
-
-Match Legia Czerwona Gwiazda Radomsko against Orlęta Lubin
-Legia Czerwona Gwiazda Radomsko 1 : 0 Orlęta Lubin
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 2 : 0 Orlęta Lubin
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 3 : 0 Orlęta Lubin
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 4 : 0 Orlęta Lubin
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 5 : 0 Orlęta Lubin
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 5 : 1 Orlęta Lubin
-Garrett Ferguson scores Legia Czerwona Gwiazda Radomsko 5 : 2 Orlęta Lubin
-Alan Walker scores End of match 
-
-Match Zagłębie Ruhry Jelenia Góra against Górnik II Katowice
-Zagłębie Ruhry Jelenia Góra 1 : 0 Górnik II Katowice
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 1 : 1 Górnik II Katowice
-Patryk Fryc scores End of match 
-
-Match Stomil Siedlce against Podlasie Będzin
-Stomil Siedlce 1 : 0 Podlasie Będzin
-Lukasz Szukala scores Stomil Siedlce 2 : 0 Podlasie Będzin
-Maciej Gostomski scores Stomil Siedlce 3 : 0 Podlasie Będzin
-Filip Jagiello scores Stomil Siedlce 4 : 0 Podlasie Będzin
-Maciej Gostomski scores Stomil Siedlce 4 : 1 Podlasie Będzin
-Aleksander Jagiello scores Stomil Siedlce 4 : 2 Podlasie Będzin
-Aleksander Jagiello scores End of match 
-
-Match Tomasovia Ostrowiec Świętokrzyski against Miedź II Zgierz
-Tomasovia Ostrowiec Świętokrzyski 1 : 0 Miedź II Zgierz
-Lukasz Zaluska scores Tomasovia Ostrowiec Świętokrzyski 2 : 0 Miedź II Zgierz
-Lukasz Zaluska scores End of match 
-
-Match Podhale Wodzisław Śląski against Miedź II Zgierz
-Podhale Wodzisław Śląski 1 : 0 Miedź II Zgierz
-Peter Anderson scores Podhale Wodzisław Śląski 1 : 1 Miedź II Zgierz
-Damian Szymanski scores Podhale Wodzisław Śląski 1 : 2 Miedź II Zgierz
-Damian Szymanski scores Podhale Wodzisław Śląski 1 : 3 Miedź II Zgierz
-Damian Szymanski scores Podhale Wodzisław Śląski 1 : 4 Miedź II Zgierz
-Damian Szymanski scores End of match 
-
-Match Podlasie Będzin against Tomasovia Ostrowiec Świętokrzyski
-Podlasie Będzin 1 : 0 Tomasovia Ostrowiec Świętokrzyski
-Aleksander Jagiello scores Podlasie Będzin 2 : 0 Tomasovia Ostrowiec Świętokrzyski
-Aleksander Jagiello scores Podlasie Będzin 2 : 1 Tomasovia Ostrowiec Świętokrzyski
-Bartosz Wolski scores End of match 
-
-Match Górnik II Katowice against Stomil Siedlce
-Górnik II Katowice 1 : 0 Stomil Siedlce
-Randy Gonzales scores Górnik II Katowice 2 : 0 Stomil Siedlce
-Patryk Fryc scores Górnik II Katowice 3 : 0 Stomil Siedlce
-Fred Watson scores Górnik II Katowice 3 : 1 Stomil Siedlce
-Maciej Gostomski scores Górnik II Katowice 3 : 2 Stomil Siedlce
-Michal Chrapek scores End of match 
-
-Match Orlęta Lubin against Zagłębie Ruhry Jelenia Góra
-Orlęta Lubin 1 : 0 Zagłębie Ruhry Jelenia Góra
-Jeffrey Howard scores Orlęta Lubin 1 : 1 Zagłębie Ruhry Jelenia Góra
-Marcin Cebula scores Orlęta Lubin 1 : 2 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores End of match 
-
-Match Chojniczanka Skierniewice against Legia Czerwona Gwiazda Radomsko
-Chojniczanka Skierniewice 1 : 0 Legia Czerwona Gwiazda Radomsko
-Jakub Wojcicki scores Chojniczanka Skierniewice 1 : 1 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores End of match 
-
-Match Gwarek Tarnowski Bytom against Radunia Bytom
-Gwarek Tarnowski Bytom 1 : 0 Radunia Bytom
-Szymon Zurkowski scores Gwarek Tarnowski Bytom 2 : 0 Radunia Bytom
-Filip Piszczek scores Gwarek Tarnowski Bytom 3 : 0 Radunia Bytom
-Przemyslaw Mystkowski scores Gwarek Tarnowski Bytom 3 : 1 Radunia Bytom
-Mateusz Mozdzen scores Gwarek Tarnowski Bytom 3 : 2 Radunia Bytom
-Mateusz Mozdzen scores End of match 
-
-Match Radunia Bytom against Podhale Wodzisław Śląski
-Radunia Bytom 1 : 0 Podhale Wodzisław Śląski
-Mateusz Mozdzen scores Radunia Bytom 2 : 0 Podhale Wodzisław Śląski
-Mateusz Mozdzen scores Radunia Bytom 3 : 0 Podhale Wodzisław Śląski
-Mateusz Mozdzen scores Radunia Bytom 4 : 0 Podhale Wodzisław Śląski
-Mateusz Mozdzen scores Radunia Bytom 5 : 0 Podhale Wodzisław Śląski
-Lukasz Janoszka scores Radunia Bytom 6 : 0 Podhale Wodzisław Śląski
-Daniel Lukasik scores Radunia Bytom 6 : 1 Podhale Wodzisław Śląski
-Steve Lewis scores End of match 
-
-Match Legia Czerwona Gwiazda Radomsko against Gwarek Tarnowski Bytom
-Legia Czerwona Gwiazda Radomsko 1 : 0 Gwarek Tarnowski Bytom
-Jeffrey Howard scores Legia Czerwona Gwiazda Radomsko 1 : 1 Gwarek Tarnowski Bytom
-Brandon Nelson scores Legia Czerwona Gwiazda Radomsko 1 : 2 Gwarek Tarnowski Bytom
-Brandon Nelson scores End of match 
-
-Match Zagłębie Ruhry Jelenia Góra against Chojniczanka Skierniewice
-Zagłębie Ruhry Jelenia Góra 1 : 0 Chojniczanka Skierniewice
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 2 : 0 Chojniczanka Skierniewice
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 3 : 0 Chojniczanka Skierniewice
-Damian Podlesny scores End of match 
-
-Match Stomil Siedlce against Orlęta Lubin
-Stomil Siedlce 1 : 0 Orlęta Lubin
-Maciej Gostomski scores Stomil Siedlce 2 : 0 Orlęta Lubin
-Maciej Gostomski scores Stomil Siedlce 3 : 0 Orlęta Lubin
-Maciej Gostomski scores Stomil Siedlce 4 : 0 Orlęta Lubin
-Maciej Gostomski scores Stomil Siedlce 4 : 1 Orlęta Lubin
-Garrett Ferguson scores End of match 
-
-Match Tomasovia Ostrowiec Świętokrzyski against Górnik II Katowice
-Tomasovia Ostrowiec Świętokrzyski 1 : 0 Górnik II Katowice
-Aaron Brooks scores Tomasovia Ostrowiec Świętokrzyski 2 : 0 Górnik II Katowice
-Lukasz Zaluska scores Tomasovia Ostrowiec Świętokrzyski 3 : 0 Górnik II Katowice
-Lukasz Zaluska scores Tomasovia Ostrowiec Świętokrzyski 3 : 1 Górnik II Katowice
-Patryk Fryc scores Tomasovia Ostrowiec Świętokrzyski 3 : 2 Górnik II Katowice
-Fred Watson scores End of match 
-
-Match Miedź II Zgierz against Podlasie Będzin
-Miedź II Zgierz 1 : 0 Podlasie Będzin
-Damian Szymanski scores Miedź II Zgierz 1 : 1 Podlasie Będzin
-Aleksander Jagiello scores Miedź II Zgierz 1 : 2 Podlasie Będzin
-Radoslaw Pruchnik scores Miedź II Zgierz 1 : 3 Podlasie Będzin
-Aleksander Jagiello scores Miedź II Zgierz 1 : 4 Podlasie Będzin
-Aleksander Jagiello scores Miedź II Zgierz 1 : 5 Podlasie Będzin
-Aleksander Jagiello scores End of match 
-
-
-
-********************************************************************
-       TEAM NAME                                  PTS   W    D    L 
-1.  Gwarek Tarnowski Bytom                        20    6    2    3   
-2.  Zagłębie Ruhry Jelenia Góra                   20    6    2    3   
-3.  Tomasovia Ostrowiec Świętokrzyski             20    6    2    3   
-4.  Legia Czerwona Gwiazda Radomsko               19    5    4    2   
-5.  Stomil Siedlce                                17    5    2    4   
-6.  Podlasie Będzin                               16    5    1    5   
-7.  Górnik II Katowice                            14    3    5    3   
-8.  Miedź II Zgierz                               14    4    2    5   
-9.  Orlęta Lubin                                  13    4    1    6   
-10. Radunia Bytom                                 13    4    1    6   
-11. Chojniczanka Skierniewice                     12    2    6    3   
-12. Podhale Wodzisław Śląski                       5    1    2    8   
-********************************************************************
-
-
-   MOST TALENTED PLAYERS   
-1. Adam Stachowiak from Górnik II Katowice with 99 skill points. 
-2. Jakub Wojcicki from Chojniczanka Skierniewice with 99 skill points. 
-3. Karol Mackiewicz from Stomil Siedlce with 98 skill points. 
-4. Adrian Blad from Chojniczanka Skierniewice with 97 skill points. 
-5. Daniel Richardson from Radunia Bytom with 97 skill points. 
-6. Randy Gonzales from Górnik II Katowice with 96 skill points. 
-7. Damian Szymanski from Miedź II Zgierz with 95 skill points. 
-8. Daniel Lukasik from Radunia Bytom with 94 skill points. 
-9. Mateusz Mozdzen from Radunia Bytom with 94 skill points. 
-10. Cezary Stefanczyk from Tomasovia Ostrowiec Świętokrzyski with 94 skill points. 
-11. Louis Griffin from Radunia Bytom with 93 skill points. 
-12. Kevin Young from Stomil Siedlce with 93 skill points. 
-13. Bartosz Wolski from Tomasovia Ostrowiec Świętokrzyski with 93 skill points. 
-14. Artur Sobiech from Miedź II Zgierz with 93 skill points. 
-15. Patryk Lipski from Podlasie Będzin with 92 skill points. 
-16. Seweryn Kielpin from Radunia Bytom with 90 skill points. 
-17. Lukasz Wronski from Legia Czerwona Gwiazda Radomsko with 90 skill points. 
-18. Jerry Butler from Tomasovia Ostrowiec Świętokrzyski with 90 skill points. 
-19. Radoslaw Pruchnik from Miedź II Zgierz with 90 skill points. 
-20. Lukasz Sekulski from Legia Czerwona Gwiazda Radomsko with 89 skill points. 
-
-    BEST LEAGUE SCORERS   
-1. Mateusz Mozdzen STRIKER from team Radunia Bytom scores 26
-2. Maciej Gostomski STRIKER from team Stomil Siedlce scores 23
-3. Lukasz Zaluska STRIKER from team Tomasovia Ostrowiec Świętokrzyski scores 21
-4. Damian Szymanski STRIKER from team Miedź II Zgierz scores 21
-5. Gilberto Lynch STRIKER from team Legia Czerwona Gwiazda Radomsko scores 19
-6. Filip Piszczek STRIKER from team Gwarek Tarnowski Bytom scores 18
-7. Damian Podlesny STRIKER from team Zagłębie Ruhry Jelenia Góra scores 18
-8. Jakub Wojcicki STRIKER from team Chojniczanka Skierniewice scores 16
-9. Aleksander Jagiello STRIKER from team Podlasie Będzin scores 15
-
-
-    BEST TEAM SCORERS   
-Mateusz Mozdzen STRIKER from team Radunia Bytom scores 26
-Maciej Gostomski STRIKER from team Stomil Siedlce scores 23
-Lukasz Zaluska STRIKER from team Tomasovia Ostrowiec Świętokrzyski scores 21
-Damian Szymanski STRIKER from team Miedź II Zgierz scores 21
-Gilberto Lynch STRIKER from team Legia Czerwona Gwiazda Radomsko scores 19
-Filip Piszczek STRIKER from team Gwarek Tarnowski Bytom scores 18
-Damian Podlesny STRIKER from team Zagłębie Ruhry Jelenia Góra scores 18
-Jakub Wojcicki STRIKER from team Chojniczanka Skierniewice scores 16
-Aleksander Jagiello STRIKER from team Podlasie Będzin scores 15
-Garrett Ferguson STRIKER from team Orlęta Lubin scores 13
-Fred Watson STRIKER from team Górnik II Katowice scores 11
-Filip Piszczek MIDFIELDER from team Podhale Wodzisław Śląski scores 5
-
-*****************
-SEASON 2
-*****************
-
-
-Match Podhale Wodzisław Śląski against Podlasie Będzin
-Podhale Wodzisław Śląski 1 : 0 Podlasie Będzin
-Kamil Pestka scores Podhale Wodzisław Śląski 2 : 0 Podlasie Będzin
-Peter Anderson scores Podhale Wodzisław Śląski 2 : 1 Podlasie Będzin
-Aleksander Jagiello scores Podhale Wodzisław Śląski 2 : 2 Podlasie Będzin
-Lukasz Janoszka scores End of match 
-
-Match Górnik II Katowice against Miedź II Zgierz
+Match Puszcza Łomża against Arka Szczecin
+Puszcza Łomża 1 : 0 Arka Szczecin
+James Stewart scores Puszcza Łomża 2 : 0 Arka Szczecin
+Bobby White scores Puszcza Łomża 2 : 1 Arka Szczecin
+Maksymilian Hebel scores End of match 
+
+Match Ruch Legnica against LKS Goczałkowice Suwałki
+Ruch Legnica 1 : 0 LKS Goczałkowice Suwałki
+Piotr Marciniec scores Ruch Legnica 1 : 1 LKS Goczałkowice Suwałki
+Adam Wilk scores End of match 
+
+Match Zagłębie Głebokie Tychy against Siarka Chełm
+Zagłębie Głebokie Tychy 1 : 0 Siarka Chełm
+Przemyslaw Frankowski scores Zagłębie Głebokie Tychy 2 : 0 Siarka Chełm
+Jerry Butler scores Zagłębie Głebokie Tychy 3 : 0 Siarka Chełm
+Jerry Butler scores Zagłębie Głebokie Tychy 3 : 1 Siarka Chełm
+Pawel Oleksy scores Zagłębie Głebokie Tychy 3 : 2 Siarka Chełm
+Christopher Alexander scores Zagłębie Głebokie Tychy 3 : 3 Siarka Chełm
+Christopher Alexander scores End of match 
+
+Match Czarni Radom against KKS Pociąg Siedlce
+Czarni Radom 0 : 1 KKS Pociąg Siedlce
+Keith Barnes scores Czarni Radom 0 : 2 KKS Pociąg Siedlce
+Kamil Mazek scores End of match 
+
+Match KKS Pociąg Siedlce against Ślęza Płock
+KKS Pociąg Siedlce 1 : 0 Ślęza Płock
+Keith Barnes scores KKS Pociąg Siedlce 2 : 0 Ślęza Płock
+Keith Barnes scores KKS Pociąg Siedlce 2 : 1 Ślęza Płock
+Jonathan Ward scores KKS Pociąg Siedlce 2 : 2 Ślęza Płock
+Jonathan Ward scores End of match 
+
+Match Siarka Chełm against Czarni Radom
+Siarka Chełm 1 : 0 Czarni Radom
+Filip Starzynski scores Siarka Chełm 2 : 0 Czarni Radom
+Christopher Alexander scores Siarka Chełm 2 : 1 Czarni Radom
+Travis Carson scores Siarka Chełm 2 : 2 Czarni Radom
+Adam Lopez scores End of match 
+
+Match LKS Goczałkowice Suwałki against Zagłębie Głebokie Tychy
+LKS Goczałkowice Suwałki 1 : 0 Zagłębie Głebokie Tychy
+Oskar Zawada scores LKS Goczałkowice Suwałki 1 : 1 Zagłębie Głebokie Tychy
+Jerry Butler scores LKS Goczałkowice Suwałki 1 : 2 Zagłębie Głebokie Tychy
+Jerry Butler scores End of match 
+
+Match Arka Szczecin against Ruch Legnica
+Arka Szczecin 1 : 0 Ruch Legnica
+Robert Lewandowski scores Arka Szczecin 2 : 0 Ruch Legnica
+Maksymilian Hebel scores Arka Szczecin 3 : 0 Ruch Legnica
+Maksymilian Hebel scores Arka Szczecin 4 : 0 Ruch Legnica
+Maksymilian Hebel scores Arka Szczecin 5 : 0 Ruch Legnica
+Maksymilian Hebel scores Arka Szczecin 5 : 1 Ruch Legnica
+Piotr Marciniec scores Arka Szczecin 5 : 2 Ruch Legnica
+Piotr Marciniec scores End of match 
+
+Match Korona Szczyt Zamość against Puszcza Łomża
 End of match 
 
-Match Orlęta Lubin against Tomasovia Ostrowiec Świętokrzyski
-Orlęta Lubin 1 : 0 Tomasovia Ostrowiec Świętokrzyski
-Garrett Ferguson scores Orlęta Lubin 2 : 0 Tomasovia Ostrowiec Świętokrzyski
-Garrett Ferguson scores Orlęta Lubin 3 : 0 Tomasovia Ostrowiec Świętokrzyski
-Garrett Ferguson scores Orlęta Lubin 3 : 1 Tomasovia Ostrowiec Świętokrzyski
-Lukasz Zaluska scores Orlęta Lubin 3 : 2 Tomasovia Ostrowiec Świętokrzyski
-Lukasz Zaluska scores End of match 
-
-Match Chojniczanka Skierniewice against Stomil Siedlce
-Chojniczanka Skierniewice 1 : 0 Stomil Siedlce
-Jakub Wojcicki scores Chojniczanka Skierniewice 1 : 1 Stomil Siedlce
-Maciej Gostomski scores Chojniczanka Skierniewice 1 : 2 Stomil Siedlce
-Maciej Gostomski scores End of match 
-
-Match Gwarek Tarnowski Bytom against Zagłębie Ruhry Jelenia Góra
-Gwarek Tarnowski Bytom 1 : 0 Zagłębie Ruhry Jelenia Góra
-Filip Piszczek scores Gwarek Tarnowski Bytom 2 : 0 Zagłębie Ruhry Jelenia Góra
-Filip Piszczek scores Gwarek Tarnowski Bytom 2 : 1 Zagłębie Ruhry Jelenia Góra
-Przemyslaw Szarek scores Gwarek Tarnowski Bytom 2 : 2 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores End of match 
-
-Match Radunia Bytom against Legia Czerwona Gwiazda Radomsko
-Radunia Bytom 1 : 0 Legia Czerwona Gwiazda Radomsko
-Lukasz Janoszka scores Radunia Bytom 2 : 0 Legia Czerwona Gwiazda Radomsko
-Mateusz Mozdzen scores Radunia Bytom 3 : 0 Legia Czerwona Gwiazda Radomsko
-Daniel Lukasik scores Radunia Bytom 4 : 0 Legia Czerwona Gwiazda Radomsko
-Mateusz Mozdzen scores Radunia Bytom 4 : 1 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores Radunia Bytom 4 : 2 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores Radunia Bytom 4 : 3 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores Radunia Bytom 4 : 4 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores End of match 
-
-Match Legia Czerwona Gwiazda Radomsko against Podhale Wodzisław Śląski
-Legia Czerwona Gwiazda Radomsko 1 : 0 Podhale Wodzisław Śląski
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 2 : 0 Podhale Wodzisław Śląski
-Gilberto Lynch scores End of match 
-
-Match Zagłębie Ruhry Jelenia Góra against Radunia Bytom
-Zagłębie Ruhry Jelenia Góra 1 : 0 Radunia Bytom
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 2 : 0 Radunia Bytom
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 2 : 1 Radunia Bytom
-Mateusz Mozdzen scores End of match 
-
-Match Stomil Siedlce against Gwarek Tarnowski Bytom
-Stomil Siedlce 1 : 0 Gwarek Tarnowski Bytom
-Maciej Gostomski scores Stomil Siedlce 2 : 0 Gwarek Tarnowski Bytom
-Kevin Young scores Stomil Siedlce 2 : 1 Gwarek Tarnowski Bytom
-Filip Piszczek scores Stomil Siedlce 2 : 2 Gwarek Tarnowski Bytom
-Filip Piszczek scores Stomil Siedlce 2 : 3 Gwarek Tarnowski Bytom
-Brandon Nelson scores Stomil Siedlce 2 : 4 Gwarek Tarnowski Bytom
-Filip Piszczek scores Stomil Siedlce 2 : 5 Gwarek Tarnowski Bytom
-Filip Piszczek scores End of match 
-
-Match Tomasovia Ostrowiec Świętokrzyski against Chojniczanka Skierniewice
-Tomasovia Ostrowiec Świętokrzyski 1 : 0 Chojniczanka Skierniewice
-Cezary Stefanczyk scores Tomasovia Ostrowiec Świętokrzyski 2 : 0 Chojniczanka Skierniewice
-Lukasz Zaluska scores Tomasovia Ostrowiec Świętokrzyski 3 : 0 Chojniczanka Skierniewice
-Lukasz Zaluska scores End of match 
-
-Match Miedź II Zgierz against Orlęta Lubin
-Miedź II Zgierz 1 : 0 Orlęta Lubin
-Damian Szymanski scores Miedź II Zgierz 2 : 0 Orlęta Lubin
-Radoslaw Pruchnik scores Miedź II Zgierz 2 : 1 Orlęta Lubin
-Garrett Ferguson scores Miedź II Zgierz 2 : 2 Orlęta Lubin
-Garrett Ferguson scores Miedź II Zgierz 2 : 3 Orlęta Lubin
-Garrett Ferguson scores Miedź II Zgierz 2 : 4 Orlęta Lubin
-Garrett Ferguson scores End of match 
-
-Match Podlasie Będzin against Górnik II Katowice
-Podlasie Będzin 0 : 1 Górnik II Katowice
-Randy Gonzales scores End of match 
-
-Match Podhale Wodzisław Śląski against Górnik II Katowice
-Podhale Wodzisław Śląski 1 : 0 Górnik II Katowice
-Peter Anderson scores Podhale Wodzisław Śląski 2 : 0 Górnik II Katowice
-Filip Piszczek scores Podhale Wodzisław Śląski 3 : 0 Górnik II Katowice
-Peter Anderson scores Podhale Wodzisław Śląski 4 : 0 Górnik II Katowice
-Peter Anderson scores Podhale Wodzisław Śląski 4 : 1 Górnik II Katowice
-Fred Watson scores End of match 
-
-Match Orlęta Lubin against Podlasie Będzin
-Orlęta Lubin 1 : 0 Podlasie Będzin
-Garrett Ferguson scores Orlęta Lubin 2 : 0 Podlasie Będzin
-Alan Walker scores Orlęta Lubin 3 : 0 Podlasie Będzin
-Sean Carter scores Orlęta Lubin 3 : 1 Podlasie Będzin
-Aleksander Jagiello scores Orlęta Lubin 3 : 2 Podlasie Będzin
-Aleksander Jagiello scores Orlęta Lubin 3 : 3 Podlasie Będzin
-Aleksander Jagiello scores End of match 
-
-Match Chojniczanka Skierniewice against Miedź II Zgierz
-Chojniczanka Skierniewice 1 : 0 Miedź II Zgierz
-Jakub Wojcicki scores Chojniczanka Skierniewice 2 : 0 Miedź II Zgierz
-Jakub Wojcicki scores Chojniczanka Skierniewice 2 : 1 Miedź II Zgierz
-Damian Szymanski scores Chojniczanka Skierniewice 2 : 2 Miedź II Zgierz
-Lukasz Piatek scores End of match 
-
-Match Gwarek Tarnowski Bytom against Tomasovia Ostrowiec Świętokrzyski
-Gwarek Tarnowski Bytom 1 : 0 Tomasovia Ostrowiec Świętokrzyski
-Filip Piszczek scores Gwarek Tarnowski Bytom 2 : 0 Tomasovia Ostrowiec Świętokrzyski
-Brandon Nelson scores Gwarek Tarnowski Bytom 3 : 0 Tomasovia Ostrowiec Świętokrzyski
-Szymon Zurkowski scores Gwarek Tarnowski Bytom 4 : 0 Tomasovia Ostrowiec Świętokrzyski
-Filip Piszczek scores Gwarek Tarnowski Bytom 4 : 1 Tomasovia Ostrowiec Świętokrzyski
-Bartosz Wolski scores End of match 
-
-Match Radunia Bytom against Stomil Siedlce
-Radunia Bytom 1 : 0 Stomil Siedlce
-Mateusz Mozdzen scores Radunia Bytom 2 : 0 Stomil Siedlce
-Mateusz Mozdzen scores Radunia Bytom 3 : 0 Stomil Siedlce
-Mateusz Mozdzen scores Radunia Bytom 3 : 1 Stomil Siedlce
-Maciej Gostomski scores Radunia Bytom 3 : 2 Stomil Siedlce
-Maciej Gostomski scores Radunia Bytom 3 : 3 Stomil Siedlce
-Filip Jagiello scores End of match 
-
-Match Legia Czerwona Gwiazda Radomsko against Zagłębie Ruhry Jelenia Góra
-Legia Czerwona Gwiazda Radomsko 1 : 0 Zagłębie Ruhry Jelenia Góra
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 2 : 0 Zagłębie Ruhry Jelenia Góra
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 2 : 1 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores Legia Czerwona Gwiazda Radomsko 2 : 2 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores End of match 
-
-Match Zagłębie Ruhry Jelenia Góra against Podhale Wodzisław Śląski
-Zagłębie Ruhry Jelenia Góra 1 : 0 Podhale Wodzisław Śląski
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 2 : 0 Podhale Wodzisław Śląski
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 3 : 0 Podhale Wodzisław Śląski
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 4 : 0 Podhale Wodzisław Śląski
-Przemyslaw Szarek scores Zagłębie Ruhry Jelenia Góra 5 : 0 Podhale Wodzisław Śląski
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 5 : 1 Podhale Wodzisław Śląski
-Peter Anderson scores End of match 
-
-Match Stomil Siedlce against Legia Czerwona Gwiazda Radomsko
-Stomil Siedlce 1 : 0 Legia Czerwona Gwiazda Radomsko
-Maciej Gostomski scores Stomil Siedlce 2 : 0 Legia Czerwona Gwiazda Radomsko
-Maciej Gostomski scores Stomil Siedlce 2 : 1 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores End of match 
-
-Match Tomasovia Ostrowiec Świętokrzyski against Radunia Bytom
-Tomasovia Ostrowiec Świętokrzyski 1 : 0 Radunia Bytom
-Lukasz Zaluska scores Tomasovia Ostrowiec Świętokrzyski 2 : 0 Radunia Bytom
-Lukasz Zaluska scores Tomasovia Ostrowiec Świętokrzyski 3 : 0 Radunia Bytom
-Lukasz Zaluska scores Tomasovia Ostrowiec Świętokrzyski 3 : 1 Radunia Bytom
-Mateusz Mozdzen scores Tomasovia Ostrowiec Świętokrzyski 3 : 2 Radunia Bytom
-Mateusz Mozdzen scores End of match 
-
-Match Miedź II Zgierz against Gwarek Tarnowski Bytom
-Miedź II Zgierz 1 : 0 Gwarek Tarnowski Bytom
-Damian Szymanski scores Miedź II Zgierz 2 : 0 Gwarek Tarnowski Bytom
-Willie Diaz scores Miedź II Zgierz 3 : 0 Gwarek Tarnowski Bytom
-Damian Szymanski scores Miedź II Zgierz 3 : 1 Gwarek Tarnowski Bytom
-Filip Piszczek scores Miedź II Zgierz 3 : 2 Gwarek Tarnowski Bytom
-Przemyslaw Mystkowski scores Miedź II Zgierz 3 : 3 Gwarek Tarnowski Bytom
-Filip Piszczek scores End of match 
-
-Match Podlasie Będzin against Chojniczanka Skierniewice
-Podlasie Będzin 1 : 0 Chojniczanka Skierniewice
-Roy Cook scores Podlasie Będzin 1 : 1 Chojniczanka Skierniewice
-Jakub Wojcicki scores Podlasie Będzin 1 : 2 Chojniczanka Skierniewice
-Victor Reed scores End of match 
-
-Match Górnik II Katowice against Orlęta Lubin
-Górnik II Katowice 0 : 1 Orlęta Lubin
-Garrett Ferguson scores End of match 
-
-Match Podhale Wodzisław Śląski against Orlęta Lubin
-Podhale Wodzisław Śląski 0 : 1 Orlęta Lubin
-Sean Carter scores End of match 
-
-Match Chojniczanka Skierniewice against Górnik II Katowice
-Chojniczanka Skierniewice 1 : 0 Górnik II Katowice
-Victor Reed scores Chojniczanka Skierniewice 1 : 1 Górnik II Katowice
-Fred Watson scores Chojniczanka Skierniewice 1 : 2 Górnik II Katowice
-Fred Watson scores End of match 
-
-Match Gwarek Tarnowski Bytom against Podlasie Będzin
-Gwarek Tarnowski Bytom 1 : 0 Podlasie Będzin
-Filip Piszczek scores Gwarek Tarnowski Bytom 2 : 0 Podlasie Będzin
-Filip Piszczek scores Gwarek Tarnowski Bytom 2 : 1 Podlasie Będzin
-Roy Cook scores Gwarek Tarnowski Bytom 2 : 2 Podlasie Będzin
-Aleksander Jagiello scores Gwarek Tarnowski Bytom 2 : 3 Podlasie Będzin
-Aleksander Jagiello scores End of match 
-
-Match Radunia Bytom against Miedź II Zgierz
-Radunia Bytom 1 : 0 Miedź II Zgierz
-Mateusz Mozdzen scores Radunia Bytom 2 : 0 Miedź II Zgierz
-Mateusz Mozdzen scores Radunia Bytom 2 : 1 Miedź II Zgierz
-Damian Szymanski scores Radunia Bytom 2 : 2 Miedź II Zgierz
-Garrett Ferguson scores Radunia Bytom 2 : 3 Miedź II Zgierz
-Damian Szymanski scores Radunia Bytom 2 : 4 Miedź II Zgierz
-Willie Diaz scores End of match 
-
-Match Legia Czerwona Gwiazda Radomsko against Tomasovia Ostrowiec Świętokrzyski
-Legia Czerwona Gwiazda Radomsko 1 : 0 Tomasovia Ostrowiec Świętokrzyski
-Lukasz Sekulski scores Legia Czerwona Gwiazda Radomsko 2 : 0 Tomasovia Ostrowiec Świętokrzyski
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 2 : 1 Tomasovia Ostrowiec Świętokrzyski
-Aaron Brooks scores End of match 
-
-Match Zagłębie Ruhry Jelenia Góra against Stomil Siedlce
-Zagłębie Ruhry Jelenia Góra 1 : 0 Stomil Siedlce
-Hubert Adamczyk scores Zagłębie Ruhry Jelenia Góra 1 : 1 Stomil Siedlce
-Maciej Gostomski scores Zagłębie Ruhry Jelenia Góra 1 : 2 Stomil Siedlce
-Kevin Young scores End of match 
-
-Match Podhale Wodzisław Śląski against Stomil Siedlce
-Podhale Wodzisław Śląski 1 : 0 Stomil Siedlce
-Peter Anderson scores Podhale Wodzisław Śląski 1 : 1 Stomil Siedlce
-Kevin Young scores Podhale Wodzisław Śląski 1 : 2 Stomil Siedlce
-Maciej Gostomski scores Podhale Wodzisław Śląski 1 : 3 Stomil Siedlce
-Lukasz Szukala scores Podhale Wodzisław Śląski 1 : 4 Stomil Siedlce
-Filip Jagiello scores End of match 
-
-Match Tomasovia Ostrowiec Świętokrzyski against Zagłębie Ruhry Jelenia Góra
-Tomasovia Ostrowiec Świętokrzyski 1 : 0 Zagłębie Ruhry Jelenia Góra
-Lukasz Zaluska scores Tomasovia Ostrowiec Świętokrzyski 2 : 0 Zagłębie Ruhry Jelenia Góra
-Aaron Brooks scores Tomasovia Ostrowiec Świętokrzyski 3 : 0 Zagłębie Ruhry Jelenia Góra
-Lukasz Zaluska scores Tomasovia Ostrowiec Świętokrzyski 4 : 0 Zagłębie Ruhry Jelenia Góra
-Bartosz Rymaniak scores Tomasovia Ostrowiec Świętokrzyski 4 : 1 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores Tomasovia Ostrowiec Świętokrzyski 4 : 2 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores Tomasovia Ostrowiec Świętokrzyski 4 : 3 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores Tomasovia Ostrowiec Świętokrzyski 4 : 4 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores End of match 
-
-Match Miedź II Zgierz against Legia Czerwona Gwiazda Radomsko
-Miedź II Zgierz 1 : 0 Legia Czerwona Gwiazda Radomsko
-Willie Diaz scores Miedź II Zgierz 2 : 0 Legia Czerwona Gwiazda Radomsko
-Damian Szymanski scores Miedź II Zgierz 2 : 1 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores Miedź II Zgierz 2 : 2 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores Miedź II Zgierz 2 : 3 Legia Czerwona Gwiazda Radomsko
-Lukasz Sekulski scores End of match 
-
-Match Podlasie Będzin against Radunia Bytom
-Podlasie Będzin 1 : 0 Radunia Bytom
-Roy Cook scores Podlasie Będzin 2 : 0 Radunia Bytom
-Aleksander Jagiello scores Podlasie Będzin 3 : 0 Radunia Bytom
-Aleksander Jagiello scores Podlasie Będzin 4 : 0 Radunia Bytom
-Aleksander Jagiello scores Podlasie Będzin 4 : 1 Radunia Bytom
-Mateusz Mozdzen scores End of match 
-
-Match Górnik II Katowice against Gwarek Tarnowski Bytom
-Górnik II Katowice 1 : 0 Gwarek Tarnowski Bytom
-Fred Watson scores Górnik II Katowice 2 : 0 Gwarek Tarnowski Bytom
-Fred Watson scores Górnik II Katowice 3 : 0 Gwarek Tarnowski Bytom
-Lukasz Sekulski scores Górnik II Katowice 3 : 1 Gwarek Tarnowski Bytom
-Filip Piszczek scores Górnik II Katowice 3 : 2 Gwarek Tarnowski Bytom
-Filip Piszczek scores End of match 
-
-Match Orlęta Lubin against Chojniczanka Skierniewice
-Orlęta Lubin 0 : 1 Chojniczanka Skierniewice
-Adrian Blad scores Orlęta Lubin 0 : 2 Chojniczanka Skierniewice
-Adrian Blad scores End of match 
-
-Match Chojniczanka Skierniewice against Podhale Wodzisław Śląski
-Chojniczanka Skierniewice 1 : 0 Podhale Wodzisław Śląski
-Jakub Wojcicki scores Chojniczanka Skierniewice 1 : 1 Podhale Wodzisław Śląski
-Peter Anderson scores End of match 
-
-Match Gwarek Tarnowski Bytom against Orlęta Lubin
-Gwarek Tarnowski Bytom 1 : 0 Orlęta Lubin
-Szymon Zurkowski scores Gwarek Tarnowski Bytom 1 : 1 Orlęta Lubin
-Garrett Ferguson scores End of match 
-
-Match Radunia Bytom against Górnik II Katowice
-Radunia Bytom 1 : 0 Górnik II Katowice
-Mateusz Mozdzen scores Radunia Bytom 2 : 0 Górnik II Katowice
-Mateusz Mozdzen scores Radunia Bytom 3 : 0 Górnik II Katowice
-Mateusz Mozdzen scores Radunia Bytom 4 : 0 Górnik II Katowice
-Mateusz Mozdzen scores Radunia Bytom 5 : 0 Górnik II Katowice
-Mateusz Mozdzen scores Radunia Bytom 5 : 1 Górnik II Katowice
-Maciej Domanski scores Radunia Bytom 5 : 2 Górnik II Katowice
-Lukasz Sekulski scores Radunia Bytom 5 : 3 Górnik II Katowice
-Maciej Domanski scores End of match 
-
-Match Legia Czerwona Gwiazda Radomsko against Podlasie Będzin
-Legia Czerwona Gwiazda Radomsko 1 : 0 Podlasie Będzin
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 2 : 0 Podlasie Będzin
-Lukasz Wronski scores Legia Czerwona Gwiazda Radomsko 2 : 1 Podlasie Będzin
-Roy Cook scores Legia Czerwona Gwiazda Radomsko 2 : 2 Podlasie Będzin
-Lukasz Janoszka scores End of match 
-
-Match Zagłębie Ruhry Jelenia Góra against Miedź II Zgierz
-Zagłębie Ruhry Jelenia Góra 1 : 0 Miedź II Zgierz
-Przemyslaw Szarek scores Zagłębie Ruhry Jelenia Góra 2 : 0 Miedź II Zgierz
-Kamil Dankowski scores Zagłębie Ruhry Jelenia Góra 2 : 1 Miedź II Zgierz
-Damian Szymanski scores Zagłębie Ruhry Jelenia Góra 2 : 2 Miedź II Zgierz
-Damian Szymanski scores Zagłębie Ruhry Jelenia Góra 2 : 3 Miedź II Zgierz
-Willie Diaz scores End of match 
-
-Match Stomil Siedlce against Tomasovia Ostrowiec Świętokrzyski
-Stomil Siedlce 1 : 0 Tomasovia Ostrowiec Świętokrzyski
-Maciej Gostomski scores Stomil Siedlce 2 : 0 Tomasovia Ostrowiec Świętokrzyski
-Michal Chrapek scores Stomil Siedlce 2 : 1 Tomasovia Ostrowiec Świętokrzyski
-Bartosz Rymaniak scores Stomil Siedlce 2 : 2 Tomasovia Ostrowiec Świętokrzyski
-Lukasz Zaluska scores Stomil Siedlce 2 : 3 Tomasovia Ostrowiec Świętokrzyski
-Aaron Brooks scores End of match 
-
-Match Podhale Wodzisław Śląski against Tomasovia Ostrowiec Świętokrzyski
-Podhale Wodzisław Śląski 1 : 0 Tomasovia Ostrowiec Świętokrzyski
-Filip Piszczek scores Podhale Wodzisław Śląski 1 : 1 Tomasovia Ostrowiec Świętokrzyski
-Aaron Brooks scores Podhale Wodzisław Śląski 1 : 2 Tomasovia Ostrowiec Świętokrzyski
-Lukasz Zaluska scores End of match 
-
-Match Miedź II Zgierz against Stomil Siedlce
-Miedź II Zgierz 1 : 0 Stomil Siedlce
-Damian Szymanski scores Miedź II Zgierz 2 : 0 Stomil Siedlce
-Damian Szymanski scores Miedź II Zgierz 2 : 1 Stomil Siedlce
-Maciej Gostomski scores Miedź II Zgierz 2 : 2 Stomil Siedlce
-Maciej Gostomski scores Miedź II Zgierz 2 : 3 Stomil Siedlce
-Maciej Gostomski scores Miedź II Zgierz 2 : 4 Stomil Siedlce
-Maciej Gostomski scores End of match 
-
-Match Podlasie Będzin against Zagłębie Ruhry Jelenia Góra
-Podlasie Będzin 1 : 0 Zagłębie Ruhry Jelenia Góra
-Roy Cook scores Podlasie Będzin 2 : 0 Zagłębie Ruhry Jelenia Góra
-Aleksander Jagiello scores Podlasie Będzin 2 : 1 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores End of match 
-
-Match Górnik II Katowice against Legia Czerwona Gwiazda Radomsko
-Górnik II Katowice 1 : 0 Legia Czerwona Gwiazda Radomsko
-Fred Watson scores Górnik II Katowice 2 : 0 Legia Czerwona Gwiazda Radomsko
-Fred Watson scores Górnik II Katowice 2 : 1 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores End of match 
-
-Match Orlęta Lubin against Radunia Bytom
-Orlęta Lubin 1 : 0 Radunia Bytom
-Jeffrey Howard scores End of match 
-
-Match Chojniczanka Skierniewice against Gwarek Tarnowski Bytom
-Chojniczanka Skierniewice 1 : 0 Gwarek Tarnowski Bytom
-Adrian Blad scores Chojniczanka Skierniewice 2 : 0 Gwarek Tarnowski Bytom
-Jakub Wojcicki scores Chojniczanka Skierniewice 2 : 1 Gwarek Tarnowski Bytom
-Filip Piszczek scores End of match 
-
-Match Gwarek Tarnowski Bytom against Podhale Wodzisław Śląski
-Gwarek Tarnowski Bytom 1 : 0 Podhale Wodzisław Śląski
-Filip Piszczek scores Gwarek Tarnowski Bytom 2 : 0 Podhale Wodzisław Śląski
-Filip Piszczek scores Gwarek Tarnowski Bytom 3 : 0 Podhale Wodzisław Śląski
-Brandon Nelson scores Gwarek Tarnowski Bytom 3 : 1 Podhale Wodzisław Śląski
-Peter Anderson scores End of match 
-
-Match Radunia Bytom against Chojniczanka Skierniewice
-Radunia Bytom 1 : 0 Chojniczanka Skierniewice
-Mateusz Mozdzen scores Radunia Bytom 2 : 0 Chojniczanka Skierniewice
-Mateusz Mozdzen scores Radunia Bytom 3 : 0 Chojniczanka Skierniewice
-Daniel Lukasik scores Radunia Bytom 4 : 0 Chojniczanka Skierniewice
-Mateusz Mozdzen scores Radunia Bytom 4 : 1 Chojniczanka Skierniewice
-Jakub Wojcicki scores Radunia Bytom 4 : 2 Chojniczanka Skierniewice
-Jakub Wojcicki scores End of match 
-
-Match Legia Czerwona Gwiazda Radomsko against Orlęta Lubin
-Legia Czerwona Gwiazda Radomsko 1 : 0 Orlęta Lubin
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 2 : 0 Orlęta Lubin
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 3 : 0 Orlęta Lubin
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 4 : 0 Orlęta Lubin
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 4 : 1 Orlęta Lubin
-Garrett Ferguson scores Legia Czerwona Gwiazda Radomsko 4 : 2 Orlęta Lubin
-Garrett Ferguson scores End of match 
-
-Match Zagłębie Ruhry Jelenia Góra against Górnik II Katowice
-Zagłębie Ruhry Jelenia Góra 1 : 0 Górnik II Katowice
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 2 : 0 Górnik II Katowice
-Marcin Cebula scores Zagłębie Ruhry Jelenia Góra 3 : 0 Górnik II Katowice
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 4 : 0 Górnik II Katowice
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 4 : 1 Górnik II Katowice
-Fred Watson scores Zagłębie Ruhry Jelenia Góra 4 : 2 Górnik II Katowice
-Fred Watson scores Zagłębie Ruhry Jelenia Góra 4 : 3 Górnik II Katowice
-Fred Watson scores End of match 
-
-Match Stomil Siedlce against Podlasie Będzin
-Stomil Siedlce 1 : 0 Podlasie Będzin
-Maciej Gostomski scores Stomil Siedlce 2 : 0 Podlasie Będzin
-Maciej Gostomski scores Stomil Siedlce 3 : 0 Podlasie Będzin
-Maciej Gostomski scores Stomil Siedlce 3 : 1 Podlasie Będzin
-Aleksander Jagiello scores Stomil Siedlce 3 : 2 Podlasie Będzin
-Radoslaw Pruchnik scores End of match 
-
-Match Tomasovia Ostrowiec Świętokrzyski against Miedź II Zgierz
-Tomasovia Ostrowiec Świętokrzyski 1 : 0 Miedź II Zgierz
-Lukasz Zaluska scores Tomasovia Ostrowiec Świętokrzyski 2 : 0 Miedź II Zgierz
-Lukasz Zaluska scores Tomasovia Ostrowiec Świętokrzyski 3 : 0 Miedź II Zgierz
-Bartosz Rymaniak scores Tomasovia Ostrowiec Świętokrzyski 4 : 0 Miedź II Zgierz
-Lukasz Zaluska scores Tomasovia Ostrowiec Świętokrzyski 5 : 0 Miedź II Zgierz
-Lukasz Zaluska scores Tomasovia Ostrowiec Świętokrzyski 5 : 1 Miedź II Zgierz
-Damian Szymanski scores End of match 
-
-Match Podhale Wodzisław Śląski against Miedź II Zgierz
-Podhale Wodzisław Śląski 1 : 0 Miedź II Zgierz
-Peter Anderson scores Podhale Wodzisław Śląski 1 : 1 Miedź II Zgierz
-Damian Szymanski scores Podhale Wodzisław Śląski 1 : 2 Miedź II Zgierz
-Damian Szymanski scores End of match 
-
-Match Podlasie Będzin against Tomasovia Ostrowiec Świętokrzyski
-Podlasie Będzin 1 : 0 Tomasovia Ostrowiec Świętokrzyski
-Roy Cook scores Podlasie Będzin 2 : 0 Tomasovia Ostrowiec Świętokrzyski
-Aleksander Jagiello scores Podlasie Będzin 2 : 1 Tomasovia Ostrowiec Świętokrzyski
-Bartosz Wolski scores Podlasie Będzin 2 : 2 Tomasovia Ostrowiec Świętokrzyski
-Lukasz Zaluska scores End of match 
-
-Match Górnik II Katowice against Stomil Siedlce
-Górnik II Katowice 1 : 0 Stomil Siedlce
-Fred Watson scores Górnik II Katowice 2 : 0 Stomil Siedlce
-Randy Gonzales scores Górnik II Katowice 2 : 1 Stomil Siedlce
-Michal Chrapek scores Górnik II Katowice 2 : 2 Stomil Siedlce
-Maciej Gostomski scores Górnik II Katowice 2 : 3 Stomil Siedlce
-Kevin Young scores End of match 
-
-Match Orlęta Lubin against Zagłębie Ruhry Jelenia Góra
-Orlęta Lubin 1 : 0 Zagłębie Ruhry Jelenia Góra
-Garrett Ferguson scores Orlęta Lubin 1 : 1 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores Orlęta Lubin 1 : 2 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores Orlęta Lubin 1 : 3 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores End of match 
-
-Match Chojniczanka Skierniewice against Legia Czerwona Gwiazda Radomsko
-Chojniczanka Skierniewice 1 : 0 Legia Czerwona Gwiazda Radomsko
-Jakub Wojcicki scores Chojniczanka Skierniewice 1 : 1 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores Chojniczanka Skierniewice 1 : 2 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores End of match 
-
-Match Gwarek Tarnowski Bytom against Radunia Bytom
-Gwarek Tarnowski Bytom 1 : 0 Radunia Bytom
-Brandon Nelson scores Gwarek Tarnowski Bytom 2 : 0 Radunia Bytom
-Filip Piszczek scores Gwarek Tarnowski Bytom 3 : 0 Radunia Bytom
-Przemyslaw Mystkowski scores Gwarek Tarnowski Bytom 3 : 1 Radunia Bytom
-Mateusz Mozdzen scores End of match 
-
-Match Radunia Bytom against Podhale Wodzisław Śląski
-Radunia Bytom 1 : 0 Podhale Wodzisław Śląski
-Louis Griffin scores Radunia Bytom 1 : 1 Podhale Wodzisław Śląski
-Kamil Pestka scores End of match 
-
-Match Legia Czerwona Gwiazda Radomsko against Gwarek Tarnowski Bytom
-Legia Czerwona Gwiazda Radomsko 1 : 0 Gwarek Tarnowski Bytom
-Lukasz Wronski scores Legia Czerwona Gwiazda Radomsko 2 : 0 Gwarek Tarnowski Bytom
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 3 : 0 Gwarek Tarnowski Bytom
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 4 : 0 Gwarek Tarnowski Bytom
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 4 : 1 Gwarek Tarnowski Bytom
-Filip Piszczek scores Legia Czerwona Gwiazda Radomsko 4 : 2 Gwarek Tarnowski Bytom
-Filip Piszczek scores Legia Czerwona Gwiazda Radomsko 4 : 3 Gwarek Tarnowski Bytom
-Szymon Zurkowski scores Legia Czerwona Gwiazda Radomsko 4 : 4 Gwarek Tarnowski Bytom
-Szymon Zurkowski scores End of match 
-
-Match Zagłębie Ruhry Jelenia Góra against Chojniczanka Skierniewice
-Zagłębie Ruhry Jelenia Góra 1 : 0 Chojniczanka Skierniewice
-Przemyslaw Szarek scores Zagłębie Ruhry Jelenia Góra 2 : 0 Chojniczanka Skierniewice
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 3 : 0 Chojniczanka Skierniewice
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 4 : 0 Chojniczanka Skierniewice
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 5 : 0 Chojniczanka Skierniewice
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 5 : 1 Chojniczanka Skierniewice
-Ernest Hall scores Zagłębie Ruhry Jelenia Góra 5 : 2 Chojniczanka Skierniewice
-Jakub Wojcicki scores Zagłębie Ruhry Jelenia Góra 5 : 3 Chojniczanka Skierniewice
-Victor Reed scores End of match 
-
-Match Stomil Siedlce against Orlęta Lubin
-Stomil Siedlce 1 : 0 Orlęta Lubin
-Lukasz Szukala scores Stomil Siedlce 2 : 0 Orlęta Lubin
-Maciej Gostomski scores Stomil Siedlce 3 : 0 Orlęta Lubin
-Maciej Gostomski scores Stomil Siedlce 4 : 0 Orlęta Lubin
-Maciej Gostomski scores Stomil Siedlce 4 : 1 Orlęta Lubin
-Garrett Ferguson scores Stomil Siedlce 4 : 2 Orlęta Lubin
-Garrett Ferguson scores End of match 
-
-Match Tomasovia Ostrowiec Świętokrzyski against Górnik II Katowice
-Tomasovia Ostrowiec Świętokrzyski 1 : 0 Górnik II Katowice
-Lukasz Zaluska scores Tomasovia Ostrowiec Świętokrzyski 1 : 1 Górnik II Katowice
-Patryk Fryc scores End of match 
-
-Match Miedź II Zgierz against Podlasie Będzin
-Miedź II Zgierz 1 : 0 Podlasie Będzin
-Damian Szymanski scores Miedź II Zgierz 2 : 0 Podlasie Będzin
-Damian Szymanski scores Miedź II Zgierz 3 : 0 Podlasie Będzin
-Damian Szymanski scores Miedź II Zgierz 3 : 1 Podlasie Będzin
-Aleksander Jagiello scores Miedź II Zgierz 3 : 2 Podlasie Będzin
-Aleksander Jagiello scores Miedź II Zgierz 3 : 3 Podlasie Będzin
-Roy Cook scores Miedź II Zgierz 3 : 4 Podlasie Będzin
-Aleksander Jagiello scores Miedź II Zgierz 3 : 5 Podlasie Będzin
-Roy Cook scores End of match 
-
-
-
-********************************************************************
-       TEAM NAME                                  PTS   W    D    L 
-1.  Stomil Siedlce                                25    8    1    2   
-2.  Legia Czerwona Gwiazda Radomsko               19    5    4    2   
-3.  Zagłębie Ruhry Jelenia Góra                   18    5    3    3   
-4.  Tomasovia Ostrowiec Świętokrzyski             18    5    3    3   
-5.  Orlęta Lubin                                  17    5    2    4   
-6.  Podlasie Będzin                               16    4    4    3   
-7.  Gwarek Tarnowski Bytom                        16    4    4    3   
-8.  Górnik II Katowice                            14    4    2    5   
-9.  Miedź II Zgierz                               12    3    3    5   
-10. Chojniczanka Skierniewice                     11    3    2    6   
-11. Radunia Bytom                                  9    2    3    6   
-12. Podhale Wodzisław Śląski                       6    1    3    7   
-********************************************************************
-
-
-   MOST TALENTED PLAYERS   
-1. Adam Stachowiak from Górnik II Katowice with 99 skill points. 
-2. Jakub Wojcicki from Chojniczanka Skierniewice with 99 skill points. 
-3. Karol Mackiewicz from Stomil Siedlce with 98 skill points. 
-4. Adrian Blad from Chojniczanka Skierniewice with 97 skill points. 
-5. Daniel Richardson from Radunia Bytom with 97 skill points. 
-6. Randy Gonzales from Górnik II Katowice with 96 skill points. 
-7. Damian Szymanski from Miedź II Zgierz with 95 skill points. 
-8. Daniel Lukasik from Radunia Bytom with 94 skill points. 
-9. Mateusz Mozdzen from Radunia Bytom with 94 skill points. 
-10. Cezary Stefanczyk from Tomasovia Ostrowiec Świętokrzyski with 94 skill points. 
-11. Louis Griffin from Radunia Bytom with 93 skill points. 
-12. Kevin Young from Stomil Siedlce with 93 skill points. 
-13. Bartosz Wolski from Tomasovia Ostrowiec Świętokrzyski with 93 skill points. 
-14. Artur Sobiech from Miedź II Zgierz with 93 skill points. 
-15. Patryk Lipski from Podlasie Będzin with 92 skill points. 
-16. Seweryn Kielpin from Radunia Bytom with 90 skill points. 
-17. Lukasz Wronski from Legia Czerwona Gwiazda Radomsko with 90 skill points. 
-18. Jerry Butler from Tomasovia Ostrowiec Świętokrzyski with 90 skill points. 
-19. Radoslaw Pruchnik from Miedź II Zgierz with 90 skill points. 
-20. Lukasz Sekulski from Legia Czerwona Gwiazda Radomsko with 89 skill points. 
-
-    BEST LEAGUE SCORERS   
-1. Damian Podlesny STRIKER from team Zagłębie Ruhry Jelenia Góra scores 24
-2. Gilberto Lynch STRIKER from team Legia Czerwona Gwiazda Radomsko scores 23
-3. Maciej Gostomski STRIKER from team Stomil Siedlce scores 21
-4. Filip Piszczek STRIKER from team Gwarek Tarnowski Bytom scores 20
-5. Mateusz Mozdzen STRIKER from team Radunia Bytom scores 20
-6. Lukasz Zaluska STRIKER from team Tomasovia Ostrowiec Świętokrzyski scores 17
-7. Damian Szymanski STRIKER from team Miedź II Zgierz scores 17
-8. Aleksander Jagiello STRIKER from team Podlasie Będzin scores 15
-9. Garrett Ferguson STRIKER from team Orlęta Lubin scores 15
-
-
-    BEST TEAM SCORERS   
-Damian Podlesny STRIKER from team Zagłębie Ruhry Jelenia Góra scores 24
-Gilberto Lynch STRIKER from team Legia Czerwona Gwiazda Radomsko scores 23
-Maciej Gostomski STRIKER from team Stomil Siedlce scores 21
-Filip Piszczek STRIKER from team Gwarek Tarnowski Bytom scores 20
-Mateusz Mozdzen STRIKER from team Radunia Bytom scores 20
-Lukasz Zaluska STRIKER from team Tomasovia Ostrowiec Świętokrzyski scores 17
-Damian Szymanski STRIKER from team Miedź II Zgierz scores 17
-Aleksander Jagiello STRIKER from team Podlasie Będzin scores 15
-Garrett Ferguson STRIKER from team Orlęta Lubin scores 15
-Fred Watson STRIKER from team Górnik II Katowice scores 11
-Jakub Wojcicki STRIKER from team Chojniczanka Skierniewice scores 10
-Peter Anderson STRIKER from team Podhale Wodzisław Śląski scores 9
-
-*****************
-SEASON 3
-*****************
-
-
-Match Podhale Wodzisław Śląski against Podlasie Będzin
-Podhale Wodzisław Śląski 1 : 0 Podlasie Będzin
-Peter Anderson scores Podhale Wodzisław Śląski 1 : 1 Podlasie Będzin
-Roy Cook scores Podhale Wodzisław Śląski 1 : 2 Podlasie Będzin
-Aleksander Jagiello scores End of match 
-
-Match Górnik II Katowice against Miedź II Zgierz
-Górnik II Katowice 1 : 0 Miedź II Zgierz
-Fred Watson scores Górnik II Katowice 1 : 1 Miedź II Zgierz
-Damian Szymanski scores End of match 
-
-Match Orlęta Lubin against Tomasovia Ostrowiec Świętokrzyski
-Orlęta Lubin 1 : 0 Tomasovia Ostrowiec Świętokrzyski
-Garrett Ferguson scores Orlęta Lubin 2 : 0 Tomasovia Ostrowiec Świętokrzyski
-Garrett Ferguson scores Orlęta Lubin 2 : 1 Tomasovia Ostrowiec Świętokrzyski
-Aaron Brooks scores Orlęta Lubin 2 : 2 Tomasovia Ostrowiec Świętokrzyski
-Aaron Brooks scores End of match 
-
-Match Chojniczanka Skierniewice against Stomil Siedlce
-Chojniczanka Skierniewice 1 : 0 Stomil Siedlce
-Jakub Wojcicki scores Chojniczanka Skierniewice 2 : 0 Stomil Siedlce
-Victor Reed scores Chojniczanka Skierniewice 2 : 1 Stomil Siedlce
-Maciej Gostomski scores Chojniczanka Skierniewice 2 : 2 Stomil Siedlce
-Maciej Gostomski scores End of match 
-
-Match Gwarek Tarnowski Bytom against Zagłębie Ruhry Jelenia Góra
-Gwarek Tarnowski Bytom 1 : 0 Zagłębie Ruhry Jelenia Góra
-Brandon Nelson scores Gwarek Tarnowski Bytom 2 : 0 Zagłębie Ruhry Jelenia Góra
-Filip Piszczek scores Gwarek Tarnowski Bytom 3 : 0 Zagłębie Ruhry Jelenia Góra
-Brandon Nelson scores Gwarek Tarnowski Bytom 4 : 0 Zagłębie Ruhry Jelenia Góra
-Szymon Zurkowski scores Gwarek Tarnowski Bytom 4 : 1 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores End of match 
-
-Match Radunia Bytom against Legia Czerwona Gwiazda Radomsko
-Radunia Bytom 1 : 0 Legia Czerwona Gwiazda Radomsko
-Mateusz Mozdzen scores Radunia Bytom 2 : 0 Legia Czerwona Gwiazda Radomsko
-Mateusz Mozdzen scores Radunia Bytom 3 : 0 Legia Czerwona Gwiazda Radomsko
-Daniel Lukasik scores Radunia Bytom 3 : 1 Legia Czerwona Gwiazda Radomsko
-Lukasz Sekulski scores Radunia Bytom 3 : 2 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores Radunia Bytom 3 : 3 Legia Czerwona Gwiazda Radomsko
-Brendan Gregory scores Radunia Bytom 3 : 4 Legia Czerwona Gwiazda Radomsko
-Jeffrey Howard scores Radunia Bytom 3 : 5 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores Radunia Bytom 3 : 6 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores End of match 
-
-Match Legia Czerwona Gwiazda Radomsko against Podhale Wodzisław Śląski
-Legia Czerwona Gwiazda Radomsko 1 : 0 Podhale Wodzisław Śląski
-Brendan Gregory scores Legia Czerwona Gwiazda Radomsko 2 : 0 Podhale Wodzisław Śląski
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 3 : 0 Podhale Wodzisław Śląski
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 4 : 0 Podhale Wodzisław Śląski
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 4 : 1 Podhale Wodzisław Śląski
-Kamil Pestka scores End of match 
-
-Match Zagłębie Ruhry Jelenia Góra against Radunia Bytom
-Zagłębie Ruhry Jelenia Góra 1 : 0 Radunia Bytom
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 2 : 0 Radunia Bytom
-Marcin Cebula scores Zagłębie Ruhry Jelenia Góra 3 : 0 Radunia Bytom
-Marcin Cebula scores Zagłębie Ruhry Jelenia Góra 4 : 0 Radunia Bytom
-Hubert Adamczyk scores Zagłębie Ruhry Jelenia Góra 5 : 0 Radunia Bytom
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 5 : 1 Radunia Bytom
-Seweryn Kielpin scores Zagłębie Ruhry Jelenia Góra 5 : 2 Radunia Bytom
-Mateusz Mozdzen scores End of match 
-
-Match Stomil Siedlce against Gwarek Tarnowski Bytom
-Stomil Siedlce 1 : 0 Gwarek Tarnowski Bytom
-Maciej Gostomski scores Stomil Siedlce 2 : 0 Gwarek Tarnowski Bytom
-Maciej Gostomski scores Stomil Siedlce 2 : 1 Gwarek Tarnowski Bytom
-Filip Piszczek scores Stomil Siedlce 2 : 2 Gwarek Tarnowski Bytom
-Szymon Zurkowski scores Stomil Siedlce 2 : 3 Gwarek Tarnowski Bytom
-Filip Piszczek scores Stomil Siedlce 2 : 4 Gwarek Tarnowski Bytom
-Przemyslaw Mystkowski scores End of match 
-
-Match Tomasovia Ostrowiec Świętokrzyski against Chojniczanka Skierniewice
-Tomasovia Ostrowiec Świętokrzyski 1 : 0 Chojniczanka Skierniewice
-Lukasz Zaluska scores Tomasovia Ostrowiec Świętokrzyski 2 : 0 Chojniczanka Skierniewice
-Lukasz Zaluska scores Tomasovia Ostrowiec Świętokrzyski 3 : 0 Chojniczanka Skierniewice
-Bartosz Rymaniak scores Tomasovia Ostrowiec Świętokrzyski 3 : 1 Chojniczanka Skierniewice
-Jakub Wojcicki scores Tomasovia Ostrowiec Świętokrzyski 3 : 2 Chojniczanka Skierniewice
-Victor Reed scores End of match 
-
-Match Miedź II Zgierz against Orlęta Lubin
-Miedź II Zgierz 0 : 1 Orlęta Lubin
-Garrett Ferguson scores Miedź II Zgierz 0 : 2 Orlęta Lubin
-Garrett Ferguson scores Miedź II Zgierz 0 : 3 Orlęta Lubin
-Garrett Ferguson scores End of match 
-
-Match Podlasie Będzin against Górnik II Katowice
-Podlasie Będzin 1 : 0 Górnik II Katowice
-Aleksander Jagiello scores Podlasie Będzin 2 : 0 Górnik II Katowice
-Aleksander Jagiello scores Podlasie Będzin 3 : 0 Górnik II Katowice
-Roy Cook scores End of match 
-
-Match Podhale Wodzisław Śląski against Górnik II Katowice
-Podhale Wodzisław Śląski 0 : 1 Górnik II Katowice
-Lukasz Sekulski scores Podhale Wodzisław Śląski 0 : 2 Górnik II Katowice
-Fred Watson scores Podhale Wodzisław Śląski 0 : 3 Górnik II Katowice
-Lukasz Sekulski scores End of match 
-
-Match Orlęta Lubin against Podlasie Będzin
-Orlęta Lubin 1 : 0 Podlasie Będzin
-Garrett Ferguson scores Orlęta Lubin 2 : 0 Podlasie Będzin
-Sean Carter scores Orlęta Lubin 2 : 1 Podlasie Będzin
-Aleksander Jagiello scores Orlęta Lubin 2 : 2 Podlasie Będzin
-Aleksander Jagiello scores Orlęta Lubin 2 : 3 Podlasie Będzin
-Radoslaw Pruchnik scores Orlęta Lubin 2 : 4 Podlasie Będzin
-Aleksander Jagiello scores End of match 
-
-Match Chojniczanka Skierniewice against Miedź II Zgierz
-Chojniczanka Skierniewice 1 : 0 Miedź II Zgierz
-Jakub Wojcicki scores Chojniczanka Skierniewice 2 : 0 Miedź II Zgierz
-Jakub Wojcicki scores Chojniczanka Skierniewice 2 : 1 Miedź II Zgierz
-Willie Diaz scores Chojniczanka Skierniewice 2 : 2 Miedź II Zgierz
-Damian Szymanski scores Chojniczanka Skierniewice 2 : 3 Miedź II Zgierz
-Damian Szymanski scores Chojniczanka Skierniewice 2 : 4 Miedź II Zgierz
-Damian Szymanski scores End of match 
-
-Match Gwarek Tarnowski Bytom against Tomasovia Ostrowiec Świętokrzyski
-Gwarek Tarnowski Bytom 1 : 0 Tomasovia Ostrowiec Świętokrzyski
-Brandon Nelson scores Gwarek Tarnowski Bytom 1 : 1 Tomasovia Ostrowiec Świętokrzyski
-Cezary Stefanczyk scores Gwarek Tarnowski Bytom 1 : 2 Tomasovia Ostrowiec Świętokrzyski
-Lukasz Zaluska scores End of match 
-
-Match Radunia Bytom against Stomil Siedlce
-Radunia Bytom 1 : 0 Stomil Siedlce
-Seweryn Kielpin scores Radunia Bytom 2 : 0 Stomil Siedlce
-Mateusz Mozdzen scores Radunia Bytom 3 : 0 Stomil Siedlce
-Mateusz Mozdzen scores Radunia Bytom 4 : 0 Stomil Siedlce
-Mateusz Mozdzen scores Radunia Bytom 4 : 1 Stomil Siedlce
-Filip Jagiello scores Radunia Bytom 4 : 2 Stomil Siedlce
-Michal Chrapek scores Radunia Bytom 4 : 3 Stomil Siedlce
-Michal Chrapek scores End of match 
-
-Match Legia Czerwona Gwiazda Radomsko against Zagłębie Ruhry Jelenia Góra
-Legia Czerwona Gwiazda Radomsko 1 : 0 Zagłębie Ruhry Jelenia Góra
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 2 : 0 Zagłębie Ruhry Jelenia Góra
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 3 : 0 Zagłębie Ruhry Jelenia Góra
-Lukasz Sekulski scores Legia Czerwona Gwiazda Radomsko 4 : 0 Zagłębie Ruhry Jelenia Góra
-Lukasz Sekulski scores Legia Czerwona Gwiazda Radomsko 4 : 1 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores Legia Czerwona Gwiazda Radomsko 4 : 2 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores Legia Czerwona Gwiazda Radomsko 4 : 3 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores End of match 
-
-Match Zagłębie Ruhry Jelenia Góra against Podhale Wodzisław Śląski
-Zagłębie Ruhry Jelenia Góra 1 : 0 Podhale Wodzisław Śląski
-Marcin Cebula scores Zagłębie Ruhry Jelenia Góra 2 : 0 Podhale Wodzisław Śląski
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 3 : 0 Podhale Wodzisław Śląski
-Kamil Dankowski scores Zagłębie Ruhry Jelenia Góra 4 : 0 Podhale Wodzisław Śląski
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 4 : 1 Podhale Wodzisław Śląski
-Filip Piszczek scores Zagłębie Ruhry Jelenia Góra 4 : 2 Podhale Wodzisław Śląski
-Peter Anderson scores End of match 
-
-Match Stomil Siedlce against Legia Czerwona Gwiazda Radomsko
-Stomil Siedlce 0 : 1 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores Stomil Siedlce 0 : 2 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores Stomil Siedlce 0 : 3 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores End of match 
-
-Match Tomasovia Ostrowiec Świętokrzyski against Radunia Bytom
-Tomasovia Ostrowiec Świętokrzyski 1 : 0 Radunia Bytom
-Cezary Stefanczyk scores Tomasovia Ostrowiec Świętokrzyski 2 : 0 Radunia Bytom
-Aaron Brooks scores Tomasovia Ostrowiec Świętokrzyski 2 : 1 Radunia Bytom
-Mateusz Mozdzen scores Tomasovia Ostrowiec Świętokrzyski 2 : 2 Radunia Bytom
-Mateusz Mozdzen scores End of match 
-
-Match Miedź II Zgierz against Gwarek Tarnowski Bytom
-Miedź II Zgierz 1 : 0 Gwarek Tarnowski Bytom
-Damian Szymanski scores Miedź II Zgierz 2 : 0 Gwarek Tarnowski Bytom
-Willie Diaz scores Miedź II Zgierz 3 : 0 Gwarek Tarnowski Bytom
-Damian Szymanski scores Miedź II Zgierz 3 : 1 Gwarek Tarnowski Bytom
-Filip Piszczek scores Miedź II Zgierz 3 : 2 Gwarek Tarnowski Bytom
-Brandon Nelson scores End of match 
-
-Match Podlasie Będzin against Chojniczanka Skierniewice
-Podlasie Będzin 0 : 1 Chojniczanka Skierniewice
-Jakub Wojcicki scores Podlasie Będzin 0 : 2 Chojniczanka Skierniewice
-Jakub Wojcicki scores End of match 
-
-Match Górnik II Katowice against Orlęta Lubin
-Górnik II Katowice 1 : 0 Orlęta Lubin
-Maciej Domanski scores Górnik II Katowice 2 : 0 Orlęta Lubin
-Fred Watson scores Górnik II Katowice 3 : 0 Orlęta Lubin
-Maciej Domanski scores End of match 
-
-Match Podhale Wodzisław Śląski against Orlęta Lubin
-Podhale Wodzisław Śląski 0 : 1 Orlęta Lubin
-Garrett Ferguson scores Podhale Wodzisław Śląski 0 : 2 Orlęta Lubin
-Garrett Ferguson scores Podhale Wodzisław Śląski 0 : 3 Orlęta Lubin
-Garrett Ferguson scores Podhale Wodzisław Śląski 0 : 4 Orlęta Lubin
-Garrett Ferguson scores End of match 
-
-Match Chojniczanka Skierniewice against Górnik II Katowice
-Chojniczanka Skierniewice 1 : 0 Górnik II Katowice
-Jakub Wojcicki scores Chojniczanka Skierniewice 2 : 0 Górnik II Katowice
-Jakub Wojcicki scores Chojniczanka Skierniewice 3 : 0 Górnik II Katowice
-Jakub Wojcicki scores End of match 
-
-Match Gwarek Tarnowski Bytom against Podlasie Będzin
-Gwarek Tarnowski Bytom 1 : 0 Podlasie Będzin
-Szymon Zurkowski scores Gwarek Tarnowski Bytom 1 : 1 Podlasie Będzin
-Aleksander Jagiello scores End of match 
-
-Match Radunia Bytom against Miedź II Zgierz
-Radunia Bytom 1 : 0 Miedź II Zgierz
-Mateusz Mozdzen scores Radunia Bytom 2 : 0 Miedź II Zgierz
-Mateusz Mozdzen scores Radunia Bytom 3 : 0 Miedź II Zgierz
-Mateusz Mozdzen scores Radunia Bytom 4 : 0 Miedź II Zgierz
-Mateusz Mozdzen scores Radunia Bytom 4 : 1 Miedź II Zgierz
-Damian Szymanski scores Radunia Bytom 4 : 2 Miedź II Zgierz
-Damian Szymanski scores Radunia Bytom 4 : 3 Miedź II Zgierz
-Damian Szymanski scores Radunia Bytom 4 : 4 Miedź II Zgierz
-Damian Szymanski scores Radunia Bytom 4 : 5 Miedź II Zgierz
-Lukasz Piatek scores End of match 
-
-Match Legia Czerwona Gwiazda Radomsko against Tomasovia Ostrowiec Świętokrzyski
-Legia Czerwona Gwiazda Radomsko 1 : 0 Tomasovia Ostrowiec Świętokrzyski
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 2 : 0 Tomasovia Ostrowiec Świętokrzyski
-Lukasz Sekulski scores Legia Czerwona Gwiazda Radomsko 3 : 0 Tomasovia Ostrowiec Świętokrzyski
-Lukasz Sekulski scores Legia Czerwona Gwiazda Radomsko 4 : 0 Tomasovia Ostrowiec Świętokrzyski
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 4 : 1 Tomasovia Ostrowiec Świętokrzyski
-Bartosz Rymaniak scores Legia Czerwona Gwiazda Radomsko 4 : 2 Tomasovia Ostrowiec Świętokrzyski
-Aaron Brooks scores End of match 
-
-Match Zagłębie Ruhry Jelenia Góra against Stomil Siedlce
-Zagłębie Ruhry Jelenia Góra 1 : 0 Stomil Siedlce
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 2 : 0 Stomil Siedlce
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 3 : 0 Stomil Siedlce
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 3 : 1 Stomil Siedlce
-Maciej Gostomski scores End of match 
-
-Match Podhale Wodzisław Śląski against Stomil Siedlce
-Podhale Wodzisław Śląski 0 : 1 Stomil Siedlce
-Maciej Gostomski scores Podhale Wodzisław Śląski 0 : 2 Stomil Siedlce
-Maciej Gostomski scores End of match 
-
-Match Tomasovia Ostrowiec Świętokrzyski against Zagłębie Ruhry Jelenia Góra
-Tomasovia Ostrowiec Świętokrzyski 0 : 1 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores Tomasovia Ostrowiec Świętokrzyski 0 : 2 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores End of match 
-
-Match Miedź II Zgierz against Legia Czerwona Gwiazda Radomsko
-Miedź II Zgierz 1 : 0 Legia Czerwona Gwiazda Radomsko
-Damian Szymanski scores Miedź II Zgierz 1 : 1 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores Miedź II Zgierz 1 : 2 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores Miedź II Zgierz 1 : 3 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores End of match 
-
-Match Podlasie Będzin against Radunia Bytom
-Podlasie Będzin 0 : 1 Radunia Bytom
-Lukasz Janoszka scores Podlasie Będzin 0 : 2 Radunia Bytom
-Seweryn Kielpin scores Podlasie Będzin 0 : 3 Radunia Bytom
-Mateusz Mozdzen scores Podlasie Będzin 0 : 4 Radunia Bytom
-Mateusz Mozdzen scores End of match 
-
-Match Górnik II Katowice against Gwarek Tarnowski Bytom
-Górnik II Katowice 0 : 1 Gwarek Tarnowski Bytom
-Filip Piszczek scores Górnik II Katowice 0 : 2 Gwarek Tarnowski Bytom
-Przemyslaw Mystkowski scores Górnik II Katowice 0 : 3 Gwarek Tarnowski Bytom
-Szymon Zurkowski scores End of match 
-
-Match Orlęta Lubin against Chojniczanka Skierniewice
-Orlęta Lubin 0 : 1 Chojniczanka Skierniewice
-Jakub Wojcicki scores End of match 
-
-Match Chojniczanka Skierniewice against Podhale Wodzisław Śląski
-Chojniczanka Skierniewice 1 : 0 Podhale Wodzisław Śląski
-Jakub Wojcicki scores Chojniczanka Skierniewice 2 : 0 Podhale Wodzisław Śląski
-Jacek Goralski scores Chojniczanka Skierniewice 3 : 0 Podhale Wodzisław Śląski
-Jakub Wojcicki scores End of match 
-
-Match Gwarek Tarnowski Bytom against Orlęta Lubin
-Gwarek Tarnowski Bytom 1 : 0 Orlęta Lubin
-Filip Piszczek scores Gwarek Tarnowski Bytom 1 : 1 Orlęta Lubin
-Garrett Ferguson scores End of match 
-
-Match Radunia Bytom against Górnik II Katowice
-Radunia Bytom 1 : 0 Górnik II Katowice
-Mateusz Mozdzen scores Radunia Bytom 2 : 0 Górnik II Katowice
-Mateusz Mozdzen scores Radunia Bytom 2 : 1 Górnik II Katowice
-Fred Watson scores Radunia Bytom 2 : 2 Górnik II Katowice
-Fred Watson scores Radunia Bytom 2 : 3 Górnik II Katowice
-Fred Watson scores Radunia Bytom 2 : 4 Górnik II Katowice
-Fred Watson scores End of match 
-
-Match Legia Czerwona Gwiazda Radomsko against Podlasie Będzin
-Legia Czerwona Gwiazda Radomsko 1 : 0 Podlasie Będzin
-Brendan Gregory scores Legia Czerwona Gwiazda Radomsko 2 : 0 Podlasie Będzin
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 3 : 0 Podlasie Będzin
-Gilberto Lynch scores Legia Czerwona Gwiazda Radomsko 3 : 1 Podlasie Będzin
-Aleksander Jagiello scores End of match 
-
-Match Zagłębie Ruhry Jelenia Góra against Miedź II Zgierz
-Zagłębie Ruhry Jelenia Góra 1 : 0 Miedź II Zgierz
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 2 : 0 Miedź II Zgierz
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 3 : 0 Miedź II Zgierz
-Przemyslaw Szarek scores Zagłębie Ruhry Jelenia Góra 4 : 0 Miedź II Zgierz
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 4 : 1 Miedź II Zgierz
-Damian Szymanski scores Zagłębie Ruhry Jelenia Góra 4 : 2 Miedź II Zgierz
-Damian Szymanski scores End of match 
-
-Match Stomil Siedlce against Tomasovia Ostrowiec Świętokrzyski
-Stomil Siedlce 1 : 0 Tomasovia Ostrowiec Świętokrzyski
-Kevin Young scores Stomil Siedlce 1 : 1 Tomasovia Ostrowiec Świętokrzyski
-Lukasz Zaluska scores Stomil Siedlce 1 : 2 Tomasovia Ostrowiec Świętokrzyski
-Bartosz Wolski scores Stomil Siedlce 1 : 3 Tomasovia Ostrowiec Świętokrzyski
-Lukasz Zaluska scores End of match 
-
-Match Podhale Wodzisław Śląski against Tomasovia Ostrowiec Świętokrzyski
-Podhale Wodzisław Śląski 1 : 0 Tomasovia Ostrowiec Świętokrzyski
-Peter Anderson scores Podhale Wodzisław Śląski 2 : 0 Tomasovia Ostrowiec Świętokrzyski
-Kamil Pestka scores Podhale Wodzisław Śląski 3 : 0 Tomasovia Ostrowiec Świętokrzyski
-Steve Lewis scores Podhale Wodzisław Śląski 3 : 1 Tomasovia Ostrowiec Świętokrzyski
-Bartosz Rymaniak scores End of match 
-
-Match Miedź II Zgierz against Stomil Siedlce
-Miedź II Zgierz 0 : 1 Stomil Siedlce
-Maciej Gostomski scores End of match 
-
-Match Podlasie Będzin against Zagłębie Ruhry Jelenia Góra
-Podlasie Będzin 0 : 1 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores Podlasie Będzin 0 : 2 Zagłębie Ruhry Jelenia Góra
-Przemyslaw Szarek scores Podlasie Będzin 0 : 3 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores End of match 
-
-Match Górnik II Katowice against Legia Czerwona Gwiazda Radomsko
-Górnik II Katowice 1 : 0 Legia Czerwona Gwiazda Radomsko
-Fred Watson scores Górnik II Katowice 1 : 1 Legia Czerwona Gwiazda Radomsko
-Lukasz Wronski scores Górnik II Katowice 1 : 2 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores Górnik II Katowice 1 : 3 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores End of match 
-
-Match Orlęta Lubin against Radunia Bytom
-Orlęta Lubin 1 : 0 Radunia Bytom
-Alan Walker scores Orlęta Lubin 2 : 0 Radunia Bytom
-Alan Walker scores Orlęta Lubin 3 : 0 Radunia Bytom
-Garrett Ferguson scores Orlęta Lubin 3 : 1 Radunia Bytom
-Mateusz Mozdzen scores Orlęta Lubin 3 : 2 Radunia Bytom
-Daniel Lukasik scores Orlęta Lubin 3 : 3 Radunia Bytom
-Mateusz Mozdzen scores Orlęta Lubin 3 : 4 Radunia Bytom
-Louis Griffin scores End of match 
-
-Match Chojniczanka Skierniewice against Gwarek Tarnowski Bytom
-Chojniczanka Skierniewice 1 : 0 Gwarek Tarnowski Bytom
-Jakub Wojcicki scores Chojniczanka Skierniewice 1 : 1 Gwarek Tarnowski Bytom
-Filip Piszczek scores Chojniczanka Skierniewice 1 : 2 Gwarek Tarnowski Bytom
-Filip Piszczek scores End of match 
-
-Match Gwarek Tarnowski Bytom against Podhale Wodzisław Śląski
-Gwarek Tarnowski Bytom 1 : 0 Podhale Wodzisław Śląski
-Filip Piszczek scores Gwarek Tarnowski Bytom 2 : 0 Podhale Wodzisław Śląski
-Filip Piszczek scores Gwarek Tarnowski Bytom 3 : 0 Podhale Wodzisław Śląski
-Przemyslaw Mystkowski scores Gwarek Tarnowski Bytom 4 : 0 Podhale Wodzisław Śląski
-Filip Piszczek scores Gwarek Tarnowski Bytom 4 : 1 Podhale Wodzisław Śląski
-Peter Anderson scores Gwarek Tarnowski Bytom 4 : 2 Podhale Wodzisław Śląski
-Peter Anderson scores End of match 
-
-Match Radunia Bytom against Chojniczanka Skierniewice
-Radunia Bytom 1 : 0 Chojniczanka Skierniewice
-Mateusz Mozdzen scores Radunia Bytom 1 : 1 Chojniczanka Skierniewice
-Jakub Wojcicki scores Radunia Bytom 1 : 2 Chojniczanka Skierniewice
-Jakub Wojcicki scores Radunia Bytom 1 : 3 Chojniczanka Skierniewice
-Jakub Wojcicki scores End of match 
-
-Match Legia Czerwona Gwiazda Radomsko against Orlęta Lubin
-Legia Czerwona Gwiazda Radomsko 1 : 0 Orlęta Lubin
-Brendan Gregory scores Legia Czerwona Gwiazda Radomsko 2 : 0 Orlęta Lubin
-Lukasz Wronski scores Legia Czerwona Gwiazda Radomsko 3 : 0 Orlęta Lubin
-Brendan Gregory scores Legia Czerwona Gwiazda Radomsko 4 : 0 Orlęta Lubin
-Brendan Gregory scores Legia Czerwona Gwiazda Radomsko 4 : 1 Orlęta Lubin
-Garrett Ferguson scores Legia Czerwona Gwiazda Radomsko 4 : 2 Orlęta Lubin
-Sean Carter scores End of match 
-
-Match Zagłębie Ruhry Jelenia Góra against Górnik II Katowice
-Zagłębie Ruhry Jelenia Góra 1 : 0 Górnik II Katowice
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 2 : 0 Górnik II Katowice
-Przemyslaw Szarek scores Zagłębie Ruhry Jelenia Góra 3 : 0 Górnik II Katowice
-Kamil Dankowski scores Zagłębie Ruhry Jelenia Góra 3 : 1 Górnik II Katowice
-Maciej Domanski scores End of match 
-
-Match Stomil Siedlce against Podlasie Będzin
-Stomil Siedlce 1 : 0 Podlasie Będzin
-Michal Chrapek scores Stomil Siedlce 2 : 0 Podlasie Będzin
-Michal Chrapek scores Stomil Siedlce 2 : 1 Podlasie Będzin
-Aleksander Jagiello scores Stomil Siedlce 2 : 2 Podlasie Będzin
-Aleksander Jagiello scores End of match 
-
-Match Tomasovia Ostrowiec Świętokrzyski against Miedź II Zgierz
-Tomasovia Ostrowiec Świętokrzyski 1 : 0 Miedź II Zgierz
-Lukasz Zaluska scores Tomasovia Ostrowiec Świętokrzyski 2 : 0 Miedź II Zgierz
-Lukasz Zaluska scores Tomasovia Ostrowiec Świętokrzyski 3 : 0 Miedź II Zgierz
-Lukasz Zaluska scores Tomasovia Ostrowiec Świętokrzyski 3 : 1 Miedź II Zgierz
-Willie Diaz scores End of match 
-
-Match Podhale Wodzisław Śląski against Miedź II Zgierz
-Podhale Wodzisław Śląski 1 : 0 Miedź II Zgierz
-Peter Anderson scores Podhale Wodzisław Śląski 1 : 1 Miedź II Zgierz
-Damian Szymanski scores Podhale Wodzisław Śląski 1 : 2 Miedź II Zgierz
-Willie Diaz scores Podhale Wodzisław Śląski 1 : 3 Miedź II Zgierz
-Willie Diaz scores Podhale Wodzisław Śląski 1 : 4 Miedź II Zgierz
-Damian Szymanski scores Podhale Wodzisław Śląski 1 : 5 Miedź II Zgierz
-Garrett Ferguson scores End of match 
-
-Match Podlasie Będzin against Tomasovia Ostrowiec Świętokrzyski
-Podlasie Będzin 1 : 0 Tomasovia Ostrowiec Świętokrzyski
-Roy Cook scores Podlasie Będzin 1 : 1 Tomasovia Ostrowiec Świętokrzyski
-Lukasz Zaluska scores Podlasie Będzin 1 : 2 Tomasovia Ostrowiec Świętokrzyski
-Bartosz Wolski scores Podlasie Będzin 1 : 3 Tomasovia Ostrowiec Świętokrzyski
-Cezary Stefanczyk scores Podlasie Będzin 1 : 4 Tomasovia Ostrowiec Świętokrzyski
-Lukasz Zaluska scores End of match 
-
-Match Górnik II Katowice against Stomil Siedlce
-Górnik II Katowice 1 : 0 Stomil Siedlce
-Lukasz Sekulski scores Górnik II Katowice 2 : 0 Stomil Siedlce
-Fred Watson scores Górnik II Katowice 3 : 0 Stomil Siedlce
-Randy Gonzales scores Górnik II Katowice 3 : 1 Stomil Siedlce
-Filip Jagiello scores End of match 
-
-Match Orlęta Lubin against Zagłębie Ruhry Jelenia Góra
-Orlęta Lubin 1 : 0 Zagłębie Ruhry Jelenia Góra
-Sean Carter scores Orlęta Lubin 2 : 0 Zagłębie Ruhry Jelenia Góra
-Garrett Ferguson scores Orlęta Lubin 2 : 1 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores Orlęta Lubin 2 : 2 Zagłębie Ruhry Jelenia Góra
-Damian Podlesny scores End of match 
-
-Match Chojniczanka Skierniewice against Legia Czerwona Gwiazda Radomsko
-Chojniczanka Skierniewice 1 : 0 Legia Czerwona Gwiazda Radomsko
-Jakub Wojcicki scores Chojniczanka Skierniewice 2 : 0 Legia Czerwona Gwiazda Radomsko
-Victor Reed scores Chojniczanka Skierniewice 2 : 1 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores Chojniczanka Skierniewice 2 : 2 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores Chojniczanka Skierniewice 2 : 3 Legia Czerwona Gwiazda Radomsko
-Gilberto Lynch scores Chojniczanka Skierniewice 2 : 4 Legia Czerwona Gwiazda Radomsko
-Lukasz Sekulski scores End of match 
-
-Match Gwarek Tarnowski Bytom against Radunia Bytom
-Gwarek Tarnowski Bytom 1 : 0 Radunia Bytom
-Brandon Nelson scores Gwarek Tarnowski Bytom 1 : 1 Radunia Bytom
-Mateusz Mozdzen scores End of match 
-
-Match Radunia Bytom against Podhale Wodzisław Śląski
-Radunia Bytom 1 : 0 Podhale Wodzisław Śląski
-Daniel Lukasik scores Radunia Bytom 2 : 0 Podhale Wodzisław Śląski
-Mateusz Mozdzen scores Radunia Bytom 2 : 1 Podhale Wodzisław Śląski
-Peter Anderson scores End of match 
-
-Match Legia Czerwona Gwiazda Radomsko against Gwarek Tarnowski Bytom
-Legia Czerwona Gwiazda Radomsko 1 : 0 Gwarek Tarnowski Bytom
-Jeffrey Howard scores Legia Czerwona Gwiazda Radomsko 2 : 0 Gwarek Tarnowski Bytom
-Jeffrey Howard scores Legia Czerwona Gwiazda Radomsko 2 : 1 Gwarek Tarnowski Bytom
-Filip Piszczek scores End of match 
-
-Match Zagłębie Ruhry Jelenia Góra against Chojniczanka Skierniewice
-Zagłębie Ruhry Jelenia Góra 1 : 0 Chojniczanka Skierniewice
-Przemyslaw Szarek scores Zagłębie Ruhry Jelenia Góra 2 : 0 Chojniczanka Skierniewice
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 3 : 0 Chojniczanka Skierniewice
-Damian Podlesny scores Zagłębie Ruhry Jelenia Góra 3 : 1 Chojniczanka Skierniewice
-Jakub Wojcicki scores Zagłębie Ruhry Jelenia Góra 3 : 2 Chojniczanka Skierniewice
-Jakub Wojcicki scores End of match 
-
-Match Stomil Siedlce against Orlęta Lubin
-Stomil Siedlce 1 : 0 Orlęta Lubin
-Kevin Young scores Stomil Siedlce 1 : 1 Orlęta Lubin
-Garrett Ferguson scores Stomil Siedlce 1 : 2 Orlęta Lubin
-Alan Walker scores End of match 
-
-Match Tomasovia Ostrowiec Świętokrzyski against Górnik II Katowice
-Tomasovia Ostrowiec Świętokrzyski 0 : 1 Górnik II Katowice
-Fred Watson scores Tomasovia Ostrowiec Świętokrzyski 0 : 2 Górnik II Katowice
-Fred Watson scores Tomasovia Ostrowiec Świętokrzyski 0 : 3 Górnik II Katowice
-Maciej Domanski scores End of match 
-
-Match Miedź II Zgierz against Podlasie Będzin
-Miedź II Zgierz 1 : 0 Podlasie Będzin
-Damian Szymanski scores Miedź II Zgierz 2 : 0 Podlasie Będzin
-Damian Szymanski scores Miedź II Zgierz 3 : 0 Podlasie Będzin
-Damian Szymanski scores Miedź II Zgierz 3 : 1 Podlasie Będzin
-Aleksander Jagiello scores Miedź II Zgierz 3 : 2 Podlasie Będzin
-Aleksander Jagiello scores Miedź II Zgierz 3 : 3 Podlasie Będzin
-Roy Cook scores End of match 
-
-
-
-********************************************************************
-       TEAM NAME                                  PTS   W    D    L 
-1.  Legia Czerwona Gwiazda Radomsko               33   11    0    0   
-2.  Zagłębie Ruhry Jelenia Góra                   25    8    1    2   
-3.  Gwarek Tarnowski Bytom                        18    5    3    3   
-4.  Tomasovia Ostrowiec Świętokrzyski             17    5    2    4   
-5.  Górnik II Katowice                            16    5    1    5   
-6.  Chojniczanka Skierniewice                     16    5    1    5   
-7.  Radunia Bytom                                 14    4    2    5   
-8.  Miedź II Zgierz                               14    4    2    5   
-9.  Podlasie Będzin                               12    3    3    5   
-10. Orlęta Lubin                                  12    3    3    5   
-11. Stomil Siedlce                                 8    2    2    7   
-12. Podhale Wodzisław Śląski                       3    1    0   10   
-********************************************************************
-
-
-   MOST TALENTED PLAYERS   
-1. Adam Stachowiak from Górnik II Katowice with 99 skill points. 
-2. Jakub Wojcicki from Chojniczanka Skierniewice with 99 skill points. 
-3. Karol Mackiewicz from Stomil Siedlce with 98 skill points. 
-4. Adrian Blad from Chojniczanka Skierniewice with 97 skill points. 
-5. Daniel Richardson from Radunia Bytom with 97 skill points. 
-6. Randy Gonzales from Górnik II Katowice with 96 skill points. 
-7. Damian Szymanski from Miedź II Zgierz with 95 skill points. 
-8. Daniel Lukasik from Radunia Bytom with 94 skill points. 
-9. Mateusz Mozdzen from Radunia Bytom with 94 skill points. 
-10. Cezary Stefanczyk from Tomasovia Ostrowiec Świętokrzyski with 94 skill points. 
-11. Louis Griffin from Radunia Bytom with 93 skill points. 
-12. Kevin Young from Stomil Siedlce with 93 skill points. 
-13. Bartosz Wolski from Tomasovia Ostrowiec Świętokrzyski with 93 skill points. 
-14. Artur Sobiech from Miedź II Zgierz with 93 skill points. 
-15. Patryk Lipski from Podlasie Będzin with 92 skill points. 
-16. Seweryn Kielpin from Radunia Bytom with 90 skill points. 
-17. Lukasz Wronski from Legia Czerwona Gwiazda Radomsko with 90 skill points. 
-18. Jerry Butler from Tomasovia Ostrowiec Świętokrzyski with 90 skill points. 
-19. Radoslaw Pruchnik from Miedź II Zgierz with 90 skill points. 
-20. Lukasz Sekulski from Legia Czerwona Gwiazda Radomsko with 89 skill points. 
-
-    BEST LEAGUE SCORERS   
-1. Gilberto Lynch STRIKER from team Legia Czerwona Gwiazda Radomsko scores 23
-2. Damian Podlesny STRIKER from team Zagłębie Ruhry Jelenia Góra scores 23
-3. Mateusz Mozdzen STRIKER from team Radunia Bytom scores 21
-4. Jakub Wojcicki STRIKER from team Chojniczanka Skierniewice scores 19
-5. Damian Szymanski STRIKER from team Miedź II Zgierz scores 18
-6. Garrett Ferguson STRIKER from team Orlęta Lubin scores 15
-
-
-    BEST TEAM SCORERS   
-Gilberto Lynch STRIKER from team Legia Czerwona Gwiazda Radomsko scores 23
-Damian Podlesny STRIKER from team Zagłębie Ruhry Jelenia Góra scores 23
-Mateusz Mozdzen STRIKER from team Radunia Bytom scores 21
-Jakub Wojcicki STRIKER from team Chojniczanka Skierniewice scores 19
-Damian Szymanski STRIKER from team Miedź II Zgierz scores 18
-Garrett Ferguson STRIKER from team Orlęta Lubin scores 15
-Aleksander Jagiello STRIKER from team Podlasie Będzin scores 12
-Filip Piszczek STRIKER from team Gwarek Tarnowski Bytom scores 12
-Fred Watson STRIKER from team Górnik II Katowice scores 11
-Lukasz Zaluska STRIKER from team Tomasovia Ostrowiec Świętokrzyski scores 10
-Maciej Gostomski STRIKER from team Stomil Siedlce scores 8
-Peter Anderson STRIKER from team Podhale Wodzisław Śląski scores 7
-
-*****************
-SEASON 1
-*****************
-
-
-Match Górnik Na Rencie Opole against ŁKS Podbipięta Poznań
-Górnik Na Rencie Opole 1 : 0 ŁKS Podbipięta Poznań
-Krzysztof Danielewicz scores Górnik Na Rencie Opole 2 : 0 ŁKS Podbipięta Poznań
-Krzysztof Danielewicz scores Górnik Na Rencie Opole 2 : 1 ŁKS Podbipięta Poznań
-Larry Coleman scores Górnik Na Rencie Opole 2 : 2 ŁKS Podbipięta Poznań
-Larry Coleman scores End of match 
-
-Match Znicz Nowy Sącz against Lechia Zgierz
-Znicz Nowy Sącz 1 : 0 Lechia Zgierz
-Roger Price scores End of match 
-
-Match Wisła Zamulona Tarnowskie Góry against Skra Piaseczno
-Wisła Zamulona Tarnowskie Góry 1 : 0 Skra Piaseczno
-Eugene Harris scores Wisła Zamulona Tarnowskie Góry 1 : 1 Skra Piaseczno
-Clifton Boyd scores Wisła Zamulona Tarnowskie Góry 1 : 2 Skra Piaseczno
-Clifton Boyd scores Wisła Zamulona Tarnowskie Góry 1 : 3 Skra Piaseczno
-Clifton Boyd scores End of match 
-
-Match Jagiellonia Kraków against Zagłębie II Lubin Dąbrowa Górnicza
-Jagiellonia Kraków 1 : 0 Zagłębie II Lubin Dąbrowa Górnicza
-Ronald Brown scores Jagiellonia Kraków 1 : 1 Zagłębie II Lubin Dąbrowa Górnicza
-Michal Gliwa scores End of match 
-
-Match Pogoń Szczury Grudziądz against Wisła Płynąca Przemyśl
-Pogoń Szczury Grudziądz 1 : 0 Wisła Płynąca Przemyśl
-Sebastian Bonecki scores Pogoń Szczury Grudziądz 1 : 1 Wisła Płynąca Przemyśl
-Adam Stachowiak scores Pogoń Szczury Grudziądz 1 : 2 Wisła Płynąca Przemyśl
-Adam Stachowiak scores Pogoń Szczury Grudziądz 1 : 3 Wisła Płynąca Przemyśl
-Adam Stachowiak scores End of match 
-
-Match GKS Wykopek Siemianowice Śląskie against Podlasie Ostrów Wielkopolski
-GKS Wykopek Siemianowice Śląskie 1 : 0 Podlasie Ostrów Wielkopolski
-Mateusz Wieteska scores GKS Wykopek Siemianowice Śląskie 2 : 0 Podlasie Ostrów Wielkopolski
-Mateusz Wieteska scores GKS Wykopek Siemianowice Śląskie 3 : 0 Podlasie Ostrów Wielkopolski
-Mateusz Wieteska scores GKS Wykopek Siemianowice Śląskie 3 : 1 Podlasie Ostrów Wielkopolski
-Lukasz Zwolinski scores GKS Wykopek Siemianowice Śląskie 3 : 2 Podlasie Ostrów Wielkopolski
-Billy Martinez scores End of match 
-
-Match Podlasie Ostrów Wielkopolski against Górnik Na Rencie Opole
-Podlasie Ostrów Wielkopolski 1 : 0 Górnik Na Rencie Opole
-Lukasz Zwolinski scores Podlasie Ostrów Wielkopolski 2 : 0 Górnik Na Rencie Opole
-Jesse Gray scores Podlasie Ostrów Wielkopolski 2 : 1 Górnik Na Rencie Opole
-Kornel Osyra scores End of match 
-
-Match Wisła Płynąca Przemyśl against GKS Wykopek Siemianowice Śląskie
-Wisła Płynąca Przemyśl 1 : 0 GKS Wykopek Siemianowice Śląskie
-Craig Russell scores Wisła Płynąca Przemyśl 2 : 0 GKS Wykopek Siemianowice Śląskie
-Adam Stachowiak scores Wisła Płynąca Przemyśl 3 : 0 GKS Wykopek Siemianowice Śląskie
-Adam Stachowiak scores Wisła Płynąca Przemyśl 3 : 1 GKS Wykopek Siemianowice Śląskie
-Mateusz Wieteska scores Wisła Płynąca Przemyśl 3 : 2 GKS Wykopek Siemianowice Śląskie
-Jakub Lukowski scores Wisła Płynąca Przemyśl 3 : 3 GKS Wykopek Siemianowice Śląskie
-Mateusz Wieteska scores End of match 
-
-Match Zagłębie II Lubin Dąbrowa Górnicza against Pogoń Szczury Grudziądz
-Zagłębie II Lubin Dąbrowa Górnicza 1 : 0 Pogoń Szczury Grudziądz
-Chris Thompson scores Zagłębie II Lubin Dąbrowa Górnicza 2 : 0 Pogoń Szczury Grudziądz
-Chris Thompson scores Zagłębie II Lubin Dąbrowa Górnicza 2 : 1 Pogoń Szczury Grudziądz
-Harold Campbell scores Zagłębie II Lubin Dąbrowa Górnicza 2 : 2 Pogoń Szczury Grudziądz
-Sebastian Bonecki scores End of match 
-
-Match Skra Piaseczno against Jagiellonia Kraków
-Skra Piaseczno 1 : 0 Jagiellonia Kraków
-Clifton Boyd scores Skra Piaseczno 2 : 0 Jagiellonia Kraków
-Clifton Boyd scores Skra Piaseczno 2 : 1 Jagiellonia Kraków
-Jesse Gray scores Skra Piaseczno 2 : 2 Jagiellonia Kraków
-Bartosz Nowak scores End of match 
-
-Match Lechia Zgierz against Wisła Zamulona Tarnowskie Góry
-Lechia Zgierz 1 : 0 Wisła Zamulona Tarnowskie Góry
-Dawid Kownacki scores Lechia Zgierz 2 : 0 Wisła Zamulona Tarnowskie Góry
-Dawid Kownacki scores Lechia Zgierz 2 : 1 Wisła Zamulona Tarnowskie Góry
-Sebastian Bonecki scores Lechia Zgierz 2 : 2 Wisła Zamulona Tarnowskie Góry
-Dawid Kownacki scores End of match 
-
-Match ŁKS Podbipięta Poznań against Znicz Nowy Sącz
-ŁKS Podbipięta Poznań 1 : 0 Znicz Nowy Sącz
-Larry Coleman scores ŁKS Podbipięta Poznań 1 : 1 Znicz Nowy Sącz
-Wojciech Trochim scores ŁKS Podbipięta Poznań 1 : 2 Znicz Nowy Sącz
-Wojciech Trochim scores End of match 
-
-Match Górnik Na Rencie Opole against Znicz Nowy Sącz
-Górnik Na Rencie Opole 1 : 0 Znicz Nowy Sącz
-Krzysztof Danielewicz scores Górnik Na Rencie Opole 1 : 1 Znicz Nowy Sącz
-Mateusz Lewandowski scores End of match 
-
-Match Wisła Zamulona Tarnowskie Góry against ŁKS Podbipięta Poznań
-Wisła Zamulona Tarnowskie Góry 1 : 0 ŁKS Podbipięta Poznań
-Sebastian Bonecki scores Wisła Zamulona Tarnowskie Góry 1 : 1 ŁKS Podbipięta Poznań
-Larry Coleman scores Wisła Zamulona Tarnowskie Góry 1 : 2 ŁKS Podbipięta Poznań
-Larry Coleman scores Wisła Zamulona Tarnowskie Góry 1 : 3 ŁKS Podbipięta Poznań
-Larry Coleman scores End of match 
-
-Match Jagiellonia Kraków against Lechia Zgierz
-Jagiellonia Kraków 0 : 1 Lechia Zgierz
-Krystian Wojcik scores End of match 
-
-Match Pogoń Szczury Grudziądz against Skra Piaseczno
-Pogoń Szczury Grudziądz 1 : 0 Skra Piaseczno
-Sebastian Bonecki scores Pogoń Szczury Grudziądz 1 : 1 Skra Piaseczno
-Marcin Urynowicz scores Pogoń Szczury Grudziądz 1 : 2 Skra Piaseczno
-Clifton Boyd scores Pogoń Szczury Grudziądz 1 : 3 Skra Piaseczno
-Mateusz Mozdzen scores End of match 
-
-Match GKS Wykopek Siemianowice Śląskie against Zagłębie II Lubin Dąbrowa Górnicza
-GKS Wykopek Siemianowice Śląskie 1 : 0 Zagłębie II Lubin Dąbrowa Górnicza
-Mateusz Wieteska scores GKS Wykopek Siemianowice Śląskie 1 : 1 Zagłębie II Lubin Dąbrowa Górnicza
-Chris Thompson scores GKS Wykopek Siemianowice Śląskie 1 : 2 Zagłębie II Lubin Dąbrowa Górnicza
-Ryan Perry scores End of match 
-
-Match Podlasie Ostrów Wielkopolski against Wisła Płynąca Przemyśl
-Podlasie Ostrów Wielkopolski 1 : 0 Wisła Płynąca Przemyśl
-Lukasz Zwolinski scores Podlasie Ostrów Wielkopolski 2 : 0 Wisła Płynąca Przemyśl
-Craig Davis scores Podlasie Ostrów Wielkopolski 3 : 0 Wisła Płynąca Przemyśl
-Lukasz Zwolinski scores Podlasie Ostrów Wielkopolski 3 : 1 Wisła Płynąca Przemyśl
-Craig Russell scores Podlasie Ostrów Wielkopolski 3 : 2 Wisła Płynąca Przemyśl
-Adam Stachowiak scores Podlasie Ostrów Wielkopolski 3 : 3 Wisła Płynąca Przemyśl
-Craig Russell scores End of match 
-
-Match Wisła Płynąca Przemyśl against Górnik Na Rencie Opole
-Wisła Płynąca Przemyśl 1 : 0 Górnik Na Rencie Opole
-Szymon Drewniak scores Wisła Płynąca Przemyśl 2 : 0 Górnik Na Rencie Opole
-Adam Stachowiak scores End of match 
-
-Match Zagłębie II Lubin Dąbrowa Górnicza against Podlasie Ostrów Wielkopolski
-Zagłębie II Lubin Dąbrowa Górnicza 1 : 0 Podlasie Ostrów Wielkopolski
-Michal Gliwa scores Zagłębie II Lubin Dąbrowa Górnicza 1 : 1 Podlasie Ostrów Wielkopolski
-Lukasz Zwolinski scores Zagłębie II Lubin Dąbrowa Górnicza 1 : 2 Podlasie Ostrów Wielkopolski
-Lukasz Zwolinski scores End of match 
-
-Match Skra Piaseczno against GKS Wykopek Siemianowice Śląskie
-Skra Piaseczno 1 : 0 GKS Wykopek Siemianowice Śląskie
-Clifton Boyd scores Skra Piaseczno 2 : 0 GKS Wykopek Siemianowice Śląskie
-Clifton Boyd scores Skra Piaseczno 3 : 0 GKS Wykopek Siemianowice Śląskie
-Marcin Urynowicz scores Skra Piaseczno 3 : 1 GKS Wykopek Siemianowice Śląskie
-Maciej Jankowski scores End of match 
-
-Match Lechia Zgierz against Pogoń Szczury Grudziądz
-Lechia Zgierz 1 : 0 Pogoń Szczury Grudziądz
-Dawid Kownacki scores Lechia Zgierz 2 : 0 Pogoń Szczury Grudziądz
-Dawid Kownacki scores Lechia Zgierz 2 : 1 Pogoń Szczury Grudziądz
-Sebastian Bonecki scores Lechia Zgierz 2 : 2 Pogoń Szczury Grudziądz
-Sebastian Bonecki scores Lechia Zgierz 2 : 3 Pogoń Szczury Grudziądz
-Sebastian Bonecki scores Lechia Zgierz 2 : 4 Pogoń Szczury Grudziądz
-Sebastian Bonecki scores End of match 
-
-Match ŁKS Podbipięta Poznań against Jagiellonia Kraków
-ŁKS Podbipięta Poznań 0 : 1 Jagiellonia Kraków
-Ronald Brown scores End of match 
-
-Match Znicz Nowy Sącz against Wisła Zamulona Tarnowskie Góry
-Znicz Nowy Sącz 1 : 0 Wisła Zamulona Tarnowskie Góry
-Wojciech Trochim scores End of match 
-
-Match Górnik Na Rencie Opole against Wisła Zamulona Tarnowskie Góry
-Górnik Na Rencie Opole 0 : 1 Wisła Zamulona Tarnowskie Góry
-Dawid Kownacki scores Górnik Na Rencie Opole 0 : 2 Wisła Zamulona Tarnowskie Góry
-Bartosz Zurek scores End of match 
-
-Match Jagiellonia Kraków against Znicz Nowy Sącz
-Jagiellonia Kraków 1 : 0 Znicz Nowy Sącz
-Ronald Brown scores Jagiellonia Kraków 2 : 0 Znicz Nowy Sącz
-Jesse Gray scores Jagiellonia Kraków 2 : 1 Znicz Nowy Sącz
-Roger Price scores Jagiellonia Kraków 2 : 2 Znicz Nowy Sącz
-Roger Price scores End of match 
-
-Match Pogoń Szczury Grudziądz against ŁKS Podbipięta Poznań
-Pogoń Szczury Grudziądz 1 : 0 ŁKS Podbipięta Poznań
-Sebastian Bonecki scores Pogoń Szczury Grudziądz 2 : 0 ŁKS Podbipięta Poznań
-Sebastian Bonecki scores Pogoń Szczury Grudziądz 2 : 1 ŁKS Podbipięta Poznań
-Larry Coleman scores Pogoń Szczury Grudziądz 2 : 2 ŁKS Podbipięta Poznań
-Larry Coleman scores Pogoń Szczury Grudziądz 2 : 3 ŁKS Podbipięta Poznań
-Larry Coleman scores Pogoń Szczury Grudziądz 2 : 4 ŁKS Podbipięta Poznań
-Larry Coleman scores Pogoń Szczury Grudziądz 2 : 5 ŁKS Podbipięta Poznań
-Larry Coleman scores End of match 
-
-Match GKS Wykopek Siemianowice Śląskie against Lechia Zgierz
-GKS Wykopek Siemianowice Śląskie 1 : 0 Lechia Zgierz
-Steve Lewis scores GKS Wykopek Siemianowice Śląskie 2 : 0 Lechia Zgierz
-Mateusz Wieteska scores GKS Wykopek Siemianowice Śląskie 3 : 0 Lechia Zgierz
-Mateusz Wieteska scores GKS Wykopek Siemianowice Śląskie 3 : 1 Lechia Zgierz
-Dawid Kownacki scores GKS Wykopek Siemianowice Śląskie 3 : 2 Lechia Zgierz
-Bartosz Jaroch scores GKS Wykopek Siemianowice Śląskie 3 : 3 Lechia Zgierz
-Dawid Kownacki scores GKS Wykopek Siemianowice Śląskie 3 : 4 Lechia Zgierz
-Dawid Kownacki scores End of match 
-
-Match Podlasie Ostrów Wielkopolski against Skra Piaseczno
-Podlasie Ostrów Wielkopolski 1 : 0 Skra Piaseczno
-Lukasz Zwolinski scores Podlasie Ostrów Wielkopolski 2 : 0 Skra Piaseczno
-Lukasz Zwolinski scores Podlasie Ostrów Wielkopolski 2 : 1 Skra Piaseczno
-Clifton Boyd scores End of match 
-
-Match Wisła Płynąca Przemyśl against Zagłębie II Lubin Dąbrowa Górnicza
-Wisła Płynąca Przemyśl 1 : 0 Zagłębie II Lubin Dąbrowa Górnicza
-Adam Stachowiak scores Wisła Płynąca Przemyśl 1 : 1 Zagłębie II Lubin Dąbrowa Górnicza
-Chris Thompson scores End of match 
-
-Match Górnik Na Rencie Opole against Zagłębie II Lubin Dąbrowa Górnicza
-Górnik Na Rencie Opole 0 : 1 Zagłębie II Lubin Dąbrowa Górnicza
-Chris Thompson scores End of match 
-
-Match Skra Piaseczno against Wisła Płynąca Przemyśl
-Skra Piaseczno 0 : 1 Wisła Płynąca Przemyśl
-Adam Stachowiak scores Skra Piaseczno 0 : 2 Wisła Płynąca Przemyśl
-Terrance Francis scores End of match 
-
-Match Lechia Zgierz against Podlasie Ostrów Wielkopolski
-Lechia Zgierz 1 : 0 Podlasie Ostrów Wielkopolski
-Bartosz Jaroch scores Lechia Zgierz 2 : 0 Podlasie Ostrów Wielkopolski
-Krystian Wojcik scores Lechia Zgierz 2 : 1 Podlasie Ostrów Wielkopolski
-Lukasz Zwolinski scores Lechia Zgierz 2 : 2 Podlasie Ostrów Wielkopolski
-Lukasz Zwolinski scores End of match 
-
-Match ŁKS Podbipięta Poznań against GKS Wykopek Siemianowice Śląskie
-End of match 
-
-Match Znicz Nowy Sącz against Pogoń Szczury Grudziądz
-Znicz Nowy Sącz 1 : 0 Pogoń Szczury Grudziądz
-Roger Price scores Znicz Nowy Sącz 2 : 0 Pogoń Szczury Grudziądz
-Roger Price scores Znicz Nowy Sącz 3 : 0 Pogoń Szczury Grudziądz
-Jason Allen scores Znicz Nowy Sącz 3 : 1 Pogoń Szczury Grudziądz
-Sebastian Bonecki scores Znicz Nowy Sącz 3 : 2 Pogoń Szczury Grudziądz
-Harold Campbell scores Znicz Nowy Sącz 3 : 3 Pogoń Szczury Grudziądz
-Sebastian Bonecki scores End of match 
-
-Match Wisła Zamulona Tarnowskie Góry against Jagiellonia Kraków
-Wisła Zamulona Tarnowskie Góry 1 : 0 Jagiellonia Kraków
-Sebastian Bonecki scores Wisła Zamulona Tarnowskie Góry 2 : 0 Jagiellonia Kraków
-Eugene Harris scores Wisła Zamulona Tarnowskie Góry 3 : 0 Jagiellonia Kraków
-Eugene Harris scores Wisła Zamulona Tarnowskie Góry 4 : 0 Jagiellonia Kraków
-Sebastian Bonecki scores Wisła Zamulona Tarnowskie Góry 4 : 1 Jagiellonia Kraków
-Ronald Brown scores Wisła Zamulona Tarnowskie Góry 4 : 2 Jagiellonia Kraków
-Damian Szymanski scores End of match 
-
-Match Jagiellonia Kraków against Górnik Na Rencie Opole
-Jagiellonia Kraków 1 : 0 Górnik Na Rencie Opole
-Jesse Gray scores Jagiellonia Kraków 2 : 0 Górnik Na Rencie Opole
-Ronald Brown scores Jagiellonia Kraków 3 : 0 Górnik Na Rencie Opole
-Ronald Brown scores Jagiellonia Kraków 3 : 1 Górnik Na Rencie Opole
-Kornel Osyra scores Jagiellonia Kraków 3 : 2 Górnik Na Rencie Opole
-Krzysztof Danielewicz scores Jagiellonia Kraków 3 : 3 Górnik Na Rencie Opole
-Krzysztof Danielewicz scores Jagiellonia Kraków 3 : 4 Górnik Na Rencie Opole
-Krzysztof Danielewicz scores Jagiellonia Kraków 3 : 5 Górnik Na Rencie Opole
-Bartosz Spiaczka scores End of match 
-
-Match Pogoń Szczury Grudziądz against Wisła Zamulona Tarnowskie Góry
-Pogoń Szczury Grudziądz 1 : 0 Wisła Zamulona Tarnowskie Góry
-Sebastian Bonecki scores Pogoń Szczury Grudziądz 2 : 0 Wisła Zamulona Tarnowskie Góry
-Keith Wilson scores Pogoń Szczury Grudziądz 2 : 1 Wisła Zamulona Tarnowskie Góry
-Sebastian Bonecki scores Pogoń Szczury Grudziądz 2 : 2 Wisła Zamulona Tarnowskie Góry
-Eugene Harris scores End of match 
-
-Match GKS Wykopek Siemianowice Śląskie against Znicz Nowy Sącz
-GKS Wykopek Siemianowice Śląskie 1 : 0 Znicz Nowy Sącz
-Mateusz Wieteska scores GKS Wykopek Siemianowice Śląskie 1 : 1 Znicz Nowy Sącz
-Roger Price scores End of match 
-
-Match Podlasie Ostrów Wielkopolski against ŁKS Podbipięta Poznań
-Podlasie Ostrów Wielkopolski 1 : 0 ŁKS Podbipięta Poznań
-Lukasz Zwolinski scores Podlasie Ostrów Wielkopolski 2 : 0 ŁKS Podbipięta Poznań
-Lukasz Zwolinski scores Podlasie Ostrów Wielkopolski 3 : 0 ŁKS Podbipięta Poznań
-Lukasz Zwolinski scores Podlasie Ostrów Wielkopolski 4 : 0 ŁKS Podbipięta Poznań
-Lukasz Zwolinski scores Podlasie Ostrów Wielkopolski 5 : 0 ŁKS Podbipięta Poznań
-Lukasz Zwolinski scores Podlasie Ostrów Wielkopolski 5 : 1 ŁKS Podbipięta Poznań
-Lukasz Piatek scores Podlasie Ostrów Wielkopolski 5 : 2 ŁKS Podbipięta Poznań
-Larry Coleman scores Podlasie Ostrów Wielkopolski 5 : 3 ŁKS Podbipięta Poznań
-Larry Coleman scores Podlasie Ostrów Wielkopolski 5 : 4 ŁKS Podbipięta Poznań
-Larry Coleman scores End of match 
-
-Match Wisła Płynąca Przemyśl against Lechia Zgierz
-Wisła Płynąca Przemyśl 1 : 0 Lechia Zgierz
-Szymon Drewniak scores Wisła Płynąca Przemyśl 2 : 0 Lechia Zgierz
-Adam Stachowiak scores Wisła Płynąca Przemyśl 3 : 0 Lechia Zgierz
-Adam Stachowiak scores Wisła Płynąca Przemyśl 4 : 0 Lechia Zgierz
-Adam Stachowiak scores Wisła Płynąca Przemyśl 4 : 1 Lechia Zgierz
-Dawid Kownacki scores Wisła Płynąca Przemyśl 4 : 2 Lechia Zgierz
-Dawid Kownacki scores End of match 
-
-Match Zagłębie II Lubin Dąbrowa Górnicza against Skra Piaseczno
-Zagłębie II Lubin Dąbrowa Górnicza 1 : 0 Skra Piaseczno
-Chris Thompson scores Zagłębie II Lubin Dąbrowa Górnicza 1 : 1 Skra Piaseczno
-Clifton Boyd scores End of match 
-
-Match Górnik Na Rencie Opole against Skra Piaseczno
-Górnik Na Rencie Opole 1 : 0 Skra Piaseczno
-Krzysztof Danielewicz scores Górnik Na Rencie Opole 2 : 0 Skra Piaseczno
-Krzysztof Danielewicz scores Górnik Na Rencie Opole 3 : 0 Skra Piaseczno
-Krzysztof Danielewicz scores Górnik Na Rencie Opole 3 : 1 Skra Piaseczno
-Michal Chrapek scores End of match 
-
-Match Lechia Zgierz against Zagłębie II Lubin Dąbrowa Górnicza
-Lechia Zgierz 1 : 0 Zagłębie II Lubin Dąbrowa Górnicza
-Krystian Wojcik scores Lechia Zgierz 2 : 0 Zagłębie II Lubin Dąbrowa Górnicza
-Dawid Kownacki scores Lechia Zgierz 2 : 1 Zagłębie II Lubin Dąbrowa Górnicza
-Ryan Perry scores Lechia Zgierz 2 : 2 Zagłębie II Lubin Dąbrowa Górnicza
-Alex Matthews scores Lechia Zgierz 2 : 3 Zagłębie II Lubin Dąbrowa Górnicza
-Chris Thompson scores End of match 
-
-Match ŁKS Podbipięta Poznań against Wisła Płynąca Przemyśl
-ŁKS Podbipięta Poznań 1 : 0 Wisła Płynąca Przemyśl
-Larry Coleman scores ŁKS Podbipięta Poznań 1 : 1 Wisła Płynąca Przemyśl
-Craig Russell scores End of match 
-
-Match Znicz Nowy Sącz against Podlasie Ostrów Wielkopolski
-Znicz Nowy Sącz 1 : 0 Podlasie Ostrów Wielkopolski
-Roger Price scores Znicz Nowy Sącz 2 : 0 Podlasie Ostrów Wielkopolski
-Roger Price scores Znicz Nowy Sącz 3 : 0 Podlasie Ostrów Wielkopolski
-Jason Allen scores Znicz Nowy Sącz 3 : 1 Podlasie Ostrów Wielkopolski
-Lukasz Zwolinski scores Znicz Nowy Sącz 3 : 2 Podlasie Ostrów Wielkopolski
-Lukasz Zwolinski scores Znicz Nowy Sącz 3 : 3 Podlasie Ostrów Wielkopolski
-Patryk Lipski scores End of match 
-
-Match Wisła Zamulona Tarnowskie Góry against GKS Wykopek Siemianowice Śląskie
-Wisła Zamulona Tarnowskie Góry 0 : 1 GKS Wykopek Siemianowice Śląskie
-Robert Diaz scores Wisła Zamulona Tarnowskie Góry 0 : 2 GKS Wykopek Siemianowice Śląskie
-Jakub Lukowski scores Wisła Zamulona Tarnowskie Góry 0 : 3 GKS Wykopek Siemianowice Śląskie
-Mateusz Wieteska scores End of match 
-
-Match Jagiellonia Kraków against Pogoń Szczury Grudziądz
-Jagiellonia Kraków 1 : 0 Pogoń Szczury Grudziądz
-Ronald Brown scores Jagiellonia Kraków 2 : 0 Pogoń Szczury Grudziądz
-Ronald Brown scores Jagiellonia Kraków 2 : 1 Pogoń Szczury Grudziądz
-Sebastian Bonecki scores Jagiellonia Kraków 2 : 2 Pogoń Szczury Grudziądz
-Sebastian Bonecki scores End of match 
-
-Match Pogoń Szczury Grudziądz against Górnik Na Rencie Opole
-Pogoń Szczury Grudziądz 1 : 0 Górnik Na Rencie Opole
-Sebastian Bonecki scores Pogoń Szczury Grudziądz 2 : 0 Górnik Na Rencie Opole
-Grzegorz Goncerz scores Pogoń Szczury Grudziądz 3 : 0 Górnik Na Rencie Opole
-Sebastian Bonecki scores Pogoń Szczury Grudziądz 4 : 0 Górnik Na Rencie Opole
-Sebastian Bonecki scores Pogoń Szczury Grudziądz 4 : 1 Górnik Na Rencie Opole
+Match ŁKS Podbipięta Katowice against Zagłębie Ruhry Tarnowskie Góry
+ŁKS Podbipięta Katowice 1 : 0 Zagłębie Ruhry Tarnowskie Góry
+Piotr Marciniec scores ŁKS Podbipięta Katowice 2 : 0 Zagłębie Ruhry Tarnowskie Góry
+Krzysztof Piatek scores ŁKS Podbipięta Katowice 2 : 1 Zagłębie Ruhry Tarnowskie Góry
+Artur Jedrzejczyk scores ŁKS Podbipięta Katowice 2 : 2 Zagłębie Ruhry Tarnowskie Góry
+Artur Jedrzejczyk scores ŁKS Podbipięta Katowice 2 : 3 Zagłębie Ruhry Tarnowskie Góry
+Artur Jedrzejczyk scores ŁKS Podbipięta Katowice 2 : 4 Zagłębie Ruhry Tarnowskie Góry
+Isaac Young scores End of match 
+
+Match Ślęza Płock against Zagłębie Ruhry Tarnowskie Góry
+Ślęza Płock 1 : 0 Zagłębie Ruhry Tarnowskie Góry
+Brian James scores Ślęza Płock 2 : 0 Zagłębie Ruhry Tarnowskie Góry
+Brian James scores Ślęza Płock 3 : 0 Zagłębie Ruhry Tarnowskie Góry
+Kamil Kurowski scores Ślęza Płock 3 : 1 Zagłębie Ruhry Tarnowskie Góry
+Artur Jedrzejczyk scores End of match 
+
+Match Puszcza Łomża against ŁKS Podbipięta Katowice
+Puszcza Łomża 1 : 0 ŁKS Podbipięta Katowice
+Mikolaj Kwietniewski scores Puszcza Łomża 2 : 0 ŁKS Podbipięta Katowice
+Mikolaj Kwietniewski scores Puszcza Łomża 2 : 1 ŁKS Podbipięta Katowice
+Krzysztof Piatek scores End of match 
+
+Match Ruch Legnica against Korona Szczyt Zamość
+Ruch Legnica 1 : 0 Korona Szczyt Zamość
+Piotr Marciniec scores Ruch Legnica 2 : 0 Korona Szczyt Zamość
+Piotr Marciniec scores Ruch Legnica 2 : 1 Korona Szczyt Zamość
+Wayne Collins scores Ruch Legnica 2 : 2 Korona Szczyt Zamość
+Wayne Collins scores Ruch Legnica 2 : 3 Korona Szczyt Zamość
+Wayne Collins scores End of match 
+
+Match Zagłębie Głebokie Tychy against Arka Szczecin
+Zagłębie Głebokie Tychy 1 : 0 Arka Szczecin
+Jerry Butler scores Zagłębie Głebokie Tychy 2 : 0 Arka Szczecin
+Jason Sutton scores Zagłębie Głebokie Tychy 3 : 0 Arka Szczecin
+Jerry Butler scores Zagłębie Głebokie Tychy 4 : 0 Arka Szczecin
+Bruce Young scores Zagłębie Głebokie Tychy 5 : 0 Arka Szczecin
+Jerry Butler scores Zagłębie Głebokie Tychy 5 : 1 Arka Szczecin
+Maksymilian Hebel scores Zagłębie Głebokie Tychy 5 : 2 Arka Szczecin
+Maksymilian Hebel scores Zagłębie Głebokie Tychy 5 : 3 Arka Szczecin
+Maksymilian Hebel scores Zagłębie Głebokie Tychy 5 : 4 Arka Szczecin
+Maksymilian Hebel scores End of match 
+
+Match Czarni Radom against LKS Goczałkowice Suwałki
+Czarni Radom 1 : 0 LKS Goczałkowice Suwałki
+Adam Lopez scores Czarni Radom 2 : 0 LKS Goczałkowice Suwałki
+Adam Lopez scores Czarni Radom 2 : 1 LKS Goczałkowice Suwałki
+Krzysztof Danielewicz scores Czarni Radom 2 : 2 LKS Goczałkowice Suwałki
 Krzysztof Danielewicz scores End of match 
 
-Match GKS Wykopek Siemianowice Śląskie against Jagiellonia Kraków
-GKS Wykopek Siemianowice Śląskie 1 : 0 Jagiellonia Kraków
-Mateusz Wieteska scores GKS Wykopek Siemianowice Śląskie 2 : 0 Jagiellonia Kraków
-Mateusz Wieteska scores GKS Wykopek Siemianowice Śląskie 3 : 0 Jagiellonia Kraków
-Mateusz Wieteska scores GKS Wykopek Siemianowice Śląskie 4 : 0 Jagiellonia Kraków
-Mateusz Wieteska scores GKS Wykopek Siemianowice Śląskie 4 : 1 Jagiellonia Kraków
-Ronald Brown scores End of match 
+Match KKS Pociąg Siedlce against Siarka Chełm
+KKS Pociąg Siedlce 1 : 0 Siarka Chełm
+Keith Barnes scores KKS Pociąg Siedlce 2 : 0 Siarka Chełm
+Jakub Kuzdra scores KKS Pociąg Siedlce 3 : 0 Siarka Chełm
+Keith Barnes scores KKS Pociąg Siedlce 3 : 1 Siarka Chełm
+Christopher Alexander scores KKS Pociąg Siedlce 3 : 2 Siarka Chełm
+Christopher Alexander scores KKS Pociąg Siedlce 3 : 3 Siarka Chełm
+Christopher Alexander scores End of match 
 
-Match Podlasie Ostrów Wielkopolski against Wisła Zamulona Tarnowskie Góry
-Podlasie Ostrów Wielkopolski 1 : 0 Wisła Zamulona Tarnowskie Góry
-Lukasz Zwolinski scores Podlasie Ostrów Wielkopolski 2 : 0 Wisła Zamulona Tarnowskie Góry
-Patryk Lipski scores Podlasie Ostrów Wielkopolski 3 : 0 Wisła Zamulona Tarnowskie Góry
-Jesse Gray scores Podlasie Ostrów Wielkopolski 3 : 1 Wisła Zamulona Tarnowskie Góry
-Dawid Kownacki scores Podlasie Ostrów Wielkopolski 3 : 2 Wisła Zamulona Tarnowskie Góry
-Sebastian Bonecki scores Podlasie Ostrów Wielkopolski 3 : 3 Wisła Zamulona Tarnowskie Góry
-Bartosz Szeliga scores End of match 
+Match Siarka Chełm against Ślęza Płock
+Siarka Chełm 1 : 0 Ślęza Płock
+Pawel Oleksy scores Siarka Chełm 2 : 0 Ślęza Płock
+Filip Starzynski scores Siarka Chełm 3 : 0 Ślęza Płock
+Filip Starzynski scores Siarka Chełm 4 : 0 Ślęza Płock
+Christopher Alexander scores Siarka Chełm 4 : 1 Ślęza Płock
+Kamil Kurowski scores Siarka Chełm 4 : 2 Ślęza Płock
+Kamil Kurowski scores End of match 
 
-Match Wisła Płynąca Przemyśl against Znicz Nowy Sącz
-Wisła Płynąca Przemyśl 1 : 0 Znicz Nowy Sącz
-Ryan Hernandez scores Wisła Płynąca Przemyśl 2 : 0 Znicz Nowy Sącz
-Adam Stachowiak scores Wisła Płynąca Przemyśl 3 : 0 Znicz Nowy Sącz
-Adam Stachowiak scores Wisła Płynąca Przemyśl 3 : 1 Znicz Nowy Sącz
-Roger Price scores Wisła Płynąca Przemyśl 3 : 2 Znicz Nowy Sącz
-Roger Price scores Wisła Płynąca Przemyśl 3 : 3 Znicz Nowy Sącz
-Roger Price scores End of match 
-
-Match Zagłębie II Lubin Dąbrowa Górnicza against ŁKS Podbipięta Poznań
-Zagłębie II Lubin Dąbrowa Górnicza 0 : 1 ŁKS Podbipięta Poznań
-Larry Coleman scores Zagłębie II Lubin Dąbrowa Górnicza 0 : 2 ŁKS Podbipięta Poznań
-Larry Coleman scores Zagłębie II Lubin Dąbrowa Górnicza 0 : 3 ŁKS Podbipięta Poznań
-Larry Coleman scores End of match 
-
-Match Skra Piaseczno against Lechia Zgierz
+Match LKS Goczałkowice Suwałki against KKS Pociąg Siedlce
 End of match 
 
-Match Górnik Na Rencie Opole against Lechia Zgierz
-Górnik Na Rencie Opole 1 : 0 Lechia Zgierz
-Krzysztof Danielewicz scores Górnik Na Rencie Opole 2 : 0 Lechia Zgierz
-Krzysztof Danielewicz scores End of match 
+Match Arka Szczecin against Czarni Radom
+Arka Szczecin 0 : 1 Czarni Radom
+Adam Lopez scores Arka Szczecin 0 : 2 Czarni Radom
+Adam Lopez scores Arka Szczecin 0 : 3 Czarni Radom
+Adam Lopez scores Arka Szczecin 0 : 4 Czarni Radom
+Adam Lopez scores Arka Szczecin 0 : 5 Czarni Radom
+Adam Lopez scores End of match 
 
-Match ŁKS Podbipięta Poznań against Skra Piaseczno
-ŁKS Podbipięta Poznań 1 : 0 Skra Piaseczno
-Larry Coleman scores ŁKS Podbipięta Poznań 2 : 0 Skra Piaseczno
-Larry Coleman scores ŁKS Podbipięta Poznań 2 : 1 Skra Piaseczno
-Clifton Boyd scores End of match 
+Match Korona Szczyt Zamość against Zagłębie Głebokie Tychy
+Korona Szczyt Zamość 1 : 0 Zagłębie Głebokie Tychy
+Kamil Bilinski scores Korona Szczyt Zamość 2 : 0 Zagłębie Głebokie Tychy
+Wayne Collins scores Korona Szczyt Zamość 3 : 0 Zagłębie Głebokie Tychy
+Wayne Collins scores Korona Szczyt Zamość 3 : 1 Zagłębie Głebokie Tychy
+Jerry Butler scores End of match 
 
-Match Znicz Nowy Sącz against Zagłębie II Lubin Dąbrowa Górnicza
-Znicz Nowy Sącz 1 : 0 Zagłębie II Lubin Dąbrowa Górnicza
-Mateusz Lewandowski scores Znicz Nowy Sącz 2 : 0 Zagłębie II Lubin Dąbrowa Górnicza
-Roger Price scores Znicz Nowy Sącz 3 : 0 Zagłębie II Lubin Dąbrowa Górnicza
-Roger Price scores Znicz Nowy Sącz 3 : 1 Zagłębie II Lubin Dąbrowa Górnicza
-Ryan Perry scores End of match 
+Match ŁKS Podbipięta Katowice against Ruch Legnica
+ŁKS Podbipięta Katowice 1 : 0 Ruch Legnica
+Bartosz Jaroch scores ŁKS Podbipięta Katowice 2 : 0 Ruch Legnica
+Krzysztof Piatek scores ŁKS Podbipięta Katowice 3 : 0 Ruch Legnica
+Krzysztof Piatek scores ŁKS Podbipięta Katowice 3 : 1 Ruch Legnica
+Piotr Marciniec scores ŁKS Podbipięta Katowice 3 : 2 Ruch Legnica
+Piotr Marciniec scores End of match 
 
-Match Wisła Zamulona Tarnowskie Góry against Wisła Płynąca Przemyśl
-Wisła Zamulona Tarnowskie Góry 1 : 0 Wisła Płynąca Przemyśl
-Sebastian Bonecki scores Wisła Zamulona Tarnowskie Góry 1 : 1 Wisła Płynąca Przemyśl
-Adam Stachowiak scores Wisła Zamulona Tarnowskie Góry 1 : 2 Wisła Płynąca Przemyśl
-Adam Stachowiak scores Wisła Zamulona Tarnowskie Góry 1 : 3 Wisła Płynąca Przemyśl
-Adam Stachowiak scores Wisła Zamulona Tarnowskie Góry 1 : 4 Wisła Płynąca Przemyśl
-Szymon Drewniak scores End of match 
+Match Zagłębie Ruhry Tarnowskie Góry against Puszcza Łomża
+Zagłębie Ruhry Tarnowskie Góry 1 : 0 Puszcza Łomża
+Artur Jedrzejczyk scores Zagłębie Ruhry Tarnowskie Góry 1 : 1 Puszcza Łomża
+Lukasz Tyminski scores End of match 
 
-Match Jagiellonia Kraków against Podlasie Ostrów Wielkopolski
-Jagiellonia Kraków 1 : 0 Podlasie Ostrów Wielkopolski
-Ronald Brown scores Jagiellonia Kraków 2 : 0 Podlasie Ostrów Wielkopolski
-Bartosz Nowak scores Jagiellonia Kraków 2 : 1 Podlasie Ostrów Wielkopolski
-Craig Davis scores Jagiellonia Kraków 2 : 2 Podlasie Ostrów Wielkopolski
-Patryk Lipski scores End of match 
+Match Ślęza Płock against Puszcza Łomża
+Ślęza Płock 1 : 0 Puszcza Łomża
+Jonathan Ward scores Ślęza Płock 1 : 1 Puszcza Łomża
+Mikolaj Kwietniewski scores End of match 
 
-Match Pogoń Szczury Grudziądz against GKS Wykopek Siemianowice Śląskie
-Pogoń Szczury Grudziądz 1 : 0 GKS Wykopek Siemianowice Śląskie
-Sebastian Bonecki scores Pogoń Szczury Grudziądz 2 : 0 GKS Wykopek Siemianowice Śląskie
-Sebastian Bonecki scores Pogoń Szczury Grudziądz 3 : 0 GKS Wykopek Siemianowice Śląskie
-Sebastian Bonecki scores Pogoń Szczury Grudziądz 3 : 1 GKS Wykopek Siemianowice Śląskie
-Mateusz Wieteska scores Pogoń Szczury Grudziądz 3 : 2 GKS Wykopek Siemianowice Śląskie
-Mateusz Wieteska scores Pogoń Szczury Grudziądz 3 : 3 GKS Wykopek Siemianowice Śląskie
-Mateusz Wieteska scores Pogoń Szczury Grudziądz 3 : 4 GKS Wykopek Siemianowice Śląskie
-Mateusz Wieteska scores Pogoń Szczury Grudziądz 3 : 5 GKS Wykopek Siemianowice Śląskie
-Mateusz Wieteska scores Pogoń Szczury Grudziądz 3 : 6 GKS Wykopek Siemianowice Śląskie
-Mateusz Wieteska scores End of match 
+Match Ruch Legnica against Zagłębie Ruhry Tarnowskie Góry
+Ruch Legnica 1 : 0 Zagłębie Ruhry Tarnowskie Góry
+Roy Peterson scores Ruch Legnica 2 : 0 Zagłębie Ruhry Tarnowskie Góry
+Jakub Czerwinski scores Ruch Legnica 3 : 0 Zagłębie Ruhry Tarnowskie Góry
+Roy Peterson scores Ruch Legnica 4 : 0 Zagłębie Ruhry Tarnowskie Góry
+Roy Peterson scores Ruch Legnica 4 : 1 Zagłębie Ruhry Tarnowskie Góry
+Artur Jedrzejczyk scores Ruch Legnica 4 : 2 Zagłębie Ruhry Tarnowskie Góry
+Artur Jedrzejczyk scores Ruch Legnica 4 : 3 Zagłębie Ruhry Tarnowskie Góry
+Isaac Young scores End of match 
 
-Match GKS Wykopek Siemianowice Śląskie against Górnik Na Rencie Opole
-GKS Wykopek Siemianowice Śląskie 1 : 0 Górnik Na Rencie Opole
-Mateusz Wieteska scores GKS Wykopek Siemianowice Śląskie 2 : 0 Górnik Na Rencie Opole
-Maciej Jankowski scores GKS Wykopek Siemianowice Śląskie 3 : 0 Górnik Na Rencie Opole
-Mateusz Wieteska scores End of match 
+Match Zagłębie Głebokie Tychy against ŁKS Podbipięta Katowice
+Zagłębie Głebokie Tychy 0 : 1 ŁKS Podbipięta Katowice
+Piotr Marciniec scores Zagłębie Głebokie Tychy 0 : 2 ŁKS Podbipięta Katowice
+Krzysztof Piatek scores End of match 
 
-Match Podlasie Ostrów Wielkopolski against Pogoń Szczury Grudziądz
-Podlasie Ostrów Wielkopolski 0 : 1 Pogoń Szczury Grudziądz
-Sebastian Bonecki scores End of match 
+Match Czarni Radom against Korona Szczyt Zamość
+Czarni Radom 1 : 0 Korona Szczyt Zamość
+Adam Lopez scores Czarni Radom 1 : 1 Korona Szczyt Zamość
+Wayne Collins scores Czarni Radom 1 : 2 Korona Szczyt Zamość
+Peter Anderson scores End of match 
 
-Match Wisła Płynąca Przemyśl against Jagiellonia Kraków
-Wisła Płynąca Przemyśl 0 : 1 Jagiellonia Kraków
-Ronald Brown scores Wisła Płynąca Przemyśl 0 : 2 Jagiellonia Kraków
-Ronald Brown scores End of match 
+Match KKS Pociąg Siedlce against Arka Szczecin
+KKS Pociąg Siedlce 1 : 0 Arka Szczecin
+Cezary Demianiuk scores KKS Pociąg Siedlce 2 : 0 Arka Szczecin
+Keith Barnes scores KKS Pociąg Siedlce 3 : 0 Arka Szczecin
+Marcin Cebula scores KKS Pociąg Siedlce 3 : 1 Arka Szczecin
+Maksymilian Hebel scores End of match 
 
-Match Zagłębie II Lubin Dąbrowa Górnicza against Wisła Zamulona Tarnowskie Góry
-Zagłębie II Lubin Dąbrowa Górnicza 1 : 0 Wisła Zamulona Tarnowskie Góry
-Michal Gliwa scores Zagłębie II Lubin Dąbrowa Górnicza 1 : 1 Wisła Zamulona Tarnowskie Góry
-Sebastian Bonecki scores End of match 
+Match Siarka Chełm against LKS Goczałkowice Suwałki
+Siarka Chełm 1 : 0 LKS Goczałkowice Suwałki
+Christopher Alexander scores Siarka Chełm 1 : 1 LKS Goczałkowice Suwałki
+Adam Wilk scores Siarka Chełm 1 : 2 LKS Goczałkowice Suwałki
+Adam Wilk scores Siarka Chełm 1 : 3 LKS Goczałkowice Suwałki
+Adam Wilk scores End of match 
 
-Match Skra Piaseczno against Znicz Nowy Sącz
-Skra Piaseczno 0 : 1 Znicz Nowy Sącz
-Roger Price scores End of match 
+Match LKS Goczałkowice Suwałki against Ślęza Płock
+LKS Goczałkowice Suwałki 1 : 0 Ślęza Płock
+Adam Wilk scores LKS Goczałkowice Suwałki 2 : 0 Ślęza Płock
+Adam Wilk scores LKS Goczałkowice Suwałki 3 : 0 Ślęza Płock
+Adam Wilk scores End of match 
 
-Match Lechia Zgierz against ŁKS Podbipięta Poznań
-Lechia Zgierz 1 : 0 ŁKS Podbipięta Poznań
-Dawid Kownacki scores Lechia Zgierz 2 : 0 ŁKS Podbipięta Poznań
-Daniel Dziwniel scores Lechia Zgierz 3 : 0 ŁKS Podbipięta Poznań
-Bartosz Jaroch scores Lechia Zgierz 3 : 1 ŁKS Podbipięta Poznań
-Roger Price scores Lechia Zgierz 3 : 2 ŁKS Podbipięta Poznań
-Larry Coleman scores End of match 
+Match Arka Szczecin against Siarka Chełm
+Arka Szczecin 1 : 0 Siarka Chełm
+Maksymilian Hebel scores Arka Szczecin 2 : 0 Siarka Chełm
+Maksymilian Hebel scores Arka Szczecin 3 : 0 Siarka Chełm
+Maksymilian Hebel scores Arka Szczecin 4 : 0 Siarka Chełm
+Maksymilian Hebel scores Arka Szczecin 4 : 1 Siarka Chełm
+Pawel Oleksy scores Arka Szczecin 4 : 2 Siarka Chełm
+Christopher Alexander scores Arka Szczecin 4 : 3 Siarka Chełm
+Christopher Alexander scores End of match 
+
+Match Korona Szczyt Zamość against KKS Pociąg Siedlce
+Korona Szczyt Zamość 0 : 1 KKS Pociąg Siedlce
+Keith Barnes scores Korona Szczyt Zamość 0 : 2 KKS Pociąg Siedlce
+Keith Barnes scores End of match 
+
+Match ŁKS Podbipięta Katowice against Czarni Radom
+ŁKS Podbipięta Katowice 1 : 0 Czarni Radom
+Bartosz Jaroch scores ŁKS Podbipięta Katowice 2 : 0 Czarni Radom
+Krzysztof Piatek scores ŁKS Podbipięta Katowice 2 : 1 Czarni Radom
+Adam Lopez scores ŁKS Podbipięta Katowice 2 : 2 Czarni Radom
+Adam Lopez scores ŁKS Podbipięta Katowice 2 : 3 Czarni Radom
+Maksymilian Hebel scores ŁKS Podbipięta Katowice 2 : 4 Czarni Radom
+Adam Lopez scores End of match 
+
+Match Zagłębie Ruhry Tarnowskie Góry against Zagłębie Głebokie Tychy
+Zagłębie Ruhry Tarnowskie Góry 1 : 0 Zagłębie Głebokie Tychy
+Artur Jedrzejczyk scores Zagłębie Ruhry Tarnowskie Góry 1 : 1 Zagłębie Głebokie Tychy
+Shawn Powell scores Zagłębie Ruhry Tarnowskie Góry 1 : 2 Zagłębie Głebokie Tychy
+Jerry Butler scores End of match 
+
+Match Puszcza Łomża against Ruch Legnica
+Puszcza Łomża 0 : 1 Ruch Legnica
+Piotr Marciniec scores Puszcza Łomża 0 : 2 Ruch Legnica
+Piotr Marciniec scores Puszcza Łomża 0 : 3 Ruch Legnica
+Jakub Czerwinski scores Puszcza Łomża 0 : 4 Ruch Legnica
+Piotr Marciniec scores Puszcza Łomża 0 : 5 Ruch Legnica
+Piotr Marciniec scores End of match 
 
 
 
-*********************************************************************
-       TEAM NAME                                   PTS   W    D    L 
-1.  Znicz Nowy Sącz                                21    5    6    0   
-2.  Wisła Płynąca Przemyśl                         20    5    5    1   
-3.  GKS Wykopek Siemianowice Śląskie               18    5    3    3   
-4.  Podlasie Ostrów Wielkopolski                   17    4    5    2   
-5.  ŁKS Podbipięta Poznań                          15    4    3    4   
-6.  Zagłębie II Lubin Dąbrowa Górnicza             14    3    5    3   
-7.  Pogoń Szczury Grudziądz                        13    3    4    4   
-8.  Skra Piaseczno                                 12    3    3    5   
-9.  Lechia Zgierz                                  12    3    3    5   
-10. Jagiellonia Kraków                             11    2    5    4   
-11. Górnik Na Rencie Opole                         11    3    2    6   
-12. Wisła Zamulona Tarnowskie Góry                 10    2    4    5   
-*********************************************************************
+*****************************************************************
+       TEAM NAME                               PTS   W    D    L 
+1.  Zagłębie Głebokie Tychy                    21    6    3    2   
+2.  KKS Pociąg Siedlce                         19    5    4    2   
+3.  LKS Goczałkowice Suwałki                   19    5    4    2   
+4.  Korona Szczyt Zamość                       17    5    2    4   
+5.  ŁKS Podbipięta Katowice                    17    5    2    4   
+6.  Ruch Legnica                               15    4    3    4   
+7.  Czarni Radom                               15    4    3    4   
+8.  Ślęza Płock                                13    3    4    4   
+9.  Siarka Chełm                               12    2    6    3   
+10. Zagłębie Ruhry Tarnowskie Góry             12    3    3    5   
+11. Puszcza Łomża                              10    2    4    5   
+12. Arka Szczecin                               9    3    0    8   
+*****************************************************************
 
 
    MOST TALENTED PLAYERS   
-1. Piotr Cwielong from Wisła Zamulona Tarnowskie Góry with 99 skill points. 
-2. Marcin Pietrowski from Wisła Płynąca Przemyśl with 98 skill points. 
-3. Alan Bowers from Lechia Zgierz with 98 skill points. 
-4. Adam Stachowiak from Wisła Płynąca Przemyśl with 97 skill points. 
-5. Roger Price from Znicz Nowy Sącz with 96 skill points. 
-6. Craig Davis from Podlasie Ostrów Wielkopolski with 95 skill points. 
-7. Patryk Lipski from Podlasie Ostrów Wielkopolski with 95 skill points. 
-8. Enrique Reynolds from Znicz Nowy Sącz with 93 skill points. 
-9. Mateusz Lewandowski from Znicz Nowy Sącz with 93 skill points. 
-10. Szymon Drewniak from Wisła Płynąca Przemyśl with 93 skill points. 
-11. Lukasz Piatek from ŁKS Podbipięta Poznań with 92 skill points. 
-12. Jakub Lukowski from GKS Wykopek Siemianowice Śląskie with 92 skill points. 
-13. Ryan Hernandez from Wisła Płynąca Przemyśl with 92 skill points. 
-14. Michal Gliwa from Zagłębie II Lubin Dąbrowa Górnicza with 92 skill points. 
-15. Roger Price from ŁKS Podbipięta Poznań with 91 skill points. 
-16. Nicholas Wright from Jagiellonia Kraków with 91 skill points. 
-17. Steve Lewis from GKS Wykopek Siemianowice Śląskie with 91 skill points. 
-18. Jesse Gray from Podlasie Ostrów Wielkopolski with 91 skill points. 
-19. Phillip Peterson from Zagłębie II Lubin Dąbrowa Górnicza with 91 skill points. 
-20. Michal Chrapek from Skra Piaseczno with 91 skill points. 
+1. Rafal Wolsztynski from ŁKS Podbipięta Katowice with 99 skill points. 
+2. Johnny Williams from Zagłębie Głebokie Tychy with 96 skill points. 
+3. Christopher Alexander from Siarka Chełm with 96 skill points. 
+4. Patryk Malecki from Siarka Chełm with 96 skill points. 
+5. Michal Kucharczyk from Arka Szczecin with 96 skill points. 
+6. Krzysztof Piatek from ŁKS Podbipięta Katowice with 96 skill points. 
+7. Bruce Young from Zagłębie Głebokie Tychy with 95 skill points. 
+8. Ricky Rodriguez from LKS Goczałkowice Suwałki with 95 skill points. 
+9. Artur Jedrzejczyk from Zagłębie Ruhry Tarnowskie Góry with 93 skill points. 
+10. Piotr Marciniec from Ruch Legnica with 91 skill points. 
+11. Filip Starzynski from Siarka Chełm with 90 skill points. 
+12. Douglas Moore from Ślęza Płock with 90 skill points. 
+13. Travis Carson from Czarni Radom with 89 skill points. 
+14. Jakub Kuzdra from KKS Pociąg Siedlce with 89 skill points. 
+15. Bruce Davis from Arka Szczecin with 89 skill points. 
+16. Eric Morris from Korona Szczyt Zamość with 89 skill points. 
+17. Lukasz Tyminski from Puszcza Łomża with 89 skill points. 
+18. Brian James from Ślęza Płock with 89 skill points. 
+19. Erik Miles from Zagłębie Głebokie Tychy with 88 skill points. 
+20. Jerry Butler from Zagłębie Głebokie Tychy with 88 skill points. 
 
     BEST LEAGUE SCORERS   
-1. Mateusz Wieteska STRIKER from team GKS Wykopek Siemianowice Śląskie scores 22
-2. Larry Coleman STRIKER from team ŁKS Podbipięta Poznań scores 21
-3. Sebastian Bonecki STRIKER from team Pogoń Szczury Grudziądz scores 21
-4. Lukasz Zwolinski STRIKER from team Podlasie Ostrów Wielkopolski scores 18
-5. Adam Stachowiak STRIKER from team Wisła Płynąca Przemyśl scores 17
+1. Adam Lopez STRIKER from team Czarni Radom scores 19
+2. Maksymilian Hebel STRIKER from team Arka Szczecin scores 18
+3. Krzysztof Piatek STRIKER from team ŁKS Podbipięta Katowice scores 17
+4. Artur Jedrzejczyk STRIKER from team Zagłębie Ruhry Tarnowskie Góry scores 17
+5. Piotr Marciniec STRIKER from team Ruch Legnica scores 16
+6. Jerry Butler STRIKER from team Zagłębie Głebokie Tychy scores 15
+7. Christopher Alexander STRIKER from team Siarka Chełm scores 15
+8. Wayne Collins STRIKER from team Korona Szczyt Zamość scores 15
 
 
     BEST TEAM SCORERS   
-Mateusz Wieteska STRIKER from team GKS Wykopek Siemianowice Śląskie scores 22
-Larry Coleman STRIKER from team ŁKS Podbipięta Poznań scores 21
-Sebastian Bonecki STRIKER from team Pogoń Szczury Grudziądz scores 21
-Lukasz Zwolinski STRIKER from team Podlasie Ostrów Wielkopolski scores 18
-Adam Stachowiak STRIKER from team Wisła Płynąca Przemyśl scores 17
-Roger Price STRIKER from team Znicz Nowy Sącz scores 14
-Ronald Brown STRIKER from team Jagiellonia Kraków scores 12
-Krzysztof Danielewicz STRIKER from team Górnik Na Rencie Opole scores 12
-Clifton Boyd STRIKER from team Skra Piaseczno scores 11
-Dawid Kownacki STRIKER from team Lechia Zgierz scores 11
-Sebastian Bonecki STRIKER from team Wisła Zamulona Tarnowskie Góry scores 8
-Chris Thompson STRIKER from team Zagłębie II Lubin Dąbrowa Górnicza scores 7
+Adam Lopez STRIKER from team Czarni Radom scores 19
+Maksymilian Hebel STRIKER from team Arka Szczecin scores 18
+Krzysztof Piatek STRIKER from team ŁKS Podbipięta Katowice scores 17
+Artur Jedrzejczyk STRIKER from team Zagłębie Ruhry Tarnowskie Góry scores 17
+Piotr Marciniec STRIKER from team Ruch Legnica scores 16
+Jerry Butler STRIKER from team Zagłębie Głebokie Tychy scores 15
+Christopher Alexander STRIKER from team Siarka Chełm scores 15
+Wayne Collins STRIKER from team Korona Szczyt Zamość scores 15
+Keith Barnes STRIKER from team KKS Pociąg Siedlce scores 12
+Adam Wilk STRIKER from team LKS Goczałkowice Suwałki scores 12
+Jonathan Ward STRIKER from team Ślęza Płock scores 10
+Mikolaj Kwietniewski STRIKER from team Puszcza Łomża scores 4
 

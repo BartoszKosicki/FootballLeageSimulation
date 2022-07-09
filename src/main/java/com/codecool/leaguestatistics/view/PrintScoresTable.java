@@ -1,7 +1,6 @@
 package com.codecool.leaguestatistics.view;
 
 import com.codecool.leaguestatistics.model.Division;
-import com.codecool.leaguestatistics.model.LeagueStatistics;
 import com.codecool.leaguestatistics.model.players.Player;
 import com.codecool.leaguestatistics.model.Team;
 
@@ -10,7 +9,7 @@ import java.util.List;
 public class PrintScoresTable {
 
     public static StringBuilder printTable(List<Team>teams){
-        Team longestNameTeam = LeagueStatistics.getTeamWithTheLongestName(teams);
+        Team longestNameTeam = PrintLeagueStatistics.getTeamWithTheLongestName(teams);
         String teamHeaderName = "       TEAM NAME" + " ".repeat(longestNameTeam.getName().length());
         int nameHeaderLength = teamHeaderName.length();
         String teamHeader = teamHeaderName + " PTS " + "  W " + "   D " + "   L ";

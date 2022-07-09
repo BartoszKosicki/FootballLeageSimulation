@@ -40,63 +40,22 @@ public class Season {
         do {
             SeasonCount++;
             playAllGames();
-            saveToFile(WEST, westPathFile);
-            saveToFile(CENTRAL, centralPathFile);
-            saveToFile(EAST, eastPathFile);
+            SaveToFile.saveSeasonDataToFile(WEST, westPathFile);
+            SaveToFile.saveSeasonDataToFile(CENTRAL, centralPathFile);
+            SaveToFile.saveSeasonDataToFile(EAST, eastPathFile);
             Scanner scanner = new Scanner(System.in);
             next = scanner.nextLine();
 
         } while (!Objects.equals(next, "q"));
     }
 
-    private void saveToFile(List<Team> League, String filePath) {
-        List<Team> allWestTeams = LeagueStatistics.getAllTeamsSorted(League);
-        String dataToSaveWest = String.valueOf(PrintScoresTable.printTable(allWestTeams));
-        SaveToFile.SaveToFile(dataToSaveWest, filePath);
-        saveMostTalentedPlayer(League, filePath);
-        saveBestScorers(League, filePath);
-        saveBestScorersInTeam(League, filePath);
-
-    }
-
-    private void saveBestScorers(List<Team> League, String filePath) {
-        List<Player> bestScorersList = LeagueStatistics.getPlayersWithAtLeastXGoals(League, 15);
-        StringBuilder bestScorers = new StringBuilder("    BEST LEAGUE SCORERS   \n");
-        for (int i = 0; i < bestScorersList.size(); i++) {
-            Player players = bestScorersList.get(i);
-            bestScorers.append(i+1).append(". ").append(players.getName()).append(" ").append(players.getPosition()).append(" from team ").append(players.getTeam()).append(" scores ").append(players.getGoals()).append("\n");
-        }
-        SaveToFile.SaveToFile(String.valueOf(bestScorers), filePath);
-    }
-
-
-    private void saveBestScorersInTeam(List<Team> League, String filePath) {
-        List<Player> bestScorersInTeam = LeagueStatistics.getTopScorersFromEachTeam(League);
-        StringBuilder bestScorers = new StringBuilder("\n    BEST TEAM SCORERS   \n");
-        for (Player players: bestScorersInTeam) {
-            bestScorers.append(players.getName()).append(" ").append(players.getPosition()).append(" from team ").append(players.getTeam()).append(" scores ").append(players.getGoals()).append("\n");
-        }
-        SaveToFile.SaveToFile(String.valueOf(bestScorers), filePath);
-    }
-
-
-    private void saveMostTalentedPlayer(List<Team> League, String filePath) {
-        List<Player> allPlayers = LeagueStatistics.getAllPlayers(League);
-        List<Player> mostTalentedPlayersInDivision = LeagueStatistics.getMostTalentedPlayersInDivision(allPlayers, 20);
-        StringBuilder players = new StringBuilder("\n   MOST TALENTED PLAYERS   \n");
-        for (int i = 0, mostTalentedPlayersInDivisionSize = mostTalentedPlayersInDivision.size(); i < mostTalentedPlayersInDivisionSize; i++) {
-            Player player = mostTalentedPlayersInDivision.get(i);
-            players.append(i + 1).append(". ").append(player.getName()).append(" from ").append(player.getTeam()).append(" with ").append(player.getTotalSkill()).append(" skill points. \n");
-        }
-        SaveToFile.SaveToFile(String.valueOf(players), filePath);
-    }
 
     /**
      * Playing whole round. Everyone with everyone one time. Number of teams in league should be even.
      * Following solution represents the robin-round tournament.
      */
     private void playAllGames() {
-        playSeason((ArrayList<Team>) this.WEST, this.westPathFile);
+        playSeason((ArrayList<Team>) WEST, westPathFile);
         playSeason((ArrayList<Team>) CENTRAL, centralPathFile);
         playSeason((ArrayList<Team>) EAST,eastPathFile);
     }
@@ -161,7 +120,6 @@ public class Season {
         resolveMatch(team1, team2, score);
         PrintScoresTable.printMatchResult(team1, team2, score);
         return matchHistory.append("End of match \n\n");
-
     }
 
     private boolean checkShoot(Player player, Goalkeeper gk){

@@ -3,3116 +3,513 @@ SEASON 1
 *****************
 
 
-Match GKS Gleboki Jaworzno against Korona Rzeszów
-GKS Gleboki Jaworzno 1 : 0 Korona Rzeszów
-Kamil Mazek scores GKS Gleboki Jaworzno 2 : 0 Korona Rzeszów
-Kamil Mazek scores GKS Gleboki Jaworzno 3 : 0 Korona Rzeszów
-Thomas Morris scores GKS Gleboki Jaworzno 3 : 1 Korona Rzeszów
-Dominik Furman scores End of match 
-
-Match GKS Gleboki Wejherowo against Sokół Ostrów Wielkopolski
-GKS Gleboki Wejherowo 1 : 0 Sokół Ostrów Wielkopolski
-Patryk Lipski scores GKS Gleboki Wejherowo 1 : 1 Sokół Ostrów Wielkopolski
-Wayne Collins scores GKS Gleboki Wejherowo 1 : 2 Sokół Ostrów Wielkopolski
-Phil Phillips scores GKS Gleboki Wejherowo 1 : 3 Sokół Ostrów Wielkopolski
-Wayne Collins scores End of match 
-
-Match Legia Czerwona Gwiazda Ostrów Wielkopolski against Ślęza Szczecin
-Legia Czerwona Gwiazda Ostrów Wielkopolski 1 : 0 Ślęza Szczecin
-Mateusz Mak scores Legia Czerwona Gwiazda Ostrów Wielkopolski 2 : 0 Ślęza Szczecin
-Lawrence Thomas scores Legia Czerwona Gwiazda Ostrów Wielkopolski 3 : 0 Ślęza Szczecin
-Anthony Bennett scores Legia Czerwona Gwiazda Ostrów Wielkopolski 3 : 1 Ślęza Szczecin
-Jimmy Wright scores Legia Czerwona Gwiazda Ostrów Wielkopolski 3 : 2 Ślęza Szczecin
-Jimmy Wright scores End of match 
-
-Match Lechia Dębica against ŁKS Podbipięta Przemyśl
-Lechia Dębica 1 : 0 ŁKS Podbipięta Przemyśl
-Scott Cox scores Lechia Dębica 2 : 0 ŁKS Podbipięta Przemyśl
-Dawid Kudla scores Lechia Dębica 2 : 1 ŁKS Podbipięta Przemyśl
-Adam Marciniak scores Lechia Dębica 2 : 2 ŁKS Podbipięta Przemyśl
-Fred Watson scores Lechia Dębica 2 : 3 ŁKS Podbipięta Przemyśl
-Adam Marciniak scores End of match 
-
-Match Czarni Zielona Góra against Czarni Ruda Śląska
-Czarni Zielona Góra 1 : 0 Czarni Ruda Śląska
-Kamil Glik scores Czarni Zielona Góra 2 : 0 Czarni Ruda Śląska
-Kamil Glik scores Czarni Zielona Góra 2 : 1 Czarni Ruda Śląska
-Carlos Evans scores Czarni Zielona Góra 2 : 2 Czarni Ruda Śląska
-Jakub Wawrzyniak scores End of match 
-
-Match Śląsk Wrocław Tczew against Miedź Mielec
-Śląsk Wrocław Tczew 1 : 0 Miedź Mielec
-Karol Mackiewicz scores Śląsk Wrocław Tczew 2 : 0 Miedź Mielec
-Karol Mackiewicz scores Śląsk Wrocław Tczew 3 : 0 Miedź Mielec
-Karol Mackiewicz scores Śląsk Wrocław Tczew 4 : 0 Miedź Mielec
-Krzysztof Maczynski scores Śląsk Wrocław Tczew 4 : 1 Miedź Mielec
-Rafal Wolski scores End of match 
-
-Match Miedź Mielec against GKS Gleboki Jaworzno
-Miedź Mielec 1 : 0 GKS Gleboki Jaworzno
-Rafal Wolski scores Miedź Mielec 1 : 1 GKS Gleboki Jaworzno
-Thomas Jones scores Miedź Mielec 1 : 2 GKS Gleboki Jaworzno
-Thomas Jones scores End of match 
-
-Match Czarni Ruda Śląska against Śląsk Wrocław Tczew
-Czarni Ruda Śląska 1 : 0 Śląsk Wrocław Tczew
-Carlos Evans scores Czarni Ruda Śląska 2 : 0 Śląsk Wrocław Tczew
-Carlos Evans scores Czarni Ruda Śląska 3 : 0 Śląsk Wrocław Tczew
-Jakub Wawrzyniak scores Czarni Ruda Śląska 4 : 0 Śląsk Wrocław Tczew
-Carlos Evans scores Czarni Ruda Śląska 4 : 1 Śląsk Wrocław Tczew
-Karol Mackiewicz scores End of match 
-
-Match ŁKS Podbipięta Przemyśl against Czarni Zielona Góra
-ŁKS Podbipięta Przemyśl 1 : 0 Czarni Zielona Góra
-Adam Marciniak scores End of match 
-
-Match Ślęza Szczecin against Lechia Dębica
-Ślęza Szczecin 1 : 0 Lechia Dębica
-Jimmy Wright scores End of match 
-
-Match Sokół Ostrów Wielkopolski against Legia Czerwona Gwiazda Ostrów Wielkopolski
-Sokół Ostrów Wielkopolski 0 : 1 Legia Czerwona Gwiazda Ostrów Wielkopolski
-Lawrence Thomas scores Sokół Ostrów Wielkopolski 0 : 2 Legia Czerwona Gwiazda Ostrów Wielkopolski
-Piotr Marciniec scores Sokół Ostrów Wielkopolski 0 : 3 Legia Czerwona Gwiazda Ostrów Wielkopolski
-Anthony Bennett scores End of match 
-
-Match Korona Rzeszów against GKS Gleboki Wejherowo
-Korona Rzeszów 1 : 0 GKS Gleboki Wejherowo
-Dawid Kort scores Korona Rzeszów 2 : 0 GKS Gleboki Wejherowo
-Dominik Furman scores Korona Rzeszów 3 : 0 GKS Gleboki Wejherowo
-Dominik Furman scores Korona Rzeszów 4 : 0 GKS Gleboki Wejherowo
-Dominik Furman scores Korona Rzeszów 4 : 1 GKS Gleboki Wejherowo
-Karol Swiderski scores End of match 
-
-Match GKS Gleboki Jaworzno against GKS Gleboki Wejherowo
-GKS Gleboki Jaworzno 1 : 0 GKS Gleboki Wejherowo
-Kamil Mazek scores GKS Gleboki Jaworzno 1 : 1 GKS Gleboki Wejherowo
-Patryk Lipski scores GKS Gleboki Jaworzno 1 : 2 GKS Gleboki Wejherowo
-Patryk Lipski scores GKS Gleboki Jaworzno 1 : 3 GKS Gleboki Wejherowo
-Mateusz Kryczka scores End of match 
-
-Match Legia Czerwona Gwiazda Ostrów Wielkopolski against Korona Rzeszów
-Legia Czerwona Gwiazda Ostrów Wielkopolski 1 : 0 Korona Rzeszów
-Lawrence Thomas scores Legia Czerwona Gwiazda Ostrów Wielkopolski 2 : 0 Korona Rzeszów
-Piotr Marciniec scores Legia Czerwona Gwiazda Ostrów Wielkopolski 2 : 1 Korona Rzeszów
-Dominik Furman scores Legia Czerwona Gwiazda Ostrów Wielkopolski 2 : 2 Korona Rzeszów
-Dominik Furman scores Legia Czerwona Gwiazda Ostrów Wielkopolski 2 : 3 Korona Rzeszów
-Dominik Furman scores Legia Czerwona Gwiazda Ostrów Wielkopolski 2 : 4 Korona Rzeszów
-Dominik Furman scores End of match 
-
-Match Lechia Dębica against Sokół Ostrów Wielkopolski
-Lechia Dębica 1 : 0 Sokół Ostrów Wielkopolski
-Adam Matuszczyk scores Lechia Dębica 2 : 0 Sokół Ostrów Wielkopolski
-Dawid Blanik scores Lechia Dębica 2 : 1 Sokół Ostrów Wielkopolski
-Wayne Collins scores End of match 
-
-Match Czarni Zielona Góra against Ślęza Szczecin
-Czarni Zielona Góra 0 : 1 Ślęza Szczecin
-Jimmy Wright scores End of match 
-
-Match Śląsk Wrocław Tczew against ŁKS Podbipięta Przemyśl
-Śląsk Wrocław Tczew 1 : 0 ŁKS Podbipięta Przemyśl
-Jakub Kuzdra scores Śląsk Wrocław Tczew 2 : 0 ŁKS Podbipięta Przemyśl
-Karol Mackiewicz scores Śląsk Wrocław Tczew 3 : 0 ŁKS Podbipięta Przemyśl
-Edward Washington scores Śląsk Wrocław Tczew 4 : 0 ŁKS Podbipięta Przemyśl
-Karol Mackiewicz scores Śląsk Wrocław Tczew 4 : 1 ŁKS Podbipięta Przemyśl
-Adam Marciniak scores Śląsk Wrocław Tczew 4 : 2 ŁKS Podbipięta Przemyśl
-Fred Watson scores End of match 
-
-Match Miedź Mielec against Czarni Ruda Śląska
-Miedź Mielec 1 : 0 Czarni Ruda Śląska
-Rafal Wolski scores Miedź Mielec 1 : 1 Czarni Ruda Śląska
-Carlos Evans scores End of match 
-
-Match Czarni Ruda Śląska against GKS Gleboki Jaworzno
-Czarni Ruda Śląska 0 : 1 GKS Gleboki Jaworzno
-Kamil Mazek scores Czarni Ruda Śląska 0 : 2 GKS Gleboki Jaworzno
-Kamil Mazek scores Czarni Ruda Śląska 0 : 3 GKS Gleboki Jaworzno
-Kamil Mazek scores End of match 
-
-Match ŁKS Podbipięta Przemyśl against Miedź Mielec
-ŁKS Podbipięta Przemyśl 1 : 0 Miedź Mielec
-Adam Marciniak scores ŁKS Podbipięta Przemyśl 1 : 1 Miedź Mielec
-Pawel Jaroszynski scores ŁKS Podbipięta Przemyśl 1 : 2 Miedź Mielec
-Rafal Wolski scores End of match 
-
-Match Ślęza Szczecin against Śląsk Wrocław Tczew
-Ślęza Szczecin 1 : 0 Śląsk Wrocław Tczew
-Jimmy Wright scores Ślęza Szczecin 2 : 0 Śląsk Wrocław Tczew
-Jimmy Wright scores End of match 
-
-Match Sokół Ostrów Wielkopolski against Czarni Zielona Góra
-Sokół Ostrów Wielkopolski 1 : 0 Czarni Zielona Góra
-Wayne Collins scores Sokół Ostrów Wielkopolski 1 : 1 Czarni Zielona Góra
-Kamil Glik scores Sokół Ostrów Wielkopolski 1 : 2 Czarni Zielona Góra
-Kamil Glik scores End of match 
-
-Match Korona Rzeszów against Lechia Dębica
-Korona Rzeszów 1 : 0 Lechia Dębica
-Dawid Kort scores Korona Rzeszów 2 : 0 Lechia Dębica
-Dominik Furman scores Korona Rzeszów 3 : 0 Lechia Dębica
-Dominik Furman scores Korona Rzeszów 3 : 1 Lechia Dębica
-Scott Cox scores End of match 
-
-Match GKS Gleboki Wejherowo against Legia Czerwona Gwiazda Ostrów Wielkopolski
-GKS Gleboki Wejherowo 1 : 0 Legia Czerwona Gwiazda Ostrów Wielkopolski
-Patryk Lipski scores GKS Gleboki Wejherowo 2 : 0 Legia Czerwona Gwiazda Ostrów Wielkopolski
-Patryk Lipski scores GKS Gleboki Wejherowo 3 : 0 Legia Czerwona Gwiazda Ostrów Wielkopolski
-Patryk Lipski scores GKS Gleboki Wejherowo 3 : 1 Legia Czerwona Gwiazda Ostrów Wielkopolski
-Lawrence Thomas scores GKS Gleboki Wejherowo 3 : 2 Legia Czerwona Gwiazda Ostrów Wielkopolski
-Lawrence Thomas scores End of match 
-
-Match GKS Gleboki Jaworzno against Legia Czerwona Gwiazda Ostrów Wielkopolski
-GKS Gleboki Jaworzno 1 : 0 Legia Czerwona Gwiazda Ostrów Wielkopolski
-Kamil Mazek scores GKS Gleboki Jaworzno 2 : 0 Legia Czerwona Gwiazda Ostrów Wielkopolski
-Kamil Mazek scores GKS Gleboki Jaworzno 2 : 1 Legia Czerwona Gwiazda Ostrów Wielkopolski
-Lawrence Thomas scores End of match 
-
-Match Lechia Dębica against GKS Gleboki Wejherowo
-Lechia Dębica 0 : 1 GKS Gleboki Wejherowo
-Patryk Lipski scores End of match 
-
-Match Czarni Zielona Góra against Korona Rzeszów
-Czarni Zielona Góra 1 : 0 Korona Rzeszów
-Kamil Glik scores Czarni Zielona Góra 1 : 1 Korona Rzeszów
-Dominik Furman scores Czarni Zielona Góra 1 : 2 Korona Rzeszów
-Dominik Furman scores End of match 
-
-Match Śląsk Wrocław Tczew against Sokół Ostrów Wielkopolski
-Śląsk Wrocław Tczew 1 : 0 Sokół Ostrów Wielkopolski
-Krzysztof Maczynski scores Śląsk Wrocław Tczew 2 : 0 Sokół Ostrów Wielkopolski
-Karol Mackiewicz scores Śląsk Wrocław Tczew 2 : 1 Sokół Ostrów Wielkopolski
-Wayne Collins scores Śląsk Wrocław Tczew 2 : 2 Sokół Ostrów Wielkopolski
-Wayne Collins scores End of match 
-
-Match Miedź Mielec against Ślęza Szczecin
-Miedź Mielec 1 : 0 Ślęza Szczecin
-Rafal Wolski scores Miedź Mielec 2 : 0 Ślęza Szczecin
-Rafal Wolski scores Miedź Mielec 3 : 0 Ślęza Szczecin
-Jakub Arak scores Miedź Mielec 3 : 1 Ślęza Szczecin
-Pawel Olkowski scores End of match 
-
-Match Czarni Ruda Śląska against ŁKS Podbipięta Przemyśl
-Czarni Ruda Śląska 1 : 0 ŁKS Podbipięta Przemyśl
-Carlos Evans scores Czarni Ruda Śląska 2 : 0 ŁKS Podbipięta Przemyśl
-Carlos Evans scores Czarni Ruda Śląska 2 : 1 ŁKS Podbipięta Przemyśl
-Fred Watson scores Czarni Ruda Śląska 2 : 2 ŁKS Podbipięta Przemyśl
-Marcin Staniszewski scores Czarni Ruda Śląska 2 : 3 ŁKS Podbipięta Przemyśl
-Adam Marciniak scores End of match 
-
-Match GKS Gleboki Jaworzno against ŁKS Podbipięta Przemyśl
-GKS Gleboki Jaworzno 1 : 0 ŁKS Podbipięta Przemyśl
-Kamil Mazek scores GKS Gleboki Jaworzno 2 : 0 ŁKS Podbipięta Przemyśl
-Thomas Jones scores GKS Gleboki Jaworzno 2 : 1 ŁKS Podbipięta Przemyśl
-Adam Marciniak scores End of match 
-
-Match Ślęza Szczecin against Czarni Ruda Śląska
-Ślęza Szczecin 1 : 0 Czarni Ruda Śląska
-Jimmy Wright scores Ślęza Szczecin 2 : 0 Czarni Ruda Śląska
-Jimmy Wright scores Ślęza Szczecin 2 : 1 Czarni Ruda Śląska
-Jakub Wawrzyniak scores Ślęza Szczecin 2 : 2 Czarni Ruda Śląska
-Jakub Bartosz scores End of match 
-
-Match Sokół Ostrów Wielkopolski against Miedź Mielec
-Sokół Ostrów Wielkopolski 1 : 0 Miedź Mielec
-Phil Phillips scores Sokół Ostrów Wielkopolski 2 : 0 Miedź Mielec
-Wayne Collins scores Sokół Ostrów Wielkopolski 3 : 0 Miedź Mielec
-Phil Phillips scores Sokół Ostrów Wielkopolski 3 : 1 Miedź Mielec
-Jakub Arak scores Sokół Ostrów Wielkopolski 3 : 2 Miedź Mielec
-Oskar Zawada scores End of match 
-
-Match Korona Rzeszów against Śląsk Wrocław Tczew
-Korona Rzeszów 0 : 1 Śląsk Wrocław Tczew
-Karol Mackiewicz scores Korona Rzeszów 0 : 2 Śląsk Wrocław Tczew
-Karol Mackiewicz scores End of match 
-
-Match GKS Gleboki Wejherowo against Czarni Zielona Góra
-GKS Gleboki Wejherowo 1 : 0 Czarni Zielona Góra
-Patryk Lipski scores GKS Gleboki Wejherowo 2 : 0 Czarni Zielona Góra
-Patryk Lipski scores GKS Gleboki Wejherowo 2 : 1 Czarni Zielona Góra
-Kamil Glik scores GKS Gleboki Wejherowo 2 : 2 Czarni Zielona Góra
-Kamil Glik scores GKS Gleboki Wejherowo 2 : 3 Czarni Zielona Góra
-Arkadiusz Wozniak scores End of match 
-
-Match Legia Czerwona Gwiazda Ostrów Wielkopolski against Lechia Dębica
-Legia Czerwona Gwiazda Ostrów Wielkopolski 1 : 0 Lechia Dębica
-Anthony Bennett scores End of match 
-
-Match Lechia Dębica against GKS Gleboki Jaworzno
-Lechia Dębica 1 : 0 GKS Gleboki Jaworzno
-Scott Cox scores Lechia Dębica 1 : 1 GKS Gleboki Jaworzno
-Kamil Mazek scores Lechia Dębica 1 : 2 GKS Gleboki Jaworzno
-Kamil Mazek scores End of match 
-
-Match Czarni Zielona Góra against Legia Czerwona Gwiazda Ostrów Wielkopolski
-Czarni Zielona Góra 1 : 0 Legia Czerwona Gwiazda Ostrów Wielkopolski
-Kamil Glik scores Czarni Zielona Góra 2 : 0 Legia Czerwona Gwiazda Ostrów Wielkopolski
-Kamil Glik scores Czarni Zielona Góra 3 : 0 Legia Czerwona Gwiazda Ostrów Wielkopolski
-Kamil Glik scores Czarni Zielona Góra 3 : 1 Legia Czerwona Gwiazda Ostrów Wielkopolski
-Piotr Marciniec scores Czarni Zielona Góra 3 : 2 Legia Czerwona Gwiazda Ostrów Wielkopolski
-Lawrence Thomas scores Czarni Zielona Góra 3 : 3 Legia Czerwona Gwiazda Ostrów Wielkopolski
-Lawrence Thomas scores End of match 
-
-Match Śląsk Wrocław Tczew against GKS Gleboki Wejherowo
-Śląsk Wrocław Tczew 1 : 0 GKS Gleboki Wejherowo
-Jakub Kuzdra scores Śląsk Wrocław Tczew 2 : 0 GKS Gleboki Wejherowo
-Edward Washington scores Śląsk Wrocław Tczew 3 : 0 GKS Gleboki Wejherowo
-Karol Mackiewicz scores Śląsk Wrocław Tczew 3 : 1 GKS Gleboki Wejherowo
-Patryk Lipski scores End of match 
-
-Match Miedź Mielec against Korona Rzeszów
-Miedź Mielec 1 : 0 Korona Rzeszów
-Rafal Wolski scores Miedź Mielec 1 : 1 Korona Rzeszów
-Dominik Furman scores End of match 
-
-Match Czarni Ruda Śląska against Sokół Ostrów Wielkopolski
-Czarni Ruda Śląska 1 : 0 Sokół Ostrów Wielkopolski
-Carlos Evans scores Czarni Ruda Śląska 2 : 0 Sokół Ostrów Wielkopolski
-Carlos Evans scores Czarni Ruda Śląska 3 : 0 Sokół Ostrów Wielkopolski
-Carlos Evans scores Czarni Ruda Śląska 3 : 1 Sokół Ostrów Wielkopolski
-Wayne Collins scores End of match 
-
-Match ŁKS Podbipięta Przemyśl against Ślęza Szczecin
-ŁKS Podbipięta Przemyśl 1 : 0 Ślęza Szczecin
-Adam Marciniak scores ŁKS Podbipięta Przemyśl 1 : 1 Ślęza Szczecin
-Krystian Wojcik scores ŁKS Podbipięta Przemyśl 1 : 2 Ślęza Szczecin
-Rafal Kurzawa scores ŁKS Podbipięta Przemyśl 1 : 3 Ślęza Szczecin
-Rafal Boguski scores End of match 
-
-Match GKS Gleboki Jaworzno against Ślęza Szczecin
-GKS Gleboki Jaworzno 1 : 0 Ślęza Szczecin
-Adam Danch scores GKS Gleboki Jaworzno 2 : 0 Ślęza Szczecin
-Thomas Morris scores GKS Gleboki Jaworzno 2 : 1 Ślęza Szczecin
-Rafal Kurzawa scores GKS Gleboki Jaworzno 2 : 2 Ślęza Szczecin
-Rafal Boguski scores End of match 
-
-Match Sokół Ostrów Wielkopolski against ŁKS Podbipięta Przemyśl
-Sokół Ostrów Wielkopolski 1 : 0 ŁKS Podbipięta Przemyśl
-Wayne Collins scores Sokół Ostrów Wielkopolski 2 : 0 ŁKS Podbipięta Przemyśl
-Phil Phillips scores Sokół Ostrów Wielkopolski 3 : 0 ŁKS Podbipięta Przemyśl
-Wayne Collins scores Sokół Ostrów Wielkopolski 3 : 1 ŁKS Podbipięta Przemyśl
-Adam Marciniak scores Sokół Ostrów Wielkopolski 3 : 2 ŁKS Podbipięta Przemyśl
-Adam Marciniak scores Sokół Ostrów Wielkopolski 3 : 3 ŁKS Podbipięta Przemyśl
-Fred Watson scores Sokół Ostrów Wielkopolski 3 : 4 ŁKS Podbipięta Przemyśl
-Marcin Staniszewski scores End of match 
-
-Match Korona Rzeszów against Czarni Ruda Śląska
-Korona Rzeszów 1 : 0 Czarni Ruda Śląska
-Jakub Kuzdra scores Korona Rzeszów 1 : 1 Czarni Ruda Śląska
-Tomasz Jodlowiec scores Korona Rzeszów 1 : 2 Czarni Ruda Śląska
-Carlos Evans scores Korona Rzeszów 1 : 3 Czarni Ruda Śląska
-Carlos Evans scores Korona Rzeszów 1 : 4 Czarni Ruda Śląska
-Tomasz Jodlowiec scores End of match 
-
-Match GKS Gleboki Wejherowo against Miedź Mielec
-GKS Gleboki Wejherowo 1 : 0 Miedź Mielec
-Patryk Lipski scores GKS Gleboki Wejherowo 2 : 0 Miedź Mielec
-Mateusz Kryczka scores GKS Gleboki Wejherowo 3 : 0 Miedź Mielec
-Mateusz Kryczka scores GKS Gleboki Wejherowo 3 : 1 Miedź Mielec
-Rafal Wolski scores GKS Gleboki Wejherowo 3 : 2 Miedź Mielec
-Jakub Arak scores GKS Gleboki Wejherowo 3 : 3 Miedź Mielec
-Rafal Wolski scores End of match 
-
-Match Legia Czerwona Gwiazda Ostrów Wielkopolski against Śląsk Wrocław Tczew
-Legia Czerwona Gwiazda Ostrów Wielkopolski 1 : 0 Śląsk Wrocław Tczew
-Lawrence Thomas scores Legia Czerwona Gwiazda Ostrów Wielkopolski 2 : 0 Śląsk Wrocław Tczew
-Lawrence Thomas scores Legia Czerwona Gwiazda Ostrów Wielkopolski 3 : 0 Śląsk Wrocław Tczew
-Mateusz Mak scores Legia Czerwona Gwiazda Ostrów Wielkopolski 4 : 0 Śląsk Wrocław Tczew
-Artur Sobiech scores Legia Czerwona Gwiazda Ostrów Wielkopolski 5 : 0 Śląsk Wrocław Tczew
-Lawrence Thomas scores Legia Czerwona Gwiazda Ostrów Wielkopolski 6 : 0 Śląsk Wrocław Tczew
-Piotr Marciniec scores Legia Czerwona Gwiazda Ostrów Wielkopolski 6 : 1 Śląsk Wrocław Tczew
-Karol Mackiewicz scores End of match 
-
-Match Lechia Dębica against Czarni Zielona Góra
-Lechia Dębica 1 : 0 Czarni Zielona Góra
-Scott Cox scores Lechia Dębica 1 : 1 Czarni Zielona Góra
-Adam Stachowiak scores End of match 
-
-Match Czarni Zielona Góra against GKS Gleboki Jaworzno
-Czarni Zielona Góra 1 : 0 GKS Gleboki Jaworzno
-Kamil Glik scores Czarni Zielona Góra 2 : 0 GKS Gleboki Jaworzno
-Kamil Glik scores Czarni Zielona Góra 2 : 1 GKS Gleboki Jaworzno
-Kamil Mazek scores Czarni Zielona Góra 2 : 2 GKS Gleboki Jaworzno
-Kamil Mazek scores End of match 
-
-Match Śląsk Wrocław Tczew against Lechia Dębica
-Śląsk Wrocław Tczew 1 : 0 Lechia Dębica
-Karol Mackiewicz scores Śląsk Wrocław Tczew 2 : 0 Lechia Dębica
-Karol Mackiewicz scores Śląsk Wrocław Tczew 3 : 0 Lechia Dębica
-Michal Koj scores Śląsk Wrocław Tczew 4 : 0 Lechia Dębica
-Michal Koj scores End of match 
-
-Match Miedź Mielec against Legia Czerwona Gwiazda Ostrów Wielkopolski
-Miedź Mielec 1 : 0 Legia Czerwona Gwiazda Ostrów Wielkopolski
-Rafal Wolski scores Miedź Mielec 2 : 0 Legia Czerwona Gwiazda Ostrów Wielkopolski
-Rafal Wolski scores Miedź Mielec 2 : 1 Legia Czerwona Gwiazda Ostrów Wielkopolski
-Lawrence Thomas scores Miedź Mielec 2 : 2 Legia Czerwona Gwiazda Ostrów Wielkopolski
-Mateusz Mak scores End of match 
-
-Match Czarni Ruda Śląska against GKS Gleboki Wejherowo
-Czarni Ruda Śląska 1 : 0 GKS Gleboki Wejherowo
-Carlos Evans scores Czarni Ruda Śląska 2 : 0 GKS Gleboki Wejherowo
-Carlos Evans scores Czarni Ruda Śląska 3 : 0 GKS Gleboki Wejherowo
-Shawn Lee scores Czarni Ruda Śląska 3 : 1 GKS Gleboki Wejherowo
-Patryk Lipski scores Czarni Ruda Śląska 3 : 2 GKS Gleboki Wejherowo
-Patryk Lipski scores Czarni Ruda Śląska 3 : 3 GKS Gleboki Wejherowo
-Patryk Lipski scores Czarni Ruda Śląska 3 : 4 GKS Gleboki Wejherowo
-Mateusz Kryczka scores End of match 
-
-Match ŁKS Podbipięta Przemyśl against Korona Rzeszów
-ŁKS Podbipięta Przemyśl 1 : 0 Korona Rzeszów
-Adam Marciniak scores ŁKS Podbipięta Przemyśl 1 : 1 Korona Rzeszów
-Dawid Kort scores End of match 
-
-Match Ślęza Szczecin against Sokół Ostrów Wielkopolski
-Ślęza Szczecin 1 : 0 Sokół Ostrów Wielkopolski
-Rafal Boguski scores Ślęza Szczecin 1 : 1 Sokół Ostrów Wielkopolski
-Arkadiusz Milik scores Ślęza Szczecin 1 : 2 Sokół Ostrów Wielkopolski
-Wayne Collins scores End of match 
-
-Match GKS Gleboki Jaworzno against Sokół Ostrów Wielkopolski
-GKS Gleboki Jaworzno 1 : 0 Sokół Ostrów Wielkopolski
-Thomas Jones scores GKS Gleboki Jaworzno 2 : 0 Sokół Ostrów Wielkopolski
-Kamil Mazek scores GKS Gleboki Jaworzno 2 : 1 Sokół Ostrów Wielkopolski
-Wayne Collins scores End of match 
-
-Match Korona Rzeszów against Ślęza Szczecin
-Korona Rzeszów 1 : 0 Ślęza Szczecin
-Jessie Hodges scores Korona Rzeszów 1 : 1 Ślęza Szczecin
-Jimmy Wright scores Korona Rzeszów 1 : 2 Ślęza Szczecin
-Krystian Wojcik scores Korona Rzeszów 1 : 3 Ślęza Szczecin
-Jimmy Wright scores End of match 
-
-Match GKS Gleboki Wejherowo against ŁKS Podbipięta Przemyśl
-GKS Gleboki Wejherowo 1 : 0 ŁKS Podbipięta Przemyśl
-Patryk Lipski scores GKS Gleboki Wejherowo 2 : 0 ŁKS Podbipięta Przemyśl
-Patryk Lipski scores GKS Gleboki Wejherowo 2 : 1 ŁKS Podbipięta Przemyśl
-Marcin Staniszewski scores End of match 
-
-Match Legia Czerwona Gwiazda Ostrów Wielkopolski against Czarni Ruda Śląska
-Legia Czerwona Gwiazda Ostrów Wielkopolski 1 : 0 Czarni Ruda Śląska
-Lawrence Thomas scores End of match 
-
-Match Lechia Dębica against Miedź Mielec
-Lechia Dębica 1 : 0 Miedź Mielec
-Scott Cox scores Lechia Dębica 1 : 1 Miedź Mielec
-Rafal Wolski scores End of match 
-
-Match Czarni Zielona Góra against Śląsk Wrocław Tczew
-Czarni Zielona Góra 1 : 0 Śląsk Wrocław Tczew
-Kamil Glik scores Czarni Zielona Góra 1 : 1 Śląsk Wrocław Tczew
-Michal Koj scores End of match 
-
-Match Śląsk Wrocław Tczew against GKS Gleboki Jaworzno
-Śląsk Wrocław Tczew 1 : 0 GKS Gleboki Jaworzno
-Karol Mackiewicz scores End of match 
-
-Match Miedź Mielec against Czarni Zielona Góra
-Miedź Mielec 1 : 0 Czarni Zielona Góra
-Oskar Zawada scores Miedź Mielec 1 : 1 Czarni Zielona Góra
-Kamil Glik scores Miedź Mielec 1 : 2 Czarni Zielona Góra
-Adam Stachowiak scores End of match 
-
-Match Czarni Ruda Śląska against Lechia Dębica
-Czarni Ruda Śląska 1 : 0 Lechia Dębica
-Carlos Evans scores Czarni Ruda Śląska 1 : 1 Lechia Dębica
-Dawid Kudla scores End of match 
-
-Match ŁKS Podbipięta Przemyśl against Legia Czerwona Gwiazda Ostrów Wielkopolski
-ŁKS Podbipięta Przemyśl 1 : 0 Legia Czerwona Gwiazda Ostrów Wielkopolski
-Adam Marciniak scores ŁKS Podbipięta Przemyśl 2 : 0 Legia Czerwona Gwiazda Ostrów Wielkopolski
-Adam Marciniak scores ŁKS Podbipięta Przemyśl 3 : 0 Legia Czerwona Gwiazda Ostrów Wielkopolski
-Marcin Staniszewski scores ŁKS Podbipięta Przemyśl 3 : 1 Legia Czerwona Gwiazda Ostrów Wielkopolski
-Lawrence Thomas scores ŁKS Podbipięta Przemyśl 3 : 2 Legia Czerwona Gwiazda Ostrów Wielkopolski
-Anthony Bennett scores ŁKS Podbipięta Przemyśl 3 : 3 Legia Czerwona Gwiazda Ostrów Wielkopolski
-Piotr Marciniec scores ŁKS Podbipięta Przemyśl 3 : 4 Legia Czerwona Gwiazda Ostrów Wielkopolski
-Lawrence Thomas scores End of match 
-
-Match Ślęza Szczecin against GKS Gleboki Wejherowo
-Ślęza Szczecin 1 : 0 GKS Gleboki Wejherowo
-Jimmy Wright scores Ślęza Szczecin 2 : 0 GKS Gleboki Wejherowo
-Jimmy Wright scores Ślęza Szczecin 3 : 0 GKS Gleboki Wejherowo
-Jimmy Wright scores Ślęza Szczecin 3 : 1 GKS Gleboki Wejherowo
-Patryk Lipski scores Ślęza Szczecin 3 : 2 GKS Gleboki Wejherowo
-Patryk Lipski scores Ślęza Szczecin 3 : 3 GKS Gleboki Wejherowo
-Patryk Lipski scores Ślęza Szczecin 3 : 4 GKS Gleboki Wejherowo
-Patryk Lipski scores End of match 
-
-Match Sokół Ostrów Wielkopolski against Korona Rzeszów
-Sokół Ostrów Wielkopolski 1 : 0 Korona Rzeszów
-Phil Phillips scores Sokół Ostrów Wielkopolski 1 : 1 Korona Rzeszów
-Dominik Furman scores End of match 
-
-
-
-*****************************************************************************
-       TEAM NAME                                           PTS   W    D    L 
-1.  GKS Gleboki Jaworzno                                   23    7    2    2   
-2.  Legia Czerwona Gwiazda Ostrów Wielkopolski             20    6    2    3   
-3.  Śląsk Wrocław Tczew                                    20    6    2    3   
-4.  GKS Gleboki Wejherowo                                  19    6    1    4   
-5.  Ślęza Szczecin                                         17    5    2    4   
-6.  Korona Rzeszów                                         15    4    3    4   
-7.  Czarni Zielona Góra                                    14    3    5    3   
-8.  Czarni Ruda Śląska                                     13    3    4    4   
-9.  ŁKS Podbipięta Przemyśl                                13    4    1    6   
-10. Miedź Mielec                                           11    2    5    4   
-11. Sokół Ostrów Wielkopolski                              11    3    2    6   
-12. Lechia Dębica                                           6    1    3    7   
-*****************************************************************************
-
-
-   MOST TALENTED PLAYERS   
-1. Jessie Hodges from Korona Rzeszów with 98 skill points. 
-2. Michal Czarny from Sokół Ostrów Wielkopolski with 98 skill points. 
-3. Martin Kobylanski from Sokół Ostrów Wielkopolski with 97 skill points. 
-4. Dawid Kort from Korona Rzeszów with 95 skill points. 
-5. Alan Uryga from Korona Rzeszów with 95 skill points. 
-6. Juan Mitchell from Czarni Zielona Góra with 95 skill points. 
-7. Juan Mitchell from GKS Gleboki Jaworzno with 95 skill points. 
-8. Anthony Bennett from Legia Czerwona Gwiazda Ostrów Wielkopolski with 94 skill points. 
-9. Damian Rasak from Sokół Ostrów Wielkopolski with 94 skill points. 
-10. Lukasz Skorupski from GKS Gleboki Jaworzno with 93 skill points. 
-11. Patryk Lipski from GKS Gleboki Wejherowo with 92 skill points. 
-12. Albert Bailey from Legia Czerwona Gwiazda Ostrów Wielkopolski with 92 skill points. 
-13. Jeffrey Howard from Miedź Mielec with 92 skill points. 
-14. Jimmy Kelly from Korona Rzeszów with 91 skill points. 
-15. Adam Buksa from Korona Rzeszów with 91 skill points. 
-16. Szymon Drewniak from Miedź Mielec with 91 skill points. 
-17. Phillip Peterson from GKS Gleboki Wejherowo with 90 skill points. 
-18. Marcin Urynowicz from Legia Czerwona Gwiazda Ostrów Wielkopolski with 90 skill points. 
-19. Raymond Miller from Lechia Dębica with 90 skill points. 
-20. Mateusz Matras from GKS Gleboki Wejherowo with 89 skill points. 
-
-    BEST LEAGUE SCORERS   
-1. Patryk Lipski STRIKER from team GKS Gleboki Wejherowo scores 20
-2. Lawrence Thomas STRIKER from team Legia Czerwona Gwiazda Ostrów Wielkopolski scores 15
-3. Carlos Evans STRIKER from team Czarni Ruda Śląska scores 15
-
-
-    BEST TEAM SCORERS   
-Patryk Lipski STRIKER from team GKS Gleboki Wejherowo scores 20
-Lawrence Thomas STRIKER from team Legia Czerwona Gwiazda Ostrów Wielkopolski scores 15
-Carlos Evans STRIKER from team Czarni Ruda Śląska scores 15
-Dominik Furman STRIKER from team Korona Rzeszów scores 14
-Kamil Glik STRIKER from team Czarni Zielona Góra scores 14
-Karol Mackiewicz STRIKER from team Śląsk Wrocław Tczew scores 14
-Kamil Mazek STRIKER from team GKS Gleboki Jaworzno scores 14
-Adam Marciniak STRIKER from team ŁKS Podbipięta Przemyśl scores 13
-Jimmy Wright STRIKER from team Ślęza Szczecin scores 13
-Rafal Wolski STRIKER from team Miedź Mielec scores 12
-Wayne Collins STRIKER from team Sokół Ostrów Wielkopolski scores 12
-Scott Cox STRIKER from team Lechia Dębica scores 5
-
-*****************
-SEASON 1
-*****************
-
-
-Match Śląsk Wrocław Gniezno against Lechia Zieloni Jaworzno
-Śląsk Wrocław Gniezno 1 : 0 Lechia Zieloni Jaworzno
-Willie Perez scores Śląsk Wrocław Gniezno 1 : 1 Lechia Zieloni Jaworzno
-Michal Helik scores End of match 
-
-Match Wisła Szeroka Kielce against Lechia Siemianowice Śląskie
-Wisła Szeroka Kielce 0 : 1 Lechia Siemianowice Śląskie
-Bartosz Kapustka scores Wisła Szeroka Kielce 0 : 2 Lechia Siemianowice Śląskie
-Jose Jenkins scores Wisła Szeroka Kielce 0 : 3 Lechia Siemianowice Śląskie
-Maciej Sadlok scores End of match 
-
-Match Warta Wartka Wejherowo against LKS Goczałkowice Dębica
-Warta Wartka Wejherowo 1 : 0 LKS Goczałkowice Dębica
-Lukasz Zaluska scores Warta Wartka Wejherowo 2 : 0 LKS Goczałkowice Dębica
-Lukasz Zaluska scores Warta Wartka Wejherowo 2 : 1 LKS Goczałkowice Dębica
-Bruce Young scores Warta Wartka Wejherowo 2 : 2 LKS Goczałkowice Dębica
-Michal Koj scores End of match 
-
-Match Zagłębie Ruhry Ostrów Wielkopolski against Stal Nierdzewna Ostrowiec Świętokrzyski
-Zagłębie Ruhry Ostrów Wielkopolski 1 : 0 Stal Nierdzewna Ostrowiec Świętokrzyski
-Alan Czerwinski scores Zagłębie Ruhry Ostrów Wielkopolski 1 : 1 Stal Nierdzewna Ostrowiec Świętokrzyski
-Kent Moreno scores Zagłębie Ruhry Ostrów Wielkopolski 1 : 2 Stal Nierdzewna Ostrowiec Świętokrzyski
-James Stewart scores End of match 
-
-Match Rekord Wodzisław Śląski against Polonia Jeden Radomsko
-Rekord Wodzisław Śląski 1 : 0 Polonia Jeden Radomsko
-Michal Pazdan scores Rekord Wodzisław Śląski 2 : 0 Polonia Jeden Radomsko
-Mateusz Kupczak scores Rekord Wodzisław Śląski 2 : 1 Polonia Jeden Radomsko
-Billy Taylor scores Rekord Wodzisław Śląski 2 : 2 Polonia Jeden Radomsko
-Thomas Morris scores Rekord Wodzisław Śląski 2 : 3 Polonia Jeden Radomsko
-Kamil Wojtkowski scores Rekord Wodzisław Śląski 2 : 4 Polonia Jeden Radomsko
-Kamil Wojtkowski scores End of match 
-
-Match Ruch Zawiercie against Sandecja Mielec
-Ruch Zawiercie 1 : 0 Sandecja Mielec
-Marcin Flis scores Ruch Zawiercie 1 : 1 Sandecja Mielec
-Bartosz Salamon scores Ruch Zawiercie 1 : 2 Sandecja Mielec
-Bartosz Salamon scores Ruch Zawiercie 1 : 3 Sandecja Mielec
-Jakub Wrabel scores Ruch Zawiercie 1 : 4 Sandecja Mielec
-Bartosz Salamon scores End of match 
-
-Match Sandecja Mielec against Śląsk Wrocław Gniezno
-Sandecja Mielec 1 : 0 Śląsk Wrocław Gniezno
-Bartosz Salamon scores Sandecja Mielec 2 : 0 Śląsk Wrocław Gniezno
-Bartosz Salamon scores Sandecja Mielec 2 : 1 Śląsk Wrocław Gniezno
-Sebastian Rudol scores Sandecja Mielec 2 : 2 Śląsk Wrocław Gniezno
-Sebastian Rudol scores End of match 
-
-Match Polonia Jeden Radomsko against Ruch Zawiercie
-Polonia Jeden Radomsko 1 : 0 Ruch Zawiercie
-Kamil Wojtkowski scores Polonia Jeden Radomsko 1 : 1 Ruch Zawiercie
-Marcin Flis scores Polonia Jeden Radomsko 1 : 2 Ruch Zawiercie
-Marcin Flis scores Polonia Jeden Radomsko 1 : 3 Ruch Zawiercie
-Marcin Flis scores Polonia Jeden Radomsko 1 : 4 Ruch Zawiercie
-Dawid Szymonowicz scores Polonia Jeden Radomsko 1 : 5 Ruch Zawiercie
-Marcin Flis scores End of match 
-
-Match Stal Nierdzewna Ostrowiec Świętokrzyski against Rekord Wodzisław Śląski
-Stal Nierdzewna Ostrowiec Świętokrzyski 1 : 0 Rekord Wodzisław Śląski
-Kent Moreno scores Stal Nierdzewna Ostrowiec Świętokrzyski 1 : 1 Rekord Wodzisław Śląski
-Michal Pazdan scores Stal Nierdzewna Ostrowiec Świętokrzyski 1 : 2 Rekord Wodzisław Śląski
-Michal Pazdan scores Stal Nierdzewna Ostrowiec Świętokrzyski 1 : 3 Rekord Wodzisław Śląski
-Michal Pazdan scores End of match 
-
-Match LKS Goczałkowice Dębica against Zagłębie Ruhry Ostrów Wielkopolski
-LKS Goczałkowice Dębica 1 : 0 Zagłębie Ruhry Ostrów Wielkopolski
-Bruce Young scores LKS Goczałkowice Dębica 2 : 0 Zagłębie Ruhry Ostrów Wielkopolski
-Bruce Young scores LKS Goczałkowice Dębica 3 : 0 Zagłębie Ruhry Ostrów Wielkopolski
-Michal Koj scores LKS Goczałkowice Dębica 3 : 1 Zagłębie Ruhry Ostrów Wielkopolski
-Jeffrey Hernandez scores LKS Goczałkowice Dębica 3 : 2 Zagłębie Ruhry Ostrów Wielkopolski
-Alan Czerwinski scores LKS Goczałkowice Dębica 3 : 3 Zagłębie Ruhry Ostrów Wielkopolski
-Alan Czerwinski scores LKS Goczałkowice Dębica 3 : 4 Zagłębie Ruhry Ostrów Wielkopolski
-Alan Czerwinski scores End of match 
-
-Match Lechia Siemianowice Śląskie against Warta Wartka Wejherowo
-Lechia Siemianowice Śląskie 1 : 0 Warta Wartka Wejherowo
-Tomasz Kupisz scores Lechia Siemianowice Śląskie 2 : 0 Warta Wartka Wejherowo
-Bartosz Kapustka scores Lechia Siemianowice Śląskie 2 : 1 Warta Wartka Wejherowo
-Lukasz Zaluska scores End of match 
-
-Match Lechia Zieloni Jaworzno against Wisła Szeroka Kielce
-Lechia Zieloni Jaworzno 1 : 0 Wisła Szeroka Kielce
-Michal Helik scores Lechia Zieloni Jaworzno 2 : 0 Wisła Szeroka Kielce
-Michal Helik scores End of match 
-
-Match Śląsk Wrocław Gniezno against Wisła Szeroka Kielce
-Śląsk Wrocław Gniezno 1 : 0 Wisła Szeroka Kielce
-Sebastian Rudol scores Śląsk Wrocław Gniezno 1 : 1 Wisła Szeroka Kielce
-Hubert Wolakiewicz scores End of match 
-
-Match Warta Wartka Wejherowo against Lechia Zieloni Jaworzno
-Warta Wartka Wejherowo 1 : 0 Lechia Zieloni Jaworzno
-Filip Starzynski scores Warta Wartka Wejherowo 2 : 0 Lechia Zieloni Jaworzno
-Lukasz Zaluska scores Warta Wartka Wejherowo 2 : 1 Lechia Zieloni Jaworzno
-Michal Helik scores Warta Wartka Wejherowo 2 : 2 Lechia Zieloni Jaworzno
-Kenneth Brown scores Warta Wartka Wejherowo 2 : 3 Lechia Zieloni Jaworzno
-Michal Helik scores End of match 
-
-Match Zagłębie Ruhry Ostrów Wielkopolski against Lechia Siemianowice Śląskie
-Zagłębie Ruhry Ostrów Wielkopolski 1 : 0 Lechia Siemianowice Śląskie
-Alan Czerwinski scores Zagłębie Ruhry Ostrów Wielkopolski 2 : 0 Lechia Siemianowice Śląskie
-Jeffrey Hernandez scores Zagłębie Ruhry Ostrów Wielkopolski 3 : 0 Lechia Siemianowice Śląskie
-Alan Czerwinski scores Zagłębie Ruhry Ostrów Wielkopolski 4 : 0 Lechia Siemianowice Śląskie
-Alan Czerwinski scores Zagłębie Ruhry Ostrów Wielkopolski 5 : 0 Lechia Siemianowice Śląskie
-Jeffrey Hernandez scores Zagłębie Ruhry Ostrów Wielkopolski 5 : 1 Lechia Siemianowice Śląskie
-Tomasz Kupisz scores Zagłębie Ruhry Ostrów Wielkopolski 5 : 2 Lechia Siemianowice Śląskie
-Jakub Slowik scores Zagłębie Ruhry Ostrów Wielkopolski 5 : 3 Lechia Siemianowice Śląskie
-Tomasz Kupisz scores End of match 
-
-Match Rekord Wodzisław Śląski against LKS Goczałkowice Dębica
-Rekord Wodzisław Śląski 0 : 1 LKS Goczałkowice Dębica
-Alonzo Hayes scores Rekord Wodzisław Śląski 0 : 2 LKS Goczałkowice Dębica
-Michal Koj scores Rekord Wodzisław Śląski 0 : 3 LKS Goczałkowice Dębica
-Jakub Slowik scores Rekord Wodzisław Śląski 0 : 4 LKS Goczałkowice Dębica
-Michal Koj scores End of match 
-
-Match Ruch Zawiercie against Stal Nierdzewna Ostrowiec Świętokrzyski
-Ruch Zawiercie 1 : 0 Stal Nierdzewna Ostrowiec Świętokrzyski
-Jakub Szumski scores Ruch Zawiercie 2 : 0 Stal Nierdzewna Ostrowiec Świętokrzyski
-Marcin Flis scores Ruch Zawiercie 2 : 1 Stal Nierdzewna Ostrowiec Świętokrzyski
-Radoslaw Janukiewicz scores End of match 
-
-Match Sandecja Mielec against Polonia Jeden Radomsko
-Sandecja Mielec 1 : 0 Polonia Jeden Radomsko
-Bartosz Salamon scores Sandecja Mielec 1 : 1 Polonia Jeden Radomsko
-Kamil Wojtkowski scores Sandecja Mielec 1 : 2 Polonia Jeden Radomsko
-Kamil Wojtkowski scores End of match 
-
-Match Polonia Jeden Radomsko against Śląsk Wrocław Gniezno
-Polonia Jeden Radomsko 1 : 0 Śląsk Wrocław Gniezno
-Carl Howard scores Polonia Jeden Radomsko 1 : 1 Śląsk Wrocław Gniezno
-Sebastian Rudol scores Polonia Jeden Radomsko 1 : 2 Śląsk Wrocław Gniezno
-Sebastian Rudol scores Polonia Jeden Radomsko 1 : 3 Śląsk Wrocław Gniezno
-Sebastian Rudol scores End of match 
-
-Match Stal Nierdzewna Ostrowiec Świętokrzyski against Sandecja Mielec
-Stal Nierdzewna Ostrowiec Świętokrzyski 1 : 0 Sandecja Mielec
-Keith Wilson scores Stal Nierdzewna Ostrowiec Świętokrzyski 2 : 0 Sandecja Mielec
-Radoslaw Janukiewicz scores Stal Nierdzewna Ostrowiec Świętokrzyski 3 : 0 Sandecja Mielec
+Match Widzew Słupsk against Widzew Jaworzno
+Widzew Słupsk 1 : 0 Widzew Jaworzno
+Rafal Gikiewicz scores Widzew Słupsk 2 : 0 Widzew Jaworzno
+Rafal Gikiewicz scores Widzew Słupsk 2 : 1 Widzew Jaworzno
+Kevin Young scores Widzew Słupsk 2 : 2 Widzew Jaworzno
+Kevin Young scores End of match 
+
+Match Stal Grudziądz against Pogoń Ruska Radom
+Stal Grudziądz 1 : 0 Pogoń Ruska Radom
+Rafal Gikiewicz scores Stal Grudziądz 2 : 0 Pogoń Ruska Radom
+Rafal Gikiewicz scores Stal Grudziądz 2 : 1 Pogoń Ruska Radom
+Steven Flores scores Stal Grudziądz 2 : 2 Pogoń Ruska Radom
+Steven Flores scores Stal Grudziądz 2 : 3 Pogoń Ruska Radom
+Steven Flores scores End of match 
+
+Match Avia Grudziądz against Zagłębie II Lubin Stargard
+Avia Grudziądz 0 : 1 Zagłębie II Lubin Stargard
+Lukasz Janoszka scores Avia Grudziądz 0 : 2 Zagłębie II Lubin Stargard
+Kent Moreno scores Avia Grudziądz 0 : 3 Zagłębie II Lubin Stargard
 Kent Moreno scores End of match 
 
-Match LKS Goczałkowice Dębica against Ruch Zawiercie
-LKS Goczałkowice Dębica 1 : 0 Ruch Zawiercie
-Michal Koj scores LKS Goczałkowice Dębica 2 : 0 Ruch Zawiercie
-Michal Koj scores LKS Goczałkowice Dębica 2 : 1 Ruch Zawiercie
-Marcin Flis scores LKS Goczałkowice Dębica 2 : 2 Ruch Zawiercie
-Marcin Flis scores LKS Goczałkowice Dębica 2 : 3 Ruch Zawiercie
-Michal Janota scores End of match 
+Match Motor Tczew against Gwarek Tarnowski Kraków
+Motor Tczew 1 : 0 Gwarek Tarnowski Kraków
+Jakub Wojcicki scores Motor Tczew 2 : 0 Gwarek Tarnowski Kraków
+Adam Mojta scores Motor Tczew 3 : 0 Gwarek Tarnowski Kraków
+Adam Mojta scores Motor Tczew 3 : 1 Gwarek Tarnowski Kraków
+Rafal Kurzawa scores Motor Tczew 3 : 2 Gwarek Tarnowski Kraków
+Rafal Kurzawa scores End of match 
 
-Match Lechia Siemianowice Śląskie against Rekord Wodzisław Śląski
-Lechia Siemianowice Śląskie 1 : 0 Rekord Wodzisław Śląski
-Bartosz Kapustka scores Lechia Siemianowice Śląskie 2 : 0 Rekord Wodzisław Śląski
-Maciej Sadlok scores End of match 
+Match Stal Białystok against Skra Biała Podlaska
+Stal Białystok 1 : 0 Skra Biała Podlaska
+Igor Lasicki scores Stal Białystok 1 : 1 Skra Biała Podlaska
+Jakub Czerwinski scores Stal Białystok 1 : 2 Skra Biała Podlaska
+Jakub Czerwinski scores Stal Białystok 1 : 3 Skra Biała Podlaska
+Ernest Alexander scores End of match 
 
-Match Lechia Zieloni Jaworzno against Zagłębie Ruhry Ostrów Wielkopolski
-Lechia Zieloni Jaworzno 0 : 1 Zagłębie Ruhry Ostrów Wielkopolski
-Alan Czerwinski scores Lechia Zieloni Jaworzno 0 : 2 Zagłębie Ruhry Ostrów Wielkopolski
-Alan Czerwinski scores End of match 
+Match Pogoń Ruska Gliwice against Wólczanka Siedlce
+Pogoń Ruska Gliwice 1 : 0 Wólczanka Siedlce
+Roman George scores End of match 
 
-Match Wisła Szeroka Kielce against Warta Wartka Wejherowo
-Wisła Szeroka Kielce 1 : 0 Warta Wartka Wejherowo
-Hubert Wolakiewicz scores Wisła Szeroka Kielce 2 : 0 Warta Wartka Wejherowo
-Leonard Bush scores Wisła Szeroka Kielce 2 : 1 Warta Wartka Wejherowo
-Filip Starzynski scores Wisła Szeroka Kielce 2 : 2 Warta Wartka Wejherowo
-Lukasz Zaluska scores End of match 
+Match Wólczanka Siedlce against Widzew Słupsk
+Wólczanka Siedlce 1 : 0 Widzew Słupsk
+Sebastian Szymanski scores Wólczanka Siedlce 2 : 0 Widzew Słupsk
+Sebastian Szymanski scores Wólczanka Siedlce 3 : 0 Widzew Słupsk
+Bartosz Bereszynski scores Wólczanka Siedlce 4 : 0 Widzew Słupsk
+Jonatan Straus scores Wólczanka Siedlce 5 : 0 Widzew Słupsk
+Jonatan Straus scores Wólczanka Siedlce 5 : 1 Widzew Słupsk
+Rafal Gikiewicz scores Wólczanka Siedlce 5 : 2 Widzew Słupsk
+Rafal Gikiewicz scores End of match 
 
-Match Śląsk Wrocław Gniezno against Warta Wartka Wejherowo
-Śląsk Wrocław Gniezno 1 : 0 Warta Wartka Wejherowo
-Sebastian Rudol scores Śląsk Wrocław Gniezno 1 : 1 Warta Wartka Wejherowo
-Lukasz Zaluska scores Śląsk Wrocław Gniezno 1 : 2 Warta Wartka Wejherowo
-Lukasz Zaluska scores Śląsk Wrocław Gniezno 1 : 3 Warta Wartka Wejherowo
-Lukasz Zaluska scores End of match 
+Match Skra Biała Podlaska against Pogoń Ruska Gliwice
+Skra Biała Podlaska 1 : 0 Pogoń Ruska Gliwice
+Ernest Alexander scores Skra Biała Podlaska 2 : 0 Pogoń Ruska Gliwice
+Ernest Alexander scores Skra Biała Podlaska 3 : 0 Pogoń Ruska Gliwice
+Derek Schmidt scores Skra Biała Podlaska 3 : 1 Pogoń Ruska Gliwice
+Tomasz Loska scores Skra Biała Podlaska 3 : 2 Pogoń Ruska Gliwice
+Bruce Young scores End of match 
 
-Match Zagłębie Ruhry Ostrów Wielkopolski against Wisła Szeroka Kielce
-Zagłębie Ruhry Ostrów Wielkopolski 1 : 0 Wisła Szeroka Kielce
-Jeffrey Hernandez scores Zagłębie Ruhry Ostrów Wielkopolski 2 : 0 Wisła Szeroka Kielce
-Alan Czerwinski scores Zagłębie Ruhry Ostrów Wielkopolski 3 : 0 Wisła Szeroka Kielce
-Alan Czerwinski scores Zagłębie Ruhry Ostrów Wielkopolski 3 : 1 Wisła Szeroka Kielce
-Hubert Wolakiewicz scores End of match 
+Match Gwarek Tarnowski Kraków against Stal Białystok
+Gwarek Tarnowski Kraków 1 : 0 Stal Białystok
+Filip Piszczek scores Gwarek Tarnowski Kraków 2 : 0 Stal Białystok
+Rafal Kurzawa scores Gwarek Tarnowski Kraków 2 : 1 Stal Białystok
+Cezary Demianiuk scores Gwarek Tarnowski Kraków 2 : 2 Stal Białystok
+Igor Lasicki scores Gwarek Tarnowski Kraków 2 : 3 Stal Białystok
+Cezary Demianiuk scores End of match 
 
-Match Rekord Wodzisław Śląski against Lechia Zieloni Jaworzno
-Rekord Wodzisław Śląski 1 : 0 Lechia Zieloni Jaworzno
-Ryan Perry scores Rekord Wodzisław Śląski 2 : 0 Lechia Zieloni Jaworzno
-Michal Pazdan scores Rekord Wodzisław Śląski 2 : 1 Lechia Zieloni Jaworzno
-Michal Helik scores End of match 
+Match Zagłębie II Lubin Stargard against Motor Tczew
+Zagłębie II Lubin Stargard 1 : 0 Motor Tczew
+Lukasz Wolsztynski scores Zagłębie II Lubin Stargard 1 : 1 Motor Tczew
+Adam Mojta scores End of match 
 
-Match Ruch Zawiercie against Lechia Siemianowice Śląskie
-Ruch Zawiercie 1 : 0 Lechia Siemianowice Śląskie
-Marcin Flis scores Ruch Zawiercie 1 : 1 Lechia Siemianowice Śląskie
-Tomasz Kupisz scores End of match 
+Match Pogoń Ruska Radom against Avia Grudziądz
+Pogoń Ruska Radom 1 : 0 Avia Grudziądz
+Steven Flores scores Pogoń Ruska Radom 2 : 0 Avia Grudziądz
+Steven Flores scores Pogoń Ruska Radom 2 : 1 Avia Grudziądz
+Grzegorz Bonin scores Pogoń Ruska Radom 2 : 2 Avia Grudziądz
+Piotr Wlazlo scores End of match 
 
-Match Sandecja Mielec against LKS Goczałkowice Dębica
-Sandecja Mielec 1 : 0 LKS Goczałkowice Dębica
-Bartosz Salamon scores Sandecja Mielec 1 : 1 LKS Goczałkowice Dębica
-Michal Koj scores Sandecja Mielec 1 : 2 LKS Goczałkowice Dębica
-Michal Koj scores End of match 
+Match Widzew Jaworzno against Stal Grudziądz
+Widzew Jaworzno 1 : 0 Stal Grudziądz
+Sebastian Steblecki scores End of match 
 
-Match Polonia Jeden Radomsko against Stal Nierdzewna Ostrowiec Świętokrzyski
-Polonia Jeden Radomsko 1 : 0 Stal Nierdzewna Ostrowiec Świętokrzyski
-Kamil Wojtkowski scores Polonia Jeden Radomsko 1 : 1 Stal Nierdzewna Ostrowiec Świętokrzyski
-James Stewart scores Polonia Jeden Radomsko 1 : 2 Stal Nierdzewna Ostrowiec Świętokrzyski
-Kent Moreno scores Polonia Jeden Radomsko 1 : 3 Stal Nierdzewna Ostrowiec Świętokrzyski
+Match Widzew Słupsk against Stal Grudziądz
+Widzew Słupsk 1 : 0 Stal Grudziądz
+Rafal Gikiewicz scores Widzew Słupsk 2 : 0 Stal Grudziądz
+Rafal Gikiewicz scores Widzew Słupsk 2 : 1 Stal Grudziądz
+Maciej Korzym scores Widzew Słupsk 2 : 2 Stal Grudziądz
+Michal Chrapek scores Widzew Słupsk 2 : 3 Stal Grudziądz
+Michal Chrapek scores End of match 
+
+Match Avia Grudziądz against Widzew Jaworzno
+Avia Grudziądz 0 : 1 Widzew Jaworzno
+Kevin Young scores Avia Grudziądz 0 : 2 Widzew Jaworzno
+Kevin Young scores End of match 
+
+Match Motor Tczew against Pogoń Ruska Radom
+Motor Tczew 1 : 0 Pogoń Ruska Radom
+Adam Mojta scores Motor Tczew 2 : 0 Pogoń Ruska Radom
+Adam Mojta scores Motor Tczew 3 : 0 Pogoń Ruska Radom
+Adam Mojta scores Motor Tczew 4 : 0 Pogoń Ruska Radom
+Adam Mojta scores Motor Tczew 4 : 1 Pogoń Ruska Radom
+Steven Flores scores Motor Tczew 4 : 2 Pogoń Ruska Radom
+Steven Flores scores End of match 
+
+Match Stal Białystok against Zagłębie II Lubin Stargard
+Stal Białystok 1 : 0 Zagłębie II Lubin Stargard
+Igor Lasicki scores Stal Białystok 1 : 1 Zagłębie II Lubin Stargard
+Gilberto Lynch scores Stal Białystok 1 : 2 Zagłębie II Lubin Stargard
 Kent Moreno scores End of match 
 
-Match Śląsk Wrocław Gniezno against Stal Nierdzewna Ostrowiec Świętokrzyski
-Śląsk Wrocław Gniezno 1 : 0 Stal Nierdzewna Ostrowiec Świętokrzyski
-Sebastian Rudol scores Śląsk Wrocław Gniezno 1 : 1 Stal Nierdzewna Ostrowiec Świętokrzyski
-Radoslaw Janukiewicz scores Śląsk Wrocław Gniezno 1 : 2 Stal Nierdzewna Ostrowiec Świętokrzyski
-Keith Wilson scores End of match 
+Match Pogoń Ruska Gliwice against Gwarek Tarnowski Kraków
+Pogoń Ruska Gliwice 1 : 0 Gwarek Tarnowski Kraków
+Roman George scores Pogoń Ruska Gliwice 2 : 0 Gwarek Tarnowski Kraków
+Tomasz Loska scores Pogoń Ruska Gliwice 3 : 0 Gwarek Tarnowski Kraków
+Roman George scores Pogoń Ruska Gliwice 4 : 0 Gwarek Tarnowski Kraków
+Roman George scores Pogoń Ruska Gliwice 5 : 0 Gwarek Tarnowski Kraków
+Mateusz Cholewiak scores End of match 
 
-Match LKS Goczałkowice Dębica against Polonia Jeden Radomsko
-LKS Goczałkowice Dębica 1 : 0 Polonia Jeden Radomsko
-Bruce Young scores LKS Goczałkowice Dębica 2 : 0 Polonia Jeden Radomsko
-Michal Koj scores LKS Goczałkowice Dębica 3 : 0 Polonia Jeden Radomsko
-Jakub Slowik scores LKS Goczałkowice Dębica 3 : 1 Polonia Jeden Radomsko
-Kamil Wojtkowski scores End of match 
+Match Wólczanka Siedlce against Skra Biała Podlaska
+Wólczanka Siedlce 1 : 0 Skra Biała Podlaska
+Sebastian Szymanski scores Wólczanka Siedlce 2 : 0 Skra Biała Podlaska
+Jonatan Straus scores Wólczanka Siedlce 3 : 0 Skra Biała Podlaska
+Sebastian Szymanski scores Wólczanka Siedlce 3 : 1 Skra Biała Podlaska
+Ernest Alexander scores Wólczanka Siedlce 3 : 2 Skra Biała Podlaska
+Derek Schmidt scores End of match 
 
-Match Lechia Siemianowice Śląskie against Sandecja Mielec
-Lechia Siemianowice Śląskie 1 : 0 Sandecja Mielec
-Tomasz Kupisz scores Lechia Siemianowice Śląskie 2 : 0 Sandecja Mielec
-Maciej Sadlok scores Lechia Siemianowice Śląskie 2 : 1 Sandecja Mielec
-Bartosz Salamon scores Lechia Siemianowice Śląskie 2 : 2 Sandecja Mielec
-Bartosz Salamon scores End of match 
+Match Skra Biała Podlaska against Widzew Słupsk
+Skra Biała Podlaska 1 : 0 Widzew Słupsk
+Ernest Alexander scores Skra Biała Podlaska 2 : 0 Widzew Słupsk
+Ernest Alexander scores Skra Biała Podlaska 2 : 1 Widzew Słupsk
+Rafal Gikiewicz scores Skra Biała Podlaska 2 : 2 Widzew Słupsk
+Rafal Gikiewicz scores Skra Biała Podlaska 2 : 3 Widzew Słupsk
+Rafal Gikiewicz scores End of match 
 
-Match Lechia Zieloni Jaworzno against Ruch Zawiercie
-Lechia Zieloni Jaworzno 1 : 0 Ruch Zawiercie
-Michal Helik scores Lechia Zieloni Jaworzno 2 : 0 Ruch Zawiercie
-Adrian Basta scores Lechia Zieloni Jaworzno 3 : 0 Ruch Zawiercie
-Michal Helik scores Lechia Zieloni Jaworzno 3 : 1 Ruch Zawiercie
-Marcin Flis scores End of match 
+Match Gwarek Tarnowski Kraków against Wólczanka Siedlce
+Gwarek Tarnowski Kraków 0 : 1 Wólczanka Siedlce
+Sebastian Szymanski scores End of match 
 
-Match Wisła Szeroka Kielce against Rekord Wodzisław Śląski
-Wisła Szeroka Kielce 0 : 1 Rekord Wodzisław Śląski
-Mateusz Kupczak scores End of match 
+Match Zagłębie II Lubin Stargard against Pogoń Ruska Gliwice
+Zagłębie II Lubin Stargard 1 : 0 Pogoń Ruska Gliwice
+Kent Moreno scores Zagłębie II Lubin Stargard 1 : 1 Pogoń Ruska Gliwice
+Mateusz Cholewiak scores Zagłębie II Lubin Stargard 1 : 2 Pogoń Ruska Gliwice
+Bruce Young scores Zagłębie II Lubin Stargard 1 : 3 Pogoń Ruska Gliwice
+Bruce Young scores Zagłębie II Lubin Stargard 1 : 4 Pogoń Ruska Gliwice
+Mateusz Cholewiak scores End of match 
 
-Match Warta Wartka Wejherowo against Zagłębie Ruhry Ostrów Wielkopolski
-Warta Wartka Wejherowo 1 : 0 Zagłębie Ruhry Ostrów Wielkopolski
-Lukasz Zaluska scores Warta Wartka Wejherowo 2 : 0 Zagłębie Ruhry Ostrów Wielkopolski
-Lukasz Zaluska scores Warta Wartka Wejherowo 3 : 0 Zagłębie Ruhry Ostrów Wielkopolski
-Michal Chrapek scores Warta Wartka Wejherowo 3 : 1 Zagłębie Ruhry Ostrów Wielkopolski
-Alan Czerwinski scores End of match 
+Match Pogoń Ruska Radom against Stal Białystok
+Pogoń Ruska Radom 1 : 0 Stal Białystok
+Steven Flores scores Pogoń Ruska Radom 2 : 0 Stal Białystok
+Steven Flores scores Pogoń Ruska Radom 2 : 1 Stal Białystok
+Lawrence Thomas scores Pogoń Ruska Radom 2 : 2 Stal Białystok
+Lawrence Thomas scores Pogoń Ruska Radom 2 : 3 Stal Białystok
+Igor Lasicki scores Pogoń Ruska Radom 2 : 4 Stal Białystok
+Igor Lasicki scores End of match 
 
-Match Zagłębie Ruhry Ostrów Wielkopolski against Śląsk Wrocław Gniezno
-Zagłębie Ruhry Ostrów Wielkopolski 1 : 0 Śląsk Wrocław Gniezno
-Alan Czerwinski scores Zagłębie Ruhry Ostrów Wielkopolski 1 : 1 Śląsk Wrocław Gniezno
-Sebastian Rudol scores Zagłębie Ruhry Ostrów Wielkopolski 1 : 2 Śląsk Wrocław Gniezno
-Willie Perez scores End of match 
+Match Widzew Jaworzno against Motor Tczew
+Widzew Jaworzno 1 : 0 Motor Tczew
+Kevin Young scores Widzew Jaworzno 2 : 0 Motor Tczew
+Jaroslaw Fojut scores Widzew Jaworzno 3 : 0 Motor Tczew
+Kevin Young scores Widzew Jaworzno 4 : 0 Motor Tczew
+Kevin Young scores Widzew Jaworzno 5 : 0 Motor Tczew
+Kevin Young scores Widzew Jaworzno 5 : 1 Motor Tczew
+Adam Mojta scores Widzew Jaworzno 5 : 2 Motor Tczew
+Adam Mojta scores Widzew Jaworzno 5 : 3 Motor Tczew
+Adam Mojta scores End of match 
 
-Match Rekord Wodzisław Śląski against Warta Wartka Wejherowo
-Rekord Wodzisław Śląski 1 : 0 Warta Wartka Wejherowo
-Mateusz Kupczak scores Rekord Wodzisław Śląski 1 : 1 Warta Wartka Wejherowo
-Filip Starzynski scores End of match 
+Match Stal Grudziądz against Avia Grudziądz
+Stal Grudziądz 1 : 0 Avia Grudziądz
+Rafal Gikiewicz scores End of match 
 
-Match Ruch Zawiercie against Wisła Szeroka Kielce
-Ruch Zawiercie 1 : 0 Wisła Szeroka Kielce
-Marcin Flis scores Ruch Zawiercie 2 : 0 Wisła Szeroka Kielce
-Marcin Flis scores Ruch Zawiercie 2 : 1 Wisła Szeroka Kielce
-Hubert Wolakiewicz scores Ruch Zawiercie 2 : 2 Wisła Szeroka Kielce
-Hubert Wolakiewicz scores End of match 
+Match Widzew Słupsk against Avia Grudziądz
+Widzew Słupsk 1 : 0 Avia Grudziądz
+Rafal Gikiewicz scores Widzew Słupsk 2 : 0 Avia Grudziądz
+Rafal Gikiewicz scores Widzew Słupsk 2 : 1 Avia Grudziądz
+Gary Johnson scores End of match 
 
-Match Sandecja Mielec against Lechia Zieloni Jaworzno
-Sandecja Mielec 1 : 0 Lechia Zieloni Jaworzno
-Bartosz Salamon scores Sandecja Mielec 2 : 0 Lechia Zieloni Jaworzno
-Bartosz Salamon scores Sandecja Mielec 3 : 0 Lechia Zieloni Jaworzno
-Bartosz Salamon scores Sandecja Mielec 3 : 1 Lechia Zieloni Jaworzno
-Michal Helik scores Sandecja Mielec 3 : 2 Lechia Zieloni Jaworzno
-Michal Helik scores End of match 
+Match Motor Tczew against Stal Grudziądz
+Motor Tczew 1 : 0 Stal Grudziądz
+Adam Mojta scores Motor Tczew 2 : 0 Stal Grudziądz
+Adam Mojta scores Motor Tczew 3 : 0 Stal Grudziądz
+Krystian Wojcik scores Motor Tczew 4 : 0 Stal Grudziądz
+Adam Mojta scores Motor Tczew 4 : 1 Stal Grudziądz
+Michal Chrapek scores End of match 
 
-Match Polonia Jeden Radomsko against Lechia Siemianowice Śląskie
-Polonia Jeden Radomsko 0 : 1 Lechia Siemianowice Śląskie
-Tomasz Kupisz scores Polonia Jeden Radomsko 0 : 2 Lechia Siemianowice Śląskie
-Jose Jenkins scores End of match 
+Match Stal Białystok against Widzew Jaworzno
+Stal Białystok 1 : 0 Widzew Jaworzno
+Cezary Demianiuk scores Stal Białystok 1 : 1 Widzew Jaworzno
+Michal Kucharczyk scores End of match 
 
-Match Stal Nierdzewna Ostrowiec Świętokrzyski against LKS Goczałkowice Dębica
-Stal Nierdzewna Ostrowiec Świętokrzyski 1 : 0 LKS Goczałkowice Dębica
-Kent Moreno scores Stal Nierdzewna Ostrowiec Świętokrzyski 2 : 0 LKS Goczałkowice Dębica
-Kent Moreno scores Stal Nierdzewna Ostrowiec Świętokrzyski 3 : 0 LKS Goczałkowice Dębica
-James Stewart scores Stal Nierdzewna Ostrowiec Świętokrzyski 4 : 0 LKS Goczałkowice Dębica
-Kent Moreno scores Stal Nierdzewna Ostrowiec Świętokrzyski 5 : 0 LKS Goczałkowice Dębica
-Kent Moreno scores Stal Nierdzewna Ostrowiec Świętokrzyski 6 : 0 LKS Goczałkowice Dębica
-Radoslaw Janukiewicz scores Stal Nierdzewna Ostrowiec Świętokrzyski 6 : 1 LKS Goczałkowice Dębica
-Michal Koj scores Stal Nierdzewna Ostrowiec Świętokrzyski 6 : 2 LKS Goczałkowice Dębica
-Michal Koj scores Stal Nierdzewna Ostrowiec Świętokrzyski 6 : 3 LKS Goczałkowice Dębica
-Michal Koj scores End of match 
+Match Pogoń Ruska Gliwice against Pogoń Ruska Radom
+Pogoń Ruska Gliwice 1 : 0 Pogoń Ruska Radom
+Mateusz Cholewiak scores Pogoń Ruska Gliwice 2 : 0 Pogoń Ruska Radom
+Tomasz Loska scores Pogoń Ruska Gliwice 2 : 1 Pogoń Ruska Radom
+Steven Flores scores Pogoń Ruska Gliwice 2 : 2 Pogoń Ruska Radom
+Steven Flores scores Pogoń Ruska Gliwice 2 : 3 Pogoń Ruska Radom
+Steven Flores scores End of match 
 
-Match Śląsk Wrocław Gniezno against LKS Goczałkowice Dębica
-Śląsk Wrocław Gniezno 1 : 0 LKS Goczałkowice Dębica
-Willie Perez scores Śląsk Wrocław Gniezno 2 : 0 LKS Goczałkowice Dębica
-Sebastian Rudol scores Śląsk Wrocław Gniezno 3 : 0 LKS Goczałkowice Dębica
-Sebastian Rudol scores Śląsk Wrocław Gniezno 3 : 1 LKS Goczałkowice Dębica
-Michal Koj scores End of match 
+Match Wólczanka Siedlce against Zagłębie II Lubin Stargard
+Wólczanka Siedlce 1 : 0 Zagłębie II Lubin Stargard
+Sebastian Szymanski scores Wólczanka Siedlce 2 : 0 Zagłębie II Lubin Stargard
+Jonatan Straus scores Wólczanka Siedlce 3 : 0 Zagłębie II Lubin Stargard
+Sebastian Szymanski scores Wólczanka Siedlce 4 : 0 Zagłębie II Lubin Stargard
+Sebastian Szymanski scores Wólczanka Siedlce 5 : 0 Zagłębie II Lubin Stargard
+Sebastian Szymanski scores Wólczanka Siedlce 5 : 1 Zagłębie II Lubin Stargard
+Gilberto Lynch scores Wólczanka Siedlce 5 : 2 Zagłębie II Lubin Stargard
+Kent Moreno scores Wólczanka Siedlce 5 : 3 Zagłębie II Lubin Stargard
+Kent Moreno scores Wólczanka Siedlce 5 : 4 Zagłębie II Lubin Stargard
+Gilberto Lynch scores Wólczanka Siedlce 5 : 5 Zagłębie II Lubin Stargard
+Lukasz Wolsztynski scores End of match 
 
-Match Lechia Siemianowice Śląskie against Stal Nierdzewna Ostrowiec Świętokrzyski
-Lechia Siemianowice Śląskie 0 : 1 Stal Nierdzewna Ostrowiec Świętokrzyski
-Kent Moreno scores Lechia Siemianowice Śląskie 0 : 2 Stal Nierdzewna Ostrowiec Świętokrzyski
+Match Skra Biała Podlaska against Gwarek Tarnowski Kraków
+Skra Biała Podlaska 1 : 0 Gwarek Tarnowski Kraków
+Jakub Czerwinski scores Skra Biała Podlaska 2 : 0 Gwarek Tarnowski Kraków
+Ernest Alexander scores Skra Biała Podlaska 2 : 1 Gwarek Tarnowski Kraków
+Filip Piszczek scores Skra Biała Podlaska 2 : 2 Gwarek Tarnowski Kraków
+Filip Piszczek scores End of match 
+
+Match Widzew Słupsk against Gwarek Tarnowski Kraków
+Widzew Słupsk 0 : 1 Gwarek Tarnowski Kraków
+Filip Piszczek scores Widzew Słupsk 0 : 2 Gwarek Tarnowski Kraków
+Filip Piszczek scores End of match 
+
+Match Zagłębie II Lubin Stargard against Skra Biała Podlaska
+Zagłębie II Lubin Stargard 1 : 0 Skra Biała Podlaska
 Kent Moreno scores End of match 
 
-Match Lechia Zieloni Jaworzno against Polonia Jeden Radomsko
-Lechia Zieloni Jaworzno 1 : 0 Polonia Jeden Radomsko
-Roger Price scores Lechia Zieloni Jaworzno 2 : 0 Polonia Jeden Radomsko
-Michal Nalepa scores End of match 
-
-Match Wisła Szeroka Kielce against Sandecja Mielec
-Wisła Szeroka Kielce 1 : 0 Sandecja Mielec
-Hubert Wolakiewicz scores Wisła Szeroka Kielce 1 : 1 Sandecja Mielec
-Bartosz Salamon scores End of match 
-
-Match Warta Wartka Wejherowo against Ruch Zawiercie
-Warta Wartka Wejherowo 1 : 0 Ruch Zawiercie
-Lukasz Zaluska scores Warta Wartka Wejherowo 1 : 1 Ruch Zawiercie
-Marcin Flis scores Warta Wartka Wejherowo 1 : 2 Ruch Zawiercie
-Marcin Flis scores End of match 
-
-Match Zagłębie Ruhry Ostrów Wielkopolski against Rekord Wodzisław Śląski
-Zagłębie Ruhry Ostrów Wielkopolski 1 : 0 Rekord Wodzisław Śląski
-Alan Czerwinski scores Zagłębie Ruhry Ostrów Wielkopolski 2 : 0 Rekord Wodzisław Śląski
-Jeffrey Hernandez scores Zagłębie Ruhry Ostrów Wielkopolski 2 : 1 Rekord Wodzisław Śląski
-Michal Pazdan scores Zagłębie Ruhry Ostrów Wielkopolski 2 : 2 Rekord Wodzisław Śląski
-Michal Pazdan scores End of match 
-
-Match Rekord Wodzisław Śląski against Śląsk Wrocław Gniezno
-Rekord Wodzisław Śląski 1 : 0 Śląsk Wrocław Gniezno
-Ryan Perry scores Rekord Wodzisław Śląski 1 : 1 Śląsk Wrocław Gniezno
-Sebastian Rudol scores End of match 
-
-Match Ruch Zawiercie against Zagłębie Ruhry Ostrów Wielkopolski
-Ruch Zawiercie 1 : 0 Zagłębie Ruhry Ostrów Wielkopolski
-Cezary Demianiuk scores Ruch Zawiercie 2 : 0 Zagłębie Ruhry Ostrów Wielkopolski
-Marcin Flis scores Ruch Zawiercie 3 : 0 Zagłębie Ruhry Ostrów Wielkopolski
-Marcin Flis scores Ruch Zawiercie 3 : 1 Zagłębie Ruhry Ostrów Wielkopolski
-Alan Czerwinski scores Ruch Zawiercie 3 : 2 Zagłębie Ruhry Ostrów Wielkopolski
-Alan Czerwinski scores Ruch Zawiercie 3 : 3 Zagłębie Ruhry Ostrów Wielkopolski
-Alan Czerwinski scores Ruch Zawiercie 3 : 4 Zagłębie Ruhry Ostrów Wielkopolski
-Alan Czerwinski scores Ruch Zawiercie 3 : 5 Zagłębie Ruhry Ostrów Wielkopolski
-Alan Czerwinski scores End of match 
-
-Match Sandecja Mielec against Warta Wartka Wejherowo
-Sandecja Mielec 1 : 0 Warta Wartka Wejherowo
-Bartosz Salamon scores Sandecja Mielec 1 : 1 Warta Wartka Wejherowo
-Lukasz Zaluska scores Sandecja Mielec 1 : 2 Warta Wartka Wejherowo
-Filip Starzynski scores End of match 
-
-Match Polonia Jeden Radomsko against Wisła Szeroka Kielce
-Polonia Jeden Radomsko 1 : 0 Wisła Szeroka Kielce
-Thomas Morris scores Polonia Jeden Radomsko 2 : 0 Wisła Szeroka Kielce
-Kamil Wojtkowski scores Polonia Jeden Radomsko 3 : 0 Wisła Szeroka Kielce
-Kamil Wojtkowski scores Polonia Jeden Radomsko 4 : 0 Wisła Szeroka Kielce
-Carl Howard scores Polonia Jeden Radomsko 4 : 1 Wisła Szeroka Kielce
-Hubert Wolakiewicz scores Polonia Jeden Radomsko 4 : 2 Wisła Szeroka Kielce
-David Phillips scores Polonia Jeden Radomsko 4 : 3 Wisła Szeroka Kielce
-Leonard Bush scores Polonia Jeden Radomsko 4 : 4 Wisła Szeroka Kielce
-Hubert Wolakiewicz scores End of match 
-
-Match Stal Nierdzewna Ostrowiec Świętokrzyski against Lechia Zieloni Jaworzno
-Stal Nierdzewna Ostrowiec Świętokrzyski 1 : 0 Lechia Zieloni Jaworzno
-Kent Moreno scores Stal Nierdzewna Ostrowiec Świętokrzyski 2 : 0 Lechia Zieloni Jaworzno
-Kent Moreno scores Stal Nierdzewna Ostrowiec Świętokrzyski 3 : 0 Lechia Zieloni Jaworzno
-Kent Moreno scores Stal Nierdzewna Ostrowiec Świętokrzyski 3 : 1 Lechia Zieloni Jaworzno
-Kenneth Brown scores Stal Nierdzewna Ostrowiec Świętokrzyski 3 : 2 Lechia Zieloni Jaworzno
-Michal Nalepa scores Stal Nierdzewna Ostrowiec Świętokrzyski 3 : 3 Lechia Zieloni Jaworzno
-Michal Helik scores End of match 
-
-Match LKS Goczałkowice Dębica against Lechia Siemianowice Śląskie
-LKS Goczałkowice Dębica 1 : 0 Lechia Siemianowice Śląskie
-Michal Koj scores LKS Goczałkowice Dębica 2 : 0 Lechia Siemianowice Śląskie
-Michal Koj scores LKS Goczałkowice Dębica 2 : 1 Lechia Siemianowice Śląskie
-Maciej Sadlok scores LKS Goczałkowice Dębica 2 : 2 Lechia Siemianowice Śląskie
-Tomasz Kupisz scores LKS Goczałkowice Dębica 2 : 3 Lechia Siemianowice Śląskie
-Jakub Slowik scores End of match 
-
-Match Śląsk Wrocław Gniezno against Lechia Siemianowice Śląskie
-Śląsk Wrocław Gniezno 0 : 1 Lechia Siemianowice Śląskie
-Tomasz Kupisz scores Śląsk Wrocław Gniezno 0 : 2 Lechia Siemianowice Śląskie
-Tomasz Kupisz scores End of match 
-
-Match Lechia Zieloni Jaworzno against LKS Goczałkowice Dębica
-Lechia Zieloni Jaworzno 1 : 0 LKS Goczałkowice Dębica
-Michal Helik scores Lechia Zieloni Jaworzno 2 : 0 LKS Goczałkowice Dębica
-Michal Helik scores Lechia Zieloni Jaworzno 3 : 0 LKS Goczałkowice Dębica
-Michal Helik scores Lechia Zieloni Jaworzno 3 : 1 LKS Goczałkowice Dębica
-Michal Koj scores End of match 
-
-Match Wisła Szeroka Kielce against Stal Nierdzewna Ostrowiec Świętokrzyski
-Wisła Szeroka Kielce 1 : 0 Stal Nierdzewna Ostrowiec Świętokrzyski
-Hubert Wolakiewicz scores Wisła Szeroka Kielce 1 : 1 Stal Nierdzewna Ostrowiec Świętokrzyski
-Kent Moreno scores Wisła Szeroka Kielce 1 : 2 Stal Nierdzewna Ostrowiec Świętokrzyski
-Kent Moreno scores Wisła Szeroka Kielce 1 : 3 Stal Nierdzewna Ostrowiec Świętokrzyski
-Radoslaw Janukiewicz scores End of match 
-
-Match Warta Wartka Wejherowo against Polonia Jeden Radomsko
-Warta Wartka Wejherowo 1 : 0 Polonia Jeden Radomsko
-Thomas Morris scores Warta Wartka Wejherowo 2 : 0 Polonia Jeden Radomsko
-Michal Chrapek scores Warta Wartka Wejherowo 3 : 0 Polonia Jeden Radomsko
-Lukasz Zaluska scores Warta Wartka Wejherowo 4 : 0 Polonia Jeden Radomsko
-Michal Chrapek scores Warta Wartka Wejherowo 4 : 1 Polonia Jeden Radomsko
-Kamil Wojtkowski scores End of match 
-
-Match Zagłębie Ruhry Ostrów Wielkopolski against Sandecja Mielec
-Zagłębie Ruhry Ostrów Wielkopolski 0 : 1 Sandecja Mielec
-Bartosz Salamon scores Zagłębie Ruhry Ostrów Wielkopolski 0 : 2 Sandecja Mielec
-Bartosz Salamon scores End of match 
-
-Match Rekord Wodzisław Śląski against Ruch Zawiercie
-Rekord Wodzisław Śląski 1 : 0 Ruch Zawiercie
-Michal Pazdan scores Rekord Wodzisław Śląski 2 : 0 Ruch Zawiercie
-Terry Bell scores Rekord Wodzisław Śląski 2 : 1 Ruch Zawiercie
-Marcin Flis scores End of match 
-
-Match Ruch Zawiercie against Śląsk Wrocław Gniezno
-Ruch Zawiercie 1 : 0 Śląsk Wrocław Gniezno
-Marcin Flis scores Ruch Zawiercie 2 : 0 Śląsk Wrocław Gniezno
-Marcin Flis scores Ruch Zawiercie 3 : 0 Śląsk Wrocław Gniezno
-Marcin Flis scores Ruch Zawiercie 3 : 1 Śląsk Wrocław Gniezno
-Sebastian Rudol scores End of match 
-
-Match Sandecja Mielec against Rekord Wodzisław Śląski
-Sandecja Mielec 1 : 0 Rekord Wodzisław Śląski
-Bartosz Salamon scores Sandecja Mielec 2 : 0 Rekord Wodzisław Śląski
-Bartosz Salamon scores End of match 
-
-Match Polonia Jeden Radomsko against Zagłębie Ruhry Ostrów Wielkopolski
-Polonia Jeden Radomsko 1 : 0 Zagłębie Ruhry Ostrów Wielkopolski
-Kamil Wojtkowski scores Polonia Jeden Radomsko 2 : 0 Zagłębie Ruhry Ostrów Wielkopolski
-Kamil Wojtkowski scores Polonia Jeden Radomsko 2 : 1 Zagłębie Ruhry Ostrów Wielkopolski
-Alan Czerwinski scores Polonia Jeden Radomsko 2 : 2 Zagłębie Ruhry Ostrów Wielkopolski
-Alan Czerwinski scores Polonia Jeden Radomsko 2 : 3 Zagłębie Ruhry Ostrów Wielkopolski
-Alan Czerwinski scores End of match 
-
-Match Stal Nierdzewna Ostrowiec Świętokrzyski against Warta Wartka Wejherowo
-Stal Nierdzewna Ostrowiec Świętokrzyski 1 : 0 Warta Wartka Wejherowo
-Kent Moreno scores Stal Nierdzewna Ostrowiec Świętokrzyski 2 : 0 Warta Wartka Wejherowo
-John Parker scores Stal Nierdzewna Ostrowiec Świętokrzyski 3 : 0 Warta Wartka Wejherowo
-Kent Moreno scores Stal Nierdzewna Ostrowiec Świętokrzyski 3 : 1 Warta Wartka Wejherowo
-Lukasz Zaluska scores End of match 
-
-Match LKS Goczałkowice Dębica against Wisła Szeroka Kielce
-LKS Goczałkowice Dębica 1 : 0 Wisła Szeroka Kielce
-Michal Koj scores LKS Goczałkowice Dębica 2 : 0 Wisła Szeroka Kielce
-Michal Koj scores LKS Goczałkowice Dębica 3 : 0 Wisła Szeroka Kielce
-Michal Koj scores LKS Goczałkowice Dębica 4 : 0 Wisła Szeroka Kielce
-Jakub Slowik scores LKS Goczałkowice Dębica 4 : 1 Wisła Szeroka Kielce
-Hubert Wolakiewicz scores End of match 
-
-Match Lechia Siemianowice Śląskie against Lechia Zieloni Jaworzno
-Lechia Siemianowice Śląskie 1 : 0 Lechia Zieloni Jaworzno
-Tomasz Kupisz scores Lechia Siemianowice Śląskie 2 : 0 Lechia Zieloni Jaworzno
-Tomasz Kupisz scores Lechia Siemianowice Śląskie 2 : 1 Lechia Zieloni Jaworzno
-Michal Helik scores End of match 
-
-
-
-**************************************************************************
-       TEAM NAME                                        PTS   W    D    L 
-1.  Stal Nierdzewna Ostrowiec Świętokrzyski             25    8    1    2   
-2.  Lechia Siemianowice Śląskie                         23    7    2    2   
-3.  Zagłębie Ruhry Ostrów Wielkopolski                  19    6    1    4   
-4.  Lechia Zieloni Jaworzno                             17    5    2    4   
-5.  Ruch Zawiercie                                      17    5    2    4   
-6.  Warta Wartka Wejherowo                              15    4    3    4   
-7.  Rekord Wodzisław Śląski                             15    4    3    4   
-8.  Sandecja Mielec                                     15    4    3    4   
-9.  LKS Goczałkowice Dębica                             13    4    1    6   
-10. Śląsk Wrocław Gniezno                               13    3    4    4   
-11. Polonia Jeden Radomsko                               7    2    1    8   
-12. Wisła Szeroka Kielce                                 5    0    5    6   
-**************************************************************************
-
-
-   MOST TALENTED PLAYERS   
-1. Carlos Garcia from Zagłębie Ruhry Ostrów Wielkopolski with 99 skill points. 
-2. Rudy Pena from Sandecja Mielec with 98 skill points. 
-3. Henry Scott from Polonia Jeden Radomsko with 98 skill points. 
-4. James Stewart from Stal Nierdzewna Ostrowiec Świętokrzyski with 96 skill points. 
-5. Cezary Demianiuk from Ruch Zawiercie with 94 skill points. 
-6. Jakub Slowik from LKS Goczałkowice Dębica with 94 skill points. 
-7. Gary Johnson from Śląsk Wrocław Gniezno with 94 skill points. 
-8. Mateusz Mak from Ruch Zawiercie with 92 skill points. 
-9. Raymond Coleman from Śląsk Wrocław Gniezno with 92 skill points. 
-10. Ryan Perry from Rekord Wodzisław Śląski with 91 skill points. 
-11. Thomas Morris from Polonia Jeden Radomsko with 91 skill points. 
-12. Clifton Boyd from Polonia Jeden Radomsko with 91 skill points. 
-13. Thomas Morris from Warta Wartka Wejherowo with 90 skill points. 
-14. Billy Taylor from Polonia Jeden Radomsko with 90 skill points. 
-15. Bartosz Kapustka from Lechia Siemianowice Śląskie with 90 skill points. 
-16. Mateusz Kupczak from Rekord Wodzisław Śląski with 89 skill points. 
-17. Eric Morris from Śląsk Wrocław Gniezno with 89 skill points. 
-18. Kamil Glik from Stal Nierdzewna Ostrowiec Świętokrzyski with 88 skill points. 
-19. Mateusz Szczepaniak from Lechia Siemianowice Śląskie with 88 skill points. 
-20. Tomasz Kupisz from Lechia Siemianowice Śląskie with 88 skill points. 
-
-    BEST LEAGUE SCORERS   
-1. Alan Czerwinski STRIKER from team Zagłębie Ruhry Ostrów Wielkopolski scores 22
-2. Marcin Flis STRIKER from team Ruch Zawiercie scores 20
-3. Michal Koj STRIKER from team LKS Goczałkowice Dębica scores 19
-4. Bartosz Salamon STRIKER from team Sandecja Mielec scores 18
-5. Kent Moreno STRIKER from team Stal Nierdzewna Ostrowiec Świętokrzyski scores 18
-6. Michal Helik STRIKER from team Lechia Zieloni Jaworzno scores 15
-
-
-    BEST TEAM SCORERS   
-Alan Czerwinski STRIKER from team Zagłębie Ruhry Ostrów Wielkopolski scores 22
-Marcin Flis STRIKER from team Ruch Zawiercie scores 20
-Michal Koj STRIKER from team LKS Goczałkowice Dębica scores 19
-Bartosz Salamon STRIKER from team Sandecja Mielec scores 18
-Kent Moreno STRIKER from team Stal Nierdzewna Ostrowiec Świętokrzyski scores 18
-Michal Helik STRIKER from team Lechia Zieloni Jaworzno scores 15
-Lukasz Zaluska STRIKER from team Warta Wartka Wejherowo scores 14
-Sebastian Rudol STRIKER from team Śląsk Wrocław Gniezno scores 13
-Kamil Wojtkowski STRIKER from team Polonia Jeden Radomsko scores 12
-Tomasz Kupisz STRIKER from team Lechia Siemianowice Śląskie scores 11
-Hubert Wolakiewicz STRIKER from team Wisła Szeroka Kielce scores 10
-Michal Pazdan STRIKER from team Rekord Wodzisław Śląski scores 8
-
-*****************
-SEASON 1
-*****************
-
-
-Match Lechia Zieloni Piekary Śląskie against Widzew Piła
-Lechia Zieloni Piekary Śląskie 1 : 0 Widzew Piła
-Travis Carson scores End of match 
-
-Match Górnik Wytrwały Będzin against Śląsk II Gorzów Wielkopolski
-Górnik Wytrwały Będzin 1 : 0 Śląsk II Gorzów Wielkopolski
-Wojciech Trochim scores Górnik Wytrwały Będzin 1 : 1 Śląsk II Gorzów Wielkopolski
-Przemyslaw Szarek scores Górnik Wytrwały Będzin 1 : 2 Śląsk II Gorzów Wielkopolski
-Przemyslaw Szarek scores Górnik Wytrwały Będzin 1 : 3 Śląsk II Gorzów Wielkopolski
-Przemyslaw Szarek scores End of match 
-
-Match Górnik II Wejherowo against MKS Czerwoni Ruda Śląska
-Górnik II Wejherowo 1 : 0 MKS Czerwoni Ruda Śląska
-Brandon Nelson scores Górnik II Wejherowo 2 : 0 MKS Czerwoni Ruda Śląska
-Philip Rodriguez scores Górnik II Wejherowo 2 : 1 MKS Czerwoni Ruda Śląska
-Bruce Davis scores End of match 
-
-Match Polonia Jeden Suwałki against Odra Zamulona Konin
-Polonia Jeden Suwałki 0 : 1 Odra Zamulona Konin
-Rafal Kurzawa scores Polonia Jeden Suwałki 0 : 2 Odra Zamulona Konin
-Rafal Kurzawa scores Polonia Jeden Suwałki 0 : 3 Odra Zamulona Konin
-Rafal Kurzawa scores End of match 
-
-Match ŁKS Podbipięta Legionowo against ŁKS Łagów Zawiercie
-ŁKS Podbipięta Legionowo 1 : 0 ŁKS Łagów Zawiercie
-Karol Angielski scores ŁKS Podbipięta Legionowo 2 : 0 ŁKS Łagów Zawiercie
-Karol Angielski scores ŁKS Podbipięta Legionowo 3 : 0 ŁKS Łagów Zawiercie
-Karol Angielski scores ŁKS Podbipięta Legionowo 4 : 0 ŁKS Łagów Zawiercie
-Karol Angielski scores ŁKS Podbipięta Legionowo 4 : 1 ŁKS Łagów Zawiercie
-Bartlomiej Dragowski scores ŁKS Podbipięta Legionowo 4 : 2 ŁKS Łagów Zawiercie
-Bartlomiej Dragowski scores End of match 
-
-Match Górnik Wytrwały Toruń against Zagłębie Głebokie Rumia
-Górnik Wytrwały Toruń 1 : 0 Zagłębie Głebokie Rumia
-Carlos Garcia scores Górnik Wytrwały Toruń 1 : 1 Zagłębie Głebokie Rumia
-Keith Barnes scores End of match 
-
-Match Zagłębie Głebokie Rumia against Lechia Zieloni Piekary Śląskie
-Zagłębie Głebokie Rumia 1 : 0 Lechia Zieloni Piekary Śląskie
-Keith Barnes scores Zagłębie Głebokie Rumia 1 : 1 Lechia Zieloni Piekary Śląskie
-Travis Carson scores End of match 
-
-Match ŁKS Łagów Zawiercie against Górnik Wytrwały Toruń
-ŁKS Łagów Zawiercie 1 : 0 Górnik Wytrwały Toruń
-Bartlomiej Dragowski scores ŁKS Łagów Zawiercie 2 : 0 Górnik Wytrwały Toruń
-Patryk Lipski scores ŁKS Łagów Zawiercie 3 : 0 Górnik Wytrwały Toruń
-Bartlomiej Dragowski scores ŁKS Łagów Zawiercie 3 : 1 Górnik Wytrwały Toruń
-Ross Burton scores End of match 
-
-Match Odra Zamulona Konin against ŁKS Podbipięta Legionowo
-Odra Zamulona Konin 1 : 0 ŁKS Podbipięta Legionowo
-Bartosz Kapustka scores Odra Zamulona Konin 2 : 0 ŁKS Podbipięta Legionowo
-Rafal Kurzawa scores Odra Zamulona Konin 2 : 1 ŁKS Podbipięta Legionowo
-Artur Sobiech scores Odra Zamulona Konin 2 : 2 ŁKS Podbipięta Legionowo
-Robert Lewandowski scores Odra Zamulona Konin 2 : 3 ŁKS Podbipięta Legionowo
-Sebastian Bonecki scores End of match 
-
-Match MKS Czerwoni Ruda Śląska against Polonia Jeden Suwałki
-MKS Czerwoni Ruda Śląska 1 : 0 Polonia Jeden Suwałki
-Bruce Davis scores MKS Czerwoni Ruda Śląska 2 : 0 Polonia Jeden Suwałki
-Bruce Davis scores End of match 
-
-Match Śląsk II Gorzów Wielkopolski against Górnik II Wejherowo
-Śląsk II Gorzów Wielkopolski 1 : 0 Górnik II Wejherowo
-Lukasz Budzilek scores Śląsk II Gorzów Wielkopolski 2 : 0 Górnik II Wejherowo
-Przemyslaw Szarek scores Śląsk II Gorzów Wielkopolski 3 : 0 Górnik II Wejherowo
-Przemyslaw Szarek scores End of match 
-
-Match Widzew Piła against Górnik Wytrwały Będzin
-Widzew Piła 1 : 0 Górnik Wytrwały Będzin
-Sebastian Tyrala scores End of match 
-
-Match Lechia Zieloni Piekary Śląskie against Górnik Wytrwały Będzin
-Lechia Zieloni Piekary Śląskie 1 : 0 Górnik Wytrwały Będzin
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 2 : 0 Górnik Wytrwały Będzin
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 3 : 0 Górnik Wytrwały Będzin
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 4 : 0 Górnik Wytrwały Będzin
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 5 : 0 Górnik Wytrwały Będzin
-Phillip Peterson scores End of match 
-
-Match Górnik II Wejherowo against Widzew Piła
-Górnik II Wejherowo 1 : 0 Widzew Piła
-Philip Rodriguez scores Górnik II Wejherowo 2 : 0 Widzew Piła
-Maciej Jankowski scores Górnik II Wejherowo 2 : 1 Widzew Piła
-Sebastian Tyrala scores End of match 
-
-Match Polonia Jeden Suwałki against Śląsk II Gorzów Wielkopolski
-Polonia Jeden Suwałki 1 : 0 Śląsk II Gorzów Wielkopolski
-Dawid Kudla scores Polonia Jeden Suwałki 1 : 1 Śląsk II Gorzów Wielkopolski
-Przemyslaw Szarek scores Polonia Jeden Suwałki 1 : 2 Śląsk II Gorzów Wielkopolski
-Przemyslaw Szarek scores End of match 
-
-Match ŁKS Podbipięta Legionowo against MKS Czerwoni Ruda Śląska
-ŁKS Podbipięta Legionowo 1 : 0 MKS Czerwoni Ruda Śląska
-Robert Lewandowski scores ŁKS Podbipięta Legionowo 2 : 0 MKS Czerwoni Ruda Śląska
-Sebastian Bonecki scores ŁKS Podbipięta Legionowo 3 : 0 MKS Czerwoni Ruda Śląska
-Robert Lewandowski scores ŁKS Podbipięta Legionowo 4 : 0 MKS Czerwoni Ruda Śląska
-Robert Lewandowski scores End of match 
-
-Match Górnik Wytrwały Toruń against Odra Zamulona Konin
-Górnik Wytrwały Toruń 0 : 1 Odra Zamulona Konin
-Ralph Stewart scores End of match 
-
-Match Zagłębie Głebokie Rumia against ŁKS Łagów Zawiercie
-Zagłębie Głebokie Rumia 1 : 0 ŁKS Łagów Zawiercie
-Keith Barnes scores Zagłębie Głebokie Rumia 1 : 1 ŁKS Łagów Zawiercie
-Bartlomiej Dragowski scores Zagłębie Głebokie Rumia 1 : 2 ŁKS Łagów Zawiercie
-Bartlomiej Dragowski scores Zagłębie Głebokie Rumia 1 : 3 ŁKS Łagów Zawiercie
-Bartlomiej Dragowski scores End of match 
-
-Match ŁKS Łagów Zawiercie against Lechia Zieloni Piekary Śląskie
-ŁKS Łagów Zawiercie 1 : 0 Lechia Zieloni Piekary Śląskie
-Mateusz Machaj scores ŁKS Łagów Zawiercie 2 : 0 Lechia Zieloni Piekary Śląskie
-Damian Byrtek scores ŁKS Łagów Zawiercie 3 : 0 Lechia Zieloni Piekary Śląskie
-Bartlomiej Dragowski scores ŁKS Łagów Zawiercie 4 : 0 Lechia Zieloni Piekary Śląskie
-Bartlomiej Dragowski scores ŁKS Łagów Zawiercie 4 : 1 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores ŁKS Łagów Zawiercie 4 : 2 Lechia Zieloni Piekary Śląskie
-Travis Carson scores End of match 
-
-Match Odra Zamulona Konin against Zagłębie Głebokie Rumia
-Odra Zamulona Konin 1 : 0 Zagłębie Głebokie Rumia
-Patryk Dziczek scores Odra Zamulona Konin 2 : 0 Zagłębie Głebokie Rumia
-Rafal Kurzawa scores Odra Zamulona Konin 2 : 1 Zagłębie Głebokie Rumia
-Leonard Bush scores Odra Zamulona Konin 2 : 2 Zagłębie Głebokie Rumia
-Keith Barnes scores Odra Zamulona Konin 2 : 3 Zagłębie Głebokie Rumia
-Lukasz Piszczek scores Odra Zamulona Konin 2 : 4 Zagłębie Głebokie Rumia
-Lukasz Piszczek scores End of match 
-
-Match MKS Czerwoni Ruda Śląska against Górnik Wytrwały Toruń
-MKS Czerwoni Ruda Śląska 1 : 0 Górnik Wytrwały Toruń
-Bruce Davis scores MKS Czerwoni Ruda Śląska 2 : 0 Górnik Wytrwały Toruń
-Mateusz Zachara scores MKS Czerwoni Ruda Śląska 2 : 1 Górnik Wytrwały Toruń
-Kenneth Brown scores MKS Czerwoni Ruda Śląska 2 : 2 Górnik Wytrwały Toruń
-Kenneth Brown scores MKS Czerwoni Ruda Śląska 2 : 3 Górnik Wytrwały Toruń
-Charles Gonzalez scores End of match 
-
-Match Śląsk II Gorzów Wielkopolski against ŁKS Podbipięta Legionowo
-Śląsk II Gorzów Wielkopolski 1 : 0 ŁKS Podbipięta Legionowo
-Przemyslaw Szarek scores Śląsk II Gorzów Wielkopolski 1 : 1 ŁKS Podbipięta Legionowo
-Karol Angielski scores Śląsk II Gorzów Wielkopolski 1 : 2 ŁKS Podbipięta Legionowo
-Karol Angielski scores Śląsk II Gorzów Wielkopolski 1 : 3 ŁKS Podbipięta Legionowo
-Karol Angielski scores End of match 
-
-Match Widzew Piła against Polonia Jeden Suwałki
-Widzew Piła 1 : 0 Polonia Jeden Suwałki
-Sebastian Tyrala scores Widzew Piła 2 : 0 Polonia Jeden Suwałki
-Sebastian Tyrala scores Widzew Piła 3 : 0 Polonia Jeden Suwałki
-Ronald Brown scores End of match 
-
-Match Górnik Wytrwały Będzin against Górnik II Wejherowo
-Górnik Wytrwały Będzin 1 : 0 Górnik II Wejherowo
-Wojciech Trochim scores Górnik Wytrwały Będzin 1 : 1 Górnik II Wejherowo
-Philip Rodriguez scores Górnik Wytrwały Będzin 1 : 2 Górnik II Wejherowo
-Philip Rodriguez scores Górnik Wytrwały Będzin 1 : 3 Górnik II Wejherowo
-Philip Rodriguez scores End of match 
-
-Match Lechia Zieloni Piekary Śląskie against Górnik II Wejherowo
-Lechia Zieloni Piekary Śląskie 1 : 0 Górnik II Wejherowo
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 1 : 1 Górnik II Wejherowo
-Philip Rodriguez scores Lechia Zieloni Piekary Śląskie 1 : 2 Górnik II Wejherowo
-Piotr Zielinski scores Lechia Zieloni Piekary Śląskie 1 : 3 Górnik II Wejherowo
-Philip Rodriguez scores End of match 
-
-Match Polonia Jeden Suwałki against Górnik Wytrwały Będzin
-Polonia Jeden Suwałki 0 : 1 Górnik Wytrwały Będzin
-Michal Marcjanik scores End of match 
-
-Match ŁKS Podbipięta Legionowo against Widzew Piła
-ŁKS Podbipięta Legionowo 1 : 0 Widzew Piła
-Sebastian Bonecki scores ŁKS Podbipięta Legionowo 2 : 0 Widzew Piła
-Karol Angielski scores ŁKS Podbipięta Legionowo 3 : 0 Widzew Piła
-Karol Angielski scores ŁKS Podbipięta Legionowo 4 : 0 Widzew Piła
-Karol Angielski scores End of match 
-
-Match Górnik Wytrwały Toruń against Śląsk II Gorzów Wielkopolski
-Górnik Wytrwały Toruń 0 : 1 Śląsk II Gorzów Wielkopolski
-Przemyslaw Szarek scores Górnik Wytrwały Toruń 0 : 2 Śląsk II Gorzów Wielkopolski
-Michal Jakobowski scores End of match 
-
-Match Zagłębie Głebokie Rumia against MKS Czerwoni Ruda Śląska
-Zagłębie Głebokie Rumia 0 : 1 MKS Czerwoni Ruda Śląska
-Bruce Davis scores Zagłębie Głebokie Rumia 0 : 2 MKS Czerwoni Ruda Śląska
-Bruce Davis scores Zagłębie Głebokie Rumia 0 : 3 MKS Czerwoni Ruda Śląska
-Kamil Bilinski scores End of match 
-
-Match ŁKS Łagów Zawiercie against Odra Zamulona Konin
-ŁKS Łagów Zawiercie 1 : 0 Odra Zamulona Konin
-Patryk Lipski scores ŁKS Łagów Zawiercie 1 : 1 Odra Zamulona Konin
-Patryk Dziczek scores ŁKS Łagów Zawiercie 1 : 2 Odra Zamulona Konin
-Rafal Kurzawa scores ŁKS Łagów Zawiercie 1 : 3 Odra Zamulona Konin
-Rafal Kurzawa scores ŁKS Łagów Zawiercie 1 : 4 Odra Zamulona Konin
-Rafal Kurzawa scores End of match 
-
-Match Lechia Zieloni Piekary Śląskie against Odra Zamulona Konin
-Lechia Zieloni Piekary Śląskie 1 : 0 Odra Zamulona Konin
-Otis Murray scores Lechia Zieloni Piekary Śląskie 2 : 0 Odra Zamulona Konin
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 3 : 0 Odra Zamulona Konin
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 3 : 1 Odra Zamulona Konin
-Rafal Kurzawa scores Lechia Zieloni Piekary Śląskie 3 : 2 Odra Zamulona Konin
-Rafal Kurzawa scores Lechia Zieloni Piekary Śląskie 3 : 3 Odra Zamulona Konin
-Rafal Kurzawa scores End of match 
-
-Match MKS Czerwoni Ruda Śląska against ŁKS Łagów Zawiercie
-MKS Czerwoni Ruda Śląska 0 : 1 ŁKS Łagów Zawiercie
-Bartlomiej Dragowski scores MKS Czerwoni Ruda Śląska 0 : 2 ŁKS Łagów Zawiercie
-Bartlomiej Dragowski scores End of match 
-
-Match Śląsk II Gorzów Wielkopolski against Zagłębie Głebokie Rumia
-Śląsk II Gorzów Wielkopolski 1 : 0 Zagłębie Głebokie Rumia
-Michal Jakobowski scores Śląsk II Gorzów Wielkopolski 1 : 1 Zagłębie Głebokie Rumia
-Leonard Bush scores Śląsk II Gorzów Wielkopolski 1 : 2 Zagłębie Głebokie Rumia
-Keith Barnes scores End of match 
-
-Match Widzew Piła against Górnik Wytrwały Toruń
-Widzew Piła 1 : 0 Górnik Wytrwały Toruń
-Ronald Brown scores Widzew Piła 2 : 0 Górnik Wytrwały Toruń
-Ronald Brown scores Widzew Piła 3 : 0 Górnik Wytrwały Toruń
-Sebastian Tyrala scores Widzew Piła 3 : 1 Górnik Wytrwały Toruń
-Carlos Garcia scores Widzew Piła 3 : 2 Górnik Wytrwały Toruń
-Carlos Garcia scores Widzew Piła 3 : 3 Górnik Wytrwały Toruń
-Charles Gonzalez scores End of match 
-
-Match Górnik Wytrwały Będzin against ŁKS Podbipięta Legionowo
-Górnik Wytrwały Będzin 0 : 1 ŁKS Podbipięta Legionowo
-Karol Angielski scores Górnik Wytrwały Będzin 0 : 2 ŁKS Podbipięta Legionowo
-Karol Angielski scores Górnik Wytrwały Będzin 0 : 3 ŁKS Podbipięta Legionowo
-Karol Angielski scores Górnik Wytrwały Będzin 0 : 4 ŁKS Podbipięta Legionowo
-Karol Angielski scores Górnik Wytrwały Będzin 0 : 5 ŁKS Podbipięta Legionowo
-Karol Angielski scores End of match 
-
-Match Górnik II Wejherowo against Polonia Jeden Suwałki
-Górnik II Wejherowo 1 : 0 Polonia Jeden Suwałki
-Piotr Zielinski scores Górnik II Wejherowo 2 : 0 Polonia Jeden Suwałki
-Philip Rodriguez scores Górnik II Wejherowo 3 : 0 Polonia Jeden Suwałki
-Brandon Nelson scores Górnik II Wejherowo 4 : 0 Polonia Jeden Suwałki
-Maciej Jankowski scores End of match 
-
-Match Polonia Jeden Suwałki against Lechia Zieloni Piekary Śląskie
-Polonia Jeden Suwałki 1 : 0 Lechia Zieloni Piekary Śląskie
-Dawid Kudla scores Polonia Jeden Suwałki 1 : 1 Lechia Zieloni Piekary Śląskie
-Otis Murray scores Polonia Jeden Suwałki 1 : 2 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores End of match 
-
-Match ŁKS Podbipięta Legionowo against Górnik II Wejherowo
-ŁKS Podbipięta Legionowo 1 : 0 Górnik II Wejherowo
-Jeffrey Howard scores ŁKS Podbipięta Legionowo 2 : 0 Górnik II Wejherowo
-Karol Angielski scores ŁKS Podbipięta Legionowo 3 : 0 Górnik II Wejherowo
-Karol Angielski scores ŁKS Podbipięta Legionowo 3 : 1 Górnik II Wejherowo
-Philip Rodriguez scores End of match 
-
-Match Górnik Wytrwały Toruń against Górnik Wytrwały Będzin
-Górnik Wytrwały Toruń 1 : 0 Górnik Wytrwały Będzin
-Carlos Garcia scores Górnik Wytrwały Toruń 2 : 0 Górnik Wytrwały Będzin
-Carlos Garcia scores Górnik Wytrwały Toruń 2 : 1 Górnik Wytrwały Będzin
-Michal Marcjanik scores End of match 
-
-Match Zagłębie Głebokie Rumia against Widzew Piła
-Zagłębie Głebokie Rumia 1 : 0 Widzew Piła
-Lukasz Piszczek scores Zagłębie Głebokie Rumia 2 : 0 Widzew Piła
-Krzysztof Drzazga scores Zagłębie Głebokie Rumia 2 : 1 Widzew Piła
-Sebastian Tyrala scores Zagłębie Głebokie Rumia 2 : 2 Widzew Piła
-Johnny Williams scores Zagłębie Głebokie Rumia 2 : 3 Widzew Piła
-Sebastian Tyrala scores Zagłębie Głebokie Rumia 2 : 4 Widzew Piła
-Ronald Brown scores Zagłębie Głebokie Rumia 2 : 5 Widzew Piła
-Sebastian Tyrala scores Zagłębie Głebokie Rumia 2 : 6 Widzew Piła
-Ronald Brown scores End of match 
-
-Match ŁKS Łagów Zawiercie against Śląsk II Gorzów Wielkopolski
-ŁKS Łagów Zawiercie 1 : 0 Śląsk II Gorzów Wielkopolski
-Bartlomiej Dragowski scores ŁKS Łagów Zawiercie 2 : 0 Śląsk II Gorzów Wielkopolski
-Bartlomiej Dragowski scores ŁKS Łagów Zawiercie 3 : 0 Śląsk II Gorzów Wielkopolski
-Bartlomiej Dragowski scores ŁKS Łagów Zawiercie 4 : 0 Śląsk II Gorzów Wielkopolski
-Bartlomiej Dragowski scores ŁKS Łagów Zawiercie 4 : 1 Śląsk II Gorzów Wielkopolski
-Przemyslaw Szarek scores ŁKS Łagów Zawiercie 4 : 2 Śląsk II Gorzów Wielkopolski
-Przemyslaw Szarek scores End of match 
-
-Match Odra Zamulona Konin against MKS Czerwoni Ruda Śląska
-Odra Zamulona Konin 1 : 0 MKS Czerwoni Ruda Śląska
-Rafal Kurzawa scores Odra Zamulona Konin 2 : 0 MKS Czerwoni Ruda Śląska
-Rafal Kurzawa scores Odra Zamulona Konin 3 : 0 MKS Czerwoni Ruda Śląska
-Rafal Kurzawa scores Odra Zamulona Konin 4 : 0 MKS Czerwoni Ruda Śląska
-Rafal Kurzawa scores Odra Zamulona Konin 4 : 1 MKS Czerwoni Ruda Śląska
-Bruce Davis scores Odra Zamulona Konin 4 : 2 MKS Czerwoni Ruda Śląska
-Bruce Davis scores Odra Zamulona Konin 4 : 3 MKS Czerwoni Ruda Śląska
-Bruce Davis scores End of match 
-
-Match Lechia Zieloni Piekary Śląskie against MKS Czerwoni Ruda Śląska
-Lechia Zieloni Piekary Śląskie 1 : 0 MKS Czerwoni Ruda Śląska
-Sebastian Rudol scores Lechia Zieloni Piekary Śląskie 2 : 0 MKS Czerwoni Ruda Śląska
-Sebastian Rudol scores Lechia Zieloni Piekary Śląskie 2 : 1 MKS Czerwoni Ruda Śląska
-Clarence Barnes scores Lechia Zieloni Piekary Śląskie 2 : 2 MKS Czerwoni Ruda Śląska
-Bruce Davis scores Lechia Zieloni Piekary Śląskie 2 : 3 MKS Czerwoni Ruda Śląska
-Kamil Bilinski scores Lechia Zieloni Piekary Śląskie 2 : 4 MKS Czerwoni Ruda Śląska
-Bruce Davis scores Lechia Zieloni Piekary Śląskie 2 : 5 MKS Czerwoni Ruda Śląska
-Marcin Urynowicz scores End of match 
-
-Match Śląsk II Gorzów Wielkopolski against Odra Zamulona Konin
-Śląsk II Gorzów Wielkopolski 1 : 0 Odra Zamulona Konin
-Przemyslaw Szarek scores Śląsk II Gorzów Wielkopolski 2 : 0 Odra Zamulona Konin
-Roger Baker scores Śląsk II Gorzów Wielkopolski 3 : 0 Odra Zamulona Konin
-Przemyslaw Szarek scores Śląsk II Gorzów Wielkopolski 3 : 1 Odra Zamulona Konin
-Patryk Dziczek scores Śląsk II Gorzów Wielkopolski 3 : 2 Odra Zamulona Konin
-Rafal Kurzawa scores End of match 
-
-Match Widzew Piła against ŁKS Łagów Zawiercie
-Widzew Piła 1 : 0 ŁKS Łagów Zawiercie
-Ronald Brown scores Widzew Piła 2 : 0 ŁKS Łagów Zawiercie
-Johnny Williams scores Widzew Piła 2 : 1 ŁKS Łagów Zawiercie
-Bartlomiej Dragowski scores Widzew Piła 2 : 2 ŁKS Łagów Zawiercie
-Bartlomiej Dragowski scores End of match 
-
-Match Górnik Wytrwały Będzin against Zagłębie Głebokie Rumia
-End of match 
-
-Match Górnik II Wejherowo against Górnik Wytrwały Toruń
-Górnik II Wejherowo 1 : 0 Górnik Wytrwały Toruń
-Brandon Nelson scores Górnik II Wejherowo 2 : 0 Górnik Wytrwały Toruń
-Philip Rodriguez scores Górnik II Wejherowo 3 : 0 Górnik Wytrwały Toruń
-Philip Rodriguez scores Górnik II Wejherowo 3 : 1 Górnik Wytrwały Toruń
-Ross Burton scores Górnik II Wejherowo 3 : 2 Górnik Wytrwały Toruń
-Carlos Garcia scores End of match 
-
-Match Polonia Jeden Suwałki against ŁKS Podbipięta Legionowo
-Polonia Jeden Suwałki 1 : 0 ŁKS Podbipięta Legionowo
-Paul Rivera scores Polonia Jeden Suwałki 1 : 1 ŁKS Podbipięta Legionowo
-Jeffrey Howard scores Polonia Jeden Suwałki 1 : 2 ŁKS Podbipięta Legionowo
-Robert Lewandowski scores Polonia Jeden Suwałki 1 : 3 ŁKS Podbipięta Legionowo
-Karol Angielski scores End of match 
-
-Match ŁKS Podbipięta Legionowo against Lechia Zieloni Piekary Śląskie
-ŁKS Podbipięta Legionowo 1 : 0 Lechia Zieloni Piekary Śląskie
-Karol Angielski scores ŁKS Podbipięta Legionowo 2 : 0 Lechia Zieloni Piekary Śląskie
-Karol Angielski scores ŁKS Podbipięta Legionowo 2 : 1 Lechia Zieloni Piekary Śląskie
-Sebastian Rudol scores ŁKS Podbipięta Legionowo 2 : 2 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores End of match 
-
-Match Górnik Wytrwały Toruń against Polonia Jeden Suwałki
-Górnik Wytrwały Toruń 1 : 0 Polonia Jeden Suwałki
-Ross Burton scores Górnik Wytrwały Toruń 1 : 1 Polonia Jeden Suwałki
-Dawid Kownacki scores End of match 
-
-Match Zagłębie Głebokie Rumia against Górnik II Wejherowo
-Zagłębie Głebokie Rumia 1 : 0 Górnik II Wejherowo
-Keith Barnes scores Zagłębie Głebokie Rumia 2 : 0 Górnik II Wejherowo
-Krzysztof Drzazga scores Zagłębie Głebokie Rumia 2 : 1 Górnik II Wejherowo
-Brandon Nelson scores End of match 
-
-Match ŁKS Łagów Zawiercie against Górnik Wytrwały Będzin
-ŁKS Łagów Zawiercie 1 : 0 Górnik Wytrwały Będzin
-Bartlomiej Dragowski scores ŁKS Łagów Zawiercie 2 : 0 Górnik Wytrwały Będzin
-Patryk Lipski scores ŁKS Łagów Zawiercie 3 : 0 Górnik Wytrwały Będzin
-Bartlomiej Dragowski scores ŁKS Łagów Zawiercie 4 : 0 Górnik Wytrwały Będzin
-Bartlomiej Dragowski scores ŁKS Łagów Zawiercie 4 : 1 Górnik Wytrwały Będzin
-Ralph Stewart scores End of match 
-
-Match Odra Zamulona Konin against Widzew Piła
-Odra Zamulona Konin 1 : 0 Widzew Piła
-Ralph Stewart scores Odra Zamulona Konin 2 : 0 Widzew Piła
-Ralph Stewart scores Odra Zamulona Konin 3 : 0 Widzew Piła
-Rafal Kurzawa scores Odra Zamulona Konin 4 : 0 Widzew Piła
-Rafal Kurzawa scores End of match 
-
-Match MKS Czerwoni Ruda Śląska against Śląsk II Gorzów Wielkopolski
-MKS Czerwoni Ruda Śląska 1 : 0 Śląsk II Gorzów Wielkopolski
-Bruce Davis scores MKS Czerwoni Ruda Śląska 1 : 1 Śląsk II Gorzów Wielkopolski
-Dominik Furman scores MKS Czerwoni Ruda Śląska 1 : 2 Śląsk II Gorzów Wielkopolski
-Dominik Furman scores MKS Czerwoni Ruda Śląska 1 : 3 Śląsk II Gorzów Wielkopolski
-Przemyslaw Szarek scores End of match 
-
-Match Lechia Zieloni Piekary Śląskie against Śląsk II Gorzów Wielkopolski
-Lechia Zieloni Piekary Śląskie 1 : 0 Śląsk II Gorzów Wielkopolski
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 2 : 0 Śląsk II Gorzów Wielkopolski
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 3 : 0 Śląsk II Gorzów Wielkopolski
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 4 : 0 Śląsk II Gorzów Wielkopolski
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 5 : 0 Śląsk II Gorzów Wielkopolski
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 6 : 0 Śląsk II Gorzów Wielkopolski
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 6 : 1 Śląsk II Gorzów Wielkopolski
-Przemyslaw Szarek scores Lechia Zieloni Piekary Śląskie 6 : 2 Śląsk II Gorzów Wielkopolski
-Przemyslaw Szarek scores End of match 
-
-Match Widzew Piła against MKS Czerwoni Ruda Śląska
-Widzew Piła 1 : 0 MKS Czerwoni Ruda Śląska
-Johnny Williams scores Widzew Piła 1 : 1 MKS Czerwoni Ruda Śląska
-Bruce Davis scores End of match 
-
-Match Górnik Wytrwały Będzin against Odra Zamulona Konin
-Górnik Wytrwały Będzin 0 : 1 Odra Zamulona Konin
-Rafal Kurzawa scores Górnik Wytrwały Będzin 0 : 2 Odra Zamulona Konin
-Rafal Kurzawa scores End of match 
-
-Match Górnik II Wejherowo against ŁKS Łagów Zawiercie
-Górnik II Wejherowo 1 : 0 ŁKS Łagów Zawiercie
-Philip Rodriguez scores Górnik II Wejherowo 1 : 1 ŁKS Łagów Zawiercie
-Bartlomiej Dragowski scores Górnik II Wejherowo 1 : 2 ŁKS Łagów Zawiercie
-Bartlomiej Dragowski scores End of match 
-
-Match Polonia Jeden Suwałki against Zagłębie Głebokie Rumia
-Polonia Jeden Suwałki 1 : 0 Zagłębie Głebokie Rumia
-Mateusz Szczepaniak scores End of match 
-
-Match ŁKS Podbipięta Legionowo against Górnik Wytrwały Toruń
-ŁKS Podbipięta Legionowo 1 : 0 Górnik Wytrwały Toruń
-Karol Angielski scores ŁKS Podbipięta Legionowo 2 : 0 Górnik Wytrwały Toruń
-Robert Lewandowski scores ŁKS Podbipięta Legionowo 3 : 0 Górnik Wytrwały Toruń
-Artur Sobiech scores ŁKS Podbipięta Legionowo 3 : 1 Górnik Wytrwały Toruń
-Charles Gonzalez scores End of match 
-
-Match Górnik Wytrwały Toruń against Lechia Zieloni Piekary Śląskie
-Górnik Wytrwały Toruń 0 : 1 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores End of match 
-
-Match Zagłębie Głebokie Rumia against ŁKS Podbipięta Legionowo
-Zagłębie Głebokie Rumia 1 : 0 ŁKS Podbipięta Legionowo
-Lukasz Piszczek scores Zagłębie Głebokie Rumia 2 : 0 ŁKS Podbipięta Legionowo
-Keith Barnes scores Zagłębie Głebokie Rumia 2 : 1 ŁKS Podbipięta Legionowo
-Karol Angielski scores Zagłębie Głebokie Rumia 2 : 2 ŁKS Podbipięta Legionowo
-Karol Angielski scores End of match 
-
-Match ŁKS Łagów Zawiercie against Polonia Jeden Suwałki
-ŁKS Łagów Zawiercie 1 : 0 Polonia Jeden Suwałki
-Damian Byrtek scores ŁKS Łagów Zawiercie 2 : 0 Polonia Jeden Suwałki
-Bartlomiej Dragowski scores ŁKS Łagów Zawiercie 3 : 0 Polonia Jeden Suwałki
-Bartlomiej Dragowski scores ŁKS Łagów Zawiercie 4 : 0 Polonia Jeden Suwałki
-Mateusz Machaj scores ŁKS Łagów Zawiercie 5 : 0 Polonia Jeden Suwałki
-Bartlomiej Dragowski scores ŁKS Łagów Zawiercie 5 : 1 Polonia Jeden Suwałki
-Paul Rivera scores ŁKS Łagów Zawiercie 5 : 2 Polonia Jeden Suwałki
-Mateusz Szczepaniak scores End of match 
-
-Match Odra Zamulona Konin against Górnik II Wejherowo
-Odra Zamulona Konin 1 : 0 Górnik II Wejherowo
-Rafal Kurzawa scores Odra Zamulona Konin 1 : 1 Górnik II Wejherowo
-Philip Rodriguez scores Odra Zamulona Konin 1 : 2 Górnik II Wejherowo
-Philip Rodriguez scores End of match 
-
-Match MKS Czerwoni Ruda Śląska against Górnik Wytrwały Będzin
-MKS Czerwoni Ruda Śląska 1 : 0 Górnik Wytrwały Będzin
-Bruce Davis scores MKS Czerwoni Ruda Śląska 2 : 0 Górnik Wytrwały Będzin
-Bruce Davis scores MKS Czerwoni Ruda Śląska 2 : 1 Górnik Wytrwały Będzin
-Wojciech Trochim scores MKS Czerwoni Ruda Śląska 2 : 2 Górnik Wytrwały Będzin
-Michal Marcjanik scores MKS Czerwoni Ruda Śląska 2 : 3 Górnik Wytrwały Będzin
-Michal Marcjanik scores End of match 
-
-Match Śląsk II Gorzów Wielkopolski against Widzew Piła
-Śląsk II Gorzów Wielkopolski 1 : 0 Widzew Piła
-Przemyslaw Szarek scores Śląsk II Gorzów Wielkopolski 2 : 0 Widzew Piła
-Przemyslaw Szarek scores Śląsk II Gorzów Wielkopolski 2 : 1 Widzew Piła
-Johnny Williams scores End of match 
-
-
-
-*****************************************************************
-       TEAM NAME                               PTS   W    D    L 
-1.  ŁKS Podbipięta Legionowo                   29    9    2    0   
-2.  ŁKS Łagów Zawiercie                        25    8    1    2   
-3.  Górnik II Wejherowo                        21    7    0    4   
-4.  Śląsk II Gorzów Wielkopolski               21    7    0    4   
-5.  Odra Zamulona Konin                        19    6    1    4   
-6.  Lechia Zieloni Piekary Śląskie             18    5    3    3   
-7.  Zagłębie Głebokie Rumia                    13    3    4    4   
-8.  Widzew Piła                                12    3    3    5   
-9.  MKS Czerwoni Ruda Śląska                   10    3    1    7   
-10. Górnik Wytrwały Toruń                       9    2    3    6   
-11. Górnik Wytrwały Będzin                      7    2    1    8   
-12. Polonia Jeden Suwałki                       4    1    1    9   
-*****************************************************************
-
-
-   MOST TALENTED PLAYERS   
-1. Sebastian Tyrala from Widzew Piła with 97 skill points. 
-2. Bruce Davis from MKS Czerwoni Ruda Śląska with 97 skill points. 
-3. Ronald Brown from Widzew Piła with 96 skill points. 
-4. Maciej Gorski from Śląsk II Gorzów Wielkopolski with 96 skill points. 
-5. Clarence Barnes from MKS Czerwoni Ruda Śląska with 95 skill points. 
-6. Travis Carson from Lechia Zieloni Piekary Śląskie with 95 skill points. 
-7. Sebastian Bonecki from ŁKS Podbipięta Legionowo with 94 skill points. 
-8. Duane Mills from Widzew Piła with 93 skill points. 
-9. Piotr Zielinski from Górnik II Wejherowo with 93 skill points. 
-10. Edward Washington from Odra Zamulona Konin with 93 skill points. 
-11. Jakub Wawrzyniak from MKS Czerwoni Ruda Śląska with 93 skill points. 
-12. Przemyslaw Szarek from Śląsk II Gorzów Wielkopolski with 92 skill points. 
-13. Michal Koj from Lechia Zieloni Piekary Śląskie with 92 skill points. 
-14. Artur Jedrzejczyk from Górnik Wytrwały Będzin with 90 skill points. 
-15. Bartlomiej Babiarz from Polonia Jeden Suwałki with 90 skill points. 
-16. Juan Mitchell from Górnik Wytrwały Toruń with 90 skill points. 
-17. Michal Gliwa from ŁKS Łagów Zawiercie with 90 skill points. 
-18. Adam Buksa from MKS Czerwoni Ruda Śląska with 90 skill points. 
-19. Maciej Sadlok from Widzew Piła with 89 skill points. 
-20. Wojciech Trochim from Górnik Wytrwały Będzin with 89 skill points. 
-
-    BEST LEAGUE SCORERS   
-1. Bartlomiej Dragowski STRIKER from team ŁKS Łagów Zawiercie scores 25
-2. Karol Angielski STRIKER from team ŁKS Podbipięta Legionowo scores 23
-3. Rafal Kurzawa STRIKER from team Odra Zamulona Konin scores 21
-4. Przemyslaw Szarek STRIKER from team Śląsk II Gorzów Wielkopolski scores 18
-5. Phillip Peterson STRIKER from team Lechia Zieloni Piekary Śląskie scores 18
-6. Bruce Davis STRIKER from team MKS Czerwoni Ruda Śląska scores 15
-
-
-    BEST TEAM SCORERS   
-Bartlomiej Dragowski STRIKER from team ŁKS Łagów Zawiercie scores 25
-Karol Angielski STRIKER from team ŁKS Podbipięta Legionowo scores 23
-Rafal Kurzawa STRIKER from team Odra Zamulona Konin scores 21
-Przemyslaw Szarek STRIKER from team Śląsk II Gorzów Wielkopolski scores 18
-Phillip Peterson STRIKER from team Lechia Zieloni Piekary Śląskie scores 18
-Bruce Davis STRIKER from team MKS Czerwoni Ruda Śląska scores 15
-Philip Rodriguez STRIKER from team Górnik II Wejherowo scores 14
-Sebastian Tyrala MIDFIELDER from team Widzew Piła scores 8
-Keith Barnes STRIKER from team Zagłębie Głebokie Rumia scores 7
-Carlos Garcia STRIKER from team Górnik Wytrwały Toruń scores 6
-Michal Marcjanik STRIKER from team Górnik Wytrwały Będzin scores 4
-Dawid Kudla MIDFIELDER from team Polonia Jeden Suwałki scores 2
-
-*****************
-SEASON 2
-*****************
-
-
-Match Lechia Zieloni Piekary Śląskie against Widzew Piła
-Lechia Zieloni Piekary Śląskie 1 : 0 Widzew Piła
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 2 : 0 Widzew Piła
-Sebastian Rudol scores Lechia Zieloni Piekary Śląskie 3 : 0 Widzew Piła
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 3 : 1 Widzew Piła
-Johnny Williams scores Lechia Zieloni Piekary Śląskie 3 : 2 Widzew Piła
-Ronald Brown scores End of match 
-
-Match Górnik Wytrwały Będzin against Śląsk II Gorzów Wielkopolski
-Górnik Wytrwały Będzin 1 : 0 Śląsk II Gorzów Wielkopolski
-Ralph Stewart scores Górnik Wytrwały Będzin 1 : 1 Śląsk II Gorzów Wielkopolski
-Przemyslaw Szarek scores Górnik Wytrwały Będzin 1 : 2 Śląsk II Gorzów Wielkopolski
-Przemyslaw Szarek scores End of match 
-
-Match Górnik II Wejherowo against MKS Czerwoni Ruda Śląska
-Górnik II Wejherowo 1 : 0 MKS Czerwoni Ruda Śląska
-Philip Rodriguez scores Górnik II Wejherowo 2 : 0 MKS Czerwoni Ruda Śląska
-Philip Rodriguez scores Górnik II Wejherowo 3 : 0 MKS Czerwoni Ruda Śląska
-Brandon Nelson scores Górnik II Wejherowo 4 : 0 MKS Czerwoni Ruda Śląska
-Maciej Jankowski scores Górnik II Wejherowo 4 : 1 MKS Czerwoni Ruda Śląska
-Bruce Davis scores Górnik II Wejherowo 4 : 2 MKS Czerwoni Ruda Śląska
-Bruce Davis scores End of match 
-
-Match Polonia Jeden Suwałki against Odra Zamulona Konin
-Polonia Jeden Suwałki 0 : 1 Odra Zamulona Konin
-Rafal Kurzawa scores Polonia Jeden Suwałki 0 : 2 Odra Zamulona Konin
-Rafal Kurzawa scores End of match 
-
-Match ŁKS Podbipięta Legionowo against ŁKS Łagów Zawiercie
-ŁKS Podbipięta Legionowo 1 : 0 ŁKS Łagów Zawiercie
-Karol Angielski scores ŁKS Podbipięta Legionowo 2 : 0 ŁKS Łagów Zawiercie
-Karol Angielski scores ŁKS Podbipięta Legionowo 2 : 1 ŁKS Łagów Zawiercie
-Mateusz Machaj scores End of match 
-
-Match Górnik Wytrwały Toruń against Zagłębie Głebokie Rumia
-Górnik Wytrwały Toruń 1 : 0 Zagłębie Głebokie Rumia
-Ross Burton scores Górnik Wytrwały Toruń 2 : 0 Zagłębie Głebokie Rumia
-Carlos Garcia scores Górnik Wytrwały Toruń 3 : 0 Zagłębie Głebokie Rumia
-Charles Gonzalez scores Górnik Wytrwały Toruń 3 : 1 Zagłębie Głebokie Rumia
-Keith Barnes scores Górnik Wytrwały Toruń 3 : 2 Zagłębie Głebokie Rumia
-Keith Barnes scores End of match 
-
-Match Zagłębie Głebokie Rumia against Lechia Zieloni Piekary Śląskie
-Zagłębie Głebokie Rumia 1 : 0 Lechia Zieloni Piekary Śląskie
-Keith Barnes scores Zagłębie Głebokie Rumia 2 : 0 Lechia Zieloni Piekary Śląskie
-Keith Barnes scores Zagłębie Głebokie Rumia 2 : 1 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores Zagłębie Głebokie Rumia 2 : 2 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores Zagłębie Głebokie Rumia 2 : 3 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores Zagłębie Głebokie Rumia 2 : 4 Lechia Zieloni Piekary Śląskie
-Travis Carson scores End of match 
-
-Match ŁKS Łagów Zawiercie against Górnik Wytrwały Toruń
-ŁKS Łagów Zawiercie 1 : 0 Górnik Wytrwały Toruń
-Damian Byrtek scores ŁKS Łagów Zawiercie 1 : 1 Górnik Wytrwały Toruń
-Carlos Garcia scores End of match 
-
-Match Odra Zamulona Konin against ŁKS Podbipięta Legionowo
-Odra Zamulona Konin 1 : 0 ŁKS Podbipięta Legionowo
-Rafal Kurzawa scores Odra Zamulona Konin 1 : 1 ŁKS Podbipięta Legionowo
-Karol Angielski scores Odra Zamulona Konin 1 : 2 ŁKS Podbipięta Legionowo
-Karol Angielski scores End of match 
-
-Match MKS Czerwoni Ruda Śląska against Polonia Jeden Suwałki
-End of match 
-
-Match Śląsk II Gorzów Wielkopolski against Górnik II Wejherowo
-Śląsk II Gorzów Wielkopolski 1 : 0 Górnik II Wejherowo
-Lukasz Budzilek scores Śląsk II Gorzów Wielkopolski 2 : 0 Górnik II Wejherowo
-Przemyslaw Szarek scores Śląsk II Gorzów Wielkopolski 3 : 0 Górnik II Wejherowo
-Przemyslaw Szarek scores Śląsk II Gorzów Wielkopolski 3 : 1 Górnik II Wejherowo
-Philip Rodriguez scores End of match 
-
-Match Widzew Piła against Górnik Wytrwały Będzin
-Widzew Piła 1 : 0 Górnik Wytrwały Będzin
-Sebastian Tyrala scores Widzew Piła 2 : 0 Górnik Wytrwały Będzin
-Sebastian Tyrala scores Widzew Piła 2 : 1 Górnik Wytrwały Będzin
-Dennis Cook scores End of match 
-
-Match Lechia Zieloni Piekary Śląskie against Górnik Wytrwały Będzin
-Lechia Zieloni Piekary Śląskie 1 : 0 Górnik Wytrwały Będzin
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 2 : 0 Górnik Wytrwały Będzin
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 3 : 0 Górnik Wytrwały Będzin
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 4 : 0 Górnik Wytrwały Będzin
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 5 : 0 Górnik Wytrwały Będzin
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 6 : 0 Górnik Wytrwały Będzin
-Phillip Peterson scores End of match 
-
-Match Górnik II Wejherowo against Widzew Piła
-Górnik II Wejherowo 1 : 0 Widzew Piła
-Brandon Nelson scores Górnik II Wejherowo 2 : 0 Widzew Piła
-Philip Rodriguez scores Górnik II Wejherowo 3 : 0 Widzew Piła
-Philip Rodriguez scores Górnik II Wejherowo 4 : 0 Widzew Piła
-Philip Rodriguez scores Górnik II Wejherowo 5 : 0 Widzew Piła
-Douglas Wilson scores End of match 
-
-Match Polonia Jeden Suwałki against Śląsk II Gorzów Wielkopolski
-End of match 
-
-Match ŁKS Podbipięta Legionowo against MKS Czerwoni Ruda Śląska
-ŁKS Podbipięta Legionowo 1 : 0 MKS Czerwoni Ruda Śląska
-Artur Sobiech scores ŁKS Podbipięta Legionowo 2 : 0 MKS Czerwoni Ruda Śląska
-Robert Lewandowski scores ŁKS Podbipięta Legionowo 2 : 1 MKS Czerwoni Ruda Śląska
-Bruce Davis scores ŁKS Podbipięta Legionowo 2 : 2 MKS Czerwoni Ruda Śląska
-Bruce Davis scores End of match 
-
-Match Górnik Wytrwały Toruń against Odra Zamulona Konin
-Górnik Wytrwały Toruń 1 : 0 Odra Zamulona Konin
-Carlos Garcia scores Górnik Wytrwały Toruń 2 : 0 Odra Zamulona Konin
-Carlos Garcia scores Górnik Wytrwały Toruń 2 : 1 Odra Zamulona Konin
-James Palmer scores Górnik Wytrwały Toruń 2 : 2 Odra Zamulona Konin
-Rafal Kurzawa scores End of match 
-
-Match Zagłębie Głebokie Rumia against ŁKS Łagów Zawiercie
-Zagłębie Głebokie Rumia 1 : 0 ŁKS Łagów Zawiercie
-Lukasz Piszczek scores Zagłębie Głebokie Rumia 2 : 0 ŁKS Łagów Zawiercie
-Keith Barnes scores Zagłębie Głebokie Rumia 2 : 1 ŁKS Łagów Zawiercie
-Bartlomiej Dragowski scores Zagłębie Głebokie Rumia 2 : 2 ŁKS Łagów Zawiercie
-Bartlomiej Dragowski scores End of match 
-
-Match ŁKS Łagów Zawiercie against Lechia Zieloni Piekary Śląskie
-ŁKS Łagów Zawiercie 1 : 0 Lechia Zieloni Piekary Śląskie
-Damian Byrtek scores ŁKS Łagów Zawiercie 1 : 1 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores ŁKS Łagów Zawiercie 1 : 2 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores ŁKS Łagów Zawiercie 1 : 3 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores End of match 
-
-Match Odra Zamulona Konin against Zagłębie Głebokie Rumia
-Odra Zamulona Konin 1 : 0 Zagłębie Głebokie Rumia
-Rafal Kurzawa scores Odra Zamulona Konin 2 : 0 Zagłębie Głebokie Rumia
-Rafal Kurzawa scores Odra Zamulona Konin 3 : 0 Zagłębie Głebokie Rumia
-Rafal Kurzawa scores Odra Zamulona Konin 4 : 0 Zagłębie Głebokie Rumia
-Rafal Kurzawa scores Odra Zamulona Konin 4 : 1 Zagłębie Głebokie Rumia
-Willie Diaz scores End of match 
-
-Match MKS Czerwoni Ruda Śląska against Górnik Wytrwały Toruń
-MKS Czerwoni Ruda Śląska 1 : 0 Górnik Wytrwały Toruń
-Mateusz Zachara scores MKS Czerwoni Ruda Śląska 2 : 0 Górnik Wytrwały Toruń
-Bruce Davis scores MKS Czerwoni Ruda Śląska 3 : 0 Górnik Wytrwały Toruń
-Mateusz Zachara scores MKS Czerwoni Ruda Śląska 4 : 0 Górnik Wytrwały Toruń
-Bruce Davis scores MKS Czerwoni Ruda Śląska 4 : 1 Górnik Wytrwały Toruń
-Carlos Garcia scores MKS Czerwoni Ruda Śląska 4 : 2 Górnik Wytrwały Toruń
-Carlos Garcia scores End of match 
-
-Match Śląsk II Gorzów Wielkopolski against ŁKS Podbipięta Legionowo
-Śląsk II Gorzów Wielkopolski 1 : 0 ŁKS Podbipięta Legionowo
-Przemyslaw Szarek scores Śląsk II Gorzów Wielkopolski 2 : 0 ŁKS Podbipięta Legionowo
-Lukasz Budzilek scores Śląsk II Gorzów Wielkopolski 2 : 1 ŁKS Podbipięta Legionowo
-Karol Angielski scores Śląsk II Gorzów Wielkopolski 2 : 2 ŁKS Podbipięta Legionowo
-Artur Sobiech scores Śląsk II Gorzów Wielkopolski 2 : 3 ŁKS Podbipięta Legionowo
-Robert Lewandowski scores Śląsk II Gorzów Wielkopolski 2 : 4 ŁKS Podbipięta Legionowo
-Karol Angielski scores Śląsk II Gorzów Wielkopolski 2 : 5 ŁKS Podbipięta Legionowo
-Robert Lewandowski scores End of match 
-
-Match Widzew Piła against Polonia Jeden Suwałki
-Widzew Piła 1 : 0 Polonia Jeden Suwałki
-Ronald Brown scores Widzew Piła 2 : 0 Polonia Jeden Suwałki
-Ronald Brown scores Widzew Piła 2 : 1 Polonia Jeden Suwałki
-Paul Rivera scores End of match 
-
-Match Górnik Wytrwały Będzin against Górnik II Wejherowo
-Górnik Wytrwały Będzin 1 : 0 Górnik II Wejherowo
-Michal Marcjanik scores Górnik Wytrwały Będzin 2 : 0 Górnik II Wejherowo
-Dennis Cook scores Górnik Wytrwały Będzin 2 : 1 Górnik II Wejherowo
-Philip Rodriguez scores End of match 
-
-Match Lechia Zieloni Piekary Śląskie against Górnik II Wejherowo
-Lechia Zieloni Piekary Śląskie 1 : 0 Górnik II Wejherowo
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 2 : 0 Górnik II Wejherowo
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 2 : 1 Górnik II Wejherowo
-Philip Rodriguez scores Lechia Zieloni Piekary Śląskie 2 : 2 Górnik II Wejherowo
-Brandon Nelson scores Lechia Zieloni Piekary Śląskie 2 : 3 Górnik II Wejherowo
-Philip Rodriguez scores End of match 
-
-Match Polonia Jeden Suwałki against Górnik Wytrwały Będzin
-End of match 
-
-Match ŁKS Podbipięta Legionowo against Widzew Piła
-ŁKS Podbipięta Legionowo 1 : 0 Widzew Piła
-Robert Lewandowski scores ŁKS Podbipięta Legionowo 2 : 0 Widzew Piła
-Robert Lewandowski scores ŁKS Podbipięta Legionowo 3 : 0 Widzew Piła
-Artur Sobiech scores ŁKS Podbipięta Legionowo 4 : 0 Widzew Piła
-Jeffrey Howard scores ŁKS Podbipięta Legionowo 5 : 0 Widzew Piła
-Jeffrey Howard scores ŁKS Podbipięta Legionowo 5 : 1 Widzew Piła
-Ronald Brown scores ŁKS Podbipięta Legionowo 5 : 2 Widzew Piła
-Ronald Brown scores ŁKS Podbipięta Legionowo 5 : 3 Widzew Piła
-Ronald Brown scores End of match 
-
-Match Górnik Wytrwały Toruń against Śląsk II Gorzów Wielkopolski
-Górnik Wytrwały Toruń 1 : 0 Śląsk II Gorzów Wielkopolski
-Carlos Garcia scores Górnik Wytrwały Toruń 1 : 1 Śląsk II Gorzów Wielkopolski
-Przemyslaw Szarek scores Górnik Wytrwały Toruń 1 : 2 Śląsk II Gorzów Wielkopolski
-Roger Baker scores End of match 
-
-Match Zagłębie Głebokie Rumia against MKS Czerwoni Ruda Śląska
-Zagłębie Głebokie Rumia 1 : 0 MKS Czerwoni Ruda Śląska
-Keith Barnes scores Zagłębie Głebokie Rumia 1 : 1 MKS Czerwoni Ruda Śląska
-Bruce Davis scores Zagłębie Głebokie Rumia 1 : 2 MKS Czerwoni Ruda Śląska
-Bruce Davis scores Zagłębie Głebokie Rumia 1 : 3 MKS Czerwoni Ruda Śląska
-Bruce Davis scores End of match 
-
-Match ŁKS Łagów Zawiercie against Odra Zamulona Konin
-ŁKS Łagów Zawiercie 1 : 0 Odra Zamulona Konin
-Jason Allen scores ŁKS Łagów Zawiercie 2 : 0 Odra Zamulona Konin
-Bartlomiej Dragowski scores ŁKS Łagów Zawiercie 2 : 1 Odra Zamulona Konin
-Rafal Kurzawa scores ŁKS Łagów Zawiercie 2 : 2 Odra Zamulona Konin
-Bartosz Kapustka scores ŁKS Łagów Zawiercie 2 : 3 Odra Zamulona Konin
-Ralph Stewart scores End of match 
-
-Match Lechia Zieloni Piekary Śląskie against Odra Zamulona Konin
-Lechia Zieloni Piekary Śląskie 1 : 0 Odra Zamulona Konin
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 2 : 0 Odra Zamulona Konin
-Phillip Peterson scores End of match 
-
-Match MKS Czerwoni Ruda Śląska against ŁKS Łagów Zawiercie
-MKS Czerwoni Ruda Śląska 1 : 0 ŁKS Łagów Zawiercie
-Bruce Davis scores MKS Czerwoni Ruda Śląska 1 : 1 ŁKS Łagów Zawiercie
-Bartlomiej Dragowski scores MKS Czerwoni Ruda Śląska 1 : 2 ŁKS Łagów Zawiercie
-Jason Allen scores MKS Czerwoni Ruda Śląska 1 : 3 ŁKS Łagów Zawiercie
-Bartlomiej Dragowski scores MKS Czerwoni Ruda Śląska 1 : 4 ŁKS Łagów Zawiercie
-Jason Allen scores End of match 
-
-Match Śląsk II Gorzów Wielkopolski against Zagłębie Głebokie Rumia
-Śląsk II Gorzów Wielkopolski 1 : 0 Zagłębie Głebokie Rumia
-Przemyslaw Szarek scores Śląsk II Gorzów Wielkopolski 1 : 1 Zagłębie Głebokie Rumia
-Keith Barnes scores Śląsk II Gorzów Wielkopolski 1 : 2 Zagłębie Głebokie Rumia
-Keith Barnes scores Śląsk II Gorzów Wielkopolski 1 : 3 Zagłębie Głebokie Rumia
-Keith Barnes scores End of match 
-
-Match Widzew Piła against Górnik Wytrwały Toruń
-Widzew Piła 1 : 0 Górnik Wytrwały Toruń
-Johnny Williams scores Widzew Piła 2 : 0 Górnik Wytrwały Toruń
-Johnny Williams scores Widzew Piła 2 : 1 Górnik Wytrwały Toruń
-Charles Gonzalez scores End of match 
-
-Match Górnik Wytrwały Będzin against ŁKS Podbipięta Legionowo
-Górnik Wytrwały Będzin 0 : 1 ŁKS Podbipięta Legionowo
-Karol Angielski scores Górnik Wytrwały Będzin 0 : 2 ŁKS Podbipięta Legionowo
-Karol Angielski scores Górnik Wytrwały Będzin 0 : 3 ŁKS Podbipięta Legionowo
-Karol Angielski scores Górnik Wytrwały Będzin 0 : 4 ŁKS Podbipięta Legionowo
-Karol Angielski scores End of match 
-
-Match Górnik II Wejherowo against Polonia Jeden Suwałki
-Górnik II Wejherowo 1 : 0 Polonia Jeden Suwałki
-Philip Rodriguez scores Górnik II Wejherowo 2 : 0 Polonia Jeden Suwałki
-Douglas Wilson scores Górnik II Wejherowo 2 : 1 Polonia Jeden Suwałki
-Mateusz Szczepaniak scores End of match 
-
-Match Polonia Jeden Suwałki against Lechia Zieloni Piekary Śląskie
-Polonia Jeden Suwałki 0 : 1 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores Polonia Jeden Suwałki 0 : 2 Lechia Zieloni Piekary Śląskie
-Travis Carson scores Polonia Jeden Suwałki 0 : 3 Lechia Zieloni Piekary Śląskie
-Travis Carson scores End of match 
-
-Match ŁKS Podbipięta Legionowo against Górnik II Wejherowo
-ŁKS Podbipięta Legionowo 1 : 0 Górnik II Wejherowo
-Artur Sobiech scores ŁKS Podbipięta Legionowo 2 : 0 Górnik II Wejherowo
-Jeffrey Howard scores ŁKS Podbipięta Legionowo 3 : 0 Górnik II Wejherowo
-Robert Lewandowski scores ŁKS Podbipięta Legionowo 4 : 0 Górnik II Wejherowo
-Karol Angielski scores ŁKS Podbipięta Legionowo 4 : 1 Górnik II Wejherowo
-Philip Rodriguez scores ŁKS Podbipięta Legionowo 4 : 2 Górnik II Wejherowo
-Philip Rodriguez scores ŁKS Podbipięta Legionowo 4 : 3 Górnik II Wejherowo
-Philip Rodriguez scores End of match 
-
-Match Górnik Wytrwały Toruń against Górnik Wytrwały Będzin
-Górnik Wytrwały Toruń 1 : 0 Górnik Wytrwały Będzin
-Scott Cox scores End of match 
-
-Match Zagłębie Głebokie Rumia against Widzew Piła
-Zagłębie Głebokie Rumia 1 : 0 Widzew Piła
-Keith Barnes scores Zagłębie Głebokie Rumia 2 : 0 Widzew Piła
-Willie Diaz scores Zagłębie Głebokie Rumia 2 : 1 Widzew Piła
-Ronald Brown scores Zagłębie Głebokie Rumia 2 : 2 Widzew Piła
-Ronald Brown scores End of match 
-
-Match ŁKS Łagów Zawiercie against Śląsk II Gorzów Wielkopolski
-ŁKS Łagów Zawiercie 1 : 0 Śląsk II Gorzów Wielkopolski
-Jason Allen scores ŁKS Łagów Zawiercie 2 : 0 Śląsk II Gorzów Wielkopolski
-Mateusz Machaj scores ŁKS Łagów Zawiercie 3 : 0 Śląsk II Gorzów Wielkopolski
-Patryk Lipski scores ŁKS Łagów Zawiercie 4 : 0 Śląsk II Gorzów Wielkopolski
-Bartlomiej Dragowski scores ŁKS Łagów Zawiercie 4 : 1 Śląsk II Gorzów Wielkopolski
-Lukasz Budzilek scores End of match 
-
-Match Odra Zamulona Konin against MKS Czerwoni Ruda Śląska
-Odra Zamulona Konin 1 : 0 MKS Czerwoni Ruda Śląska
-Ralph Stewart scores Odra Zamulona Konin 2 : 0 MKS Czerwoni Ruda Śląska
-Patryk Dziczek scores End of match 
-
-Match Lechia Zieloni Piekary Śląskie against MKS Czerwoni Ruda Śląska
-Lechia Zieloni Piekary Śląskie 1 : 0 MKS Czerwoni Ruda Śląska
-Travis Carson scores Lechia Zieloni Piekary Śląskie 1 : 1 MKS Czerwoni Ruda Śląska
-Bruce Davis scores Lechia Zieloni Piekary Śląskie 1 : 2 MKS Czerwoni Ruda Śląska
-Marcin Urynowicz scores End of match 
-
-Match Śląsk II Gorzów Wielkopolski against Odra Zamulona Konin
-Śląsk II Gorzów Wielkopolski 1 : 0 Odra Zamulona Konin
-Przemyslaw Szarek scores Śląsk II Gorzów Wielkopolski 2 : 0 Odra Zamulona Konin
-Przemyslaw Szarek scores Śląsk II Gorzów Wielkopolski 3 : 0 Odra Zamulona Konin
-Przemyslaw Szarek scores End of match 
-
-Match Widzew Piła against ŁKS Łagów Zawiercie
-Widzew Piła 1 : 0 ŁKS Łagów Zawiercie
-Sebastian Tyrala scores Widzew Piła 1 : 1 ŁKS Łagów Zawiercie
-Bartlomiej Dragowski scores Widzew Piła 1 : 2 ŁKS Łagów Zawiercie
-Bartlomiej Dragowski scores End of match 
-
-Match Górnik Wytrwały Będzin against Zagłębie Głebokie Rumia
-Górnik Wytrwały Będzin 1 : 0 Zagłębie Głebokie Rumia
-Michal Marcjanik scores Górnik Wytrwały Będzin 1 : 1 Zagłębie Głebokie Rumia
-Keith Barnes scores End of match 
-
-Match Górnik II Wejherowo against Górnik Wytrwały Toruń
-Górnik II Wejherowo 1 : 0 Górnik Wytrwały Toruń
-Philip Rodriguez scores Górnik II Wejherowo 1 : 1 Górnik Wytrwały Toruń
-Carlos Garcia scores End of match 
-
-Match Polonia Jeden Suwałki against ŁKS Podbipięta Legionowo
-Polonia Jeden Suwałki 0 : 1 ŁKS Podbipięta Legionowo
-Karol Angielski scores Polonia Jeden Suwałki 0 : 2 ŁKS Podbipięta Legionowo
-Karol Angielski scores Polonia Jeden Suwałki 0 : 3 ŁKS Podbipięta Legionowo
-Karol Angielski scores End of match 
-
-Match ŁKS Podbipięta Legionowo against Lechia Zieloni Piekary Śląskie
-ŁKS Podbipięta Legionowo 1 : 0 Lechia Zieloni Piekary Śląskie
-Artur Sobiech scores ŁKS Podbipięta Legionowo 2 : 0 Lechia Zieloni Piekary Śląskie
-Karol Angielski scores ŁKS Podbipięta Legionowo 2 : 1 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores ŁKS Podbipięta Legionowo 2 : 2 Lechia Zieloni Piekary Śląskie
-Otis Murray scores ŁKS Podbipięta Legionowo 2 : 3 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores ŁKS Podbipięta Legionowo 2 : 4 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores ŁKS Podbipięta Legionowo 2 : 5 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores End of match 
-
-Match Górnik Wytrwały Toruń against Polonia Jeden Suwałki
-Górnik Wytrwały Toruń 1 : 0 Polonia Jeden Suwałki
-Charles Gonzalez scores Górnik Wytrwały Toruń 2 : 0 Polonia Jeden Suwałki
-Kenneth Brown scores Górnik Wytrwały Toruń 2 : 1 Polonia Jeden Suwałki
-Dawid Kownacki scores End of match 
-
-Match Zagłębie Głebokie Rumia against Górnik II Wejherowo
-Zagłębie Głebokie Rumia 1 : 0 Górnik II Wejherowo
-Willie Diaz scores Zagłębie Głebokie Rumia 2 : 0 Górnik II Wejherowo
-Keith Barnes scores Zagłębie Głebokie Rumia 3 : 0 Górnik II Wejherowo
-Keith Barnes scores Zagłębie Głebokie Rumia 4 : 0 Górnik II Wejherowo
-Willie Diaz scores Zagłębie Głebokie Rumia 4 : 1 Górnik II Wejherowo
-Philip Rodriguez scores End of match 
-
-Match ŁKS Łagów Zawiercie against Górnik Wytrwały Będzin
-ŁKS Łagów Zawiercie 1 : 0 Górnik Wytrwały Będzin
-Damian Byrtek scores ŁKS Łagów Zawiercie 1 : 1 Górnik Wytrwały Będzin
-Ralph Stewart scores ŁKS Łagów Zawiercie 1 : 2 Górnik Wytrwały Będzin
-Michal Marcjanik scores End of match 
-
-Match Odra Zamulona Konin against Widzew Piła
-Odra Zamulona Konin 1 : 0 Widzew Piła
-Ralph Stewart scores Odra Zamulona Konin 2 : 0 Widzew Piła
-Rafal Kurzawa scores End of match 
-
-Match MKS Czerwoni Ruda Śląska against Śląsk II Gorzów Wielkopolski
-MKS Czerwoni Ruda Śląska 1 : 0 Śląsk II Gorzów Wielkopolski
-Bruce Davis scores MKS Czerwoni Ruda Śląska 2 : 0 Śląsk II Gorzów Wielkopolski
-Marcin Urynowicz scores MKS Czerwoni Ruda Śląska 3 : 0 Śląsk II Gorzów Wielkopolski
-Bruce Davis scores MKS Czerwoni Ruda Śląska 3 : 1 Śląsk II Gorzów Wielkopolski
-Lukasz Budzilek scores MKS Czerwoni Ruda Śląska 3 : 2 Śląsk II Gorzów Wielkopolski
-Roger Baker scores MKS Czerwoni Ruda Śląska 3 : 3 Śląsk II Gorzów Wielkopolski
-Lukasz Budzilek scores End of match 
-
-Match Lechia Zieloni Piekary Śląskie against Śląsk II Gorzów Wielkopolski
-Lechia Zieloni Piekary Śląskie 1 : 0 Śląsk II Gorzów Wielkopolski
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 2 : 0 Śląsk II Gorzów Wielkopolski
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 3 : 0 Śląsk II Gorzów Wielkopolski
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 3 : 1 Śląsk II Gorzów Wielkopolski
-Michal Jakobowski scores End of match 
-
-Match Widzew Piła against MKS Czerwoni Ruda Śląska
-Widzew Piła 0 : 1 MKS Czerwoni Ruda Śląska
-Bruce Davis scores Widzew Piła 0 : 2 MKS Czerwoni Ruda Śląska
-Bruce Davis scores Widzew Piła 0 : 3 MKS Czerwoni Ruda Śląska
-Bruce Davis scores End of match 
-
-Match Górnik Wytrwały Będzin against Odra Zamulona Konin
-Górnik Wytrwały Będzin 1 : 0 Odra Zamulona Konin
-Wojciech Trochim scores Górnik Wytrwały Będzin 1 : 1 Odra Zamulona Konin
-Rafal Kurzawa scores Górnik Wytrwały Będzin 1 : 2 Odra Zamulona Konin
-Rafal Kurzawa scores Górnik Wytrwały Będzin 1 : 3 Odra Zamulona Konin
-Ralph Stewart scores End of match 
-
-Match Górnik II Wejherowo against ŁKS Łagów Zawiercie
-Górnik II Wejherowo 1 : 0 ŁKS Łagów Zawiercie
-Philip Rodriguez scores Górnik II Wejherowo 2 : 0 ŁKS Łagów Zawiercie
-Philip Rodriguez scores Górnik II Wejherowo 2 : 1 ŁKS Łagów Zawiercie
-Bartlomiej Dragowski scores Górnik II Wejherowo 2 : 2 ŁKS Łagów Zawiercie
-Bartlomiej Dragowski scores Górnik II Wejherowo 2 : 3 ŁKS Łagów Zawiercie
-Patryk Lipski scores End of match 
-
-Match Polonia Jeden Suwałki against Zagłębie Głebokie Rumia
-Polonia Jeden Suwałki 1 : 0 Zagłębie Głebokie Rumia
-Mateusz Szczepaniak scores Polonia Jeden Suwałki 1 : 1 Zagłębie Głebokie Rumia
-Keith Barnes scores End of match 
-
-Match ŁKS Podbipięta Legionowo against Górnik Wytrwały Toruń
-ŁKS Podbipięta Legionowo 1 : 0 Górnik Wytrwały Toruń
-Robert Lewandowski scores ŁKS Podbipięta Legionowo 2 : 0 Górnik Wytrwały Toruń
-Karol Angielski scores ŁKS Podbipięta Legionowo 2 : 1 Górnik Wytrwały Toruń
-Scott Cox scores ŁKS Podbipięta Legionowo 2 : 2 Górnik Wytrwały Toruń
-Kenneth Brown scores End of match 
-
-Match Górnik Wytrwały Toruń against Lechia Zieloni Piekary Śląskie
-Górnik Wytrwały Toruń 1 : 0 Lechia Zieloni Piekary Śląskie
-Carlos Garcia scores Górnik Wytrwały Toruń 1 : 1 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores Górnik Wytrwały Toruń 1 : 2 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores Górnik Wytrwały Toruń 1 : 3 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores Górnik Wytrwały Toruń 1 : 4 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores Górnik Wytrwały Toruń 1 : 5 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores Górnik Wytrwały Toruń 1 : 6 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores Górnik Wytrwały Toruń 1 : 7 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores End of match 
-
-Match Zagłębie Głebokie Rumia against ŁKS Podbipięta Legionowo
-Zagłębie Głebokie Rumia 1 : 0 ŁKS Podbipięta Legionowo
-Keith Barnes scores Zagłębie Głebokie Rumia 2 : 0 ŁKS Podbipięta Legionowo
-Keith Barnes scores Zagłębie Głebokie Rumia 2 : 1 ŁKS Podbipięta Legionowo
-Karol Angielski scores Zagłębie Głebokie Rumia 2 : 2 ŁKS Podbipięta Legionowo
-Karol Angielski scores End of match 
-
-Match ŁKS Łagów Zawiercie against Polonia Jeden Suwałki
-ŁKS Łagów Zawiercie 1 : 0 Polonia Jeden Suwałki
-Bartlomiej Dragowski scores ŁKS Łagów Zawiercie 2 : 0 Polonia Jeden Suwałki
-Bartlomiej Dragowski scores End of match 
-
-Match Odra Zamulona Konin against Górnik II Wejherowo
-Odra Zamulona Konin 1 : 0 Górnik II Wejherowo
-Rafal Kurzawa scores Odra Zamulona Konin 2 : 0 Górnik II Wejherowo
-Rafal Kurzawa scores Odra Zamulona Konin 2 : 1 Górnik II Wejherowo
-Douglas Wilson scores Odra Zamulona Konin 2 : 2 Górnik II Wejherowo
-Philip Rodriguez scores Odra Zamulona Konin 2 : 3 Górnik II Wejherowo
-Philip Rodriguez scores Odra Zamulona Konin 2 : 4 Górnik II Wejherowo
-Philip Rodriguez scores Odra Zamulona Konin 2 : 5 Górnik II Wejherowo
-Philip Rodriguez scores End of match 
-
-Match MKS Czerwoni Ruda Śląska against Górnik Wytrwały Będzin
-MKS Czerwoni Ruda Śląska 1 : 0 Górnik Wytrwały Będzin
-Marcin Urynowicz scores MKS Czerwoni Ruda Śląska 1 : 1 Górnik Wytrwały Będzin
-Michal Marcjanik scores End of match 
-
-Match Śląsk II Gorzów Wielkopolski against Widzew Piła
-Śląsk II Gorzów Wielkopolski 1 : 0 Widzew Piła
-Przemyslaw Szarek scores Śląsk II Gorzów Wielkopolski 1 : 1 Widzew Piła
-Sebastian Tyrala scores Śląsk II Gorzów Wielkopolski 1 : 2 Widzew Piła
-Johnny Williams scores End of match 
-
-
-
-*****************************************************************
-       TEAM NAME                               PTS   W    D    L 
-1.  Lechia Zieloni Piekary Śląskie             27    9    0    2   
-2.  ŁKS Podbipięta Legionowo                   24    7    3    1   
-3.  Odra Zamulona Konin                        19    6    1    4   
-4.  ŁKS Łagów Zawiercie                        17    5    2    4   
-5.  Górnik II Wejherowo                        16    5    1    5   
-6.  MKS Czerwoni Ruda Śląska                   16    4    4    3   
-7.  Śląsk II Gorzów Wielkopolski               14    4    2    5   
-8.  Widzew Piła                                13    4    1    6   
-9.  Górnik Wytrwały Toruń                      13    3    4    4   
-10. Zagłębie Głebokie Rumia                    11    2    5    4   
-11. Górnik Wytrwały Będzin                      9    2    3    6   
-12. Polonia Jeden Suwałki                       4    0    4    7   
-*****************************************************************
-
-
-   MOST TALENTED PLAYERS   
-1. Sebastian Tyrala from Widzew Piła with 97 skill points. 
-2. Bruce Davis from MKS Czerwoni Ruda Śląska with 97 skill points. 
-3. Ronald Brown from Widzew Piła with 96 skill points. 
-4. Maciej Gorski from Śląsk II Gorzów Wielkopolski with 96 skill points. 
-5. Clarence Barnes from MKS Czerwoni Ruda Śląska with 95 skill points. 
-6. Travis Carson from Lechia Zieloni Piekary Śląskie with 95 skill points. 
-7. Sebastian Bonecki from ŁKS Podbipięta Legionowo with 94 skill points. 
-8. Duane Mills from Widzew Piła with 93 skill points. 
-9. Piotr Zielinski from Górnik II Wejherowo with 93 skill points. 
-10. Edward Washington from Odra Zamulona Konin with 93 skill points. 
-11. Jakub Wawrzyniak from MKS Czerwoni Ruda Śląska with 93 skill points. 
-12. Przemyslaw Szarek from Śląsk II Gorzów Wielkopolski with 92 skill points. 
-13. Michal Koj from Lechia Zieloni Piekary Śląskie with 92 skill points. 
-14. Artur Jedrzejczyk from Górnik Wytrwały Będzin with 90 skill points. 
-15. Bartlomiej Babiarz from Polonia Jeden Suwałki with 90 skill points. 
-16. Juan Mitchell from Górnik Wytrwały Toruń with 90 skill points. 
-17. Michal Gliwa from ŁKS Łagów Zawiercie with 90 skill points. 
-18. Adam Buksa from MKS Czerwoni Ruda Śląska with 90 skill points. 
-19. Maciej Sadlok from Widzew Piła with 89 skill points. 
-20. Wojciech Trochim from Górnik Wytrwały Będzin with 89 skill points. 
-
-    BEST LEAGUE SCORERS   
-1. Phillip Peterson STRIKER from team Lechia Zieloni Piekary Śląskie scores 33
-2. Philip Rodriguez STRIKER from team Górnik II Wejherowo scores 21
-3. Karol Angielski STRIKER from team ŁKS Podbipięta Legionowo scores 18
-4. Keith Barnes STRIKER from team Zagłębie Głebokie Rumia scores 16
-5. Bruce Davis STRIKER from team MKS Czerwoni Ruda Śląska scores 16
-
-
-    BEST TEAM SCORERS   
-Phillip Peterson STRIKER from team Lechia Zieloni Piekary Śląskie scores 33
-Philip Rodriguez STRIKER from team Górnik II Wejherowo scores 21
-Karol Angielski STRIKER from team ŁKS Podbipięta Legionowo scores 18
-Keith Barnes STRIKER from team Zagłębie Głebokie Rumia scores 16
-Bruce Davis STRIKER from team MKS Czerwoni Ruda Śląska scores 16
-Rafal Kurzawa STRIKER from team Odra Zamulona Konin scores 14
-Bartlomiej Dragowski STRIKER from team ŁKS Łagów Zawiercie scores 12
-Przemyslaw Szarek STRIKER from team Śląsk II Gorzów Wielkopolski scores 11
-Carlos Garcia STRIKER from team Górnik Wytrwały Toruń scores 9
-Ronald Brown STRIKER from team Widzew Piła scores 8
-Michal Marcjanik STRIKER from team Górnik Wytrwały Będzin scores 4
-Mateusz Szczepaniak STRIKER from team Polonia Jeden Suwałki scores 2
-
-*****************
-SEASON 3
-*****************
-
-
-Match Lechia Zieloni Piekary Śląskie against Widzew Piła
-Lechia Zieloni Piekary Śląskie 1 : 0 Widzew Piła
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 2 : 0 Widzew Piła
-Sebastian Rudol scores Lechia Zieloni Piekary Śląskie 2 : 1 Widzew Piła
-Ronald Brown scores End of match 
-
-Match Górnik Wytrwały Będzin against Śląsk II Gorzów Wielkopolski
-Górnik Wytrwały Będzin 1 : 0 Śląsk II Gorzów Wielkopolski
-Michal Marcjanik scores Górnik Wytrwały Będzin 1 : 1 Śląsk II Gorzów Wielkopolski
-Przemyslaw Szarek scores Górnik Wytrwały Będzin 1 : 2 Śląsk II Gorzów Wielkopolski
-Przemyslaw Szarek scores End of match 
-
-Match Górnik II Wejherowo against MKS Czerwoni Ruda Śląska
-Górnik II Wejherowo 1 : 0 MKS Czerwoni Ruda Śląska
-Philip Rodriguez scores Górnik II Wejherowo 1 : 1 MKS Czerwoni Ruda Śląska
-Bruce Davis scores Górnik II Wejherowo 1 : 2 MKS Czerwoni Ruda Śląska
-Bruce Davis scores End of match 
-
-Match Polonia Jeden Suwałki against Odra Zamulona Konin
-End of match 
-
-Match ŁKS Podbipięta Legionowo against ŁKS Łagów Zawiercie
-ŁKS Podbipięta Legionowo 1 : 0 ŁKS Łagów Zawiercie
-Artur Sobiech scores ŁKS Podbipięta Legionowo 2 : 0 ŁKS Łagów Zawiercie
-Karol Angielski scores ŁKS Podbipięta Legionowo 2 : 1 ŁKS Łagów Zawiercie
-Damian Byrtek scores ŁKS Podbipięta Legionowo 2 : 2 ŁKS Łagów Zawiercie
-Jason Allen scores End of match 
-
-Match Górnik Wytrwały Toruń against Zagłębie Głebokie Rumia
-Górnik Wytrwały Toruń 1 : 0 Zagłębie Głebokie Rumia
-Carlos Garcia scores Górnik Wytrwały Toruń 2 : 0 Zagłębie Głebokie Rumia
-Carlos Garcia scores Górnik Wytrwały Toruń 2 : 1 Zagłębie Głebokie Rumia
-Keith Barnes scores End of match 
-
-Match Zagłębie Głebokie Rumia against Lechia Zieloni Piekary Śląskie
-Zagłębie Głebokie Rumia 1 : 0 Lechia Zieloni Piekary Śląskie
-Krzysztof Drzazga scores Zagłębie Głebokie Rumia 2 : 0 Lechia Zieloni Piekary Śląskie
-Keith Barnes scores Zagłębie Głebokie Rumia 2 : 1 Lechia Zieloni Piekary Śląskie
-Sebastian Rudol scores Zagłębie Głebokie Rumia 2 : 2 Lechia Zieloni Piekary Śląskie
-Sebastian Rudol scores Zagłębie Głebokie Rumia 2 : 3 Lechia Zieloni Piekary Śląskie
-Travis Carson scores Zagłębie Głebokie Rumia 2 : 4 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores End of match 
-
-Match ŁKS Łagów Zawiercie against Górnik Wytrwały Toruń
-ŁKS Łagów Zawiercie 1 : 0 Górnik Wytrwały Toruń
-Patryk Lipski scores ŁKS Łagów Zawiercie 2 : 0 Górnik Wytrwały Toruń
-Damian Byrtek scores ŁKS Łagów Zawiercie 3 : 0 Górnik Wytrwały Toruń
-Bartlomiej Dragowski scores End of match 
-
-Match Odra Zamulona Konin against ŁKS Podbipięta Legionowo
-Odra Zamulona Konin 1 : 0 ŁKS Podbipięta Legionowo
-Rafal Kurzawa scores Odra Zamulona Konin 2 : 0 ŁKS Podbipięta Legionowo
-James Palmer scores Odra Zamulona Konin 3 : 0 ŁKS Podbipięta Legionowo
-Rafal Kurzawa scores Odra Zamulona Konin 3 : 1 ŁKS Podbipięta Legionowo
-Robert Lewandowski scores Odra Zamulona Konin 3 : 2 ŁKS Podbipięta Legionowo
-Karol Angielski scores Odra Zamulona Konin 3 : 3 ŁKS Podbipięta Legionowo
-Karol Angielski scores End of match 
-
-Match MKS Czerwoni Ruda Śląska against Polonia Jeden Suwałki
-MKS Czerwoni Ruda Śląska 1 : 0 Polonia Jeden Suwałki
-Bruce Davis scores MKS Czerwoni Ruda Śląska 2 : 0 Polonia Jeden Suwałki
-Bruce Davis scores MKS Czerwoni Ruda Śląska 3 : 0 Polonia Jeden Suwałki
-Bruce Davis scores End of match 
-
-Match Śląsk II Gorzów Wielkopolski against Górnik II Wejherowo
-Śląsk II Gorzów Wielkopolski 1 : 0 Górnik II Wejherowo
-Przemyslaw Szarek scores Śląsk II Gorzów Wielkopolski 1 : 1 Górnik II Wejherowo
-Douglas Wilson scores Śląsk II Gorzów Wielkopolski 1 : 2 Górnik II Wejherowo
-Brandon Nelson scores Śląsk II Gorzów Wielkopolski 1 : 3 Górnik II Wejherowo
-Philip Rodriguez scores End of match 
-
-Match Widzew Piła against Górnik Wytrwały Będzin
-Widzew Piła 1 : 0 Górnik Wytrwały Będzin
-Ronald Brown scores Widzew Piła 2 : 0 Górnik Wytrwały Będzin
-Ronald Brown scores Widzew Piła 3 : 0 Górnik Wytrwały Będzin
-Ronald Brown scores Widzew Piła 3 : 1 Górnik Wytrwały Będzin
-Michal Marcjanik scores Widzew Piła 3 : 2 Górnik Wytrwały Będzin
-Wojciech Trochim scores Widzew Piła 3 : 3 Górnik Wytrwały Będzin
-Wojciech Trochim scores End of match 
-
-Match Lechia Zieloni Piekary Śląskie against Górnik Wytrwały Będzin
-Lechia Zieloni Piekary Śląskie 1 : 0 Górnik Wytrwały Będzin
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 2 : 0 Górnik Wytrwały Będzin
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 3 : 0 Górnik Wytrwały Będzin
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 3 : 1 Górnik Wytrwały Będzin
-Wojciech Trochim scores Lechia Zieloni Piekary Śląskie 3 : 2 Górnik Wytrwały Będzin
-Michal Marcjanik scores End of match 
-
-Match Górnik II Wejherowo against Widzew Piła
-Górnik II Wejherowo 1 : 0 Widzew Piła
-Philip Rodriguez scores Górnik II Wejherowo 1 : 1 Widzew Piła
-Tomasz Loska scores Górnik II Wejherowo 1 : 2 Widzew Piła
-Ronald Brown scores Górnik II Wejherowo 1 : 3 Widzew Piła
-Ronald Brown scores End of match 
-
-Match Polonia Jeden Suwałki against Śląsk II Gorzów Wielkopolski
-Polonia Jeden Suwałki 1 : 0 Śląsk II Gorzów Wielkopolski
-Dawid Kudla scores Polonia Jeden Suwałki 1 : 1 Śląsk II Gorzów Wielkopolski
-Przemyslaw Szarek scores Polonia Jeden Suwałki 1 : 2 Śląsk II Gorzów Wielkopolski
-Lukasz Budzilek scores End of match 
-
-Match ŁKS Podbipięta Legionowo against MKS Czerwoni Ruda Śląska
-ŁKS Podbipięta Legionowo 1 : 0 MKS Czerwoni Ruda Śląska
-Robert Lewandowski scores ŁKS Podbipięta Legionowo 2 : 0 MKS Czerwoni Ruda Śląska
-Karol Angielski scores ŁKS Podbipięta Legionowo 3 : 0 MKS Czerwoni Ruda Śląska
-Karol Angielski scores ŁKS Podbipięta Legionowo 3 : 1 MKS Czerwoni Ruda Śląska
-Bruce Davis scores End of match 
-
-Match Górnik Wytrwały Toruń against Odra Zamulona Konin
-Górnik Wytrwały Toruń 1 : 0 Odra Zamulona Konin
-Carlos Garcia scores Górnik Wytrwały Toruń 2 : 0 Odra Zamulona Konin
-Charles Gonzalez scores Górnik Wytrwały Toruń 2 : 1 Odra Zamulona Konin
-Bartosz Kapustka scores Górnik Wytrwały Toruń 2 : 2 Odra Zamulona Konin
-Patryk Dziczek scores End of match 
-
-Match Zagłębie Głebokie Rumia against ŁKS Łagów Zawiercie
-Zagłębie Głebokie Rumia 0 : 1 ŁKS Łagów Zawiercie
-Bartlomiej Dragowski scores End of match 
-
-Match ŁKS Łagów Zawiercie against Lechia Zieloni Piekary Śląskie
-ŁKS Łagów Zawiercie 1 : 0 Lechia Zieloni Piekary Śląskie
-Bartlomiej Dragowski scores ŁKS Łagów Zawiercie 2 : 0 Lechia Zieloni Piekary Śląskie
-Bartlomiej Dragowski scores ŁKS Łagów Zawiercie 3 : 0 Lechia Zieloni Piekary Śląskie
-Bartlomiej Dragowski scores ŁKS Łagów Zawiercie 4 : 0 Lechia Zieloni Piekary Śląskie
-Bartlomiej Dragowski scores ŁKS Łagów Zawiercie 4 : 1 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores ŁKS Łagów Zawiercie 4 : 2 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores ŁKS Łagów Zawiercie 4 : 3 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores End of match 
-
-Match Odra Zamulona Konin against Zagłębie Głebokie Rumia
-Odra Zamulona Konin 1 : 0 Zagłębie Głebokie Rumia
-Bartosz Kapustka scores Odra Zamulona Konin 2 : 0 Zagłębie Głebokie Rumia
-Rafal Kurzawa scores Odra Zamulona Konin 3 : 0 Zagłębie Głebokie Rumia
-Rafal Kurzawa scores Odra Zamulona Konin 4 : 0 Zagłębie Głebokie Rumia
-Rafal Kurzawa scores Odra Zamulona Konin 4 : 1 Zagłębie Głebokie Rumia
-Keith Barnes scores Odra Zamulona Konin 4 : 2 Zagłębie Głebokie Rumia
-Keith Barnes scores End of match 
-
-Match MKS Czerwoni Ruda Śląska against Górnik Wytrwały Toruń
-MKS Czerwoni Ruda Śląska 0 : 1 Górnik Wytrwały Toruń
-Kenneth Brown scores MKS Czerwoni Ruda Śląska 0 : 2 Górnik Wytrwały Toruń
-Scott Cox scores MKS Czerwoni Ruda Śląska 0 : 3 Górnik Wytrwały Toruń
-Carlos Garcia scores End of match 
-
-Match Śląsk II Gorzów Wielkopolski against ŁKS Podbipięta Legionowo
-Śląsk II Gorzów Wielkopolski 1 : 0 ŁKS Podbipięta Legionowo
-Przemyslaw Szarek scores Śląsk II Gorzów Wielkopolski 1 : 1 ŁKS Podbipięta Legionowo
-Artur Sobiech scores End of match 
-
-Match Widzew Piła against Polonia Jeden Suwałki
-Widzew Piła 1 : 0 Polonia Jeden Suwałki
-Johnny Williams scores Widzew Piła 1 : 1 Polonia Jeden Suwałki
-Mateusz Szczepaniak scores End of match 
-
-Match Górnik Wytrwały Będzin against Górnik II Wejherowo
-Górnik Wytrwały Będzin 0 : 1 Górnik II Wejherowo
-Maciej Jankowski scores Górnik Wytrwały Będzin 0 : 2 Górnik II Wejherowo
-Philip Rodriguez scores End of match 
-
-Match Lechia Zieloni Piekary Śląskie against Górnik II Wejherowo
-Lechia Zieloni Piekary Śląskie 1 : 0 Górnik II Wejherowo
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 2 : 0 Górnik II Wejherowo
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 3 : 0 Górnik II Wejherowo
-Sebastian Rudol scores Lechia Zieloni Piekary Śląskie 4 : 0 Górnik II Wejherowo
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 5 : 0 Górnik II Wejherowo
-Travis Carson scores Lechia Zieloni Piekary Śląskie 5 : 1 Górnik II Wejherowo
-Piotr Zielinski scores Lechia Zieloni Piekary Śląskie 5 : 2 Górnik II Wejherowo
-Philip Rodriguez scores Lechia Zieloni Piekary Śląskie 5 : 3 Górnik II Wejherowo
-Philip Rodriguez scores End of match 
-
-Match Polonia Jeden Suwałki against Górnik Wytrwały Będzin
-Polonia Jeden Suwałki 0 : 1 Górnik Wytrwały Będzin
-Michal Marcjanik scores End of match 
-
-Match ŁKS Podbipięta Legionowo against Widzew Piła
-ŁKS Podbipięta Legionowo 1 : 0 Widzew Piła
-Karol Angielski scores ŁKS Podbipięta Legionowo 2 : 0 Widzew Piła
-Artur Sobiech scores ŁKS Podbipięta Legionowo 3 : 0 Widzew Piła
-Artur Sobiech scores ŁKS Podbipięta Legionowo 3 : 1 Widzew Piła
-Ronald Brown scores ŁKS Podbipięta Legionowo 3 : 2 Widzew Piła
-Johnny Williams scores ŁKS Podbipięta Legionowo 3 : 3 Widzew Piła
-Ronald Brown scores ŁKS Podbipięta Legionowo 3 : 4 Widzew Piła
-Ronald Brown scores End of match 
-
-Match Górnik Wytrwały Toruń against Śląsk II Gorzów Wielkopolski
-Górnik Wytrwały Toruń 1 : 0 Śląsk II Gorzów Wielkopolski
-Kenneth Brown scores Górnik Wytrwały Toruń 1 : 1 Śląsk II Gorzów Wielkopolski
-Michal Jakobowski scores Górnik Wytrwały Toruń 1 : 2 Śląsk II Gorzów Wielkopolski
-Lukasz Budzilek scores End of match 
-
-Match Zagłębie Głebokie Rumia against MKS Czerwoni Ruda Śląska
-Zagłębie Głebokie Rumia 0 : 1 MKS Czerwoni Ruda Śląska
-Bruce Davis scores Zagłębie Głebokie Rumia 0 : 2 MKS Czerwoni Ruda Śląska
-Bruce Davis scores Zagłębie Głebokie Rumia 0 : 3 MKS Czerwoni Ruda Śląska
-Marcin Urynowicz scores End of match 
-
-Match ŁKS Łagów Zawiercie against Odra Zamulona Konin
-ŁKS Łagów Zawiercie 1 : 0 Odra Zamulona Konin
-Bartlomiej Dragowski scores ŁKS Łagów Zawiercie 1 : 1 Odra Zamulona Konin
-Rafal Kurzawa scores ŁKS Łagów Zawiercie 1 : 2 Odra Zamulona Konin
-Rafal Kurzawa scores ŁKS Łagów Zawiercie 1 : 3 Odra Zamulona Konin
-Rafal Kurzawa scores End of match 
-
-Match Lechia Zieloni Piekary Śląskie against Odra Zamulona Konin
-Lechia Zieloni Piekary Śląskie 1 : 0 Odra Zamulona Konin
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 1 : 1 Odra Zamulona Konin
-Rafal Kurzawa scores Lechia Zieloni Piekary Śląskie 1 : 2 Odra Zamulona Konin
-Rafal Kurzawa scores End of match 
-
-Match MKS Czerwoni Ruda Śląska against ŁKS Łagów Zawiercie
-MKS Czerwoni Ruda Śląska 1 : 0 ŁKS Łagów Zawiercie
-Bruce Davis scores MKS Czerwoni Ruda Śląska 1 : 1 ŁKS Łagów Zawiercie
-Mateusz Machaj scores MKS Czerwoni Ruda Śląska 1 : 2 ŁKS Łagów Zawiercie
-Patryk Lipski scores MKS Czerwoni Ruda Śląska 1 : 3 ŁKS Łagów Zawiercie
-Damian Byrtek scores End of match 
-
-Match Śląsk II Gorzów Wielkopolski against Zagłębie Głebokie Rumia
-Śląsk II Gorzów Wielkopolski 1 : 0 Zagłębie Głebokie Rumia
-Przemyslaw Szarek scores Śląsk II Gorzów Wielkopolski 2 : 0 Zagłębie Głebokie Rumia
-Przemyslaw Szarek scores Śląsk II Gorzów Wielkopolski 3 : 0 Zagłębie Głebokie Rumia
-Przemyslaw Szarek scores Śląsk II Gorzów Wielkopolski 3 : 1 Zagłębie Głebokie Rumia
-Leonard Bush scores Śląsk II Gorzów Wielkopolski 3 : 2 Zagłębie Głebokie Rumia
-Keith Barnes scores Śląsk II Gorzów Wielkopolski 3 : 3 Zagłębie Głebokie Rumia
-Keith Barnes scores Śląsk II Gorzów Wielkopolski 3 : 4 Zagłębie Głebokie Rumia
-Krzysztof Drzazga scores Śląsk II Gorzów Wielkopolski 3 : 5 Zagłębie Głebokie Rumia
-Keith Barnes scores End of match 
-
-Match Widzew Piła against Górnik Wytrwały Toruń
-Widzew Piła 1 : 0 Górnik Wytrwały Toruń
-Tomasz Loska scores Widzew Piła 2 : 0 Górnik Wytrwały Toruń
-Johnny Williams scores Widzew Piła 3 : 0 Górnik Wytrwały Toruń
-Johnny Williams scores Widzew Piła 4 : 0 Górnik Wytrwały Toruń
-Johnny Williams scores Widzew Piła 5 : 0 Górnik Wytrwały Toruń
-Ronald Brown scores Widzew Piła 5 : 1 Górnik Wytrwały Toruń
-Kenneth Brown scores End of match 
-
-Match Górnik Wytrwały Będzin against ŁKS Podbipięta Legionowo
-Górnik Wytrwały Będzin 1 : 0 ŁKS Podbipięta Legionowo
-Dennis Cook scores Górnik Wytrwały Będzin 1 : 1 ŁKS Podbipięta Legionowo
-Karol Angielski scores Górnik Wytrwały Będzin 1 : 2 ŁKS Podbipięta Legionowo
-Karol Angielski scores Górnik Wytrwały Będzin 1 : 3 ŁKS Podbipięta Legionowo
-Karol Angielski scores End of match 
-
-Match Górnik II Wejherowo against Polonia Jeden Suwałki
-Górnik II Wejherowo 1 : 0 Polonia Jeden Suwałki
-Philip Rodriguez scores Górnik II Wejherowo 2 : 0 Polonia Jeden Suwałki
-Philip Rodriguez scores Górnik II Wejherowo 3 : 0 Polonia Jeden Suwałki
-Philip Rodriguez scores Górnik II Wejherowo 4 : 0 Polonia Jeden Suwałki
-Philip Rodriguez scores Górnik II Wejherowo 5 : 0 Polonia Jeden Suwałki
-Philip Rodriguez scores End of match 
-
-Match Polonia Jeden Suwałki against Lechia Zieloni Piekary Śląskie
-Polonia Jeden Suwałki 1 : 0 Lechia Zieloni Piekary Śląskie
-Dawid Kownacki scores End of match 
-
-Match ŁKS Podbipięta Legionowo against Górnik II Wejherowo
-ŁKS Podbipięta Legionowo 1 : 0 Górnik II Wejherowo
-Artur Sobiech scores ŁKS Podbipięta Legionowo 1 : 1 Górnik II Wejherowo
-Philip Rodriguez scores End of match 
-
-Match Górnik Wytrwały Toruń against Górnik Wytrwały Będzin
-Górnik Wytrwały Toruń 1 : 0 Górnik Wytrwały Będzin
-Carlos Garcia scores Górnik Wytrwały Toruń 2 : 0 Górnik Wytrwały Będzin
-Carlos Garcia scores Górnik Wytrwały Toruń 3 : 0 Górnik Wytrwały Będzin
-Charles Gonzalez scores Górnik Wytrwały Toruń 3 : 1 Górnik Wytrwały Będzin
-Michal Marcjanik scores End of match 
-
-Match Zagłębie Głebokie Rumia against Widzew Piła
-Zagłębie Głebokie Rumia 1 : 0 Widzew Piła
-Keith Barnes scores Zagłębie Głebokie Rumia 2 : 0 Widzew Piła
-Willie Diaz scores Zagłębie Głebokie Rumia 3 : 0 Widzew Piła
-Keith Barnes scores Zagłębie Głebokie Rumia 3 : 1 Widzew Piła
-Johnny Williams scores Zagłębie Głebokie Rumia 3 : 2 Widzew Piła
-Ronald Brown scores Zagłębie Głebokie Rumia 3 : 3 Widzew Piła
-Ronald Brown scores End of match 
-
-Match ŁKS Łagów Zawiercie against Śląsk II Gorzów Wielkopolski
-ŁKS Łagów Zawiercie 1 : 0 Śląsk II Gorzów Wielkopolski
-Bartlomiej Dragowski scores ŁKS Łagów Zawiercie 1 : 1 Śląsk II Gorzów Wielkopolski
-Roger Baker scores End of match 
-
-Match Odra Zamulona Konin against MKS Czerwoni Ruda Śląska
-Odra Zamulona Konin 1 : 0 MKS Czerwoni Ruda Śląska
-Rafal Kurzawa scores Odra Zamulona Konin 2 : 0 MKS Czerwoni Ruda Śląska
-Rafal Kurzawa scores Odra Zamulona Konin 2 : 1 MKS Czerwoni Ruda Śląska
-Marcin Urynowicz scores Odra Zamulona Konin 2 : 2 MKS Czerwoni Ruda Śląska
-Bruce Davis scores Odra Zamulona Konin 2 : 3 MKS Czerwoni Ruda Śląska
-Bruce Davis scores End of match 
-
-Match Lechia Zieloni Piekary Śląskie against MKS Czerwoni Ruda Śląska
-Lechia Zieloni Piekary Śląskie 1 : 0 MKS Czerwoni Ruda Śląska
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 2 : 0 MKS Czerwoni Ruda Śląska
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 3 : 0 MKS Czerwoni Ruda Śląska
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 4 : 0 MKS Czerwoni Ruda Śląska
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 4 : 1 MKS Czerwoni Ruda Śląska
-Bruce Davis scores End of match 
-
-Match Śląsk II Gorzów Wielkopolski against Odra Zamulona Konin
-Śląsk II Gorzów Wielkopolski 0 : 1 Odra Zamulona Konin
-Rafal Kurzawa scores End of match 
-
-Match Widzew Piła against ŁKS Łagów Zawiercie
-Widzew Piła 0 : 1 ŁKS Łagów Zawiercie
-Bartlomiej Dragowski scores Widzew Piła 0 : 2 ŁKS Łagów Zawiercie
-Bartlomiej Dragowski scores Widzew Piła 0 : 3 ŁKS Łagów Zawiercie
-Bartlomiej Dragowski scores Widzew Piła 0 : 4 ŁKS Łagów Zawiercie
-Damian Byrtek scores End of match 
-
-Match Górnik Wytrwały Będzin against Zagłębie Głebokie Rumia
-Górnik Wytrwały Będzin 1 : 0 Zagłębie Głebokie Rumia
-Michal Marcjanik scores Górnik Wytrwały Będzin 2 : 0 Zagłębie Głebokie Rumia
-Michal Marcjanik scores Górnik Wytrwały Będzin 2 : 1 Zagłębie Głebokie Rumia
-Keith Barnes scores Górnik Wytrwały Będzin 2 : 2 Zagłębie Głebokie Rumia
-Keith Barnes scores Górnik Wytrwały Będzin 2 : 3 Zagłębie Głebokie Rumia
-Keith Barnes scores End of match 
-
-Match Górnik II Wejherowo against Górnik Wytrwały Toruń
-Górnik II Wejherowo 1 : 0 Górnik Wytrwały Toruń
-Douglas Wilson scores Górnik II Wejherowo 2 : 0 Górnik Wytrwały Toruń
-Philip Rodriguez scores Górnik II Wejherowo 3 : 0 Górnik Wytrwały Toruń
-Philip Rodriguez scores Górnik II Wejherowo 3 : 1 Górnik Wytrwały Toruń
-Carlos Garcia scores Górnik II Wejherowo 3 : 2 Górnik Wytrwały Toruń
-Charles Gonzalez scores End of match 
-
-Match Polonia Jeden Suwałki against ŁKS Podbipięta Legionowo
-End of match 
-
-Match ŁKS Podbipięta Legionowo against Lechia Zieloni Piekary Śląskie
-ŁKS Podbipięta Legionowo 1 : 0 Lechia Zieloni Piekary Śląskie
-Sebastian Bonecki scores ŁKS Podbipięta Legionowo 2 : 0 Lechia Zieloni Piekary Śląskie
-Karol Angielski scores ŁKS Podbipięta Legionowo 2 : 1 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores ŁKS Podbipięta Legionowo 2 : 2 Lechia Zieloni Piekary Śląskie
-Travis Carson scores ŁKS Podbipięta Legionowo 2 : 3 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores End of match 
-
-Match Górnik Wytrwały Toruń against Polonia Jeden Suwałki
-Górnik Wytrwały Toruń 0 : 1 Polonia Jeden Suwałki
-Paul Rivera scores End of match 
-
-Match Zagłębie Głebokie Rumia against Górnik II Wejherowo
-Zagłębie Głebokie Rumia 1 : 0 Górnik II Wejherowo
-Krzysztof Drzazga scores Zagłębie Głebokie Rumia 1 : 1 Górnik II Wejherowo
-Philip Rodriguez scores Zagłębie Głebokie Rumia 1 : 2 Górnik II Wejherowo
-Philip Rodriguez scores Zagłębie Głebokie Rumia 1 : 3 Górnik II Wejherowo
-Piotr Zielinski scores End of match 
-
-Match ŁKS Łagów Zawiercie against Górnik Wytrwały Będzin
-ŁKS Łagów Zawiercie 1 : 0 Górnik Wytrwały Będzin
-Bartlomiej Dragowski scores End of match 
-
-Match Odra Zamulona Konin against Widzew Piła
-Odra Zamulona Konin 1 : 0 Widzew Piła
-Rafal Kurzawa scores Odra Zamulona Konin 1 : 1 Widzew Piła
-Ronald Brown scores Odra Zamulona Konin 1 : 2 Widzew Piła
-Tomasz Loska scores End of match 
-
-Match MKS Czerwoni Ruda Śląska against Śląsk II Gorzów Wielkopolski
-MKS Czerwoni Ruda Śląska 1 : 0 Śląsk II Gorzów Wielkopolski
-Mateusz Zachara scores MKS Czerwoni Ruda Śląska 2 : 0 Śląsk II Gorzów Wielkopolski
-Bruce Davis scores MKS Czerwoni Ruda Śląska 3 : 0 Śląsk II Gorzów Wielkopolski
-Clarence Barnes scores MKS Czerwoni Ruda Śląska 3 : 1 Śląsk II Gorzów Wielkopolski
-Przemyslaw Szarek scores MKS Czerwoni Ruda Śląska 3 : 2 Śląsk II Gorzów Wielkopolski
-Roger Baker scores MKS Czerwoni Ruda Śląska 3 : 3 Śląsk II Gorzów Wielkopolski
-Przemyslaw Szarek scores MKS Czerwoni Ruda Śląska 3 : 4 Śląsk II Gorzów Wielkopolski
-Dominik Furman scores End of match 
-
-Match Lechia Zieloni Piekary Śląskie against Śląsk II Gorzów Wielkopolski
-Lechia Zieloni Piekary Śląskie 1 : 0 Śląsk II Gorzów Wielkopolski
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 2 : 0 Śląsk II Gorzów Wielkopolski
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 3 : 0 Śląsk II Gorzów Wielkopolski
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 4 : 0 Śląsk II Gorzów Wielkopolski
-Phillip Peterson scores Lechia Zieloni Piekary Śląskie 4 : 1 Śląsk II Gorzów Wielkopolski
-Przemyslaw Szarek scores Lechia Zieloni Piekary Śląskie 4 : 2 Śląsk II Gorzów Wielkopolski
-Przemyslaw Szarek scores Lechia Zieloni Piekary Śląskie 4 : 3 Śląsk II Gorzów Wielkopolski
-Przemyslaw Szarek scores Lechia Zieloni Piekary Śląskie 4 : 4 Śląsk II Gorzów Wielkopolski
-Roger Baker scores End of match 
-
-Match Widzew Piła against MKS Czerwoni Ruda Śląska
-Widzew Piła 0 : 1 MKS Czerwoni Ruda Śląska
-Mateusz Zachara scores Widzew Piła 0 : 2 MKS Czerwoni Ruda Śląska
-Bruce Davis scores Widzew Piła 0 : 3 MKS Czerwoni Ruda Śląska
-Bruce Davis scores End of match 
-
-Match Górnik Wytrwały Będzin against Odra Zamulona Konin
-Górnik Wytrwały Będzin 0 : 1 Odra Zamulona Konin
-Rafal Kurzawa scores Górnik Wytrwały Będzin 0 : 2 Odra Zamulona Konin
-Ralph Stewart scores Górnik Wytrwały Będzin 0 : 3 Odra Zamulona Konin
-Rafal Kurzawa scores End of match 
-
-Match Górnik II Wejherowo against ŁKS Łagów Zawiercie
-Górnik II Wejherowo 1 : 0 ŁKS Łagów Zawiercie
-Philip Rodriguez scores Górnik II Wejherowo 2 : 0 ŁKS Łagów Zawiercie
-Philip Rodriguez scores Górnik II Wejherowo 2 : 1 ŁKS Łagów Zawiercie
-Mateusz Machaj scores Górnik II Wejherowo 2 : 2 ŁKS Łagów Zawiercie
-Bartlomiej Dragowski scores End of match 
-
-Match Polonia Jeden Suwałki against Zagłębie Głebokie Rumia
-End of match 
-
-Match ŁKS Podbipięta Legionowo against Górnik Wytrwały Toruń
-ŁKS Podbipięta Legionowo 1 : 0 Górnik Wytrwały Toruń
-Karol Angielski scores ŁKS Podbipięta Legionowo 1 : 1 Górnik Wytrwały Toruń
-Kenneth Brown scores ŁKS Podbipięta Legionowo 1 : 2 Górnik Wytrwały Toruń
-Carlos Garcia scores End of match 
-
-Match Górnik Wytrwały Toruń against Lechia Zieloni Piekary Śląskie
-Górnik Wytrwały Toruń 1 : 0 Lechia Zieloni Piekary Śląskie
-Carlos Garcia scores Górnik Wytrwały Toruń 1 : 1 Lechia Zieloni Piekary Śląskie
-Otis Murray scores Górnik Wytrwały Toruń 1 : 2 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores Górnik Wytrwały Toruń 1 : 3 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores Górnik Wytrwały Toruń 1 : 4 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores Górnik Wytrwały Toruń 1 : 5 Lechia Zieloni Piekary Śląskie
-Phillip Peterson scores End of match 
-
-Match Zagłębie Głebokie Rumia against ŁKS Podbipięta Legionowo
-Zagłębie Głebokie Rumia 1 : 0 ŁKS Podbipięta Legionowo
-Keith Barnes scores Zagłębie Głebokie Rumia 1 : 1 ŁKS Podbipięta Legionowo
-Karol Angielski scores Zagłębie Głebokie Rumia 1 : 2 ŁKS Podbipięta Legionowo
-Karol Angielski scores Zagłębie Głebokie Rumia 1 : 3 ŁKS Podbipięta Legionowo
-Karol Angielski scores End of match 
-
-Match ŁKS Łagów Zawiercie against Polonia Jeden Suwałki
-ŁKS Łagów Zawiercie 1 : 0 Polonia Jeden Suwałki
-Mateusz Machaj scores ŁKS Łagów Zawiercie 2 : 0 Polonia Jeden Suwałki
-Bartlomiej Dragowski scores End of match 
-
-Match Odra Zamulona Konin against Górnik II Wejherowo
-Odra Zamulona Konin 1 : 0 Górnik II Wejherowo
-Rafal Kurzawa scores Odra Zamulona Konin 1 : 1 Górnik II Wejherowo
-Philip Rodriguez scores Odra Zamulona Konin 1 : 2 Górnik II Wejherowo
-Piotr Zielinski scores End of match 
-
-Match MKS Czerwoni Ruda Śląska against Górnik Wytrwały Będzin
-MKS Czerwoni Ruda Śląska 1 : 0 Górnik Wytrwały Będzin
-Bruce Davis scores MKS Czerwoni Ruda Śląska 1 : 1 Górnik Wytrwały Będzin
-Michal Marcjanik scores End of match 
-
-Match Śląsk II Gorzów Wielkopolski against Widzew Piła
-Śląsk II Gorzów Wielkopolski 1 : 0 Widzew Piła
-Przemyslaw Szarek scores Śląsk II Gorzów Wielkopolski 2 : 0 Widzew Piła
-Michal Jakobowski scores Śląsk II Gorzów Wielkopolski 2 : 1 Widzew Piła
-Ronald Brown scores End of match 
-
-
-
-*****************************************************************
-       TEAM NAME                               PTS   W    D    L 
-1.  ŁKS Łagów Zawiercie                        24    7    3    1   
-2.  Lechia Zieloni Piekary Śląskie             22    7    1    3   
-3.  Górnik II Wejherowo                        20    6    2    3   
-4.  Odra Zamulona Konin                        18    5    3    3   
-5.  Śląsk II Gorzów Wielkopolski               18    5    3    3   
-6.  MKS Czerwoni Ruda Śląska                   16    5    1    5   
-7.  Widzew Piła                                15    4    3    4   
-8.  ŁKS Podbipięta Legionowo                   14    3    5    3   
-9.  Górnik Wytrwały Toruń                      13    4    1    6   
-10. Polonia Jeden Suwałki                      10    2    4    5   
-11. Zagłębie Głebokie Rumia                     8    2    2    7   
-12. Górnik Wytrwały Będzin                      5    1    2    8   
-*****************************************************************
-
-
-   MOST TALENTED PLAYERS   
-1. Sebastian Tyrala from Widzew Piła with 97 skill points. 
-2. Bruce Davis from MKS Czerwoni Ruda Śląska with 97 skill points. 
-3. Ronald Brown from Widzew Piła with 96 skill points. 
-4. Maciej Gorski from Śląsk II Gorzów Wielkopolski with 96 skill points. 
-5. Clarence Barnes from MKS Czerwoni Ruda Śląska with 95 skill points. 
-6. Travis Carson from Lechia Zieloni Piekary Śląskie with 95 skill points. 
-7. Sebastian Bonecki from ŁKS Podbipięta Legionowo with 94 skill points. 
-8. Duane Mills from Widzew Piła with 93 skill points. 
-9. Piotr Zielinski from Górnik II Wejherowo with 93 skill points. 
-10. Edward Washington from Odra Zamulona Konin with 93 skill points. 
-11. Jakub Wawrzyniak from MKS Czerwoni Ruda Śląska with 93 skill points. 
-12. Przemyslaw Szarek from Śląsk II Gorzów Wielkopolski with 92 skill points. 
-13. Michal Koj from Lechia Zieloni Piekary Śląskie with 92 skill points. 
-14. Artur Jedrzejczyk from Górnik Wytrwały Będzin with 90 skill points. 
-15. Bartlomiej Babiarz from Polonia Jeden Suwałki with 90 skill points. 
-16. Juan Mitchell from Górnik Wytrwały Toruń with 90 skill points. 
-17. Michal Gliwa from ŁKS Łagów Zawiercie with 90 skill points. 
-18. Adam Buksa from MKS Czerwoni Ruda Śląska with 90 skill points. 
-19. Maciej Sadlok from Widzew Piła with 89 skill points. 
-20. Wojciech Trochim from Górnik Wytrwały Będzin with 89 skill points. 
-
-    BEST LEAGUE SCORERS   
-1. Phillip Peterson STRIKER from team Lechia Zieloni Piekary Śląskie scores 26
-2. Philip Rodriguez STRIKER from team Górnik II Wejherowo scores 19
-3. Rafal Kurzawa STRIKER from team Odra Zamulona Konin scores 17
-4. Bruce Davis STRIKER from team MKS Czerwoni Ruda Śląska scores 16
-
-
-    BEST TEAM SCORERS   
-Phillip Peterson STRIKER from team Lechia Zieloni Piekary Śląskie scores 26
-Philip Rodriguez STRIKER from team Górnik II Wejherowo scores 19
-Rafal Kurzawa STRIKER from team Odra Zamulona Konin scores 17
-Bruce Davis STRIKER from team MKS Czerwoni Ruda Śląska scores 16
-Ronald Brown STRIKER from team Widzew Piła scores 14
-Karol Angielski STRIKER from team ŁKS Podbipięta Legionowo scores 14
-Bartlomiej Dragowski STRIKER from team ŁKS Łagów Zawiercie scores 14
-Przemyslaw Szarek STRIKER from team Śląsk II Gorzów Wielkopolski scores 14
-Keith Barnes STRIKER from team Zagłębie Głebokie Rumia scores 13
-Carlos Garcia STRIKER from team Górnik Wytrwały Toruń scores 9
-Michal Marcjanik STRIKER from team Górnik Wytrwały Będzin scores 8
-Dawid Kudla MIDFIELDER from team Polonia Jeden Suwałki scores 1
-
-*****************
-SEASON 1
-*****************
-
-
-Match Korona Tczew against ŁKS Łagów Radom
-Korona Tczew 1 : 0 ŁKS Łagów Radom
-Roy Clark scores Korona Tczew 1 : 1 ŁKS Łagów Radom
-Pawel Oleksy scores Korona Tczew 1 : 2 ŁKS Łagów Radom
-Igor Lasicki scores Korona Tczew 1 : 3 ŁKS Łagów Radom
-Clarence Barnes scores End of match 
-
-Match LKS Goczałkowice Dąbrowa Górnicza against Miedź Racibórz
-LKS Goczałkowice Dąbrowa Górnicza 1 : 0 Miedź Racibórz
-Tadeusz Socha scores LKS Goczałkowice Dąbrowa Górnicza 2 : 0 Miedź Racibórz
-Roy Peterson scores LKS Goczałkowice Dąbrowa Górnicza 3 : 0 Miedź Racibórz
-Todd Long scores End of match 
-
-Match Garbarnia Pruszków against Sokół Jelenia Góra
-Garbarnia Pruszków 1 : 0 Sokół Jelenia Góra
-Michal Janota scores Garbarnia Pruszków 1 : 1 Sokół Jelenia Góra
-Marcin Flis scores End of match 
-
-Match Wigry Inowrocław against Gwarek Tarnowski Rzeszów
-Wigry Inowrocław 1 : 0 Gwarek Tarnowski Rzeszów
-Mark Wood scores Wigry Inowrocław 2 : 0 Gwarek Tarnowski Rzeszów
-Mark Wood scores Wigry Inowrocław 3 : 0 Gwarek Tarnowski Rzeszów
-Michal Kopczynski scores Wigry Inowrocław 4 : 0 Gwarek Tarnowski Rzeszów
-Mark Wood scores Wigry Inowrocław 4 : 1 Gwarek Tarnowski Rzeszów
-John King scores Wigry Inowrocław 4 : 2 Gwarek Tarnowski Rzeszów
-Ralph Stewart scores End of match 
-
-Match Stal Stargard against Skra Łomża
-Stal Stargard 1 : 0 Skra Łomża
-Michal Fidziukiewicz scores Stal Stargard 2 : 0 Skra Łomża
-Michal Fidziukiewicz scores Stal Stargard 2 : 1 Skra Łomża
-Adrian Blad scores Stal Stargard 2 : 2 Skra Łomża
-Adrian Blad scores Stal Stargard 2 : 3 Skra Łomża
-Adrian Blad scores End of match 
-
-Match Lech II Tarnobrzeg against Pniówek Poznań
-Lech II Tarnobrzeg 1 : 0 Pniówek Poznań
-Dominik Furman scores Lech II Tarnobrzeg 2 : 0 Pniówek Poznań
-Dominik Furman scores Lech II Tarnobrzeg 2 : 1 Pniówek Poznań
-Sebastian Tyrala scores End of match 
-
-Match Pniówek Poznań against Korona Tczew
-Pniówek Poznań 1 : 0 Korona Tczew
-Rafal Wolsztynski scores Pniówek Poznań 1 : 1 Korona Tczew
-Roy Clark scores Pniówek Poznań 1 : 2 Korona Tczew
-Roy Clark scores End of match 
-
-Match Skra Łomża against Lech II Tarnobrzeg
-Skra Łomża 1 : 0 Lech II Tarnobrzeg
-Adrian Blad scores Skra Łomża 2 : 0 Lech II Tarnobrzeg
-Adrian Blad scores Skra Łomża 2 : 1 Lech II Tarnobrzeg
-Dominik Furman scores Skra Łomża 2 : 2 Lech II Tarnobrzeg
-Dominik Furman scores End of match 
-
-Match Gwarek Tarnowski Rzeszów against Stal Stargard
-Gwarek Tarnowski Rzeszów 1 : 0 Stal Stargard
-Ralph Stewart scores Gwarek Tarnowski Rzeszów 2 : 0 Stal Stargard
-John King scores Gwarek Tarnowski Rzeszów 3 : 0 Stal Stargard
-Grzegorz Goncerz scores Gwarek Tarnowski Rzeszów 3 : 1 Stal Stargard
-Michal Fidziukiewicz scores End of match 
-
-Match Sokół Jelenia Góra against Wigry Inowrocław
-Sokół Jelenia Góra 1 : 0 Wigry Inowrocław
-Marcin Flis scores Sokół Jelenia Góra 2 : 0 Wigry Inowrocław
-Marcin Flis scores Sokół Jelenia Góra 3 : 0 Wigry Inowrocław
-Marcin Flis scores Sokół Jelenia Góra 3 : 1 Wigry Inowrocław
-Mark Wood scores Sokół Jelenia Góra 3 : 2 Wigry Inowrocław
-Mark Wood scores Sokół Jelenia Góra 3 : 3 Wigry Inowrocław
-Michal Kopczynski scores End of match 
-
-Match Miedź Racibórz against Garbarnia Pruszków
-Miedź Racibórz 0 : 1 Garbarnia Pruszków
-Michal Janota scores Miedź Racibórz 0 : 2 Garbarnia Pruszków
-Michal Janota scores Miedź Racibórz 0 : 3 Garbarnia Pruszków
-Michal Janota scores Miedź Racibórz 0 : 4 Garbarnia Pruszków
-Michal Janota scores End of match 
-
-Match ŁKS Łagów Radom against LKS Goczałkowice Dąbrowa Górnicza
-ŁKS Łagów Radom 1 : 0 LKS Goczałkowice Dąbrowa Górnicza
-Douglas Moore scores ŁKS Łagów Radom 1 : 1 LKS Goczałkowice Dąbrowa Górnicza
-Roy Peterson scores End of match 
-
-Match Korona Tczew against LKS Goczałkowice Dąbrowa Górnicza
-Korona Tczew 1 : 0 LKS Goczałkowice Dąbrowa Górnicza
-Sean Carter scores Korona Tczew 2 : 0 LKS Goczałkowice Dąbrowa Górnicza
-Roy Clark scores Korona Tczew 3 : 0 LKS Goczałkowice Dąbrowa Górnicza
-Roy Clark scores Korona Tczew 3 : 1 LKS Goczałkowice Dąbrowa Górnicza
-Roy Peterson scores Korona Tczew 3 : 2 LKS Goczałkowice Dąbrowa Górnicza
-Tadeusz Socha scores Korona Tczew 3 : 3 LKS Goczałkowice Dąbrowa Górnicza
-Roy Peterson scores Korona Tczew 3 : 4 LKS Goczałkowice Dąbrowa Górnicza
-Roy Peterson scores End of match 
-
-Match Garbarnia Pruszków against ŁKS Łagów Radom
-Garbarnia Pruszków 1 : 0 ŁKS Łagów Radom
-Michal Janota scores Garbarnia Pruszków 2 : 0 ŁKS Łagów Radom
-Michal Janota scores Garbarnia Pruszków 2 : 1 ŁKS Łagów Radom
-Douglas Moore scores Garbarnia Pruszków 2 : 2 ŁKS Łagów Radom
-Pawel Oleksy scores End of match 
-
-Match Wigry Inowrocław against Miedź Racibórz
-Wigry Inowrocław 1 : 0 Miedź Racibórz
-William James scores Wigry Inowrocław 2 : 0 Miedź Racibórz
-Mark Wood scores Wigry Inowrocław 3 : 0 Miedź Racibórz
-Duane Mills scores Wigry Inowrocław 4 : 0 Miedź Racibórz
-Patryk Stepinski scores Wigry Inowrocław 4 : 1 Miedź Racibórz
-Lukasz Kosakiewicz scores End of match 
-
-Match Stal Stargard against Sokół Jelenia Góra
-Stal Stargard 1 : 0 Sokół Jelenia Góra
-Damian Podlesny scores Stal Stargard 2 : 0 Sokół Jelenia Góra
-Pawel Dawidowicz scores Stal Stargard 2 : 1 Sokół Jelenia Góra
-Marcin Flis scores Stal Stargard 2 : 2 Sokół Jelenia Góra
-Marcin Flis scores Stal Stargard 2 : 3 Sokół Jelenia Góra
-Marcin Flis scores Stal Stargard 2 : 4 Sokół Jelenia Góra
-Marcin Flis scores End of match 
-
-Match Lech II Tarnobrzeg against Gwarek Tarnowski Rzeszów
-Lech II Tarnobrzeg 1 : 0 Gwarek Tarnowski Rzeszów
-Dominik Furman scores Lech II Tarnobrzeg 2 : 0 Gwarek Tarnowski Rzeszów
-Dominik Furman scores Lech II Tarnobrzeg 3 : 0 Gwarek Tarnowski Rzeszów
-Dominik Furman scores End of match 
-
-Match Pniówek Poznań against Skra Łomża
-Pniówek Poznań 1 : 0 Skra Łomża
-Rafal Wolsztynski scores Pniówek Poznań 1 : 1 Skra Łomża
-Eric Morris scores End of match 
-
-Match Skra Łomża against Korona Tczew
-Skra Łomża 1 : 0 Korona Tczew
-Lukasz Wronski scores Skra Łomża 2 : 0 Korona Tczew
-Adrian Blad scores Skra Łomża 2 : 1 Korona Tczew
-Roy Clark scores Skra Łomża 2 : 2 Korona Tczew
-Roy Clark scores End of match 
-
-Match Gwarek Tarnowski Rzeszów against Pniówek Poznań
-Gwarek Tarnowski Rzeszów 1 : 0 Pniówek Poznań
-Mateusz Matras scores End of match 
-
-Match Sokół Jelenia Góra against Lech II Tarnobrzeg
-Sokół Jelenia Góra 1 : 0 Lech II Tarnobrzeg
-William James scores Sokół Jelenia Góra 2 : 0 Lech II Tarnobrzeg
-Marcin Flis scores Sokół Jelenia Góra 3 : 0 Lech II Tarnobrzeg
-Marcin Flis scores Sokół Jelenia Góra 4 : 0 Lech II Tarnobrzeg
-Marcin Flis scores Sokół Jelenia Góra 4 : 1 Lech II Tarnobrzeg
-Dominik Furman scores Sokół Jelenia Góra 4 : 2 Lech II Tarnobrzeg
-Dominik Furman scores End of match 
-
-Match Miedź Racibórz against Stal Stargard
-Miedź Racibórz 0 : 1 Stal Stargard
-Michal Fidziukiewicz scores Miedź Racibórz 0 : 2 Stal Stargard
-Michal Fidziukiewicz scores Miedź Racibórz 0 : 3 Stal Stargard
-Pawel Dawidowicz scores End of match 
-
-Match ŁKS Łagów Radom against Wigry Inowrocław
-ŁKS Łagów Radom 1 : 0 Wigry Inowrocław
-Igor Lasicki scores ŁKS Łagów Radom 1 : 1 Wigry Inowrocław
-Mark Wood scores End of match 
-
-Match LKS Goczałkowice Dąbrowa Górnicza against Garbarnia Pruszków
-LKS Goczałkowice Dąbrowa Górnicza 1 : 0 Garbarnia Pruszków
-Roy Peterson scores LKS Goczałkowice Dąbrowa Górnicza 2 : 0 Garbarnia Pruszków
-Roy Peterson scores LKS Goczałkowice Dąbrowa Górnicza 3 : 0 Garbarnia Pruszków
-Roy Peterson scores LKS Goczałkowice Dąbrowa Górnicza 4 : 0 Garbarnia Pruszków
-Roy Peterson scores LKS Goczałkowice Dąbrowa Górnicza 4 : 1 Garbarnia Pruszków
-James Williams scores LKS Goczałkowice Dąbrowa Górnicza 4 : 2 Garbarnia Pruszków
-Lukasz Wronski scores End of match 
-
-Match Korona Tczew against Garbarnia Pruszków
-Korona Tczew 1 : 0 Garbarnia Pruszków
-Roy Clark scores Korona Tczew 1 : 1 Garbarnia Pruszków
-James Williams scores Korona Tczew 1 : 2 Garbarnia Pruszków
-Billy Taylor scores End of match 
-
-Match Wigry Inowrocław against LKS Goczałkowice Dąbrowa Górnicza
-Wigry Inowrocław 1 : 0 LKS Goczałkowice Dąbrowa Górnicza
-Mark Wood scores Wigry Inowrocław 2 : 0 LKS Goczałkowice Dąbrowa Górnicza
-Mark Wood scores Wigry Inowrocław 3 : 0 LKS Goczałkowice Dąbrowa Górnicza
-Mark Wood scores Wigry Inowrocław 3 : 1 LKS Goczałkowice Dąbrowa Górnicza
-Roy Peterson scores Wigry Inowrocław 3 : 2 LKS Goczałkowice Dąbrowa Górnicza
-Roy Peterson scores End of match 
-
-Match Stal Stargard against ŁKS Łagów Radom
-Stal Stargard 1 : 0 ŁKS Łagów Radom
-Michal Fidziukiewicz scores Stal Stargard 2 : 0 ŁKS Łagów Radom
-Michal Fidziukiewicz scores Stal Stargard 2 : 1 ŁKS Łagów Radom
-Clarence Barnes scores Stal Stargard 2 : 2 ŁKS Łagów Radom
-Clarence Barnes scores Stal Stargard 2 : 3 ŁKS Łagów Radom
-Clarence Barnes scores Stal Stargard 2 : 4 ŁKS Łagów Radom
-Clarence Barnes scores End of match 
-
-Match Lech II Tarnobrzeg against Miedź Racibórz
-Lech II Tarnobrzeg 1 : 0 Miedź Racibórz
-Dominik Furman scores End of match 
-
-Match Pniówek Poznań against Sokół Jelenia Góra
-Pniówek Poznań 1 : 0 Sokół Jelenia Góra
-Brendan Gregory scores Pniówek Poznań 1 : 1 Sokół Jelenia Góra
-Marcin Flis scores Pniówek Poznań 1 : 2 Sokół Jelenia Góra
-Marcin Flis scores End of match 
-
-Match Skra Łomża against Gwarek Tarnowski Rzeszów
-Skra Łomża 1 : 0 Gwarek Tarnowski Rzeszów
-Adrian Blad scores Skra Łomża 2 : 0 Gwarek Tarnowski Rzeszów
-Adrian Blad scores Skra Łomża 2 : 1 Gwarek Tarnowski Rzeszów
-John King scores End of match 
-
-Match Korona Tczew against Gwarek Tarnowski Rzeszów
-Korona Tczew 1 : 0 Gwarek Tarnowski Rzeszów
-Roy Clark scores Korona Tczew 2 : 0 Gwarek Tarnowski Rzeszów
-Roy Clark scores Korona Tczew 3 : 0 Gwarek Tarnowski Rzeszów
-Roy Clark scores Korona Tczew 4 : 0 Gwarek Tarnowski Rzeszów
-Roy Clark scores Korona Tczew 4 : 1 Gwarek Tarnowski Rzeszów
-John King scores Korona Tczew 4 : 2 Gwarek Tarnowski Rzeszów
-John King scores Korona Tczew 4 : 3 Gwarek Tarnowski Rzeszów
-John King scores End of match 
-
-Match Sokół Jelenia Góra against Skra Łomża
-Sokół Jelenia Góra 1 : 0 Skra Łomża
-William James scores Sokół Jelenia Góra 2 : 0 Skra Łomża
-Jeffrey Hernandez scores Sokół Jelenia Góra 2 : 1 Skra Łomża
-Eric Morris scores Sokół Jelenia Góra 2 : 2 Skra Łomża
-Adrian Blad scores End of match 
-
-Match Miedź Racibórz against Pniówek Poznań
-Miedź Racibórz 0 : 1 Pniówek Poznań
-Oskar Zawada scores End of match 
-
-Match ŁKS Łagów Radom against Lech II Tarnobrzeg
-ŁKS Łagów Radom 1 : 0 Lech II Tarnobrzeg
-Clarence Barnes scores ŁKS Łagów Radom 1 : 1 Lech II Tarnobrzeg
-Dominik Furman scores ŁKS Łagów Radom 1 : 2 Lech II Tarnobrzeg
-Dominik Furman scores End of match 
-
-Match LKS Goczałkowice Dąbrowa Górnicza against Stal Stargard
-LKS Goczałkowice Dąbrowa Górnicza 1 : 0 Stal Stargard
-Roy Peterson scores LKS Goczałkowice Dąbrowa Górnicza 1 : 1 Stal Stargard
-Pawel Dawidowicz scores LKS Goczałkowice Dąbrowa Górnicza 1 : 2 Stal Stargard
-Michal Fidziukiewicz scores LKS Goczałkowice Dąbrowa Górnicza 1 : 3 Stal Stargard
-Michal Fidziukiewicz scores End of match 
-
-Match Garbarnia Pruszków against Wigry Inowrocław
-Garbarnia Pruszków 1 : 0 Wigry Inowrocław
-Justin Sanchez scores Garbarnia Pruszków 2 : 0 Wigry Inowrocław
-Billy Taylor scores Garbarnia Pruszków 3 : 0 Wigry Inowrocław
-Billy Taylor scores Garbarnia Pruszków 3 : 1 Wigry Inowrocław
-William James scores Garbarnia Pruszków 3 : 2 Wigry Inowrocław
-Mark Wood scores End of match 
-
-Match Wigry Inowrocław against Korona Tczew
-Wigry Inowrocław 1 : 0 Korona Tczew
-Duane Mills scores Wigry Inowrocław 2 : 0 Korona Tczew
-Mark Wood scores Wigry Inowrocław 3 : 0 Korona Tczew
-William James scores Wigry Inowrocław 3 : 1 Korona Tczew
-Roy Clark scores Wigry Inowrocław 3 : 2 Korona Tczew
-Roy Clark scores Wigry Inowrocław 3 : 3 Korona Tczew
-Roy Clark scores Wigry Inowrocław 3 : 4 Korona Tczew
-Brendan Gregory scores End of match 
-
-Match Stal Stargard against Garbarnia Pruszków
-Stal Stargard 1 : 0 Garbarnia Pruszków
-Michal Fidziukiewicz scores Stal Stargard 2 : 0 Garbarnia Pruszków
-Michal Fidziukiewicz scores Stal Stargard 3 : 0 Garbarnia Pruszków
-Michal Fidziukiewicz scores Stal Stargard 4 : 0 Garbarnia Pruszków
-Michal Fidziukiewicz scores Stal Stargard 4 : 1 Garbarnia Pruszków
-Michal Janota scores End of match 
-
-Match Lech II Tarnobrzeg against LKS Goczałkowice Dąbrowa Górnicza
-Lech II Tarnobrzeg 1 : 0 LKS Goczałkowice Dąbrowa Górnicza
-Dominik Furman scores Lech II Tarnobrzeg 2 : 0 LKS Goczałkowice Dąbrowa Górnicza
-Rafal Gikiewicz scores Lech II Tarnobrzeg 3 : 0 LKS Goczałkowice Dąbrowa Górnicza
-Dominik Furman scores Lech II Tarnobrzeg 3 : 1 LKS Goczałkowice Dąbrowa Górnicza
-Roy Peterson scores End of match 
-
-Match Pniówek Poznań against ŁKS Łagów Radom
-Pniówek Poznań 1 : 0 ŁKS Łagów Radom
-Duane Mills scores Pniówek Poznań 2 : 0 ŁKS Łagów Radom
-Rafal Wolsztynski scores End of match 
-
-Match Skra Łomża against Miedź Racibórz
-Skra Łomża 1 : 0 Miedź Racibórz
-Adrian Blad scores Skra Łomża 1 : 1 Miedź Racibórz
-Lukasz Kosakiewicz scores Skra Łomża 1 : 2 Miedź Racibórz
-Lukasz Kosakiewicz scores End of match 
-
-Match Gwarek Tarnowski Rzeszów against Sokół Jelenia Góra
-Gwarek Tarnowski Rzeszów 1 : 0 Sokół Jelenia Góra
-John King scores Gwarek Tarnowski Rzeszów 1 : 1 Sokół Jelenia Góra
-Marcin Flis scores Gwarek Tarnowski Rzeszów 1 : 2 Sokół Jelenia Góra
-Marcin Flis scores Gwarek Tarnowski Rzeszów 1 : 3 Sokół Jelenia Góra
-Marcin Flis scores Gwarek Tarnowski Rzeszów 1 : 4 Sokół Jelenia Góra
-Marcin Flis scores End of match 
-
-Match Korona Tczew against Sokół Jelenia Góra
-Korona Tczew 1 : 0 Sokół Jelenia Góra
-Roy Clark scores Korona Tczew 2 : 0 Sokół Jelenia Góra
-Brendan Gregory scores Korona Tczew 3 : 0 Sokół Jelenia Góra
-Roy Clark scores Korona Tczew 3 : 1 Sokół Jelenia Góra
-Marcin Flis scores Korona Tczew 3 : 2 Sokół Jelenia Góra
-William James scores Korona Tczew 3 : 3 Sokół Jelenia Góra
-Filip Piszczek scores Korona Tczew 3 : 4 Sokół Jelenia Góra
-Marcin Flis scores Korona Tczew 3 : 5 Sokół Jelenia Góra
-Marcin Flis scores Korona Tczew 3 : 6 Sokół Jelenia Góra
-Marcin Flis scores Korona Tczew 3 : 7 Sokół Jelenia Góra
-William James scores End of match 
-
-Match Miedź Racibórz against Gwarek Tarnowski Rzeszów
-Miedź Racibórz 1 : 0 Gwarek Tarnowski Rzeszów
-Lukasz Kosakiewicz scores Miedź Racibórz 2 : 0 Gwarek Tarnowski Rzeszów
-Roger Price scores Miedź Racibórz 2 : 1 Gwarek Tarnowski Rzeszów
-John King scores Miedź Racibórz 2 : 2 Gwarek Tarnowski Rzeszów
-John King scores End of match 
-
-Match ŁKS Łagów Radom against Skra Łomża
-ŁKS Łagów Radom 1 : 0 Skra Łomża
-Pawel Oleksy scores ŁKS Łagów Radom 2 : 0 Skra Łomża
-Pawel Oleksy scores ŁKS Łagów Radom 2 : 1 Skra Łomża
-Adrian Blad scores ŁKS Łagów Radom 2 : 2 Skra Łomża
-Adrian Blad scores ŁKS Łagów Radom 2 : 3 Skra Łomża
-Adrian Blad scores End of match 
-
-Match LKS Goczałkowice Dąbrowa Górnicza against Pniówek Poznań
-LKS Goczałkowice Dąbrowa Górnicza 1 : 0 Pniówek Poznań
-Roy Peterson scores LKS Goczałkowice Dąbrowa Górnicza 2 : 0 Pniówek Poznań
-Roy Peterson scores LKS Goczałkowice Dąbrowa Górnicza 2 : 1 Pniówek Poznań
-Oskar Zawada scores End of match 
-
-Match Garbarnia Pruszków against Lech II Tarnobrzeg
-Garbarnia Pruszków 1 : 0 Lech II Tarnobrzeg
-Michal Janota scores Garbarnia Pruszków 2 : 0 Lech II Tarnobrzeg
-Michal Janota scores Garbarnia Pruszków 2 : 1 Lech II Tarnobrzeg
-Dominik Furman scores Garbarnia Pruszków 2 : 2 Lech II Tarnobrzeg
-Dominik Furman scores Garbarnia Pruszków 2 : 3 Lech II Tarnobrzeg
-Dominik Furman scores Garbarnia Pruszków 2 : 4 Lech II Tarnobrzeg
-Rafal Gikiewicz scores Garbarnia Pruszków 2 : 5 Lech II Tarnobrzeg
-Dominik Furman scores Garbarnia Pruszków 2 : 6 Lech II Tarnobrzeg
+Match Pogoń Ruska Radom against Wólczanka Siedlce
+Pogoń Ruska Radom 1 : 0 Wólczanka Siedlce
+Steven Flores scores Pogoń Ruska Radom 2 : 0 Wólczanka Siedlce
+Steven Flores scores Pogoń Ruska Radom 2 : 1 Wólczanka Siedlce
+Sebastian Szymanski scores Pogoń Ruska Radom 2 : 2 Wólczanka Siedlce
+Sebastian Szymanski scores Pogoń Ruska Radom 2 : 3 Wólczanka Siedlce
 Raymond Miller scores End of match 
 
-Match Wigry Inowrocław against Stal Stargard
-Wigry Inowrocław 1 : 0 Stal Stargard
-Michal Kopczynski scores Wigry Inowrocław 2 : 0 Stal Stargard
-Mark Wood scores Wigry Inowrocław 3 : 0 Stal Stargard
-Duane Mills scores Wigry Inowrocław 4 : 0 Stal Stargard
-Mark Wood scores Wigry Inowrocław 4 : 1 Stal Stargard
-Michal Fidziukiewicz scores Wigry Inowrocław 4 : 2 Stal Stargard
-Michal Fidziukiewicz scores Wigry Inowrocław 4 : 3 Stal Stargard
-Pawel Dawidowicz scores End of match 
+Match Widzew Jaworzno against Pogoń Ruska Gliwice
+Widzew Jaworzno 0 : 1 Pogoń Ruska Gliwice
+Mateusz Cholewiak scores End of match 
 
-Match Stal Stargard against Korona Tczew
-Stal Stargard 1 : 0 Korona Tczew
-Michal Fidziukiewicz scores Stal Stargard 2 : 0 Korona Tczew
-Michal Fidziukiewicz scores Stal Stargard 3 : 0 Korona Tczew
-Mateusz Kryczka scores Stal Stargard 4 : 0 Korona Tczew
-Michal Fidziukiewicz scores Stal Stargard 5 : 0 Korona Tczew
-Michal Fidziukiewicz scores Stal Stargard 5 : 1 Korona Tczew
-Kamil Slaby scores Stal Stargard 5 : 2 Korona Tczew
-Roy Clark scores Stal Stargard 5 : 3 Korona Tczew
-Roy Clark scores End of match 
+Match Stal Grudziądz against Stal Białystok
+Stal Grudziądz 1 : 0 Stal Białystok
+Rafal Gikiewicz scores Stal Grudziądz 2 : 0 Stal Białystok
+Rafal Gikiewicz scores Stal Grudziądz 3 : 0 Stal Białystok
+Rafal Gikiewicz scores Stal Grudziądz 3 : 1 Stal Białystok
+Cezary Demianiuk scores Stal Grudziądz 3 : 2 Stal Białystok
+Igor Lasicki scores End of match 
 
-Match Lech II Tarnobrzeg against Wigry Inowrocław
-Lech II Tarnobrzeg 1 : 0 Wigry Inowrocław
-Dominik Furman scores End of match 
+Match Avia Grudziądz against Motor Tczew
+Avia Grudziądz 1 : 0 Motor Tczew
+Grzegorz Bonin scores Avia Grudziądz 1 : 1 Motor Tczew
+Adam Mojta scores Avia Grudziądz 1 : 2 Motor Tczew
+Adam Mojta scores End of match 
 
-Match Pniówek Poznań against Garbarnia Pruszków
-Pniówek Poznań 1 : 0 Garbarnia Pruszków
-Brendan Gregory scores Pniówek Poznań 2 : 0 Garbarnia Pruszków
-Duane Mills scores Pniówek Poznań 2 : 1 Garbarnia Pruszków
-Billy Taylor scores End of match 
+Match Motor Tczew against Widzew Słupsk
+Motor Tczew 1 : 0 Widzew Słupsk
+Adam Mojta scores Motor Tczew 2 : 0 Widzew Słupsk
+Krystian Wojcik scores Motor Tczew 2 : 1 Widzew Słupsk
+Rafal Gikiewicz scores End of match 
 
-Match Skra Łomża against LKS Goczałkowice Dąbrowa Górnicza
-Skra Łomża 1 : 0 LKS Goczałkowice Dąbrowa Górnicza
-Adrian Blad scores Skra Łomża 1 : 1 LKS Goczałkowice Dąbrowa Górnicza
-Roy Peterson scores Skra Łomża 1 : 2 LKS Goczałkowice Dąbrowa Górnicza
-Roy Peterson scores End of match 
+Match Stal Białystok against Avia Grudziądz
+Stal Białystok 1 : 0 Avia Grudziądz
+Igor Lasicki scores Stal Białystok 2 : 0 Avia Grudziądz
+Cezary Demianiuk scores Stal Białystok 2 : 1 Avia Grudziądz
+Piotr Wlazlo scores End of match 
 
-Match Gwarek Tarnowski Rzeszów against ŁKS Łagów Radom
-Gwarek Tarnowski Rzeszów 1 : 0 ŁKS Łagów Radom
-John King scores Gwarek Tarnowski Rzeszów 2 : 0 ŁKS Łagów Radom
-John King scores Gwarek Tarnowski Rzeszów 2 : 1 ŁKS Łagów Radom
-Pawel Oleksy scores Gwarek Tarnowski Rzeszów 2 : 2 ŁKS Łagów Radom
-Douglas Moore scores Gwarek Tarnowski Rzeszów 2 : 3 ŁKS Łagów Radom
-Pawel Oleksy scores Gwarek Tarnowski Rzeszów 2 : 4 ŁKS Łagów Radom
-Douglas Moore scores End of match 
+Match Pogoń Ruska Gliwice against Stal Grudziądz
+Pogoń Ruska Gliwice 1 : 0 Stal Grudziądz
+Mateusz Cholewiak scores Pogoń Ruska Gliwice 2 : 0 Stal Grudziądz
+Tomasz Loska scores Pogoń Ruska Gliwice 3 : 0 Stal Grudziądz
+Mateusz Cholewiak scores Pogoń Ruska Gliwice 3 : 1 Stal Grudziądz
+Rafal Gikiewicz scores Pogoń Ruska Gliwice 3 : 2 Stal Grudziądz
+Michal Chrapek scores End of match 
 
-Match Sokół Jelenia Góra against Miedź Racibórz
-Sokół Jelenia Góra 1 : 0 Miedź Racibórz
-Marcin Flis scores Sokół Jelenia Góra 2 : 0 Miedź Racibórz
-Marcin Flis scores Sokół Jelenia Góra 3 : 0 Miedź Racibórz
-Marcin Flis scores Sokół Jelenia Góra 3 : 1 Miedź Racibórz
-Lukasz Kosakiewicz scores End of match 
+Match Wólczanka Siedlce against Widzew Jaworzno
+Wólczanka Siedlce 1 : 0 Widzew Jaworzno
+Sebastian Szymanski scores Wólczanka Siedlce 2 : 0 Widzew Jaworzno
+Sebastian Szymanski scores Wólczanka Siedlce 3 : 0 Widzew Jaworzno
+Sebastian Szymanski scores Wólczanka Siedlce 3 : 1 Widzew Jaworzno
+Kevin Young scores Wólczanka Siedlce 3 : 2 Widzew Jaworzno
+Kevin Young scores Wólczanka Siedlce 3 : 3 Widzew Jaworzno
+Sebastian Steblecki scores End of match 
 
-Match Korona Tczew against Miedź Racibórz
-Korona Tczew 1 : 0 Miedź Racibórz
-Roy Clark scores Korona Tczew 2 : 0 Miedź Racibórz
-Roy Clark scores Korona Tczew 2 : 1 Miedź Racibórz
-Bobby White scores End of match 
+Match Skra Biała Podlaska against Pogoń Ruska Radom
+Skra Biała Podlaska 1 : 0 Pogoń Ruska Radom
+Ernest Alexander scores Skra Biała Podlaska 2 : 0 Pogoń Ruska Radom
+Ernest Alexander scores Skra Biała Podlaska 3 : 0 Pogoń Ruska Radom
+Ernest Alexander scores Skra Biała Podlaska 4 : 0 Pogoń Ruska Radom
+Ernest Alexander scores Skra Biała Podlaska 5 : 0 Pogoń Ruska Radom
+Ernest Alexander scores Skra Biała Podlaska 6 : 0 Pogoń Ruska Radom
+Ernest Alexander scores Skra Biała Podlaska 7 : 0 Pogoń Ruska Radom
+Ernest Alexander scores Skra Biała Podlaska 7 : 1 Pogoń Ruska Radom
+Steven Flores scores Skra Biała Podlaska 7 : 2 Pogoń Ruska Radom
+Steven Flores scores End of match 
 
-Match ŁKS Łagów Radom against Sokół Jelenia Góra
-ŁKS Łagów Radom 0 : 1 Sokół Jelenia Góra
-Marcin Flis scores ŁKS Łagów Radom 0 : 2 Sokół Jelenia Góra
-Marcin Flis scores End of match 
+Match Gwarek Tarnowski Kraków against Zagłębie II Lubin Stargard
+Gwarek Tarnowski Kraków 1 : 0 Zagłębie II Lubin Stargard
+Rafal Kurzawa scores Gwarek Tarnowski Kraków 1 : 1 Zagłębie II Lubin Stargard
+Lukasz Janoszka scores End of match 
 
-Match LKS Goczałkowice Dąbrowa Górnicza against Gwarek Tarnowski Rzeszów
-LKS Goczałkowice Dąbrowa Górnicza 1 : 0 Gwarek Tarnowski Rzeszów
-Roy Peterson scores LKS Goczałkowice Dąbrowa Górnicza 1 : 1 Gwarek Tarnowski Rzeszów
-Mateusz Matras scores End of match 
+Match Widzew Słupsk against Zagłębie II Lubin Stargard
+Widzew Słupsk 0 : 1 Zagłębie II Lubin Stargard
+Kent Moreno scores End of match 
 
-Match Garbarnia Pruszków against Skra Łomża
-Garbarnia Pruszków 1 : 0 Skra Łomża
-Michal Janota scores Garbarnia Pruszków 2 : 0 Skra Łomża
-Michal Janota scores Garbarnia Pruszków 3 : 0 Skra Łomża
-Lukasz Wronski scores Garbarnia Pruszków 3 : 1 Skra Łomża
-Eric Morris scores Garbarnia Pruszków 3 : 2 Skra Łomża
+Match Pogoń Ruska Radom against Gwarek Tarnowski Kraków
+Pogoń Ruska Radom 1 : 0 Gwarek Tarnowski Kraków
+James Williams scores Pogoń Ruska Radom 2 : 0 Gwarek Tarnowski Kraków
+James Williams scores Pogoń Ruska Radom 3 : 0 Gwarek Tarnowski Kraków
+Steven Flores scores Pogoń Ruska Radom 4 : 0 Gwarek Tarnowski Kraków
+Steven Flores scores Pogoń Ruska Radom 5 : 0 Gwarek Tarnowski Kraków
+James Williams scores Pogoń Ruska Radom 6 : 0 Gwarek Tarnowski Kraków
+Steven Flores scores Pogoń Ruska Radom 6 : 1 Gwarek Tarnowski Kraków
+Filip Piszczek scores Pogoń Ruska Radom 6 : 2 Gwarek Tarnowski Kraków
+Filip Piszczek scores Pogoń Ruska Radom 6 : 3 Gwarek Tarnowski Kraków
+Filip Piszczek scores Pogoń Ruska Radom 6 : 4 Gwarek Tarnowski Kraków
+Filip Piszczek scores End of match 
+
+Match Widzew Jaworzno against Skra Biała Podlaska
+Widzew Jaworzno 1 : 0 Skra Biała Podlaska
+Kevin Young scores Widzew Jaworzno 2 : 0 Skra Biała Podlaska
+Kevin Young scores Widzew Jaworzno 3 : 0 Skra Biała Podlaska
+Jaroslaw Fojut scores Widzew Jaworzno 4 : 0 Skra Biała Podlaska
+Kevin Young scores Widzew Jaworzno 4 : 1 Skra Biała Podlaska
+Ernest Alexander scores End of match 
+
+Match Stal Grudziądz against Wólczanka Siedlce
+End of match 
+
+Match Avia Grudziądz against Pogoń Ruska Gliwice
+Avia Grudziądz 0 : 1 Pogoń Ruska Gliwice
+Mateusz Cholewiak scores End of match 
+
+Match Motor Tczew against Stal Białystok
+Motor Tczew 1 : 0 Stal Białystok
+Adam Mojta scores Motor Tczew 2 : 0 Stal Białystok
+Krystian Wojcik scores Motor Tczew 3 : 0 Stal Białystok
+Eugen Polanski scores Motor Tczew 4 : 0 Stal Białystok
+Adam Mojta scores Motor Tczew 4 : 1 Stal Białystok
+Igor Lasicki scores Motor Tczew 4 : 2 Stal Białystok
+Bartosz Spiaczka scores End of match 
+
+Match Stal Białystok against Widzew Słupsk
+Stal Białystok 1 : 0 Widzew Słupsk
+Igor Lasicki scores Stal Białystok 1 : 1 Widzew Słupsk
+Kamil Drygas scores End of match 
+
+Match Pogoń Ruska Gliwice against Motor Tczew
+Pogoń Ruska Gliwice 1 : 0 Motor Tczew
+Tomasz Loska scores Pogoń Ruska Gliwice 2 : 0 Motor Tczew
+Mateusz Cholewiak scores End of match 
+
+Match Wólczanka Siedlce against Avia Grudziądz
+Wólczanka Siedlce 1 : 0 Avia Grudziądz
+Sebastian Szymanski scores Wólczanka Siedlce 2 : 0 Avia Grudziądz
+Sebastian Szymanski scores End of match 
+
+Match Skra Biała Podlaska against Stal Grudziądz
+Skra Biała Podlaska 1 : 0 Stal Grudziądz
+Ernest Alexander scores Skra Biała Podlaska 2 : 0 Stal Grudziądz
+Derek Schmidt scores Skra Biała Podlaska 3 : 0 Stal Grudziądz
+Ernest Alexander scores End of match 
+
+Match Gwarek Tarnowski Kraków against Widzew Jaworzno
+Gwarek Tarnowski Kraków 0 : 1 Widzew Jaworzno
+Jacek Kielb scores Gwarek Tarnowski Kraków 0 : 2 Widzew Jaworzno
+Kevin Young scores End of match 
+
+Match Zagłębie II Lubin Stargard against Pogoń Ruska Radom
+Zagłębie II Lubin Stargard 1 : 0 Pogoń Ruska Radom
+Kent Moreno scores Zagłębie II Lubin Stargard 2 : 0 Pogoń Ruska Radom
+Lukasz Wolsztynski scores Zagłębie II Lubin Stargard 3 : 0 Pogoń Ruska Radom
+Kent Moreno scores Zagłębie II Lubin Stargard 3 : 1 Pogoń Ruska Radom
+Steven Flores scores End of match 
+
+Match Widzew Słupsk against Pogoń Ruska Radom
+Widzew Słupsk 1 : 0 Pogoń Ruska Radom
+Rafal Gikiewicz scores Widzew Słupsk 1 : 1 Pogoń Ruska Radom
+Steven Flores scores End of match 
+
+Match Widzew Jaworzno against Zagłębie II Lubin Stargard
+Widzew Jaworzno 1 : 0 Zagłębie II Lubin Stargard
+Sebastian Steblecki scores End of match 
+
+Match Stal Grudziądz against Gwarek Tarnowski Kraków
+Stal Grudziądz 1 : 0 Gwarek Tarnowski Kraków
+Albert Rogers scores Stal Grudziądz 1 : 1 Gwarek Tarnowski Kraków
+Filip Piszczek scores End of match 
+
+Match Avia Grudziądz against Skra Biała Podlaska
+Avia Grudziądz 1 : 0 Skra Biała Podlaska
+Grzegorz Bonin scores Avia Grudziądz 2 : 0 Skra Biała Podlaska
+Piotr Wlazlo scores Avia Grudziądz 2 : 1 Skra Biała Podlaska
+Ernest Alexander scores Avia Grudziądz 2 : 2 Skra Biała Podlaska
+Ernest Alexander scores Avia Grudziądz 2 : 3 Skra Biała Podlaska
+Ernest Alexander scores Avia Grudziądz 2 : 4 Skra Biała Podlaska
+Ernest Alexander scores Avia Grudziądz 2 : 5 Skra Biała Podlaska
+Ernest Alexander scores End of match 
+
+Match Motor Tczew against Wólczanka Siedlce
+Motor Tczew 1 : 0 Wólczanka Siedlce
+Adam Mojta scores Motor Tczew 2 : 0 Wólczanka Siedlce
+Eugen Polanski scores Motor Tczew 3 : 0 Wólczanka Siedlce
+Jakub Wojcicki scores Motor Tczew 3 : 1 Wólczanka Siedlce
+Sebastian Szymanski scores Motor Tczew 3 : 2 Wólczanka Siedlce
+Jonatan Straus scores Motor Tczew 3 : 3 Wólczanka Siedlce
+Sebastian Szymanski scores End of match 
+
+Match Stal Białystok against Pogoń Ruska Gliwice
+Stal Białystok 0 : 1 Pogoń Ruska Gliwice
+Mateusz Cholewiak scores Stal Białystok 0 : 2 Pogoń Ruska Gliwice
+Mateusz Cholewiak scores Stal Białystok 0 : 3 Pogoń Ruska Gliwice
+Mateusz Cholewiak scores Stal Białystok 0 : 4 Pogoń Ruska Gliwice
+Bruce Young scores Stal Białystok 0 : 5 Pogoń Ruska Gliwice
+Tomasz Loska scores End of match 
+
+Match Pogoń Ruska Gliwice against Widzew Słupsk
+Pogoń Ruska Gliwice 1 : 0 Widzew Słupsk
+Roman George scores End of match 
+
+Match Wólczanka Siedlce against Stal Białystok
+Wólczanka Siedlce 1 : 0 Stal Białystok
+Sebastian Szymanski scores Wólczanka Siedlce 2 : 0 Stal Białystok
+Sebastian Szymanski scores Wólczanka Siedlce 3 : 0 Stal Białystok
+Sebastian Szymanski scores Wólczanka Siedlce 4 : 0 Stal Białystok
+Sebastian Szymanski scores Wólczanka Siedlce 4 : 1 Stal Białystok
+Cezary Demianiuk scores End of match 
+
+Match Skra Biała Podlaska against Motor Tczew
+Skra Biała Podlaska 1 : 0 Motor Tczew
+Ernest Alexander scores Skra Biała Podlaska 2 : 0 Motor Tczew
+Ernest Alexander scores Skra Biała Podlaska 2 : 1 Motor Tczew
+Adam Mojta scores Skra Biała Podlaska 2 : 2 Motor Tczew
+Jakub Wojcicki scores Skra Biała Podlaska 2 : 3 Motor Tczew
+Eugen Polanski scores Skra Biała Podlaska 2 : 4 Motor Tczew
+Eugen Polanski scores End of match 
+
+Match Gwarek Tarnowski Kraków against Avia Grudziądz
+Gwarek Tarnowski Kraków 1 : 0 Avia Grudziądz
 Adrian Blad scores End of match 
 
-Match Wigry Inowrocław against Pniówek Poznań
-Wigry Inowrocław 1 : 0 Pniówek Poznań
-Mark Wood scores Wigry Inowrocław 2 : 0 Pniówek Poznań
-Patryk Stepinski scores Wigry Inowrocław 2 : 1 Pniówek Poznań
-Brendan Gregory scores Wigry Inowrocław 2 : 2 Pniówek Poznań
-Oskar Zawada scores End of match 
+Match Zagłębie II Lubin Stargard against Stal Grudziądz
+Zagłębie II Lubin Stargard 1 : 0 Stal Grudziądz
+Kent Moreno scores Zagłębie II Lubin Stargard 1 : 1 Stal Grudziądz
+Rafal Gikiewicz scores End of match 
 
-Match Stal Stargard against Lech II Tarnobrzeg
-Stal Stargard 1 : 0 Lech II Tarnobrzeg
-Michal Fidziukiewicz scores Stal Stargard 2 : 0 Lech II Tarnobrzeg
-Damian Podlesny scores Stal Stargard 3 : 0 Lech II Tarnobrzeg
-Damian Podlesny scores Stal Stargard 4 : 0 Lech II Tarnobrzeg
-Michal Fidziukiewicz scores Stal Stargard 5 : 0 Lech II Tarnobrzeg
-Adam Danch scores Stal Stargard 5 : 1 Lech II Tarnobrzeg
-Lukasz Tyminski scores End of match 
-
-Match Lech II Tarnobrzeg against Korona Tczew
-Lech II Tarnobrzeg 1 : 0 Korona Tczew
-Rafal Gikiewicz scores Lech II Tarnobrzeg 2 : 0 Korona Tczew
-Lukasz Tyminski scores Lech II Tarnobrzeg 2 : 1 Korona Tczew
-Roy Clark scores Lech II Tarnobrzeg 2 : 2 Korona Tczew
-Roy Clark scores Lech II Tarnobrzeg 2 : 3 Korona Tczew
-Roy Clark scores Lech II Tarnobrzeg 2 : 4 Korona Tczew
-Brendan Gregory scores End of match 
-
-Match Pniówek Poznań against Stal Stargard
-Pniówek Poznań 0 : 1 Stal Stargard
-Michal Fidziukiewicz scores Pniówek Poznań 0 : 2 Stal Stargard
-Michal Fidziukiewicz scores Pniówek Poznań 0 : 3 Stal Stargard
-Michal Fidziukiewicz scores Pniówek Poznań 0 : 4 Stal Stargard
-Damian Podlesny scores End of match 
-
-Match Skra Łomża against Wigry Inowrocław
-Skra Łomża 1 : 0 Wigry Inowrocław
-Adrian Blad scores Skra Łomża 2 : 0 Wigry Inowrocław
-Adrian Blad scores Skra Łomża 3 : 0 Wigry Inowrocław
-Adam Wilk scores Skra Łomża 4 : 0 Wigry Inowrocław
-Adrian Blad scores Skra Łomża 4 : 1 Wigry Inowrocław
-Mark Wood scores Skra Łomża 4 : 2 Wigry Inowrocław
-Duane Mills scores End of match 
-
-Match Gwarek Tarnowski Rzeszów against Garbarnia Pruszków
-Gwarek Tarnowski Rzeszów 1 : 0 Garbarnia Pruszków
-Grzegorz Goncerz scores Gwarek Tarnowski Rzeszów 2 : 0 Garbarnia Pruszków
-John King scores Gwarek Tarnowski Rzeszów 3 : 0 Garbarnia Pruszków
-John King scores Gwarek Tarnowski Rzeszów 4 : 0 Garbarnia Pruszków
-John King scores Gwarek Tarnowski Rzeszów 4 : 1 Garbarnia Pruszków
-Michal Janota scores Gwarek Tarnowski Rzeszów 4 : 2 Garbarnia Pruszków
-Michal Janota scores End of match 
-
-Match Sokół Jelenia Góra against LKS Goczałkowice Dąbrowa Górnicza
-Sokół Jelenia Góra 1 : 0 LKS Goczałkowice Dąbrowa Górnicza
-Jeffrey Hernandez scores Sokół Jelenia Góra 2 : 0 LKS Goczałkowice Dąbrowa Górnicza
-Marcin Flis scores Sokół Jelenia Góra 2 : 1 LKS Goczałkowice Dąbrowa Górnicza
-Roy Peterson scores Sokół Jelenia Góra 2 : 2 LKS Goczałkowice Dąbrowa Górnicza
-Tadeusz Socha scores End of match 
-
-Match Miedź Racibórz against ŁKS Łagów Radom
-Miedź Racibórz 1 : 0 ŁKS Łagów Radom
-Lukasz Kosakiewicz scores Miedź Racibórz 1 : 1 ŁKS Łagów Radom
-Clarence Barnes scores Miedź Racibórz 1 : 2 ŁKS Łagów Radom
-Clarence Barnes scores Miedź Racibórz 1 : 3 ŁKS Łagów Radom
-Clarence Barnes scores Miedź Racibórz 1 : 4 ŁKS Łagów Radom
-Clarence Barnes scores Miedź Racibórz 1 : 5 ŁKS Łagów Radom
-Pawel Oleksy scores End of match 
+Match Pogoń Ruska Radom against Widzew Jaworzno
+Pogoń Ruska Radom 1 : 0 Widzew Jaworzno
+Steven Flores scores Pogoń Ruska Radom 1 : 1 Widzew Jaworzno
+Michal Kucharczyk scores End of match 
 
 
 
-********************************************************************
-       TEAM NAME                                  PTS   W    D    L 
-1.  Sokół Jelenia Góra                            25    7    4    0   
-2.  Lech II Tarnobrzeg                            22    7    1    3   
-3.  LKS Goczałkowice Dąbrowa Górnicza             18    5    3    3   
-4.  Stal Stargard                                 18    6    0    5   
-5.  Skra Łomża                                    16    4    4    3   
-6.  Korona Tczew                                  16    5    1    5   
-7.  ŁKS Łagów Radom                               15    4    3    4   
-8.  Wigry Inowrocław                              15    4    3    4   
-9.  Garbarnia Pruszków                            14    4    2    5   
-10. Pniówek Poznań                                11    3    2    6   
-11. Gwarek Tarnowski Rzeszów                      11    3    2    6   
-12. Miedź Racibórz                                 4    1    1    9   
-********************************************************************
+*************************************************************
+       TEAM NAME                           PTS   W    D    L 
+1.  Pogoń Ruska Gliwice                    27    9    0    2   
+2.  Motor Tczew                            23    7    2    2   
+3.  Widzew Jaworzno                        22    6    4    1   
+4.  Wólczanka Siedlce                      22    6    4    1   
+5.  Zagłębie II Lubin Stargard             19    5    4    2   
+6.  Skra Biała Podlaska                    16    5    1    5   
+7.  Stal Grudziądz                         12    3    3    5   
+8.  Pogoń Ruska Radom                      12    3    3    5   
+9.  Stal Białystok                         11    3    2    6   
+10. Gwarek Tarnowski Kraków                 9    2    3    6   
+11. Widzew Słupsk                           9    2    3    6   
+12. Avia Grudziądz                          1    0    1   10   
+*************************************************************
 
 
    MOST TALENTED PLAYERS   
-1. Michal Janota from Garbarnia Pruszków with 99 skill points. 
-2. Marcin Urynowicz from Pniówek Poznań with 99 skill points. 
-3. Marcin Flis from Sokół Jelenia Góra with 99 skill points. 
-4. Mateusz Matras from Gwarek Tarnowski Rzeszów with 96 skill points. 
-5. Todd Long from ŁKS Łagów Radom with 95 skill points. 
-6. Grzegorz Goncerz from Gwarek Tarnowski Rzeszów with 95 skill points. 
-7. Filip Piszczek from Sokół Jelenia Góra with 94 skill points. 
-8. Kamil Slaby from Korona Tczew with 94 skill points. 
-9. James Williams from Garbarnia Pruszków with 93 skill points. 
-10. Dominik Furman from Lech II Tarnobrzeg with 93 skill points. 
-11. Artur Jedrzejczyk from LKS Goczałkowice Dąbrowa Górnicza with 92 skill points. 
-12. Mateusz Matras from Wigry Inowrocław with 92 skill points. 
-13. Dawid Kort from Lech II Tarnobrzeg with 92 skill points. 
-14. Damian Kadzior from Skra Łomża with 92 skill points. 
-15. Lukasz Zwolinski from Skra Łomża with 92 skill points. 
-16. Bobby White from Miedź Racibórz with 92 skill points. 
-17. Tomasz Cywka from Korona Tczew with 91 skill points. 
-18. Pawel Oleksy from ŁKS Łagów Radom with 90 skill points. 
-19. Duane Mills from Wigry Inowrocław with 90 skill points. 
-20. Adam Deja from Lech II Tarnobrzeg with 90 skill points. 
+1. Harry Ross from Skra Biała Podlaska with 99 skill points. 
+2. Blazej Augustyn from Avia Grudziądz with 98 skill points. 
+3. Kenneth Brown from Wólczanka Siedlce with 98 skill points. 
+4. Ernest Alexander from Skra Biała Podlaska with 98 skill points. 
+5. Filip Piszczek from Gwarek Tarnowski Kraków with 98 skill points. 
+6. Jonatan Straus from Wólczanka Siedlce with 97 skill points. 
+7. Phillip Peterson from Zagłębie II Lubin Stargard with 97 skill points. 
+8. Sebastian Steblecki from Widzew Jaworzno with 96 skill points. 
+9. George Scott from Motor Tczew with 96 skill points. 
+10. Benjamin Morgan from Pogoń Ruska Radom with 95 skill points. 
+11. Tomasz Loska from Pogoń Ruska Gliwice with 94 skill points. 
+12. Sebastian Szymanski from Wólczanka Siedlce with 94 skill points. 
+13. Lukasz Wolsztynski from Zagłębie II Lubin Stargard with 94 skill points. 
+14. Rafal Gikiewicz from Widzew Słupsk with 93 skill points. 
+15. Jonathan Ward from Widzew Jaworzno with 92 skill points. 
+16. Larry Butler from Motor Tczew with 92 skill points. 
+17. Lawrence Thomas from Avia Grudziądz with 91 skill points. 
+18. Bartosz Kwiecien from Pogoń Ruska Radom with 91 skill points. 
+19. Mateusz Cetnarski from Pogoń Ruska Radom with 91 skill points. 
+20. Kevin Young from Widzew Jaworzno with 90 skill points. 
 
     BEST LEAGUE SCORERS   
-1. Marcin Flis STRIKER from team Sokół Jelenia Góra scores 27
-2. Michal Fidziukiewicz STRIKER from team Stal Stargard scores 24
-3. Roy Clark STRIKER from team Korona Tczew scores 24
-4. Roy Peterson STRIKER from team LKS Goczałkowice Dąbrowa Górnicza scores 19
-5. Dominik Furman STRIKER from team Lech II Tarnobrzeg scores 19
-6. Adrian Blad STRIKER from team Skra Łomża scores 18
-7. Mark Wood STRIKER from team Wigry Inowrocław scores 16
+1. Ernest Alexander STRIKER from team Skra Biała Podlaska scores 24
+2. Sebastian Szymanski STRIKER from team Wólczanka Siedlce scores 22
+3. Steven Flores STRIKER from team Pogoń Ruska Radom scores 22
+4. Adam Mojta STRIKER from team Motor Tczew scores 20
 
 
     BEST TEAM SCORERS   
-Marcin Flis STRIKER from team Sokół Jelenia Góra scores 27
-Michal Fidziukiewicz STRIKER from team Stal Stargard scores 24
-Roy Clark STRIKER from team Korona Tczew scores 24
-Roy Peterson STRIKER from team LKS Goczałkowice Dąbrowa Górnicza scores 19
-Dominik Furman STRIKER from team Lech II Tarnobrzeg scores 19
-Adrian Blad STRIKER from team Skra Łomża scores 18
-Mark Wood STRIKER from team Wigry Inowrocław scores 16
-Michal Janota STRIKER from team Garbarnia Pruszków scores 14
-John King STRIKER from team Gwarek Tarnowski Rzeszów scores 14
-Clarence Barnes STRIKER from team ŁKS Łagów Radom scores 10
-Lukasz Kosakiewicz STRIKER from team Miedź Racibórz scores 6
-Rafal Wolsztynski MIDFIELDER from team Pniówek Poznań scores 3
+Ernest Alexander STRIKER from team Skra Biała Podlaska scores 24
+Sebastian Szymanski STRIKER from team Wólczanka Siedlce scores 22
+Steven Flores STRIKER from team Pogoń Ruska Radom scores 22
+Adam Mojta STRIKER from team Motor Tczew scores 20
+Kevin Young STRIKER from team Widzew Jaworzno scores 14
+Rafal Gikiewicz STRIKER from team Widzew Słupsk scores 13
+Mateusz Cholewiak STRIKER from team Pogoń Ruska Gliwice scores 12
+Kent Moreno STRIKER from team Zagłębie II Lubin Stargard scores 11
+Filip Piszczek STRIKER from team Gwarek Tarnowski Kraków scores 10
+Igor Lasicki STRIKER from team Stal Białystok scores 9
+Rafal Gikiewicz STRIKER from team Stal Grudziądz scores 8
+Grzegorz Bonin MIDFIELDER from team Avia Grudziądz scores 3
 
