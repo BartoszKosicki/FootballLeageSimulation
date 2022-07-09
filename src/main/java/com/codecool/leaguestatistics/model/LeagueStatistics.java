@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 public class LeagueStatistics {
 
     /**
-     * Gets all teams with highest points order, if points are equal next deciding parameter is sum of goals of the team.
+     * Gets all teams with the highest points order, if points are equal next deciding parameter is sum of goals of the team.
      */
     public static List<Team> getAllTeamsSorted(List<Team> teams) {
         List<Team> finalTable = new ArrayList<>();

@@ -1,5 +1,8 @@
 package com.codecool.leaguestatistics.model;
 
+import lombok.Getter;
+
+@Getter
 public class Midfielder extends Player implements Comparable<Midfielder>, Attacker, DefenderPotential{
     private final int attackSkill;
     private final int defenceSkill;
@@ -18,15 +21,6 @@ public class Midfielder extends Player implements Comparable<Midfielder>, Attack
         return (o.defenceSkill+o.attackSkill) - (this.defenceSkill + this.attackSkill);
     }
 
-    public int getAttackSkill() {
-        return attackSkill;
-    }
-
-    public int getDefenceSkill() {
-        return defenceSkill;
-    }
-
-
     @Override
     public int getAttackPotential() {
         return this.attackSkill;
@@ -35,10 +29,6 @@ public class Midfielder extends Player implements Comparable<Midfielder>, Attack
     @Override
     public int getDefSkill() {
         return defenceSkill;
-    }
-
-    public int getLongShot() {
-        return longShot;
     }
 
     @Override

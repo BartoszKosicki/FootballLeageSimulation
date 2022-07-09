@@ -1,12 +1,14 @@
 package com.codecool.leaguestatistics.model;
 
 import com.codecool.leaguestatistics.Utils;
+import lombok.Getter;
 
 import java.util.*;
 
 /**
  * Represents a team.
  */
+@Getter
 public class Team {
 
     private final String name;
@@ -248,29 +250,14 @@ public class Team {
         return wins*3 + draws;
     }
 
-    public String getName() {
-        return name;
-    }
-
-    public int getWins() {
-        return wins;
-    }
-
     public void setWins() {
         this.wins ++;
-    }
-
-    public int getDraws() {
-        return draws;
     }
 
     public void setDraws() {
         this.draws ++;
     }
 
-    public int getLoses() {
-        return loses;
-    }
 
     public void setLoses() {
         this.loses ++;
@@ -280,76 +267,12 @@ public class Team {
         return players;
     }
 
-    public void setPlayers(List<Player> players) {
-        this.players = players;
-    }
-
     public void setChangeSquad(boolean changeSquad) {
         this.changeSquad = changeSquad;
     }
 
-    public List<Goalkeeper> getGk() {
-        return gk;
-    }
-
-    public void setGk(List<Goalkeeper> gk) {
-        this.gk = gk;
-    }
-
-    public List<Midfielder> getAllMidfielders() {
-        return allMidfielders;
-    }
-
-    public void setAllMidfielders(List<Midfielder> allMidfielders) {
-        this.allMidfielders = allMidfielders;
-    }
-
-    public List<Defender> getAllDefenders() {
-        return allDefenders;
-    }
-
-    public void setAllDefenders(List<Defender> allDefenders) {
-        this.allDefenders = allDefenders;
-    }
-
-    public List<Striker> getAllStrikers() {
-        return allStrikers;
-    }
-
-    public void setAllStrikers(List<Striker> allStrikers) {
-        this.allStrikers = allStrikers;
-    }
-
-    public boolean isChangeSquad() {
-        return changeSquad;
-    }
-
-    public List<String> getTeamTactic() {
-        return teamTactic;
-    }
-
-    public void setTeamTactic(List<String> teamTactic) {
-        this.teamTactic = teamTactic;
-    }
-
-    public int getPlayerOff() {
-        return playerOff;
-    }
-
     public void setPlayerOff() {
         playerOff ++;
-    }
-
-    public int getAttackPotential() {
-        return attackPotential;
-    }
-
-    public int getDefencePotential() {
-        return defencePotential;
-    }
-
-    public Goalkeeper getCurrentGoalkeeper() {
-        return currentGoalkeeper;
     }
     public List<Player> playingPlayers(){
         return this.squad;
@@ -366,9 +289,4 @@ public class Team {
         }
         return bestPlayer;
     }
-
-    public Division getDivision() {
-        return division;
-    }
-
 }

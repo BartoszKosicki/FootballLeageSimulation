@@ -504,3 +504,521 @@ Rafal Wolski STRIKER from team Miedź Mielec scores 12
 Wayne Collins STRIKER from team Sokół Ostrów Wielkopolski scores 12
 Scott Cox STRIKER from team Lechia Dębica scores 5
 
+*****************
+SEASON 1
+*****************
+
+
+Match Śląsk Wrocław Gniezno against Lechia Zieloni Jaworzno
+Śląsk Wrocław Gniezno 1 : 0 Lechia Zieloni Jaworzno
+Willie Perez scores Śląsk Wrocław Gniezno 1 : 1 Lechia Zieloni Jaworzno
+Michal Helik scores End of match 
+
+Match Wisła Szeroka Kielce against Lechia Siemianowice Śląskie
+Wisła Szeroka Kielce 0 : 1 Lechia Siemianowice Śląskie
+Bartosz Kapustka scores Wisła Szeroka Kielce 0 : 2 Lechia Siemianowice Śląskie
+Jose Jenkins scores Wisła Szeroka Kielce 0 : 3 Lechia Siemianowice Śląskie
+Maciej Sadlok scores End of match 
+
+Match Warta Wartka Wejherowo against LKS Goczałkowice Dębica
+Warta Wartka Wejherowo 1 : 0 LKS Goczałkowice Dębica
+Lukasz Zaluska scores Warta Wartka Wejherowo 2 : 0 LKS Goczałkowice Dębica
+Lukasz Zaluska scores Warta Wartka Wejherowo 2 : 1 LKS Goczałkowice Dębica
+Bruce Young scores Warta Wartka Wejherowo 2 : 2 LKS Goczałkowice Dębica
+Michal Koj scores End of match 
+
+Match Zagłębie Ruhry Ostrów Wielkopolski against Stal Nierdzewna Ostrowiec Świętokrzyski
+Zagłębie Ruhry Ostrów Wielkopolski 1 : 0 Stal Nierdzewna Ostrowiec Świętokrzyski
+Alan Czerwinski scores Zagłębie Ruhry Ostrów Wielkopolski 1 : 1 Stal Nierdzewna Ostrowiec Świętokrzyski
+Kent Moreno scores Zagłębie Ruhry Ostrów Wielkopolski 1 : 2 Stal Nierdzewna Ostrowiec Świętokrzyski
+James Stewart scores End of match 
+
+Match Rekord Wodzisław Śląski against Polonia Jeden Radomsko
+Rekord Wodzisław Śląski 1 : 0 Polonia Jeden Radomsko
+Michal Pazdan scores Rekord Wodzisław Śląski 2 : 0 Polonia Jeden Radomsko
+Mateusz Kupczak scores Rekord Wodzisław Śląski 2 : 1 Polonia Jeden Radomsko
+Billy Taylor scores Rekord Wodzisław Śląski 2 : 2 Polonia Jeden Radomsko
+Thomas Morris scores Rekord Wodzisław Śląski 2 : 3 Polonia Jeden Radomsko
+Kamil Wojtkowski scores Rekord Wodzisław Śląski 2 : 4 Polonia Jeden Radomsko
+Kamil Wojtkowski scores End of match 
+
+Match Ruch Zawiercie against Sandecja Mielec
+Ruch Zawiercie 1 : 0 Sandecja Mielec
+Marcin Flis scores Ruch Zawiercie 1 : 1 Sandecja Mielec
+Bartosz Salamon scores Ruch Zawiercie 1 : 2 Sandecja Mielec
+Bartosz Salamon scores Ruch Zawiercie 1 : 3 Sandecja Mielec
+Jakub Wrabel scores Ruch Zawiercie 1 : 4 Sandecja Mielec
+Bartosz Salamon scores End of match 
+
+Match Sandecja Mielec against Śląsk Wrocław Gniezno
+Sandecja Mielec 1 : 0 Śląsk Wrocław Gniezno
+Bartosz Salamon scores Sandecja Mielec 2 : 0 Śląsk Wrocław Gniezno
+Bartosz Salamon scores Sandecja Mielec 2 : 1 Śląsk Wrocław Gniezno
+Sebastian Rudol scores Sandecja Mielec 2 : 2 Śląsk Wrocław Gniezno
+Sebastian Rudol scores End of match 
+
+Match Polonia Jeden Radomsko against Ruch Zawiercie
+Polonia Jeden Radomsko 1 : 0 Ruch Zawiercie
+Kamil Wojtkowski scores Polonia Jeden Radomsko 1 : 1 Ruch Zawiercie
+Marcin Flis scores Polonia Jeden Radomsko 1 : 2 Ruch Zawiercie
+Marcin Flis scores Polonia Jeden Radomsko 1 : 3 Ruch Zawiercie
+Marcin Flis scores Polonia Jeden Radomsko 1 : 4 Ruch Zawiercie
+Dawid Szymonowicz scores Polonia Jeden Radomsko 1 : 5 Ruch Zawiercie
+Marcin Flis scores End of match 
+
+Match Stal Nierdzewna Ostrowiec Świętokrzyski against Rekord Wodzisław Śląski
+Stal Nierdzewna Ostrowiec Świętokrzyski 1 : 0 Rekord Wodzisław Śląski
+Kent Moreno scores Stal Nierdzewna Ostrowiec Świętokrzyski 1 : 1 Rekord Wodzisław Śląski
+Michal Pazdan scores Stal Nierdzewna Ostrowiec Świętokrzyski 1 : 2 Rekord Wodzisław Śląski
+Michal Pazdan scores Stal Nierdzewna Ostrowiec Świętokrzyski 1 : 3 Rekord Wodzisław Śląski
+Michal Pazdan scores End of match 
+
+Match LKS Goczałkowice Dębica against Zagłębie Ruhry Ostrów Wielkopolski
+LKS Goczałkowice Dębica 1 : 0 Zagłębie Ruhry Ostrów Wielkopolski
+Bruce Young scores LKS Goczałkowice Dębica 2 : 0 Zagłębie Ruhry Ostrów Wielkopolski
+Bruce Young scores LKS Goczałkowice Dębica 3 : 0 Zagłębie Ruhry Ostrów Wielkopolski
+Michal Koj scores LKS Goczałkowice Dębica 3 : 1 Zagłębie Ruhry Ostrów Wielkopolski
+Jeffrey Hernandez scores LKS Goczałkowice Dębica 3 : 2 Zagłębie Ruhry Ostrów Wielkopolski
+Alan Czerwinski scores LKS Goczałkowice Dębica 3 : 3 Zagłębie Ruhry Ostrów Wielkopolski
+Alan Czerwinski scores LKS Goczałkowice Dębica 3 : 4 Zagłębie Ruhry Ostrów Wielkopolski
+Alan Czerwinski scores End of match 
+
+Match Lechia Siemianowice Śląskie against Warta Wartka Wejherowo
+Lechia Siemianowice Śląskie 1 : 0 Warta Wartka Wejherowo
+Tomasz Kupisz scores Lechia Siemianowice Śląskie 2 : 0 Warta Wartka Wejherowo
+Bartosz Kapustka scores Lechia Siemianowice Śląskie 2 : 1 Warta Wartka Wejherowo
+Lukasz Zaluska scores End of match 
+
+Match Lechia Zieloni Jaworzno against Wisła Szeroka Kielce
+Lechia Zieloni Jaworzno 1 : 0 Wisła Szeroka Kielce
+Michal Helik scores Lechia Zieloni Jaworzno 2 : 0 Wisła Szeroka Kielce
+Michal Helik scores End of match 
+
+Match Śląsk Wrocław Gniezno against Wisła Szeroka Kielce
+Śląsk Wrocław Gniezno 1 : 0 Wisła Szeroka Kielce
+Sebastian Rudol scores Śląsk Wrocław Gniezno 1 : 1 Wisła Szeroka Kielce
+Hubert Wolakiewicz scores End of match 
+
+Match Warta Wartka Wejherowo against Lechia Zieloni Jaworzno
+Warta Wartka Wejherowo 1 : 0 Lechia Zieloni Jaworzno
+Filip Starzynski scores Warta Wartka Wejherowo 2 : 0 Lechia Zieloni Jaworzno
+Lukasz Zaluska scores Warta Wartka Wejherowo 2 : 1 Lechia Zieloni Jaworzno
+Michal Helik scores Warta Wartka Wejherowo 2 : 2 Lechia Zieloni Jaworzno
+Kenneth Brown scores Warta Wartka Wejherowo 2 : 3 Lechia Zieloni Jaworzno
+Michal Helik scores End of match 
+
+Match Zagłębie Ruhry Ostrów Wielkopolski against Lechia Siemianowice Śląskie
+Zagłębie Ruhry Ostrów Wielkopolski 1 : 0 Lechia Siemianowice Śląskie
+Alan Czerwinski scores Zagłębie Ruhry Ostrów Wielkopolski 2 : 0 Lechia Siemianowice Śląskie
+Jeffrey Hernandez scores Zagłębie Ruhry Ostrów Wielkopolski 3 : 0 Lechia Siemianowice Śląskie
+Alan Czerwinski scores Zagłębie Ruhry Ostrów Wielkopolski 4 : 0 Lechia Siemianowice Śląskie
+Alan Czerwinski scores Zagłębie Ruhry Ostrów Wielkopolski 5 : 0 Lechia Siemianowice Śląskie
+Jeffrey Hernandez scores Zagłębie Ruhry Ostrów Wielkopolski 5 : 1 Lechia Siemianowice Śląskie
+Tomasz Kupisz scores Zagłębie Ruhry Ostrów Wielkopolski 5 : 2 Lechia Siemianowice Śląskie
+Jakub Slowik scores Zagłębie Ruhry Ostrów Wielkopolski 5 : 3 Lechia Siemianowice Śląskie
+Tomasz Kupisz scores End of match 
+
+Match Rekord Wodzisław Śląski against LKS Goczałkowice Dębica
+Rekord Wodzisław Śląski 0 : 1 LKS Goczałkowice Dębica
+Alonzo Hayes scores Rekord Wodzisław Śląski 0 : 2 LKS Goczałkowice Dębica
+Michal Koj scores Rekord Wodzisław Śląski 0 : 3 LKS Goczałkowice Dębica
+Jakub Slowik scores Rekord Wodzisław Śląski 0 : 4 LKS Goczałkowice Dębica
+Michal Koj scores End of match 
+
+Match Ruch Zawiercie against Stal Nierdzewna Ostrowiec Świętokrzyski
+Ruch Zawiercie 1 : 0 Stal Nierdzewna Ostrowiec Świętokrzyski
+Jakub Szumski scores Ruch Zawiercie 2 : 0 Stal Nierdzewna Ostrowiec Świętokrzyski
+Marcin Flis scores Ruch Zawiercie 2 : 1 Stal Nierdzewna Ostrowiec Świętokrzyski
+Radoslaw Janukiewicz scores End of match 
+
+Match Sandecja Mielec against Polonia Jeden Radomsko
+Sandecja Mielec 1 : 0 Polonia Jeden Radomsko
+Bartosz Salamon scores Sandecja Mielec 1 : 1 Polonia Jeden Radomsko
+Kamil Wojtkowski scores Sandecja Mielec 1 : 2 Polonia Jeden Radomsko
+Kamil Wojtkowski scores End of match 
+
+Match Polonia Jeden Radomsko against Śląsk Wrocław Gniezno
+Polonia Jeden Radomsko 1 : 0 Śląsk Wrocław Gniezno
+Carl Howard scores Polonia Jeden Radomsko 1 : 1 Śląsk Wrocław Gniezno
+Sebastian Rudol scores Polonia Jeden Radomsko 1 : 2 Śląsk Wrocław Gniezno
+Sebastian Rudol scores Polonia Jeden Radomsko 1 : 3 Śląsk Wrocław Gniezno
+Sebastian Rudol scores End of match 
+
+Match Stal Nierdzewna Ostrowiec Świętokrzyski against Sandecja Mielec
+Stal Nierdzewna Ostrowiec Świętokrzyski 1 : 0 Sandecja Mielec
+Keith Wilson scores Stal Nierdzewna Ostrowiec Świętokrzyski 2 : 0 Sandecja Mielec
+Radoslaw Janukiewicz scores Stal Nierdzewna Ostrowiec Świętokrzyski 3 : 0 Sandecja Mielec
+Kent Moreno scores End of match 
+
+Match LKS Goczałkowice Dębica against Ruch Zawiercie
+LKS Goczałkowice Dębica 1 : 0 Ruch Zawiercie
+Michal Koj scores LKS Goczałkowice Dębica 2 : 0 Ruch Zawiercie
+Michal Koj scores LKS Goczałkowice Dębica 2 : 1 Ruch Zawiercie
+Marcin Flis scores LKS Goczałkowice Dębica 2 : 2 Ruch Zawiercie
+Marcin Flis scores LKS Goczałkowice Dębica 2 : 3 Ruch Zawiercie
+Michal Janota scores End of match 
+
+Match Lechia Siemianowice Śląskie against Rekord Wodzisław Śląski
+Lechia Siemianowice Śląskie 1 : 0 Rekord Wodzisław Śląski
+Bartosz Kapustka scores Lechia Siemianowice Śląskie 2 : 0 Rekord Wodzisław Śląski
+Maciej Sadlok scores End of match 
+
+Match Lechia Zieloni Jaworzno against Zagłębie Ruhry Ostrów Wielkopolski
+Lechia Zieloni Jaworzno 0 : 1 Zagłębie Ruhry Ostrów Wielkopolski
+Alan Czerwinski scores Lechia Zieloni Jaworzno 0 : 2 Zagłębie Ruhry Ostrów Wielkopolski
+Alan Czerwinski scores End of match 
+
+Match Wisła Szeroka Kielce against Warta Wartka Wejherowo
+Wisła Szeroka Kielce 1 : 0 Warta Wartka Wejherowo
+Hubert Wolakiewicz scores Wisła Szeroka Kielce 2 : 0 Warta Wartka Wejherowo
+Leonard Bush scores Wisła Szeroka Kielce 2 : 1 Warta Wartka Wejherowo
+Filip Starzynski scores Wisła Szeroka Kielce 2 : 2 Warta Wartka Wejherowo
+Lukasz Zaluska scores End of match 
+
+Match Śląsk Wrocław Gniezno against Warta Wartka Wejherowo
+Śląsk Wrocław Gniezno 1 : 0 Warta Wartka Wejherowo
+Sebastian Rudol scores Śląsk Wrocław Gniezno 1 : 1 Warta Wartka Wejherowo
+Lukasz Zaluska scores Śląsk Wrocław Gniezno 1 : 2 Warta Wartka Wejherowo
+Lukasz Zaluska scores Śląsk Wrocław Gniezno 1 : 3 Warta Wartka Wejherowo
+Lukasz Zaluska scores End of match 
+
+Match Zagłębie Ruhry Ostrów Wielkopolski against Wisła Szeroka Kielce
+Zagłębie Ruhry Ostrów Wielkopolski 1 : 0 Wisła Szeroka Kielce
+Jeffrey Hernandez scores Zagłębie Ruhry Ostrów Wielkopolski 2 : 0 Wisła Szeroka Kielce
+Alan Czerwinski scores Zagłębie Ruhry Ostrów Wielkopolski 3 : 0 Wisła Szeroka Kielce
+Alan Czerwinski scores Zagłębie Ruhry Ostrów Wielkopolski 3 : 1 Wisła Szeroka Kielce
+Hubert Wolakiewicz scores End of match 
+
+Match Rekord Wodzisław Śląski against Lechia Zieloni Jaworzno
+Rekord Wodzisław Śląski 1 : 0 Lechia Zieloni Jaworzno
+Ryan Perry scores Rekord Wodzisław Śląski 2 : 0 Lechia Zieloni Jaworzno
+Michal Pazdan scores Rekord Wodzisław Śląski 2 : 1 Lechia Zieloni Jaworzno
+Michal Helik scores End of match 
+
+Match Ruch Zawiercie against Lechia Siemianowice Śląskie
+Ruch Zawiercie 1 : 0 Lechia Siemianowice Śląskie
+Marcin Flis scores Ruch Zawiercie 1 : 1 Lechia Siemianowice Śląskie
+Tomasz Kupisz scores End of match 
+
+Match Sandecja Mielec against LKS Goczałkowice Dębica
+Sandecja Mielec 1 : 0 LKS Goczałkowice Dębica
+Bartosz Salamon scores Sandecja Mielec 1 : 1 LKS Goczałkowice Dębica
+Michal Koj scores Sandecja Mielec 1 : 2 LKS Goczałkowice Dębica
+Michal Koj scores End of match 
+
+Match Polonia Jeden Radomsko against Stal Nierdzewna Ostrowiec Świętokrzyski
+Polonia Jeden Radomsko 1 : 0 Stal Nierdzewna Ostrowiec Świętokrzyski
+Kamil Wojtkowski scores Polonia Jeden Radomsko 1 : 1 Stal Nierdzewna Ostrowiec Świętokrzyski
+James Stewart scores Polonia Jeden Radomsko 1 : 2 Stal Nierdzewna Ostrowiec Świętokrzyski
+Kent Moreno scores Polonia Jeden Radomsko 1 : 3 Stal Nierdzewna Ostrowiec Świętokrzyski
+Kent Moreno scores End of match 
+
+Match Śląsk Wrocław Gniezno against Stal Nierdzewna Ostrowiec Świętokrzyski
+Śląsk Wrocław Gniezno 1 : 0 Stal Nierdzewna Ostrowiec Świętokrzyski
+Sebastian Rudol scores Śląsk Wrocław Gniezno 1 : 1 Stal Nierdzewna Ostrowiec Świętokrzyski
+Radoslaw Janukiewicz scores Śląsk Wrocław Gniezno 1 : 2 Stal Nierdzewna Ostrowiec Świętokrzyski
+Keith Wilson scores End of match 
+
+Match LKS Goczałkowice Dębica against Polonia Jeden Radomsko
+LKS Goczałkowice Dębica 1 : 0 Polonia Jeden Radomsko
+Bruce Young scores LKS Goczałkowice Dębica 2 : 0 Polonia Jeden Radomsko
+Michal Koj scores LKS Goczałkowice Dębica 3 : 0 Polonia Jeden Radomsko
+Jakub Slowik scores LKS Goczałkowice Dębica 3 : 1 Polonia Jeden Radomsko
+Kamil Wojtkowski scores End of match 
+
+Match Lechia Siemianowice Śląskie against Sandecja Mielec
+Lechia Siemianowice Śląskie 1 : 0 Sandecja Mielec
+Tomasz Kupisz scores Lechia Siemianowice Śląskie 2 : 0 Sandecja Mielec
+Maciej Sadlok scores Lechia Siemianowice Śląskie 2 : 1 Sandecja Mielec
+Bartosz Salamon scores Lechia Siemianowice Śląskie 2 : 2 Sandecja Mielec
+Bartosz Salamon scores End of match 
+
+Match Lechia Zieloni Jaworzno against Ruch Zawiercie
+Lechia Zieloni Jaworzno 1 : 0 Ruch Zawiercie
+Michal Helik scores Lechia Zieloni Jaworzno 2 : 0 Ruch Zawiercie
+Adrian Basta scores Lechia Zieloni Jaworzno 3 : 0 Ruch Zawiercie
+Michal Helik scores Lechia Zieloni Jaworzno 3 : 1 Ruch Zawiercie
+Marcin Flis scores End of match 
+
+Match Wisła Szeroka Kielce against Rekord Wodzisław Śląski
+Wisła Szeroka Kielce 0 : 1 Rekord Wodzisław Śląski
+Mateusz Kupczak scores End of match 
+
+Match Warta Wartka Wejherowo against Zagłębie Ruhry Ostrów Wielkopolski
+Warta Wartka Wejherowo 1 : 0 Zagłębie Ruhry Ostrów Wielkopolski
+Lukasz Zaluska scores Warta Wartka Wejherowo 2 : 0 Zagłębie Ruhry Ostrów Wielkopolski
+Lukasz Zaluska scores Warta Wartka Wejherowo 3 : 0 Zagłębie Ruhry Ostrów Wielkopolski
+Michal Chrapek scores Warta Wartka Wejherowo 3 : 1 Zagłębie Ruhry Ostrów Wielkopolski
+Alan Czerwinski scores End of match 
+
+Match Zagłębie Ruhry Ostrów Wielkopolski against Śląsk Wrocław Gniezno
+Zagłębie Ruhry Ostrów Wielkopolski 1 : 0 Śląsk Wrocław Gniezno
+Alan Czerwinski scores Zagłębie Ruhry Ostrów Wielkopolski 1 : 1 Śląsk Wrocław Gniezno
+Sebastian Rudol scores Zagłębie Ruhry Ostrów Wielkopolski 1 : 2 Śląsk Wrocław Gniezno
+Willie Perez scores End of match 
+
+Match Rekord Wodzisław Śląski against Warta Wartka Wejherowo
+Rekord Wodzisław Śląski 1 : 0 Warta Wartka Wejherowo
+Mateusz Kupczak scores Rekord Wodzisław Śląski 1 : 1 Warta Wartka Wejherowo
+Filip Starzynski scores End of match 
+
+Match Ruch Zawiercie against Wisła Szeroka Kielce
+Ruch Zawiercie 1 : 0 Wisła Szeroka Kielce
+Marcin Flis scores Ruch Zawiercie 2 : 0 Wisła Szeroka Kielce
+Marcin Flis scores Ruch Zawiercie 2 : 1 Wisła Szeroka Kielce
+Hubert Wolakiewicz scores Ruch Zawiercie 2 : 2 Wisła Szeroka Kielce
+Hubert Wolakiewicz scores End of match 
+
+Match Sandecja Mielec against Lechia Zieloni Jaworzno
+Sandecja Mielec 1 : 0 Lechia Zieloni Jaworzno
+Bartosz Salamon scores Sandecja Mielec 2 : 0 Lechia Zieloni Jaworzno
+Bartosz Salamon scores Sandecja Mielec 3 : 0 Lechia Zieloni Jaworzno
+Bartosz Salamon scores Sandecja Mielec 3 : 1 Lechia Zieloni Jaworzno
+Michal Helik scores Sandecja Mielec 3 : 2 Lechia Zieloni Jaworzno
+Michal Helik scores End of match 
+
+Match Polonia Jeden Radomsko against Lechia Siemianowice Śląskie
+Polonia Jeden Radomsko 0 : 1 Lechia Siemianowice Śląskie
+Tomasz Kupisz scores Polonia Jeden Radomsko 0 : 2 Lechia Siemianowice Śląskie
+Jose Jenkins scores End of match 
+
+Match Stal Nierdzewna Ostrowiec Świętokrzyski against LKS Goczałkowice Dębica
+Stal Nierdzewna Ostrowiec Świętokrzyski 1 : 0 LKS Goczałkowice Dębica
+Kent Moreno scores Stal Nierdzewna Ostrowiec Świętokrzyski 2 : 0 LKS Goczałkowice Dębica
+Kent Moreno scores Stal Nierdzewna Ostrowiec Świętokrzyski 3 : 0 LKS Goczałkowice Dębica
+James Stewart scores Stal Nierdzewna Ostrowiec Świętokrzyski 4 : 0 LKS Goczałkowice Dębica
+Kent Moreno scores Stal Nierdzewna Ostrowiec Świętokrzyski 5 : 0 LKS Goczałkowice Dębica
+Kent Moreno scores Stal Nierdzewna Ostrowiec Świętokrzyski 6 : 0 LKS Goczałkowice Dębica
+Radoslaw Janukiewicz scores Stal Nierdzewna Ostrowiec Świętokrzyski 6 : 1 LKS Goczałkowice Dębica
+Michal Koj scores Stal Nierdzewna Ostrowiec Świętokrzyski 6 : 2 LKS Goczałkowice Dębica
+Michal Koj scores Stal Nierdzewna Ostrowiec Świętokrzyski 6 : 3 LKS Goczałkowice Dębica
+Michal Koj scores End of match 
+
+Match Śląsk Wrocław Gniezno against LKS Goczałkowice Dębica
+Śląsk Wrocław Gniezno 1 : 0 LKS Goczałkowice Dębica
+Willie Perez scores Śląsk Wrocław Gniezno 2 : 0 LKS Goczałkowice Dębica
+Sebastian Rudol scores Śląsk Wrocław Gniezno 3 : 0 LKS Goczałkowice Dębica
+Sebastian Rudol scores Śląsk Wrocław Gniezno 3 : 1 LKS Goczałkowice Dębica
+Michal Koj scores End of match 
+
+Match Lechia Siemianowice Śląskie against Stal Nierdzewna Ostrowiec Świętokrzyski
+Lechia Siemianowice Śląskie 0 : 1 Stal Nierdzewna Ostrowiec Świętokrzyski
+Kent Moreno scores Lechia Siemianowice Śląskie 0 : 2 Stal Nierdzewna Ostrowiec Świętokrzyski
+Kent Moreno scores End of match 
+
+Match Lechia Zieloni Jaworzno against Polonia Jeden Radomsko
+Lechia Zieloni Jaworzno 1 : 0 Polonia Jeden Radomsko
+Roger Price scores Lechia Zieloni Jaworzno 2 : 0 Polonia Jeden Radomsko
+Michal Nalepa scores End of match 
+
+Match Wisła Szeroka Kielce against Sandecja Mielec
+Wisła Szeroka Kielce 1 : 0 Sandecja Mielec
+Hubert Wolakiewicz scores Wisła Szeroka Kielce 1 : 1 Sandecja Mielec
+Bartosz Salamon scores End of match 
+
+Match Warta Wartka Wejherowo against Ruch Zawiercie
+Warta Wartka Wejherowo 1 : 0 Ruch Zawiercie
+Lukasz Zaluska scores Warta Wartka Wejherowo 1 : 1 Ruch Zawiercie
+Marcin Flis scores Warta Wartka Wejherowo 1 : 2 Ruch Zawiercie
+Marcin Flis scores End of match 
+
+Match Zagłębie Ruhry Ostrów Wielkopolski against Rekord Wodzisław Śląski
+Zagłębie Ruhry Ostrów Wielkopolski 1 : 0 Rekord Wodzisław Śląski
+Alan Czerwinski scores Zagłębie Ruhry Ostrów Wielkopolski 2 : 0 Rekord Wodzisław Śląski
+Jeffrey Hernandez scores Zagłębie Ruhry Ostrów Wielkopolski 2 : 1 Rekord Wodzisław Śląski
+Michal Pazdan scores Zagłębie Ruhry Ostrów Wielkopolski 2 : 2 Rekord Wodzisław Śląski
+Michal Pazdan scores End of match 
+
+Match Rekord Wodzisław Śląski against Śląsk Wrocław Gniezno
+Rekord Wodzisław Śląski 1 : 0 Śląsk Wrocław Gniezno
+Ryan Perry scores Rekord Wodzisław Śląski 1 : 1 Śląsk Wrocław Gniezno
+Sebastian Rudol scores End of match 
+
+Match Ruch Zawiercie against Zagłębie Ruhry Ostrów Wielkopolski
+Ruch Zawiercie 1 : 0 Zagłębie Ruhry Ostrów Wielkopolski
+Cezary Demianiuk scores Ruch Zawiercie 2 : 0 Zagłębie Ruhry Ostrów Wielkopolski
+Marcin Flis scores Ruch Zawiercie 3 : 0 Zagłębie Ruhry Ostrów Wielkopolski
+Marcin Flis scores Ruch Zawiercie 3 : 1 Zagłębie Ruhry Ostrów Wielkopolski
+Alan Czerwinski scores Ruch Zawiercie 3 : 2 Zagłębie Ruhry Ostrów Wielkopolski
+Alan Czerwinski scores Ruch Zawiercie 3 : 3 Zagłębie Ruhry Ostrów Wielkopolski
+Alan Czerwinski scores Ruch Zawiercie 3 : 4 Zagłębie Ruhry Ostrów Wielkopolski
+Alan Czerwinski scores Ruch Zawiercie 3 : 5 Zagłębie Ruhry Ostrów Wielkopolski
+Alan Czerwinski scores End of match 
+
+Match Sandecja Mielec against Warta Wartka Wejherowo
+Sandecja Mielec 1 : 0 Warta Wartka Wejherowo
+Bartosz Salamon scores Sandecja Mielec 1 : 1 Warta Wartka Wejherowo
+Lukasz Zaluska scores Sandecja Mielec 1 : 2 Warta Wartka Wejherowo
+Filip Starzynski scores End of match 
+
+Match Polonia Jeden Radomsko against Wisła Szeroka Kielce
+Polonia Jeden Radomsko 1 : 0 Wisła Szeroka Kielce
+Thomas Morris scores Polonia Jeden Radomsko 2 : 0 Wisła Szeroka Kielce
+Kamil Wojtkowski scores Polonia Jeden Radomsko 3 : 0 Wisła Szeroka Kielce
+Kamil Wojtkowski scores Polonia Jeden Radomsko 4 : 0 Wisła Szeroka Kielce
+Carl Howard scores Polonia Jeden Radomsko 4 : 1 Wisła Szeroka Kielce
+Hubert Wolakiewicz scores Polonia Jeden Radomsko 4 : 2 Wisła Szeroka Kielce
+David Phillips scores Polonia Jeden Radomsko 4 : 3 Wisła Szeroka Kielce
+Leonard Bush scores Polonia Jeden Radomsko 4 : 4 Wisła Szeroka Kielce
+Hubert Wolakiewicz scores End of match 
+
+Match Stal Nierdzewna Ostrowiec Świętokrzyski against Lechia Zieloni Jaworzno
+Stal Nierdzewna Ostrowiec Świętokrzyski 1 : 0 Lechia Zieloni Jaworzno
+Kent Moreno scores Stal Nierdzewna Ostrowiec Świętokrzyski 2 : 0 Lechia Zieloni Jaworzno
+Kent Moreno scores Stal Nierdzewna Ostrowiec Świętokrzyski 3 : 0 Lechia Zieloni Jaworzno
+Kent Moreno scores Stal Nierdzewna Ostrowiec Świętokrzyski 3 : 1 Lechia Zieloni Jaworzno
+Kenneth Brown scores Stal Nierdzewna Ostrowiec Świętokrzyski 3 : 2 Lechia Zieloni Jaworzno
+Michal Nalepa scores Stal Nierdzewna Ostrowiec Świętokrzyski 3 : 3 Lechia Zieloni Jaworzno
+Michal Helik scores End of match 
+
+Match LKS Goczałkowice Dębica against Lechia Siemianowice Śląskie
+LKS Goczałkowice Dębica 1 : 0 Lechia Siemianowice Śląskie
+Michal Koj scores LKS Goczałkowice Dębica 2 : 0 Lechia Siemianowice Śląskie
+Michal Koj scores LKS Goczałkowice Dębica 2 : 1 Lechia Siemianowice Śląskie
+Maciej Sadlok scores LKS Goczałkowice Dębica 2 : 2 Lechia Siemianowice Śląskie
+Tomasz Kupisz scores LKS Goczałkowice Dębica 2 : 3 Lechia Siemianowice Śląskie
+Jakub Slowik scores End of match 
+
+Match Śląsk Wrocław Gniezno against Lechia Siemianowice Śląskie
+Śląsk Wrocław Gniezno 0 : 1 Lechia Siemianowice Śląskie
+Tomasz Kupisz scores Śląsk Wrocław Gniezno 0 : 2 Lechia Siemianowice Śląskie
+Tomasz Kupisz scores End of match 
+
+Match Lechia Zieloni Jaworzno against LKS Goczałkowice Dębica
+Lechia Zieloni Jaworzno 1 : 0 LKS Goczałkowice Dębica
+Michal Helik scores Lechia Zieloni Jaworzno 2 : 0 LKS Goczałkowice Dębica
+Michal Helik scores Lechia Zieloni Jaworzno 3 : 0 LKS Goczałkowice Dębica
+Michal Helik scores Lechia Zieloni Jaworzno 3 : 1 LKS Goczałkowice Dębica
+Michal Koj scores End of match 
+
+Match Wisła Szeroka Kielce against Stal Nierdzewna Ostrowiec Świętokrzyski
+Wisła Szeroka Kielce 1 : 0 Stal Nierdzewna Ostrowiec Świętokrzyski
+Hubert Wolakiewicz scores Wisła Szeroka Kielce 1 : 1 Stal Nierdzewna Ostrowiec Świętokrzyski
+Kent Moreno scores Wisła Szeroka Kielce 1 : 2 Stal Nierdzewna Ostrowiec Świętokrzyski
+Kent Moreno scores Wisła Szeroka Kielce 1 : 3 Stal Nierdzewna Ostrowiec Świętokrzyski
+Radoslaw Janukiewicz scores End of match 
+
+Match Warta Wartka Wejherowo against Polonia Jeden Radomsko
+Warta Wartka Wejherowo 1 : 0 Polonia Jeden Radomsko
+Thomas Morris scores Warta Wartka Wejherowo 2 : 0 Polonia Jeden Radomsko
+Michal Chrapek scores Warta Wartka Wejherowo 3 : 0 Polonia Jeden Radomsko
+Lukasz Zaluska scores Warta Wartka Wejherowo 4 : 0 Polonia Jeden Radomsko
+Michal Chrapek scores Warta Wartka Wejherowo 4 : 1 Polonia Jeden Radomsko
+Kamil Wojtkowski scores End of match 
+
+Match Zagłębie Ruhry Ostrów Wielkopolski against Sandecja Mielec
+Zagłębie Ruhry Ostrów Wielkopolski 0 : 1 Sandecja Mielec
+Bartosz Salamon scores Zagłębie Ruhry Ostrów Wielkopolski 0 : 2 Sandecja Mielec
+Bartosz Salamon scores End of match 
+
+Match Rekord Wodzisław Śląski against Ruch Zawiercie
+Rekord Wodzisław Śląski 1 : 0 Ruch Zawiercie
+Michal Pazdan scores Rekord Wodzisław Śląski 2 : 0 Ruch Zawiercie
+Terry Bell scores Rekord Wodzisław Śląski 2 : 1 Ruch Zawiercie
+Marcin Flis scores End of match 
+
+Match Ruch Zawiercie against Śląsk Wrocław Gniezno
+Ruch Zawiercie 1 : 0 Śląsk Wrocław Gniezno
+Marcin Flis scores Ruch Zawiercie 2 : 0 Śląsk Wrocław Gniezno
+Marcin Flis scores Ruch Zawiercie 3 : 0 Śląsk Wrocław Gniezno
+Marcin Flis scores Ruch Zawiercie 3 : 1 Śląsk Wrocław Gniezno
+Sebastian Rudol scores End of match 
+
+Match Sandecja Mielec against Rekord Wodzisław Śląski
+Sandecja Mielec 1 : 0 Rekord Wodzisław Śląski
+Bartosz Salamon scores Sandecja Mielec 2 : 0 Rekord Wodzisław Śląski
+Bartosz Salamon scores End of match 
+
+Match Polonia Jeden Radomsko against Zagłębie Ruhry Ostrów Wielkopolski
+Polonia Jeden Radomsko 1 : 0 Zagłębie Ruhry Ostrów Wielkopolski
+Kamil Wojtkowski scores Polonia Jeden Radomsko 2 : 0 Zagłębie Ruhry Ostrów Wielkopolski
+Kamil Wojtkowski scores Polonia Jeden Radomsko 2 : 1 Zagłębie Ruhry Ostrów Wielkopolski
+Alan Czerwinski scores Polonia Jeden Radomsko 2 : 2 Zagłębie Ruhry Ostrów Wielkopolski
+Alan Czerwinski scores Polonia Jeden Radomsko 2 : 3 Zagłębie Ruhry Ostrów Wielkopolski
+Alan Czerwinski scores End of match 
+
+Match Stal Nierdzewna Ostrowiec Świętokrzyski against Warta Wartka Wejherowo
+Stal Nierdzewna Ostrowiec Świętokrzyski 1 : 0 Warta Wartka Wejherowo
+Kent Moreno scores Stal Nierdzewna Ostrowiec Świętokrzyski 2 : 0 Warta Wartka Wejherowo
+John Parker scores Stal Nierdzewna Ostrowiec Świętokrzyski 3 : 0 Warta Wartka Wejherowo
+Kent Moreno scores Stal Nierdzewna Ostrowiec Świętokrzyski 3 : 1 Warta Wartka Wejherowo
+Lukasz Zaluska scores End of match 
+
+Match LKS Goczałkowice Dębica against Wisła Szeroka Kielce
+LKS Goczałkowice Dębica 1 : 0 Wisła Szeroka Kielce
+Michal Koj scores LKS Goczałkowice Dębica 2 : 0 Wisła Szeroka Kielce
+Michal Koj scores LKS Goczałkowice Dębica 3 : 0 Wisła Szeroka Kielce
+Michal Koj scores LKS Goczałkowice Dębica 4 : 0 Wisła Szeroka Kielce
+Jakub Slowik scores LKS Goczałkowice Dębica 4 : 1 Wisła Szeroka Kielce
+Hubert Wolakiewicz scores End of match 
+
+Match Lechia Siemianowice Śląskie against Lechia Zieloni Jaworzno
+Lechia Siemianowice Śląskie 1 : 0 Lechia Zieloni Jaworzno
+Tomasz Kupisz scores Lechia Siemianowice Śląskie 2 : 0 Lechia Zieloni Jaworzno
+Tomasz Kupisz scores Lechia Siemianowice Śląskie 2 : 1 Lechia Zieloni Jaworzno
+Michal Helik scores End of match 
+
+
+
+**************************************************************************
+       TEAM NAME                                        PTS   W    D    L 
+1.  Stal Nierdzewna Ostrowiec Świętokrzyski             25    8    1    2   
+2.  Lechia Siemianowice Śląskie                         23    7    2    2   
+3.  Zagłębie Ruhry Ostrów Wielkopolski                  19    6    1    4   
+4.  Lechia Zieloni Jaworzno                             17    5    2    4   
+5.  Ruch Zawiercie                                      17    5    2    4   
+6.  Warta Wartka Wejherowo                              15    4    3    4   
+7.  Rekord Wodzisław Śląski                             15    4    3    4   
+8.  Sandecja Mielec                                     15    4    3    4   
+9.  LKS Goczałkowice Dębica                             13    4    1    6   
+10. Śląsk Wrocław Gniezno                               13    3    4    4   
+11. Polonia Jeden Radomsko                               7    2    1    8   
+12. Wisła Szeroka Kielce                                 5    0    5    6   
+**************************************************************************
+
+
+   MOST TALENTED PLAYERS   
+1. Carlos Garcia from Zagłębie Ruhry Ostrów Wielkopolski with 99 skill points. 
+2. Rudy Pena from Sandecja Mielec with 98 skill points. 
+3. Henry Scott from Polonia Jeden Radomsko with 98 skill points. 
+4. James Stewart from Stal Nierdzewna Ostrowiec Świętokrzyski with 96 skill points. 
+5. Cezary Demianiuk from Ruch Zawiercie with 94 skill points. 
+6. Jakub Slowik from LKS Goczałkowice Dębica with 94 skill points. 
+7. Gary Johnson from Śląsk Wrocław Gniezno with 94 skill points. 
+8. Mateusz Mak from Ruch Zawiercie with 92 skill points. 
+9. Raymond Coleman from Śląsk Wrocław Gniezno with 92 skill points. 
+10. Ryan Perry from Rekord Wodzisław Śląski with 91 skill points. 
+11. Thomas Morris from Polonia Jeden Radomsko with 91 skill points. 
+12. Clifton Boyd from Polonia Jeden Radomsko with 91 skill points. 
+13. Thomas Morris from Warta Wartka Wejherowo with 90 skill points. 
+14. Billy Taylor from Polonia Jeden Radomsko with 90 skill points. 
+15. Bartosz Kapustka from Lechia Siemianowice Śląskie with 90 skill points. 
+16. Mateusz Kupczak from Rekord Wodzisław Śląski with 89 skill points. 
+17. Eric Morris from Śląsk Wrocław Gniezno with 89 skill points. 
+18. Kamil Glik from Stal Nierdzewna Ostrowiec Świętokrzyski with 88 skill points. 
+19. Mateusz Szczepaniak from Lechia Siemianowice Śląskie with 88 skill points. 
+20. Tomasz Kupisz from Lechia Siemianowice Śląskie with 88 skill points. 
+
+    BEST LEAGUE SCORERS   
+1. Alan Czerwinski STRIKER from team Zagłębie Ruhry Ostrów Wielkopolski scores 22
+2. Marcin Flis STRIKER from team Ruch Zawiercie scores 20
+3. Michal Koj STRIKER from team LKS Goczałkowice Dębica scores 19
+4. Bartosz Salamon STRIKER from team Sandecja Mielec scores 18
+5. Kent Moreno STRIKER from team Stal Nierdzewna Ostrowiec Świętokrzyski scores 18
+6. Michal Helik STRIKER from team Lechia Zieloni Jaworzno scores 15
+
+
+    BEST TEAM SCORERS   
+Alan Czerwinski STRIKER from team Zagłębie Ruhry Ostrów Wielkopolski scores 22
+Marcin Flis STRIKER from team Ruch Zawiercie scores 20
+Michal Koj STRIKER from team LKS Goczałkowice Dębica scores 19
+Bartosz Salamon STRIKER from team Sandecja Mielec scores 18
+Kent Moreno STRIKER from team Stal Nierdzewna Ostrowiec Świętokrzyski scores 18
+Michal Helik STRIKER from team Lechia Zieloni Jaworzno scores 15
+Lukasz Zaluska STRIKER from team Warta Wartka Wejherowo scores 14
+Sebastian Rudol STRIKER from team Śląsk Wrocław Gniezno scores 13
+Kamil Wojtkowski STRIKER from team Polonia Jeden Radomsko scores 12
+Tomasz Kupisz STRIKER from team Lechia Siemianowice Śląskie scores 11
+Hubert Wolakiewicz STRIKER from team Wisła Szeroka Kielce scores 10
+Michal Pazdan STRIKER from team Rekord Wodzisław Śląski scores 8
+

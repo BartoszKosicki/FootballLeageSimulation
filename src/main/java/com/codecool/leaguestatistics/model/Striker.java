@@ -1,5 +1,8 @@
 package com.codecool.leaguestatistics.model;
 
+import lombok.Getter;
+
+@Getter
 public class Striker extends Player implements Comparable<Striker>, Attacker{
     private final int attackSkill;
     private final int oneOnOne;
@@ -15,9 +18,6 @@ public class Striker extends Player implements Comparable<Striker>, Attacker{
         return o.oneOnOne+o.attackSkill - this.oneOnOne + this.attackSkill;
     }
 
-    public int getOneOnOne() {
-        return oneOnOne;
-    }
 
     @Override
     public int getAttackPotential() {

@@ -1,5 +1,8 @@
 package com.codecool.leaguestatistics.model;
 
+import lombok.Getter;
+
+@Getter
 public class Goalkeeper extends Player implements Comparable<Goalkeeper>, DefenderPotential{
     private final int defenceSkill;
     private final int oneOnOne;
@@ -12,11 +15,6 @@ public class Goalkeeper extends Player implements Comparable<Goalkeeper>, Defend
         this.defLongShots =defLongShots;
     }
 
-    public int getOneOnOne() {
-        return oneOnOne;
-    }
-
-
     @Override
     public int compareTo(Goalkeeper o) {
         return (o.defenceSkill+o.oneOnOne) - (this.defenceSkill+this.oneOnOne);
@@ -25,10 +23,6 @@ public class Goalkeeper extends Player implements Comparable<Goalkeeper>, Defend
     @Override
     public int getDefSkill() {
         return defenceSkill;
-    }
-
-    public int getDefLongShots() {
-        return defLongShots;
     }
 
     @Override

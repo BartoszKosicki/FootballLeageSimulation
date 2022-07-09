@@ -574,3 +574,481 @@ Dominik Furman STRIKER from team KSZO Kraków scores 15
 Mateusz Lewandowski STRIKER from team Sokół Ostrów Wielkopolski scores 9
 Tomasz Nowak STRIKER from team Polonia Jeden Rybnik scores 6
 
+*****************
+SEASON 1
+*****************
+
+
+Match Stal Częstochowa against Odra Zamulona Wejherowo
+Stal Częstochowa 1 : 0 Odra Zamulona Wejherowo
+Michal Nalepa scores Stal Częstochowa 2 : 0 Odra Zamulona Wejherowo
+Artur Sobiech scores Stal Częstochowa 3 : 0 Odra Zamulona Wejherowo
+Waldemar Sobota scores Stal Częstochowa 3 : 1 Odra Zamulona Wejherowo
+Lukasz Sierpina scores Stal Częstochowa 3 : 2 Odra Zamulona Wejherowo
+Michal Koj scores Stal Częstochowa 3 : 3 Odra Zamulona Wejherowo
+Michal Koj scores End of match 
+
+Match Wisła Płynąca Starachowice against Tomasovia Skierniewice
+Wisła Płynąca Starachowice 1 : 0 Tomasovia Skierniewice
+Alan Bowers scores End of match 
+
+Match KSZO Łódź against Podhale Bielsko-Biała
+KSZO Łódź 1 : 0 Podhale Bielsko-Biała
+Karol Linetty scores End of match 
+
+Match Wólczanka Jastrzębie-Zdrój against Skra Dąbrowa Górnicza
+Wólczanka Jastrzębie-Zdrój 0 : 1 Skra Dąbrowa Górnicza
+Kamil Glik scores End of match 
+
+Match GKS Jastrzębie Wrocław against Radomiak Radomsko
+GKS Jastrzębie Wrocław 1 : 0 Radomiak Radomsko
+Timothy Evans scores GKS Jastrzębie Wrocław 2 : 0 Radomiak Radomsko
+Timothy Evans scores GKS Jastrzębie Wrocław 2 : 1 Radomiak Radomsko
+William Bennett scores End of match 
+
+Match Arka Piekary Śląskie against Legia Czerwona Gwiazda Gdańsk
+Arka Piekary Śląskie 1 : 0 Legia Czerwona Gwiazda Gdańsk
+Albert Rogers scores Arka Piekary Śląskie 2 : 0 Legia Czerwona Gwiazda Gdańsk
+Albert Rogers scores Arka Piekary Śląskie 3 : 0 Legia Czerwona Gwiazda Gdańsk
+James Palmer scores Arka Piekary Śląskie 4 : 0 Legia Czerwona Gwiazda Gdańsk
+Albert Rogers scores Arka Piekary Śląskie 5 : 0 Legia Czerwona Gwiazda Gdańsk
+Sean Carter scores Arka Piekary Śląskie 6 : 0 Legia Czerwona Gwiazda Gdańsk
+James Palmer scores Arka Piekary Śląskie 6 : 1 Legia Czerwona Gwiazda Gdańsk
+Szymon Zurkowski scores Arka Piekary Śląskie 6 : 2 Legia Czerwona Gwiazda Gdańsk
+Jack Bryant scores End of match 
+
+Match Legia Czerwona Gwiazda Gdańsk against Stal Częstochowa
+Legia Czerwona Gwiazda Gdańsk 1 : 0 Stal Częstochowa
+Szymon Zurkowski scores Legia Czerwona Gwiazda Gdańsk 2 : 0 Stal Częstochowa
+Jack Bryant scores Legia Czerwona Gwiazda Gdańsk 2 : 1 Stal Częstochowa
+Waldemar Sobota scores Legia Czerwona Gwiazda Gdańsk 2 : 2 Stal Częstochowa
+Michal Nalepa scores Legia Czerwona Gwiazda Gdańsk 2 : 3 Stal Częstochowa
+Michal Nalepa scores End of match 
+
+Match Radomiak Radomsko against Arka Piekary Śląskie
+Radomiak Radomsko 0 : 1 Arka Piekary Śląskie
+Lukasz Piatek scores Radomiak Radomsko 0 : 2 Arka Piekary Śląskie
+Albert Rogers scores Radomiak Radomsko 0 : 3 Arka Piekary Śląskie
+Albert Rogers scores Radomiak Radomsko 0 : 4 Arka Piekary Śląskie
+Albert Rogers scores End of match 
+
+Match Skra Dąbrowa Górnicza against GKS Jastrzębie Wrocław
+Skra Dąbrowa Górnicza 1 : 0 GKS Jastrzębie Wrocław
+Jacek Goralski scores Skra Dąbrowa Górnicza 2 : 0 GKS Jastrzębie Wrocław
+Roy Peterson scores End of match 
+
+Match Podhale Bielsko-Biała against Wólczanka Jastrzębie-Zdrój
+Podhale Bielsko-Biała 1 : 0 Wólczanka Jastrzębie-Zdrój
+Mariusz Stepinski scores End of match 
+
+Match Tomasovia Skierniewice against KSZO Łódź
+End of match 
+
+Match Odra Zamulona Wejherowo against Wisła Płynąca Starachowice
+Odra Zamulona Wejherowo 1 : 0 Wisła Płynąca Starachowice
+Michal Koj scores Odra Zamulona Wejherowo 1 : 1 Wisła Płynąca Starachowice
+Arkadiusz Wozniak scores Odra Zamulona Wejherowo 1 : 2 Wisła Płynąca Starachowice
+Arkadiusz Wozniak scores Odra Zamulona Wejherowo 1 : 3 Wisła Płynąca Starachowice
+Garrett Ferguson scores End of match 
+
+Match Stal Częstochowa against Wisła Płynąca Starachowice
+Stal Częstochowa 1 : 0 Wisła Płynąca Starachowice
+Artur Sobiech scores Stal Częstochowa 1 : 1 Wisła Płynąca Starachowice
+Arkadiusz Wozniak scores End of match 
+
+Match KSZO Łódź against Odra Zamulona Wejherowo
+KSZO Łódź 1 : 0 Odra Zamulona Wejherowo
+Jaroslaw Kubicki scores KSZO Łódź 2 : 0 Odra Zamulona Wejherowo
+Karol Linetty scores KSZO Łódź 2 : 1 Odra Zamulona Wejherowo
+Michal Koj scores KSZO Łódź 2 : 2 Odra Zamulona Wejherowo
+Michal Koj scores End of match 
+
+Match Wólczanka Jastrzębie-Zdrój against Tomasovia Skierniewice
+End of match 
+
+Match GKS Jastrzębie Wrocław against Podhale Bielsko-Biała
+GKS Jastrzębie Wrocław 1 : 0 Podhale Bielsko-Biała
+Timothy Evans scores GKS Jastrzębie Wrocław 1 : 1 Podhale Bielsko-Biała
+Mariusz Stepinski scores GKS Jastrzębie Wrocław 1 : 2 Podhale Bielsko-Biała
+Terry Bell scores GKS Jastrzębie Wrocław 1 : 3 Podhale Bielsko-Biała
+Mariusz Stepinski scores GKS Jastrzębie Wrocław 1 : 4 Podhale Bielsko-Biała
+Terry Bell scores End of match 
+
+Match Arka Piekary Śląskie against Skra Dąbrowa Górnicza
+Arka Piekary Śląskie 1 : 0 Skra Dąbrowa Górnicza
+Albert Rogers scores Arka Piekary Śląskie 2 : 0 Skra Dąbrowa Górnicza
+Albert Rogers scores Arka Piekary Śląskie 3 : 0 Skra Dąbrowa Górnicza
+James Palmer scores Arka Piekary Śląskie 3 : 1 Skra Dąbrowa Górnicza
+Justin Sanchez scores Arka Piekary Śląskie 3 : 2 Skra Dąbrowa Górnicza
+Jacek Goralski scores Arka Piekary Śląskie 3 : 3 Skra Dąbrowa Górnicza
+Jacek Goralski scores End of match 
+
+Match Legia Czerwona Gwiazda Gdańsk against Radomiak Radomsko
+Legia Czerwona Gwiazda Gdańsk 1 : 0 Radomiak Radomsko
+Szymon Zurkowski scores Legia Czerwona Gwiazda Gdańsk 2 : 0 Radomiak Radomsko
+Szymon Zurkowski scores Legia Czerwona Gwiazda Gdańsk 3 : 0 Radomiak Radomsko
+Szymon Zurkowski scores Legia Czerwona Gwiazda Gdańsk 3 : 1 Radomiak Radomsko
+Rafal Pietrzak scores End of match 
+
+Match Radomiak Radomsko against Stal Częstochowa
+End of match 
+
+Match Skra Dąbrowa Górnicza against Legia Czerwona Gwiazda Gdańsk
+Skra Dąbrowa Górnicza 1 : 0 Legia Czerwona Gwiazda Gdańsk
+Roy Peterson scores Skra Dąbrowa Górnicza 1 : 1 Legia Czerwona Gwiazda Gdańsk
+Szymon Zurkowski scores Skra Dąbrowa Górnicza 1 : 2 Legia Czerwona Gwiazda Gdańsk
+Szymon Zurkowski scores Skra Dąbrowa Górnicza 1 : 3 Legia Czerwona Gwiazda Gdańsk
+Szymon Zurkowski scores End of match 
+
+Match Podhale Bielsko-Biała against Arka Piekary Śląskie
+Podhale Bielsko-Biała 1 : 0 Arka Piekary Śląskie
+Mateusz Abramowicz scores Podhale Bielsko-Biała 1 : 1 Arka Piekary Śląskie
+James Palmer scores Podhale Bielsko-Biała 1 : 2 Arka Piekary Śląskie
+James Palmer scores End of match 
+
+Match Tomasovia Skierniewice against GKS Jastrzębie Wrocław
+Tomasovia Skierniewice 0 : 1 GKS Jastrzębie Wrocław
+Timothy Evans scores Tomasovia Skierniewice 0 : 2 GKS Jastrzębie Wrocław
+Charles Gonzalez scores End of match 
+
+Match Odra Zamulona Wejherowo against Wólczanka Jastrzębie-Zdrój
+Odra Zamulona Wejherowo 1 : 0 Wólczanka Jastrzębie-Zdrój
+Michal Koj scores Odra Zamulona Wejherowo 2 : 0 Wólczanka Jastrzębie-Zdrój
+Michal Koj scores End of match 
+
+Match Wisła Płynąca Starachowice against KSZO Łódź
+Wisła Płynąca Starachowice 1 : 0 KSZO Łódź
+Arkadiusz Wozniak scores Wisła Płynąca Starachowice 1 : 1 KSZO Łódź
+Jaroslaw Kubicki scores End of match 
+
+Match Stal Częstochowa against KSZO Łódź
+Stal Częstochowa 1 : 0 KSZO Łódź
+Ernest Alexander scores Stal Częstochowa 1 : 1 KSZO Łódź
+Karol Linetty scores Stal Częstochowa 1 : 2 KSZO Łódź
+Karol Linetty scores End of match 
+
+Match Wólczanka Jastrzębie-Zdrój against Wisła Płynąca Starachowice
+Wólczanka Jastrzębie-Zdrój 0 : 1 Wisła Płynąca Starachowice
+Arkadiusz Wozniak scores End of match 
+
+Match GKS Jastrzębie Wrocław against Odra Zamulona Wejherowo
+GKS Jastrzębie Wrocław 0 : 1 Odra Zamulona Wejherowo
+Michal Koj scores End of match 
+
+Match Arka Piekary Śląskie against Tomasovia Skierniewice
+Arka Piekary Śląskie 1 : 0 Tomasovia Skierniewice
+Sean Carter scores Arka Piekary Śląskie 2 : 0 Tomasovia Skierniewice
+Albert Rogers scores Arka Piekary Śląskie 3 : 0 Tomasovia Skierniewice
+Lukasz Piatek scores Arka Piekary Śląskie 3 : 1 Tomasovia Skierniewice
+Dustin Zimmerman scores End of match 
+
+Match Legia Czerwona Gwiazda Gdańsk against Podhale Bielsko-Biała
+Legia Czerwona Gwiazda Gdańsk 1 : 0 Podhale Bielsko-Biała
+Szymon Zurkowski scores Legia Czerwona Gwiazda Gdańsk 1 : 1 Podhale Bielsko-Biała
+Maksymilian Hebel scores End of match 
+
+Match Radomiak Radomsko against Skra Dąbrowa Górnicza
+Radomiak Radomsko 1 : 0 Skra Dąbrowa Górnicza
+Rafal Pietrzak scores Radomiak Radomsko 2 : 0 Skra Dąbrowa Górnicza
+Rafal Pietrzak scores Radomiak Radomsko 3 : 0 Skra Dąbrowa Górnicza
+Rafal Pietrzak scores Radomiak Radomsko 3 : 1 Skra Dąbrowa Górnicza
+Jacek Goralski scores Radomiak Radomsko 3 : 2 Skra Dąbrowa Górnicza
+Roy Peterson scores End of match 
+
+Match Stal Częstochowa against Skra Dąbrowa Górnicza
+Stal Częstochowa 1 : 0 Skra Dąbrowa Górnicza
+Carlos Garcia scores Stal Częstochowa 2 : 0 Skra Dąbrowa Górnicza
+Waldemar Sobota scores Stal Częstochowa 3 : 0 Skra Dąbrowa Górnicza
+Waldemar Sobota scores Stal Częstochowa 3 : 1 Skra Dąbrowa Górnicza
+Jacek Goralski scores Stal Częstochowa 3 : 2 Skra Dąbrowa Górnicza
+Michal Marcjanik scores End of match 
+
+Match Podhale Bielsko-Biała against Radomiak Radomsko
+Podhale Bielsko-Biała 1 : 0 Radomiak Radomsko
+Terry Bell scores Podhale Bielsko-Biała 2 : 0 Radomiak Radomsko
+Terry Bell scores Podhale Bielsko-Biała 2 : 1 Radomiak Radomsko
+Rafal Pietrzak scores End of match 
+
+Match Tomasovia Skierniewice against Legia Czerwona Gwiazda Gdańsk
+Tomasovia Skierniewice 1 : 0 Legia Czerwona Gwiazda Gdańsk
+Dustin Zimmerman scores Tomasovia Skierniewice 2 : 0 Legia Czerwona Gwiazda Gdańsk
+David Phillips scores End of match 
+
+Match Odra Zamulona Wejherowo against Arka Piekary Śląskie
+Odra Zamulona Wejherowo 1 : 0 Arka Piekary Śląskie
+Duane Mills scores Odra Zamulona Wejherowo 2 : 0 Arka Piekary Śląskie
+Michal Koj scores End of match 
+
+Match Wisła Płynąca Starachowice against GKS Jastrzębie Wrocław
+Wisła Płynąca Starachowice 1 : 0 GKS Jastrzębie Wrocław
+Arkadiusz Wozniak scores Wisła Płynąca Starachowice 2 : 0 GKS Jastrzębie Wrocław
+Arkadiusz Wozniak scores Wisła Płynąca Starachowice 3 : 0 GKS Jastrzębie Wrocław
+Arkadiusz Wozniak scores Wisła Płynąca Starachowice 3 : 1 GKS Jastrzębie Wrocław
+Timothy Evans scores End of match 
+
+Match KSZO Łódź against Wólczanka Jastrzębie-Zdrój
+KSZO Łódź 1 : 0 Wólczanka Jastrzębie-Zdrój
+Karol Linetty scores KSZO Łódź 2 : 0 Wólczanka Jastrzębie-Zdrój
+Michal Nalepa scores KSZO Łódź 2 : 1 Wólczanka Jastrzębie-Zdrój
+Kamil Wojtkowski scores KSZO Łódź 2 : 2 Wólczanka Jastrzębie-Zdrój
+Tomasz Nowak scores End of match 
+
+Match Wólczanka Jastrzębie-Zdrój against Stal Częstochowa
+Wólczanka Jastrzębie-Zdrój 1 : 0 Stal Częstochowa
+Rafal Boguski scores Wólczanka Jastrzębie-Zdrój 1 : 1 Stal Częstochowa
+Carlos Garcia scores Wólczanka Jastrzębie-Zdrój 1 : 2 Stal Częstochowa
+Artur Sobiech scores End of match 
+
+Match GKS Jastrzębie Wrocław against KSZO Łódź
+GKS Jastrzębie Wrocław 1 : 0 KSZO Łódź
+Timothy Evans scores GKS Jastrzębie Wrocław 2 : 0 KSZO Łódź
+Timothy Evans scores GKS Jastrzębie Wrocław 2 : 1 KSZO Łódź
+Karol Linetty scores GKS Jastrzębie Wrocław 2 : 2 KSZO Łódź
+Jaroslaw Kubicki scores GKS Jastrzębie Wrocław 2 : 3 KSZO Łódź
+Karol Linetty scores End of match 
+
+Match Arka Piekary Śląskie against Wisła Płynąca Starachowice
+Arka Piekary Śląskie 1 : 0 Wisła Płynąca Starachowice
+Albert Rogers scores Arka Piekary Śląskie 2 : 0 Wisła Płynąca Starachowice
+Sean Carter scores Arka Piekary Śląskie 2 : 1 Wisła Płynąca Starachowice
+Lukasz Szukala scores End of match 
+
+Match Legia Czerwona Gwiazda Gdańsk against Odra Zamulona Wejherowo
+Legia Czerwona Gwiazda Gdańsk 1 : 0 Odra Zamulona Wejherowo
+Jack Bryant scores Legia Czerwona Gwiazda Gdańsk 1 : 1 Odra Zamulona Wejherowo
+Michal Koj scores Legia Czerwona Gwiazda Gdańsk 1 : 2 Odra Zamulona Wejherowo
+Greg Vega scores End of match 
+
+Match Radomiak Radomsko against Tomasovia Skierniewice
+Radomiak Radomsko 1 : 0 Tomasovia Skierniewice
+Lukasz Szukala scores Radomiak Radomsko 1 : 1 Tomasovia Skierniewice
+Dustin Zimmerman scores Radomiak Radomsko 1 : 2 Tomasovia Skierniewice
+Dustin Zimmerman scores End of match 
+
+Match Skra Dąbrowa Górnicza against Podhale Bielsko-Biała
+Skra Dąbrowa Górnicza 1 : 0 Podhale Bielsko-Biała
+Jacek Goralski scores Skra Dąbrowa Górnicza 2 : 0 Podhale Bielsko-Biała
+Jacek Goralski scores Skra Dąbrowa Górnicza 2 : 1 Podhale Bielsko-Biała
+Terry Bell scores End of match 
+
+Match Stal Częstochowa against Podhale Bielsko-Biała
+Stal Częstochowa 1 : 0 Podhale Bielsko-Biała
+Waldemar Sobota scores Stal Częstochowa 1 : 1 Podhale Bielsko-Biała
+Terry Bell scores Stal Częstochowa 1 : 2 Podhale Bielsko-Biała
+Mateusz Abramowicz scores Stal Częstochowa 1 : 3 Podhale Bielsko-Biała
+Terry Bell scores Stal Częstochowa 1 : 4 Podhale Bielsko-Biała
+Scott Cox scores End of match 
+
+Match Tomasovia Skierniewice against Skra Dąbrowa Górnicza
+Tomasovia Skierniewice 0 : 1 Skra Dąbrowa Górnicza
+Jacek Goralski scores End of match 
+
+Match Odra Zamulona Wejherowo against Radomiak Radomsko
+Odra Zamulona Wejherowo 1 : 0 Radomiak Radomsko
+Greg Vega scores Odra Zamulona Wejherowo 1 : 1 Radomiak Radomsko
+Lukasz Szukala scores Odra Zamulona Wejherowo 1 : 2 Radomiak Radomsko
+Rafal Pietrzak scores End of match 
+
+Match Wisła Płynąca Starachowice against Legia Czerwona Gwiazda Gdańsk
+Wisła Płynąca Starachowice 1 : 0 Legia Czerwona Gwiazda Gdańsk
+Arkadiusz Wozniak scores Wisła Płynąca Starachowice 2 : 0 Legia Czerwona Gwiazda Gdańsk
+Lukasz Szukala scores Wisła Płynąca Starachowice 2 : 1 Legia Czerwona Gwiazda Gdańsk
+Szymon Zurkowski scores End of match 
+
+Match KSZO Łódź against Arka Piekary Śląskie
+KSZO Łódź 0 : 1 Arka Piekary Śląskie
+Albert Rogers scores End of match 
+
+Match Wólczanka Jastrzębie-Zdrój against GKS Jastrzębie Wrocław
+Wólczanka Jastrzębie-Zdrój 0 : 1 GKS Jastrzębie Wrocław
+Timothy Evans scores Wólczanka Jastrzębie-Zdrój 0 : 2 GKS Jastrzębie Wrocław
+Lukasz Tyminski scores Wólczanka Jastrzębie-Zdrój 0 : 3 GKS Jastrzębie Wrocław
+Timothy Evans scores End of match 
+
+Match GKS Jastrzębie Wrocław against Stal Częstochowa
+GKS Jastrzębie Wrocław 1 : 0 Stal Częstochowa
+Charles Gonzalez scores GKS Jastrzębie Wrocław 1 : 1 Stal Częstochowa
+Waldemar Sobota scores GKS Jastrzębie Wrocław 1 : 2 Stal Częstochowa
+Waldemar Sobota scores End of match 
+
+Match Arka Piekary Śląskie against Wólczanka Jastrzębie-Zdrój
+Arka Piekary Śląskie 1 : 0 Wólczanka Jastrzębie-Zdrój
+Adam Mojta scores Arka Piekary Śląskie 2 : 0 Wólczanka Jastrzębie-Zdrój
+Adam Mojta scores Arka Piekary Śląskie 3 : 0 Wólczanka Jastrzębie-Zdrój
+Albert Rogers scores Arka Piekary Śląskie 4 : 0 Wólczanka Jastrzębie-Zdrój
+Adam Mojta scores Arka Piekary Śląskie 4 : 1 Wólczanka Jastrzębie-Zdrój
+Kamil Wojtkowski scores Arka Piekary Śląskie 4 : 2 Wólczanka Jastrzębie-Zdrój
+Tomasz Nowak scores End of match 
+
+Match Legia Czerwona Gwiazda Gdańsk against KSZO Łódź
+Legia Czerwona Gwiazda Gdańsk 1 : 0 KSZO Łódź
+Szymon Zurkowski scores Legia Czerwona Gwiazda Gdańsk 1 : 1 KSZO Łódź
+Karol Linetty scores Legia Czerwona Gwiazda Gdańsk 1 : 2 KSZO Łódź
+Karol Linetty scores Legia Czerwona Gwiazda Gdańsk 1 : 3 KSZO Łódź
+Karol Linetty scores Legia Czerwona Gwiazda Gdańsk 1 : 4 KSZO Łódź
+Jaroslaw Kubicki scores End of match 
+
+Match Radomiak Radomsko against Wisła Płynąca Starachowice
+Radomiak Radomsko 1 : 0 Wisła Płynąca Starachowice
+William Bennett scores Radomiak Radomsko 2 : 0 Wisła Płynąca Starachowice
+William Bennett scores End of match 
+
+Match Skra Dąbrowa Górnicza against Odra Zamulona Wejherowo
+Skra Dąbrowa Górnicza 1 : 0 Odra Zamulona Wejherowo
+Kamil Glik scores Skra Dąbrowa Górnicza 2 : 0 Odra Zamulona Wejherowo
+Jacek Goralski scores Skra Dąbrowa Górnicza 3 : 0 Odra Zamulona Wejherowo
+Jacek Goralski scores End of match 
+
+Match Podhale Bielsko-Biała against Tomasovia Skierniewice
+Podhale Bielsko-Biała 1 : 0 Tomasovia Skierniewice
+Terry Bell scores Podhale Bielsko-Biała 1 : 1 Tomasovia Skierniewice
+Dustin Zimmerman scores Podhale Bielsko-Biała 1 : 2 Tomasovia Skierniewice
+Michal Czarny scores End of match 
+
+Match Stal Częstochowa against Tomasovia Skierniewice
+Stal Częstochowa 1 : 0 Tomasovia Skierniewice
+Waldemar Sobota scores Stal Częstochowa 1 : 1 Tomasovia Skierniewice
+Pawel Stolarski scores Stal Częstochowa 1 : 2 Tomasovia Skierniewice
+Harry Ross scores Stal Częstochowa 1 : 3 Tomasovia Skierniewice
+David Phillips scores End of match 
+
+Match Odra Zamulona Wejherowo against Podhale Bielsko-Biała
+Odra Zamulona Wejherowo 1 : 0 Podhale Bielsko-Biała
+Michal Koj scores Odra Zamulona Wejherowo 2 : 0 Podhale Bielsko-Biała
+Michal Koj scores Odra Zamulona Wejherowo 3 : 0 Podhale Bielsko-Biała
+Michal Koj scores Odra Zamulona Wejherowo 3 : 1 Podhale Bielsko-Biała
+Terry Bell scores End of match 
+
+Match Wisła Płynąca Starachowice against Skra Dąbrowa Górnicza
+Wisła Płynąca Starachowice 1 : 0 Skra Dąbrowa Górnicza
+Arkadiusz Wozniak scores Wisła Płynąca Starachowice 2 : 0 Skra Dąbrowa Górnicza
+Arkadiusz Wozniak scores Wisła Płynąca Starachowice 3 : 0 Skra Dąbrowa Górnicza
+Arkadiusz Wozniak scores Wisła Płynąca Starachowice 3 : 1 Skra Dąbrowa Górnicza
+Jacek Goralski scores Wisła Płynąca Starachowice 3 : 2 Skra Dąbrowa Górnicza
+Jacek Goralski scores Wisła Płynąca Starachowice 3 : 3 Skra Dąbrowa Górnicza
+Jacek Goralski scores End of match 
+
+Match KSZO Łódź against Radomiak Radomsko
+KSZO Łódź 1 : 0 Radomiak Radomsko
+Karol Linetty scores KSZO Łódź 1 : 1 Radomiak Radomsko
+Lukasz Szukala scores KSZO Łódź 1 : 2 Radomiak Radomsko
+Rafal Pietrzak scores End of match 
+
+Match Wólczanka Jastrzębie-Zdrój against Legia Czerwona Gwiazda Gdańsk
+Wólczanka Jastrzębie-Zdrój 1 : 0 Legia Czerwona Gwiazda Gdańsk
+Tomasz Nowak scores Wólczanka Jastrzębie-Zdrój 1 : 1 Legia Czerwona Gwiazda Gdańsk
+Szymon Zurkowski scores Wólczanka Jastrzębie-Zdrój 1 : 2 Legia Czerwona Gwiazda Gdańsk
+Jack Bryant scores Wólczanka Jastrzębie-Zdrój 1 : 3 Legia Czerwona Gwiazda Gdańsk
+Szymon Zurkowski scores End of match 
+
+Match GKS Jastrzębie Wrocław against Arka Piekary Śląskie
+GKS Jastrzębie Wrocław 1 : 0 Arka Piekary Śląskie
+Charles Gonzalez scores GKS Jastrzębie Wrocław 2 : 0 Arka Piekary Śląskie
+Lukasz Tyminski scores GKS Jastrzębie Wrocław 2 : 1 Arka Piekary Śląskie
+Lukasz Piatek scores GKS Jastrzębie Wrocław 2 : 2 Arka Piekary Śląskie
+Albert Rogers scores GKS Jastrzębie Wrocław 2 : 3 Arka Piekary Śląskie
+Albert Rogers scores End of match 
+
+Match Arka Piekary Śląskie against Stal Częstochowa
+Arka Piekary Śląskie 1 : 0 Stal Częstochowa
+Albert Rogers scores Arka Piekary Śląskie 2 : 0 Stal Częstochowa
+Albert Rogers scores Arka Piekary Śląskie 2 : 1 Stal Częstochowa
+Waldemar Sobota scores End of match 
+
+Match Legia Czerwona Gwiazda Gdańsk against GKS Jastrzębie Wrocław
+Legia Czerwona Gwiazda Gdańsk 1 : 0 GKS Jastrzębie Wrocław
+Szymon Zurkowski scores Legia Czerwona Gwiazda Gdańsk 2 : 0 GKS Jastrzębie Wrocław
+Szymon Zurkowski scores Legia Czerwona Gwiazda Gdańsk 3 : 0 GKS Jastrzębie Wrocław
+Mateusz Cholewiak scores Legia Czerwona Gwiazda Gdańsk 4 : 0 GKS Jastrzębie Wrocław
+Szymon Zurkowski scores End of match 
+
+Match Radomiak Radomsko against Wólczanka Jastrzębie-Zdrój
+Radomiak Radomsko 1 : 0 Wólczanka Jastrzębie-Zdrój
+Piotr Cwielong scores Radomiak Radomsko 2 : 0 Wólczanka Jastrzębie-Zdrój
+Rafal Pietrzak scores End of match 
+
+Match Skra Dąbrowa Górnicza against KSZO Łódź
+Skra Dąbrowa Górnicza 1 : 0 KSZO Łódź
+Jacek Goralski scores Skra Dąbrowa Górnicza 2 : 0 KSZO Łódź
+Jacek Goralski scores Skra Dąbrowa Górnicza 2 : 1 KSZO Łódź
+Karol Linetty scores Skra Dąbrowa Górnicza 2 : 2 KSZO Łódź
+Karol Linetty scores Skra Dąbrowa Górnicza 2 : 3 KSZO Łódź
+Karol Linetty scores End of match 
+
+Match Podhale Bielsko-Biała against Wisła Płynąca Starachowice
+Podhale Bielsko-Biała 1 : 0 Wisła Płynąca Starachowice
+Terry Bell scores Podhale Bielsko-Biała 2 : 0 Wisła Płynąca Starachowice
+Terry Bell scores Podhale Bielsko-Biała 3 : 0 Wisła Płynąca Starachowice
+Terry Bell scores Podhale Bielsko-Biała 4 : 0 Wisła Płynąca Starachowice
+Scott Cox scores Podhale Bielsko-Biała 4 : 1 Wisła Płynąca Starachowice
+Arkadiusz Wozniak scores End of match 
+
+Match Tomasovia Skierniewice against Odra Zamulona Wejherowo
+Tomasovia Skierniewice 1 : 0 Odra Zamulona Wejherowo
+Dustin Zimmerman scores Tomasovia Skierniewice 1 : 1 Odra Zamulona Wejherowo
+Michal Koj scores Tomasovia Skierniewice 1 : 2 Odra Zamulona Wejherowo
+Michal Koj scores Tomasovia Skierniewice 1 : 3 Odra Zamulona Wejherowo
+Michal Koj scores End of match 
+
+
+
+****************************************************************
+       TEAM NAME                              PTS   W    D    L 
+1.  Arka Piekary Śląskie                      28    9    1    1   
+2.  Odra Zamulona Wejherowo                   20    6    2    3   
+3.  KSZO Łódź                                 19    5    4    2   
+4.  Wisła Płynąca Starachowice                18    5    3    3   
+5.  Skra Dąbrowa Górnicza                     17    5    2    4   
+6.  Radomiak Radomsko                         16    5    1    5   
+7.  Podhale Bielsko-Biała                     16    5    1    5   
+8.  Stal Częstochowa                          15    4    3    4   
+9.  Tomasovia Skierniewice                    14    4    2    5   
+10. Legia Czerwona Gwiazda Gdańsk             13    4    1    6   
+11. GKS Jastrzębie Wrocław                     9    3    0    8   
+12. Wólczanka Jastrzębie-Zdrój                 2    0    2    9   
+****************************************************************
+
+
+   MOST TALENTED PLAYERS   
+1. Dariusz Trela from Wólczanka Jastrzębie-Zdrój with 99 skill points. 
+2. Michal Pazdan from Skra Dąbrowa Górnicza with 99 skill points. 
+3. Waldemar Sobota from Stal Częstochowa with 99 skill points. 
+4. Jacek Goralski from Skra Dąbrowa Górnicza with 98 skill points. 
+5. Dawid Szymonowicz from Tomasovia Skierniewice with 96 skill points. 
+6. Adam Deja from Odra Zamulona Wejherowo with 95 skill points. 
+7. Sebastian Rudol from Skra Dąbrowa Górnicza with 94 skill points. 
+8. Mateusz Abramowicz from Podhale Bielsko-Biała with 94 skill points. 
+9. Lukasz Wolsztynski from Radomiak Radomsko with 92 skill points. 
+10. Mateusz Mozdzen from Podhale Bielsko-Biała with 92 skill points. 
+11. Lukasz Zwolinski from GKS Jastrzębie Wrocław with 91 skill points. 
+12. Piotr Leciejewski from GKS Jastrzębie Wrocław with 91 skill points. 
+13. Rafal Pietrzak from Radomiak Radomsko with 91 skill points. 
+14. Sebastian Rudol from Stal Częstochowa with 91 skill points. 
+15. Michal Nalepa from KSZO Łódź with 90 skill points. 
+16. Roy Peterson from Skra Dąbrowa Górnicza with 90 skill points. 
+17. Radoslaw Janukiewicz from KSZO Łódź with 89 skill points. 
+18. Jaroslaw Kubicki from KSZO Łódź with 89 skill points. 
+19. Kamil Glik from Skra Dąbrowa Górnicza with 89 skill points. 
+20. Lukasz Sierpina from Stal Częstochowa with 89 skill points. 
+
+    BEST LEAGUE SCORERS   
+1. Michal Koj STRIKER from team Odra Zamulona Wejherowo scores 16
+2. Albert Rogers STRIKER from team Arka Piekary Śląskie scores 16
+3. Szymon Zurkowski STRIKER from team Legia Czerwona Gwiazda Gdańsk scores 16
+4. Jacek Goralski STRIKER from team Skra Dąbrowa Górnicza scores 15
+
+
+    BEST TEAM SCORERS   
+Michal Koj STRIKER from team Odra Zamulona Wejherowo scores 16
+Albert Rogers STRIKER from team Arka Piekary Śląskie scores 16
+Szymon Zurkowski STRIKER from team Legia Czerwona Gwiazda Gdańsk scores 16
+Jacek Goralski STRIKER from team Skra Dąbrowa Górnicza scores 15
+Karol Linetty STRIKER from team KSZO Łódź scores 14
+Arkadiusz Wozniak STRIKER from team Wisła Płynąca Starachowice scores 13
+Terry Bell STRIKER from team Podhale Bielsko-Biała scores 12
+Timothy Evans STRIKER from team GKS Jastrzębie Wrocław scores 9
+Waldemar Sobota STRIKER from team Stal Częstochowa scores 9
+Rafal Pietrzak STRIKER from team Radomiak Radomsko scores 8
+Dustin Zimmerman MIDFIELDER from team Tomasovia Skierniewice scores 6
+Tomasz Nowak MIDFIELDER from team Wólczanka Jastrzębie-Zdrój scores 3
+

@@ -39,7 +39,6 @@ public abstract class Player{
     timeCantPlay = new Playable(0);
     }
 
-
     public void setGoals() {
         goals ++;
     }
