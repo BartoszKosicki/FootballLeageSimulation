@@ -2,6 +2,7 @@ package com.codecool.leaguestatistics.factory;
 
 import com.codecool.leaguestatistics.Utils;
 import com.codecool.leaguestatistics.model.*;
+import com.codecool.leaguestatistics.model.players.*;
 
 
 import java.util.ArrayList;

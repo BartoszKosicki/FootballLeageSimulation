@@ -1,4 +1,4 @@
-package com.codecool.leaguestatistics.model;
+package com.codecool.leaguestatistics.model.players;
 
 public interface DefenderPotential {
     int getDefSkill();

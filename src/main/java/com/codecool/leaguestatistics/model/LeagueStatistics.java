@@ -1,5 +1,7 @@
 package com.codecool.leaguestatistics.model;
 
+import com.codecool.leaguestatistics.model.players.Player;
+
 import java.util.*;
 import java.util.stream.Collectors;
 

@@ -2,7 +2,7 @@
 //
 //import com.codecool.leaguestatistics.model.Division;
 //import com.codecool.leaguestatistics.model.LeagueStatistics;
-//import com.codecool.leaguestatistics.model.Player;
+//import com.codecool.leaguestatistics.model.players.Player;
 //import com.codecool.leaguestatistics.model.Team;
 //import org.junit.jupiter.api.Test;
 //import org.junit.jupiter.api.BeforeAll;

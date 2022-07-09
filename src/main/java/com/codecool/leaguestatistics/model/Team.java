@@ -1,6 +1,7 @@
 package com.codecool.leaguestatistics.model;
 
 import com.codecool.leaguestatistics.Utils;
+import com.codecool.leaguestatistics.model.players.*;
 import lombok.Getter;
 
 import java.util.*;
@@ -82,8 +83,8 @@ public class Team {
         int changes=0;
         if (changeSquad){
             for (Player player: players) {
-                if (!player.canPlay && player.timeCantPlay.getCounter() > 0) {
-                    player.timeCantPlay.setCounter();
+                if (!player.isCanPlay() && player.getTimeCantPlay().getCounter() > 0) {
+                    player.getTimeCantPlay().setCounter();
                     } else {
                     player.setCanPlay(true);
                     changes++;
@@ -153,7 +154,7 @@ public class Team {
         currentStrikers = new ArrayList<>();
         int gkCount = 1;
         for (int i = 0; i < gkCount; i++) {
-            if (gk.get(i).canPlay) {
+            if (gk.get(i).isCanPlay()) {
                 squad.add(gk.get(i));
                 currentGoalkeeper = gk.get(i);
             } else if (gkCount < gk.size()) {
@@ -165,14 +166,14 @@ public class Team {
             }
         }
         for (int i = 0; i < defCount; i++) {
-            if (allDefenders.get(i).canPlay){
+            if (allDefenders.get(i).isCanPlay()){
                 squad.add(allDefenders.get(i));
             } else if (defCount < allDefenders.size()) {
                 defCount++;
             }
         }
         for (int i = 0; i < mfdCount; i++) {
-            if (allMidfielders.get(i).canPlay){
+            if (allMidfielders.get(i).isCanPlay()){
                 squad.add(allMidfielders.get(i));
                 currentMidfielders.add(allMidfielders.get(i));
             } else if (mfdCount < allMidfielders.size()) {
@@ -180,7 +181,7 @@ public class Team {
             }
         }
         for (int i = 0; i < strCount; i++) {
-            if (allStrikers.get(i).canPlay){
+            if (allStrikers.get(i).isCanPlay()){
                 squad.add(allStrikers.get(i));
                 currentStrikers.add(allStrikers.get(i));
             } else if (strCount < allStrikers.size()) {
@@ -206,17 +207,17 @@ public class Team {
     private int sumPlayerSkills(int defendersCount, int midfieldersCount, int strikersCount){
         int sum = 0;
         for (int i = 0; i < defendersCount; i++) {
-            if (allDefenders.get(i).canPlay) {
+            if (allDefenders.get(i).isCanPlay()) {
                 sum += allDefenders.get(i).getDefSkill();
             } else if (defendersCount< allDefenders.size()) defendersCount+=1;
         }
         for (int i = 0; i < midfieldersCount; i++) {
-            if (allMidfielders.get(i).canPlay)
+            if (allMidfielders.get(i).isCanPlay())
             sum+= allMidfielders.get(i).getAttackSkill() + allMidfielders.get(i).getDefenceSkill();
             else if (midfieldersCount < allMidfielders.size()) midfieldersCount += 1;
         }
         for (int i = 0; i < strikersCount; i++) {
-            if (allStrikers.get(i).canPlay)
+            if (allStrikers.get(i).isCanPlay())
             sum += allStrikers.get(i).getAttackPotential();
             else if (strikersCount < allStrikers.size()) strikersCount +=1;
         }

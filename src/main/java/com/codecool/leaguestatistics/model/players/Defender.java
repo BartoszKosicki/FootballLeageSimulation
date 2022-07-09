@@ -1,4 +1,4 @@
-package com.codecool.leaguestatistics.model;
+package com.codecool.leaguestatistics.model.players;
 
 public class Defender extends Player implements Comparable<Defender>, DefenderPotential{
     private final int defenceSkill;

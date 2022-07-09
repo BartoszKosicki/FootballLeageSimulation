@@ -1,8 +1,6 @@
-package com.codecool.leaguestatistics.model;
+package com.codecool.leaguestatistics.model.players;
 
-import com.codecool.leaguestatistics.Utils;
 import com.codecool.leaguestatistics.factory.NamesGenerator;
-import com.codecool.leaguestatistics.factory.PlayerNames;
 import lombok.Getter;
 import lombok.Setter;
 
@@ -12,14 +10,14 @@ import lombok.Setter;
 @Getter
 @Setter
 public abstract class Player{
-    protected final Position position;
-    protected String name;
-    protected String team;
-    protected int aggression;
-    protected int injuryPotential;
-    protected Playable timeCantPlay = new Playable(0);
-    protected boolean canPlay;
-    protected int goals;
+    private final Position position;
+    private String name;
+    private String team;
+    private int aggression;
+    private int injuryPotential;
+    private Playable timeCantPlay = new Playable(0);
+    private boolean canPlay;
+    private int goals;
 
     public Player(int aggression, int injuryPotential, String team, Position position) {
         this.name = NamesGenerator.getPlayerName();

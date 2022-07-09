@@ -4,7 +4,8 @@ import com.codecool.leaguestatistics.RoundPair;
 import com.codecool.leaguestatistics.Utils;
 import com.codecool.leaguestatistics.factory.LeagueFactory;
 import com.codecool.leaguestatistics.model.*;
-import com.codecool.leaguestatistics.view.PrintFactory;
+import com.codecool.leaguestatistics.model.players.*;
+import com.codecool.leaguestatistics.view.PrintScoresTable;
 
 import java.util.*;
 
@@ -50,7 +51,7 @@ public class Season {
 
     private void saveToFile(List<Team> League, String filePath) {
         List<Team> allWestTeams = LeagueStatistics.getAllTeamsSorted(League);
-        String dataToSaveWest = String.valueOf(PrintFactory.printTable(allWestTeams));
+        String dataToSaveWest = String.valueOf(PrintScoresTable.printTable(allWestTeams));
         SaveToFile.SaveToFile(dataToSaveWest, filePath);
         saveMostTalentedPlayer(League, filePath);
         saveBestScorers(League, filePath);
@@ -110,7 +111,7 @@ public class Season {
         +"\n\n\n");
         List<RoundPair> timeTable = Utils.generateTimeTable();
         for (RoundPair round: timeTable) {
-            matchHistory.append(playMatch(League.get(round.getTeam1()), League.get(round.getTeam2())));
+            matchHistory.append(playMatch(League.get(round.team1()), League.get(round.team2())));
         }
         SaveToFile.SaveToFile(matchHistory.toString(), pathFile);
     }
@@ -138,7 +139,7 @@ public class Season {
                 boolean scores = checkShoot(shooter, team2.getCurrentGoalkeeper());
                 if (scores) {
                     score[0]++;
-                    PrintFactory.printMatchFact(team1, team2, score);
+                    PrintScoresTable.printMatchFact(team1, team2, score);
                     matchHistory.append(team1.getName()).append(" ").append(score[0]).append(" : ").append(score[1]).append(" ").append(team2.getName()).append("\n");
                     matchHistory.append(shooter.getName()).append(" scores ");
                 }
@@ -151,14 +152,14 @@ public class Season {
                 boolean scores = checkShoot(shooter, team1.getCurrentGoalkeeper());
                 if (scores) {
                     score[1]++;
-                    PrintFactory.printMatchFact(team1, team2, score);
+                    PrintScoresTable.printMatchFact(team1, team2, score);
                     matchHistory.append(team1.getName()).append(" ").append(score[0]).append(" : ").append(score[1]).append(" ").append(team2.getName()).append("\n");
                     matchHistory.append(shooter.getName()).append(" scores ");
                 }
             }
         }
         resolveMatch(team1, team2, score);
-        PrintFactory.printMatchResult(team1, team2, score);
+        PrintScoresTable.printMatchResult(team1, team2, score);
         return matchHistory.append("End of match \n\n");
 
     }
@@ -193,7 +194,7 @@ public class Season {
                 player.setTimeCantPlay(new Playable(offForXTurn));
                 team.setChangeSquad(true);
                 team.setPlayerOff();
-                PrintFactory.playerCantPlayNextMatches(player, offForXTurn-1);
+                PrintScoresTable.playerCantPlayNextMatches(player, offForXTurn-1);
             }
         }
     }

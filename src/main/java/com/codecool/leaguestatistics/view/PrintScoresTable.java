@@ -2,12 +2,12 @@ package com.codecool.leaguestatistics.view;
 
 import com.codecool.leaguestatistics.model.Division;
 import com.codecool.leaguestatistics.model.LeagueStatistics;
-import com.codecool.leaguestatistics.model.Player;
+import com.codecool.leaguestatistics.model.players.Player;
 import com.codecool.leaguestatistics.model.Team;
 
 import java.util.List;
 
-public class PrintFactory {
+public class PrintScoresTable {
 
     public static StringBuilder printTable(List<Team>teams){
         Team longestNameTeam = LeagueStatistics.getTeamWithTheLongestName(teams);
@@ -21,7 +21,7 @@ public class PrintFactory {
         for (int i = 0, teamsSize = teams.size(); i < teamsSize; i++) {
             Team team = teams.get(i);
             String points, wins, draws, lose, iterator;
-            iterator = getPlaceString(i);
+            iterator = formatTeamPosition(i);
             String name = team.getName() + " ".repeat(nameHeaderLength - team.getName().length() + 1-iterator.length());
             points = getNumbersToTable(team.getCurrentPoints());
             wins = getNumbersToTable(team.getWins());
@@ -33,7 +33,7 @@ public class PrintFactory {
         System.out.println("*".repeat(teamHeader.length())+"\n");
         return results.append("*".repeat(teamHeader.length())).append("\n");
     }
-    private static String getPlaceString(int number){
+    private static String formatTeamPosition(int number){
         if (number + 1 < 10)
         return (number + 1) + ".  ";
         else return (number + 1) + ". ";
