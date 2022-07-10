@@ -52,6 +52,15 @@ public class LeagueFactory {
         }
     }
 
+    /**
+     * set team squad
+     * @param gkCount count of goalkeepers;
+     * @param defCount count of defenders;
+     * @param mfdCount count of midfielders;
+     * @param strCount count of strikers;
+     * @param teamName team name;
+     * @return all players in team;
+     */
     private static List<Player> getPlayers(int gkCount, int defCount, int mfdCount, int strCount, String teamName) {
         List<Player> teamPlayers = new ArrayList<>();
         for (int i = 0; i < gkCount; i++) {

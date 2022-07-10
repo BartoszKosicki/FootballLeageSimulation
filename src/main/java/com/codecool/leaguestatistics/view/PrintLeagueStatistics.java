@@ -41,7 +41,7 @@ public class PrintLeagueStatistics {
                 .max(Comparator.comparingInt(team->team.getName().length())).get();
     }
 
-    /**
+    /**OPTIONAL
      * Gets top teams with least number of lost matches.
      * If the amount of lost matches is equal, next deciding parameter is team's current points value.
      * @param teamsNumber The number of Teams to select.
