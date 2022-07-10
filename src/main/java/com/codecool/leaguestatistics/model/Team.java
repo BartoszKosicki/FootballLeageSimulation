@@ -47,6 +47,9 @@ public class Team {
         getTeamPotential();
     }
 
+    /**
+     * resets team statistics at the start of a new season
+     */
     public void startNewSeason(){
         wins = 0;
         draws = 0;
@@ -54,18 +57,27 @@ public class Team {
         playerOff = 0;
     }
 
+    /**
+     * checks before the game whether players can play, establishes the composition and potential of the team;
+     */
     public void beforeMatch(){
         checkPlayerStatus();
         getSquad();
         setPotentials();
     }
 
+    /**
+     * check if squad is changed and refresh team potential;
+     */
     private void setPotentials(){
         if (changeSquad){
             getTeamPotential();
         }
     }
 
+    /**
+     * set offensive and defensive team potential;
+     */
     private void getTeamPotential(){
         defencePotential = 0;
         attackPotential = 0;
@@ -79,6 +91,9 @@ public class Team {
         }
     }
 
+    /**
+     * check if team need new tactic due to player suspension;
+     */
     private void checkPlayerStatus(){
         int changes=0;
         if (changeSquad){
@@ -94,6 +109,9 @@ public class Team {
         changeSquad = changes>0;
     }
 
+    /**
+     * sets the line-up for the next match if any player is off;
+     */
     private void getSquad(){
         if (changeSquad) {
             setSquad();
@@ -101,6 +119,9 @@ public class Team {
         teamTactic.add(currentTactic);
     }
 
+    /**
+     * classifies players according to their position;
+     */
     private void setPlayersByPosition(){
         for (Player player : players) {
             if (player instanceof Goalkeeper) {
@@ -115,6 +136,9 @@ public class Team {
         }
     }
 
+    /**
+     * sort the best players according to their position;
+     */
     private void sortListByPlayersSkills(){
         Collections.sort(gk);
         Collections.sort(allDefenders);
@@ -122,12 +146,16 @@ public class Team {
         Collections.sort(allStrikers);
     }
 
+    /**
+     * sum team potential for each tactic and set best one to the next game;
+     * @return
+     */
     private String setTactics(){
         HashMap<String, Integer> tactics = new HashMap<>();
-        tactics.put("442", getSumAllPlayerSkillsForChosenTactic("t442"));
-        tactics.put("451", getSumAllPlayerSkillsForChosenTactic("t451"));
-        tactics.put("541", getSumAllPlayerSkillsForChosenTactic("t541"));
-        tactics.put("352", getSumAllPlayerSkillsForChosenTactic("t352"));
+        tactics.put("442", getSumAllPlayersPotentialsForChosenTactic("t442"));
+        tactics.put("451", getSumAllPlayersPotentialsForChosenTactic("t451"));
+        tactics.put("541", getSumAllPlayersPotentialsForChosenTactic("t541"));
+        tactics.put("352", getSumAllPlayersPotentialsForChosenTactic("t352"));
         Map.Entry<String, Integer> maxEntry = null;
         for (Map.Entry<String, Integer> entry : tactics.entrySet()) {
             if (maxEntry == null || entry.getValue() > maxEntry.getValue()) {
@@ -138,17 +166,26 @@ public class Team {
         return maxEntry.getKey();
     }
 
+    /**
+     * pick the best players for the most favourable tactic;
+     */
     private void setSquad(){
         String bestTactics = setTactics();
         switch (bestTactics){
-            case "442"-> chosePlayerToSquad(4,4,2);
-            case "451"-> chosePlayerToSquad(4,5,1);
-            case "541"-> chosePlayerToSquad(5,4,1);
-            case "352"-> chosePlayerToSquad(3,5,2);
+            case "442"-> chosePlayersToSquad(4,4,2);
+            case "451"-> chosePlayersToSquad(4,5,1);
+            case "541"-> chosePlayersToSquad(5,4,1);
+            case "352"-> chosePlayersToSquad(3,5,2);
         }
     }
 
-    private void chosePlayerToSquad(int defCount, int mfdCount, int strCount){
+    /**
+     * auxiliary function for setting squad to the next match
+     * @param defCount count defenders in picked tactics;
+     * @param mfdCount count midfielders in picked tactics;
+     * @param strCount count strikers in picked tactics;
+     */
+    private void chosePlayersToSquad(int defCount, int mfdCount, int strCount){
         this.squad = new ArrayList<>();
         currentMidfielders = new ArrayList<>();
         currentStrikers = new ArrayList<>();
@@ -190,21 +227,33 @@ public class Team {
         }
     }
 
-    private int getSumAllPlayerSkillsForChosenTactic(String tactics){
+    /**
+     * sum players potential for chosen tactic
+     * @param tactics name of the tactics;
+     * @return sum of players potential;
+     */
+    private int getSumAllPlayersPotentialsForChosenTactic(String tactics){
         switch (tactics){
             case "t442"-> {
-                return sumPlayerSkills(4,4,2);
+                return sumPlayersPotential(4,4,2);
             } case "t451"-> {
-                return sumPlayerSkills(4,5,1);
+                return sumPlayersPotential(4,5,1);
             } case "t541"-> {
-                return sumPlayerSkills(5,4,1);
+                return sumPlayersPotential(5,4,1);
             } default-> {
-                return sumPlayerSkills(3,5,2);
+                return sumPlayersPotential(3,5,2);
             }
         }
     }
 
-    private int sumPlayerSkills(int defendersCount, int midfieldersCount, int strikersCount){
+    /**
+     * sum player potential
+     * @param defendersCount count of defenders in tactic;
+     * @param midfieldersCount count of midfielders in tactic;
+     * @param strikersCount count of strikers in tactic;
+     * @return sum players potential in specific tactic;
+     */
+    private int sumPlayersPotential(int defendersCount, int midfieldersCount, int strikersCount){
         int sum = 0;
         for (int i = 0; i < defendersCount; i++) {
             if (allDefenders.get(i).isCanPlay()) {
@@ -224,8 +273,12 @@ public class Team {
         return sum;
     }
 
+    /**
+     * checks which player attempted the goal;
+     * @return player who attempted the goal;
+     */
     public Player searchForShotPlayer(){
-        boolean isStriker = Utils.isAction(65, 35);
+        boolean isStriker = Utils.isMatchAction(65, 35);
         if (isStriker){
             if (currentStrikers.size() != 1) {
                 return currentStrikers.get(Utils.getRandomValue(0, currentStrikers.size() - 1));
@@ -237,7 +290,7 @@ public class Team {
         }
     }
     /**
-     * Helper method that finds best player with most scored goals in team
+     * Helper method that finds the best player with most scored goals in team
      */
     public Player getBestScorer() {
         return players.stream()
@@ -251,34 +304,54 @@ public class Team {
         return wins*3 + draws;
     }
 
+    /**
+     * add win to team statistics;
+     */
     public void setWins() {
         this.wins ++;
     }
 
+    /**
+     * add draw to team statistics;
+     */
     public void setDraws() {
         this.draws ++;
     }
 
-
+    /**
+     * add lose to team statistics;
+     */
     public void setLoses() {
         this.loses ++;
     }
 
-    public List<Player> getPlayers() {
-        return players;
-    }
-
+    /**
+     * set if squad should be change
+     * @param changeSquad
+     */
     public void setChangeSquad(boolean changeSquad) {
         this.changeSquad = changeSquad;
     }
 
+    /**
+     * resolve counter of suspended player
+     */
     public void setPlayerOff() {
         playerOff ++;
     }
+
+    /**
+     * get the squad of the team that plays in the match
+     * @return
+     */
     public List<Player> playingPlayers(){
         return this.squad;
     }
 
+    /**
+     *
+     * @return get the player in the biggest potential in the team;
+     */
     public Player getBestSkillPlayerInTeam(){
         Player bestPlayer = null;
         int skillSum = 0;

@@ -513,3 +513,547 @@ Igor Lasicki STRIKER from team Stal Białystok scores 9
 Rafal Gikiewicz STRIKER from team Stal Grudziądz scores 8
 Grzegorz Bonin MIDFIELDER from team Avia Grudziądz scores 3
 
+*****************
+SEASON 1
+*****************
+
+
+Match Górnik Ruda Śląska against Miedź Będzin
+Górnik Ruda Śląska 1 : 0 Miedź Będzin
+Adam Mojta scores Górnik Ruda Śląska 2 : 0 Miedź Będzin
+Michael Moore scores Górnik Ruda Śląska 2 : 1 Miedź Będzin
+Daniel Richardson scores Górnik Ruda Śląska 2 : 2 Miedź Będzin
+Dominik Kun scores End of match 
+
+Match BrukBet Lublin against Stal Nierdzewna Bytom
+BrukBet Lublin 1 : 0 Stal Nierdzewna Bytom
+Grzegorz Bonin scores BrukBet Lublin 2 : 0 Stal Nierdzewna Bytom
+Jeffrey Hernandez scores BrukBet Lublin 3 : 0 Stal Nierdzewna Bytom
+Grzegorz Bonin scores BrukBet Lublin 3 : 1 Stal Nierdzewna Bytom
+Aleksander Jagiello scores End of match 
+
+Match Wisła Szeroka Skarżysko-Kamienna against Zagłębie Głebokie Kędzierzyn-Koźle
+Wisła Szeroka Skarżysko-Kamienna 1 : 0 Zagłębie Głebokie Kędzierzyn-Koźle
+Slawomir Peszko scores Wisła Szeroka Skarżysko-Kamienna 1 : 1 Zagłębie Głebokie Kędzierzyn-Koźle
+Michael Moore scores Wisła Szeroka Skarżysko-Kamienna 1 : 2 Zagłębie Głebokie Kędzierzyn-Koźle
+Michael Moore scores End of match 
+
+Match GKS Bydgoszcz against Sokół Zamość
+GKS Bydgoszcz 1 : 0 Sokół Zamość
+Jakub Lukowski scores GKS Bydgoszcz 2 : 0 Sokół Zamość
+Leonard Bush scores GKS Bydgoszcz 3 : 0 Sokół Zamość
+Leonard Bush scores End of match 
+
+Match GKS Gleboki Siedlce against Garbarnia Olsztyn
+GKS Gleboki Siedlce 1 : 0 Garbarnia Olsztyn
+Jaroslaw Fojut scores GKS Gleboki Siedlce 2 : 0 Garbarnia Olsztyn
+Jaroslaw Fojut scores GKS Gleboki Siedlce 3 : 0 Garbarnia Olsztyn
+Jaroslaw Fojut scores GKS Gleboki Siedlce 4 : 0 Garbarnia Olsztyn
+Jaroslaw Fojut scores GKS Gleboki Siedlce 5 : 0 Garbarnia Olsztyn
+Jaroslaw Fojut scores GKS Gleboki Siedlce 5 : 1 Garbarnia Olsztyn
+Piotr Wlazlo scores GKS Gleboki Siedlce 5 : 2 Garbarnia Olsztyn
+Benjamin Morgan scores GKS Gleboki Siedlce 5 : 3 Garbarnia Olsztyn
+Erik Miles scores GKS Gleboki Siedlce 5 : 4 Garbarnia Olsztyn
+Lukasz Moneta scores End of match 
+
+Match Zagłębie Ruhry Ostrowiec Świętokrzyski against Podlasie Częstochowa
+Zagłębie Ruhry Ostrowiec Świętokrzyski 1 : 0 Podlasie Częstochowa
+Przemyslaw Mystkowski scores Zagłębie Ruhry Ostrowiec Świętokrzyski 2 : 0 Podlasie Częstochowa
+Przemyslaw Mystkowski scores Zagłębie Ruhry Ostrowiec Świętokrzyski 3 : 0 Podlasie Częstochowa
+Przemyslaw Mystkowski scores Zagłębie Ruhry Ostrowiec Świętokrzyski 4 : 0 Podlasie Częstochowa
+Przemyslaw Mystkowski scores Zagłębie Ruhry Ostrowiec Świętokrzyski 4 : 1 Podlasie Częstochowa
+Bartosz Kapustka scores Zagłębie Ruhry Ostrowiec Świętokrzyski 4 : 2 Podlasie Częstochowa
+Bartosz Kapustka scores End of match 
+
+Match Podlasie Częstochowa against Górnik Ruda Śląska
+Podlasie Częstochowa 1 : 0 Górnik Ruda Śląska
+Bartosz Kapustka scores Podlasie Częstochowa 2 : 0 Górnik Ruda Śląska
+Bartosz Kapustka scores Podlasie Częstochowa 3 : 0 Górnik Ruda Śląska
+Bartosz Kapustka scores Podlasie Częstochowa 3 : 1 Górnik Ruda Śląska
+Bartosz Szeliga scores Podlasie Częstochowa 3 : 2 Górnik Ruda Śląska
+Bartosz Szeliga scores End of match 
+
+Match Garbarnia Olsztyn against Zagłębie Ruhry Ostrowiec Świętokrzyski
+Garbarnia Olsztyn 0 : 1 Zagłębie Ruhry Ostrowiec Świętokrzyski
+Przemyslaw Mystkowski scores Garbarnia Olsztyn 0 : 2 Zagłębie Ruhry Ostrowiec Świętokrzyski
+Przemyslaw Mystkowski scores Garbarnia Olsztyn 0 : 3 Zagłębie Ruhry Ostrowiec Świętokrzyski
+Marcin Pietrowski scores End of match 
+
+Match Sokół Zamość against GKS Gleboki Siedlce
+Sokół Zamość 1 : 0 GKS Gleboki Siedlce
+Stephen Morgan scores Sokół Zamość 1 : 1 GKS Gleboki Siedlce
+Jaroslaw Fojut scores Sokół Zamość 1 : 2 GKS Gleboki Siedlce
+Kenneth Smith scores Sokół Zamość 1 : 3 GKS Gleboki Siedlce
+Jaroslaw Fojut scores Sokół Zamość 1 : 4 GKS Gleboki Siedlce
+Jaroslaw Fojut scores End of match 
+
+Match Zagłębie Głebokie Kędzierzyn-Koźle against GKS Bydgoszcz
+Zagłębie Głebokie Kędzierzyn-Koźle 1 : 0 GKS Bydgoszcz
+Michael Moore scores Zagłębie Głebokie Kędzierzyn-Koźle 1 : 1 GKS Bydgoszcz
+Leonard Bush scores End of match 
+
+Match Stal Nierdzewna Bytom against Wisła Szeroka Skarżysko-Kamienna
+Stal Nierdzewna Bytom 1 : 0 Wisła Szeroka Skarżysko-Kamienna
+Krzysztof Maczynski scores Stal Nierdzewna Bytom 1 : 1 Wisła Szeroka Skarżysko-Kamienna
+Slawomir Peszko scores Stal Nierdzewna Bytom 1 : 2 Wisła Szeroka Skarżysko-Kamienna
+Mateusz Szczepaniak scores Stal Nierdzewna Bytom 1 : 3 Wisła Szeroka Skarżysko-Kamienna
+Ernest Alexander scores End of match 
+
+Match Miedź Będzin against BrukBet Lublin
+Miedź Będzin 1 : 0 BrukBet Lublin
+Daniel Richardson scores Miedź Będzin 1 : 1 BrukBet Lublin
+Grzegorz Bonin scores End of match 
+
+Match Górnik Ruda Śląska against BrukBet Lublin
+Górnik Ruda Śląska 1 : 0 BrukBet Lublin
+Bartosz Szeliga scores Górnik Ruda Śląska 2 : 0 BrukBet Lublin
+Michael Moore scores Górnik Ruda Śląska 3 : 0 BrukBet Lublin
+Jakub Kosecki scores Górnik Ruda Śląska 4 : 0 BrukBet Lublin
+Maciej Gorski scores Górnik Ruda Śląska 4 : 1 BrukBet Lublin
+Mariusz Stepinski scores Górnik Ruda Śląska 4 : 2 BrukBet Lublin
+Dawid Kort scores Górnik Ruda Śląska 4 : 3 BrukBet Lublin
+Grzegorz Bonin scores Górnik Ruda Śląska 4 : 4 BrukBet Lublin
+Grzegorz Bonin scores End of match 
+
+Match Wisła Szeroka Skarżysko-Kamienna against Miedź Będzin
+Wisła Szeroka Skarżysko-Kamienna 1 : 0 Miedź Będzin
+Slawomir Peszko scores Wisła Szeroka Skarżysko-Kamienna 2 : 0 Miedź Będzin
+Slawomir Peszko scores Wisła Szeroka Skarżysko-Kamienna 3 : 0 Miedź Będzin
+Mateusz Szczepaniak scores End of match 
+
+Match GKS Bydgoszcz against Stal Nierdzewna Bytom
+GKS Bydgoszcz 1 : 0 Stal Nierdzewna Bytom
+Jakub Lukowski scores GKS Bydgoszcz 2 : 0 Stal Nierdzewna Bytom
+Ernest Alexander scores GKS Bydgoszcz 2 : 1 Stal Nierdzewna Bytom
+Aleksander Jagiello scores GKS Bydgoszcz 2 : 2 Stal Nierdzewna Bytom
+Aleksander Jagiello scores End of match 
+
+Match GKS Gleboki Siedlce against Zagłębie Głebokie Kędzierzyn-Koźle
+GKS Gleboki Siedlce 1 : 0 Zagłębie Głebokie Kędzierzyn-Koźle
+Jaroslaw Fojut scores GKS Gleboki Siedlce 2 : 0 Zagłębie Głebokie Kędzierzyn-Koźle
+Grzegorz Bonin scores GKS Gleboki Siedlce 3 : 0 Zagłębie Głebokie Kędzierzyn-Koźle
+Grzegorz Bonin scores GKS Gleboki Siedlce 4 : 0 Zagłębie Głebokie Kędzierzyn-Koźle
+Jaroslaw Fojut scores GKS Gleboki Siedlce 4 : 1 Zagłębie Głebokie Kędzierzyn-Koźle
+Michael Moore scores End of match 
+
+Match Zagłębie Ruhry Ostrowiec Świętokrzyski against Sokół Zamość
+Zagłębie Ruhry Ostrowiec Świętokrzyski 1 : 0 Sokół Zamość
+Przemyslaw Mystkowski scores Zagłębie Ruhry Ostrowiec Świętokrzyski 2 : 0 Sokół Zamość
+Przemyslaw Mystkowski scores Zagłębie Ruhry Ostrowiec Świętokrzyski 3 : 0 Sokół Zamość
+Marcin Pietrowski scores Zagłębie Ruhry Ostrowiec Świętokrzyski 3 : 1 Sokół Zamość
+Marcin Warcholak scores Zagłębie Ruhry Ostrowiec Świętokrzyski 3 : 2 Sokół Zamość
+Stephen Morgan scores End of match 
+
+Match Podlasie Częstochowa against Garbarnia Olsztyn
+Podlasie Częstochowa 1 : 0 Garbarnia Olsztyn
+Bartosz Kapustka scores End of match 
+
+Match Garbarnia Olsztyn against Górnik Ruda Śląska
+Garbarnia Olsztyn 1 : 0 Górnik Ruda Śląska
+Erik Miles scores Garbarnia Olsztyn 2 : 0 Górnik Ruda Śląska
+Erik Miles scores Garbarnia Olsztyn 2 : 1 Górnik Ruda Śląska
+Bartosz Szeliga scores Garbarnia Olsztyn 2 : 2 Górnik Ruda Śląska
+Bartosz Szeliga scores End of match 
+
+Match Sokół Zamość against Podlasie Częstochowa
+Sokół Zamość 1 : 0 Podlasie Częstochowa
+Marcin Warcholak scores Sokół Zamość 2 : 0 Podlasie Częstochowa
+Patryk Malecki scores Sokół Zamość 3 : 0 Podlasie Częstochowa
+Stephen Morgan scores Sokół Zamość 4 : 0 Podlasie Częstochowa
+Stephen Morgan scores Sokół Zamość 5 : 0 Podlasie Częstochowa
+Stephen Morgan scores Sokół Zamość 6 : 0 Podlasie Częstochowa
+Phillip Peterson scores Sokół Zamość 6 : 1 Podlasie Częstochowa
+Lukasz Kosakiewicz scores Sokół Zamość 6 : 2 Podlasie Częstochowa
+Bartosz Kapustka scores Sokół Zamość 6 : 3 Podlasie Częstochowa
+Pawel Olkowski scores End of match 
+
+Match Zagłębie Głebokie Kędzierzyn-Koźle against Zagłębie Ruhry Ostrowiec Świętokrzyski
+Zagłębie Głebokie Kędzierzyn-Koźle 1 : 0 Zagłębie Ruhry Ostrowiec Świętokrzyski
+Michael Moore scores Zagłębie Głebokie Kędzierzyn-Koźle 1 : 1 Zagłębie Ruhry Ostrowiec Świętokrzyski
+Przemyslaw Mystkowski scores End of match 
+
+Match Stal Nierdzewna Bytom against GKS Gleboki Siedlce
+Stal Nierdzewna Bytom 1 : 0 GKS Gleboki Siedlce
+Aleksander Jagiello scores Stal Nierdzewna Bytom 1 : 1 GKS Gleboki Siedlce
+Jaroslaw Fojut scores Stal Nierdzewna Bytom 1 : 2 GKS Gleboki Siedlce
+Jaroslaw Fojut scores Stal Nierdzewna Bytom 1 : 3 GKS Gleboki Siedlce
+Johnny Williams scores Stal Nierdzewna Bytom 1 : 4 GKS Gleboki Siedlce
+Jaroslaw Fojut scores End of match 
+
+Match Miedź Będzin against GKS Bydgoszcz
+Miedź Będzin 0 : 1 GKS Bydgoszcz
+Leonard Bush scores Miedź Będzin 0 : 2 GKS Bydgoszcz
+Clifton Boyd scores Miedź Będzin 0 : 3 GKS Bydgoszcz
+Leonard Bush scores Miedź Będzin 0 : 4 GKS Bydgoszcz
+Jakub Lukowski scores End of match 
+
+Match BrukBet Lublin against Wisła Szeroka Skarżysko-Kamienna
+BrukBet Lublin 1 : 0 Wisła Szeroka Skarżysko-Kamienna
+Jeffrey Hernandez scores BrukBet Lublin 1 : 1 Wisła Szeroka Skarżysko-Kamienna
+Slawomir Peszko scores End of match 
+
+Match Górnik Ruda Śląska against Wisła Szeroka Skarżysko-Kamienna
+Górnik Ruda Śląska 0 : 1 Wisła Szeroka Skarżysko-Kamienna
+Slawomir Peszko scores Górnik Ruda Śląska 0 : 2 Wisła Szeroka Skarżysko-Kamienna
+Ariel Borysiuk scores Górnik Ruda Śląska 0 : 3 Wisła Szeroka Skarżysko-Kamienna
+Slawomir Peszko scores End of match 
+
+Match GKS Bydgoszcz against BrukBet Lublin
+End of match 
+
+Match GKS Gleboki Siedlce against Miedź Będzin
+GKS Gleboki Siedlce 1 : 0 Miedź Będzin
+Jaroslaw Fojut scores GKS Gleboki Siedlce 2 : 0 Miedź Będzin
+Jaroslaw Fojut scores GKS Gleboki Siedlce 3 : 0 Miedź Będzin
+Johnny Williams scores GKS Gleboki Siedlce 4 : 0 Miedź Będzin
+Jaroslaw Fojut scores GKS Gleboki Siedlce 5 : 0 Miedź Będzin
+Jaroslaw Fojut scores GKS Gleboki Siedlce 5 : 1 Miedź Będzin
+Daniel Richardson scores End of match 
+
+Match Zagłębie Ruhry Ostrowiec Świętokrzyski against Stal Nierdzewna Bytom
+Zagłębie Ruhry Ostrowiec Świętokrzyski 1 : 0 Stal Nierdzewna Bytom
+Przemyslaw Mystkowski scores Zagłębie Ruhry Ostrowiec Świętokrzyski 2 : 0 Stal Nierdzewna Bytom
+Przemyslaw Mystkowski scores Zagłębie Ruhry Ostrowiec Świętokrzyski 3 : 0 Stal Nierdzewna Bytom
+Przemyslaw Mystkowski scores Zagłębie Ruhry Ostrowiec Świętokrzyski 4 : 0 Stal Nierdzewna Bytom
+Billy Martinez scores Zagłębie Ruhry Ostrowiec Świętokrzyski 4 : 1 Stal Nierdzewna Bytom
+Aleksander Jagiello scores End of match 
+
+Match Podlasie Częstochowa against Zagłębie Głebokie Kędzierzyn-Koźle
+Podlasie Częstochowa 1 : 0 Zagłębie Głebokie Kędzierzyn-Koźle
+Pawel Olkowski scores Podlasie Częstochowa 2 : 0 Zagłębie Głebokie Kędzierzyn-Koźle
+Bartosz Kapustka scores Podlasie Częstochowa 3 : 0 Zagłębie Głebokie Kędzierzyn-Koźle
+Bartosz Kapustka scores Podlasie Częstochowa 4 : 0 Zagłębie Głebokie Kędzierzyn-Koźle
+Bartosz Kapustka scores Podlasie Częstochowa 5 : 0 Zagłębie Głebokie Kędzierzyn-Koźle
+Eugen Polanski scores Podlasie Częstochowa 5 : 1 Zagłębie Głebokie Kędzierzyn-Koźle
+Michael Moore scores End of match 
+
+Match Garbarnia Olsztyn against Sokół Zamość
+Garbarnia Olsztyn 1 : 0 Sokół Zamość
+Erik Miles scores Garbarnia Olsztyn 2 : 0 Sokół Zamość
+Piotr Wlazlo scores Garbarnia Olsztyn 2 : 1 Sokół Zamość
+Michal Chrapek scores Garbarnia Olsztyn 2 : 2 Sokół Zamość
+Stephen Morgan scores End of match 
+
+Match Górnik Ruda Śląska against Sokół Zamość
+Górnik Ruda Śląska 0 : 1 Sokół Zamość
+Stephen Morgan scores Górnik Ruda Śląska 0 : 2 Sokół Zamość
+Stephen Morgan scores End of match 
+
+Match Zagłębie Głebokie Kędzierzyn-Koźle against Garbarnia Olsztyn
+Zagłębie Głebokie Kędzierzyn-Koźle 1 : 0 Garbarnia Olsztyn
+Michael Moore scores Zagłębie Głebokie Kędzierzyn-Koźle 1 : 1 Garbarnia Olsztyn
+Erik Miles scores End of match 
+
+Match Stal Nierdzewna Bytom against Podlasie Częstochowa
+Stal Nierdzewna Bytom 1 : 0 Podlasie Częstochowa
+Aleksander Jagiello scores End of match 
+
+Match Miedź Będzin against Zagłębie Ruhry Ostrowiec Świętokrzyski
+Miedź Będzin 1 : 0 Zagłębie Ruhry Ostrowiec Świętokrzyski
+Daniel Richardson scores Miedź Będzin 1 : 1 Zagłębie Ruhry Ostrowiec Świętokrzyski
+Przemyslaw Mystkowski scores Miedź Będzin 1 : 2 Zagłębie Ruhry Ostrowiec Świętokrzyski
+Przemyslaw Mystkowski scores Miedź Będzin 1 : 3 Zagłębie Ruhry Ostrowiec Świętokrzyski
+Przemyslaw Mystkowski scores Miedź Będzin 1 : 4 Zagłębie Ruhry Ostrowiec Świętokrzyski
+Przemyslaw Mystkowski scores Miedź Będzin 1 : 5 Zagłębie Ruhry Ostrowiec Świętokrzyski
+Przemyslaw Mystkowski scores End of match 
+
+Match BrukBet Lublin against GKS Gleboki Siedlce
+BrukBet Lublin 1 : 0 GKS Gleboki Siedlce
+Grzegorz Bonin scores BrukBet Lublin 1 : 1 GKS Gleboki Siedlce
+Jaroslaw Fojut scores BrukBet Lublin 1 : 2 GKS Gleboki Siedlce
+Jaroslaw Fojut scores BrukBet Lublin 1 : 3 GKS Gleboki Siedlce
+Jaroslaw Fojut scores BrukBet Lublin 1 : 4 GKS Gleboki Siedlce
+Jaroslaw Fojut scores BrukBet Lublin 1 : 5 GKS Gleboki Siedlce
+Johnny Williams scores BrukBet Lublin 1 : 6 GKS Gleboki Siedlce
+Jaroslaw Fojut scores BrukBet Lublin 1 : 7 GKS Gleboki Siedlce
+Jaroslaw Fojut scores End of match 
+
+Match Wisła Szeroka Skarżysko-Kamienna against GKS Bydgoszcz
+Wisła Szeroka Skarżysko-Kamienna 1 : 0 GKS Bydgoszcz
+Slawomir Peszko scores Wisła Szeroka Skarżysko-Kamienna 2 : 0 GKS Bydgoszcz
+Ernest Alexander scores End of match 
+
+Match GKS Bydgoszcz against Górnik Ruda Śląska
+GKS Bydgoszcz 1 : 0 Górnik Ruda Śląska
+Ernest Alexander scores GKS Bydgoszcz 1 : 1 Górnik Ruda Śląska
+Bartosz Szeliga scores GKS Bydgoszcz 1 : 2 Górnik Ruda Śląska
+Bartosz Szeliga scores End of match 
+
+Match GKS Gleboki Siedlce against Wisła Szeroka Skarżysko-Kamienna
+GKS Gleboki Siedlce 1 : 0 Wisła Szeroka Skarżysko-Kamienna
+Grzegorz Bonin scores GKS Gleboki Siedlce 2 : 0 Wisła Szeroka Skarżysko-Kamienna
+Johnny Williams scores End of match 
+
+Match Zagłębie Ruhry Ostrowiec Świętokrzyski against BrukBet Lublin
+Zagłębie Ruhry Ostrowiec Świętokrzyski 1 : 0 BrukBet Lublin
+Billy Taylor scores Zagłębie Ruhry Ostrowiec Świętokrzyski 2 : 0 BrukBet Lublin
+Przemyslaw Mystkowski scores Zagłębie Ruhry Ostrowiec Świętokrzyski 2 : 1 BrukBet Lublin
+Lukasz Moneta scores Zagłębie Ruhry Ostrowiec Świętokrzyski 2 : 2 BrukBet Lublin
+Grzegorz Bonin scores End of match 
+
+Match Podlasie Częstochowa against Miedź Będzin
+Podlasie Częstochowa 1 : 0 Miedź Będzin
+Bartosz Kapustka scores End of match 
+
+Match Garbarnia Olsztyn against Stal Nierdzewna Bytom
+Garbarnia Olsztyn 1 : 0 Stal Nierdzewna Bytom
+Benjamin Morgan scores Garbarnia Olsztyn 2 : 0 Stal Nierdzewna Bytom
+Benjamin Morgan scores Garbarnia Olsztyn 3 : 0 Stal Nierdzewna Bytom
+Erik Miles scores Garbarnia Olsztyn 3 : 1 Stal Nierdzewna Bytom
+Aleksander Jagiello scores Garbarnia Olsztyn 3 : 2 Stal Nierdzewna Bytom
+Aleksander Jagiello scores End of match 
+
+Match Sokół Zamość against Zagłębie Głebokie Kędzierzyn-Koźle
+Sokół Zamość 1 : 0 Zagłębie Głebokie Kędzierzyn-Koźle
+Stephen Morgan scores Sokół Zamość 1 : 1 Zagłębie Głebokie Kędzierzyn-Koźle
+Jimmy Kelly scores Sokół Zamość 1 : 2 Zagłębie Głebokie Kędzierzyn-Koźle
+Michael Moore scores End of match 
+
+Match Górnik Ruda Śląska against Zagłębie Głebokie Kędzierzyn-Koźle
+Górnik Ruda Śląska 1 : 0 Zagłębie Głebokie Kędzierzyn-Koźle
+Bartosz Szeliga scores Górnik Ruda Śląska 1 : 1 Zagłębie Głebokie Kędzierzyn-Koźle
+Michael Moore scores Górnik Ruda Śląska 1 : 2 Zagłębie Głebokie Kędzierzyn-Koźle
+Michael Moore scores Górnik Ruda Śląska 1 : 3 Zagłębie Głebokie Kędzierzyn-Koźle
+Michael Moore scores Górnik Ruda Śląska 1 : 4 Zagłębie Głebokie Kędzierzyn-Koźle
+Michael Moore scores Górnik Ruda Śląska 1 : 5 Zagłębie Głebokie Kędzierzyn-Koźle
+Michael Moore scores End of match 
+
+Match Stal Nierdzewna Bytom against Sokół Zamość
+Stal Nierdzewna Bytom 1 : 0 Sokół Zamość
+Aleksander Jagiello scores Stal Nierdzewna Bytom 2 : 0 Sokół Zamość
+Aleksander Jagiello scores Stal Nierdzewna Bytom 3 : 0 Sokół Zamość
+Aleksander Jagiello scores Stal Nierdzewna Bytom 4 : 0 Sokół Zamość
+Bartosz Kapustka scores Stal Nierdzewna Bytom 5 : 0 Sokół Zamość
+Aleksander Jagiello scores Stal Nierdzewna Bytom 5 : 1 Sokół Zamość
+Stephen Morgan scores Stal Nierdzewna Bytom 5 : 2 Sokół Zamość
+Michal Chrapek scores Stal Nierdzewna Bytom 5 : 3 Sokół Zamość
+Stephen Morgan scores Stal Nierdzewna Bytom 5 : 4 Sokół Zamość
+Stephen Morgan scores End of match 
+
+Match Miedź Będzin against Garbarnia Olsztyn
+End of match 
+
+Match BrukBet Lublin against Podlasie Częstochowa
+BrukBet Lublin 1 : 0 Podlasie Częstochowa
+Dawid Kort scores BrukBet Lublin 2 : 0 Podlasie Częstochowa
+Dawid Kort scores BrukBet Lublin 3 : 0 Podlasie Częstochowa
+Grzegorz Bonin scores BrukBet Lublin 4 : 0 Podlasie Częstochowa
+Grzegorz Bonin scores BrukBet Lublin 4 : 1 Podlasie Częstochowa
+Bartosz Kapustka scores BrukBet Lublin 4 : 2 Podlasie Częstochowa
+Piotr Wlazlo scores BrukBet Lublin 4 : 3 Podlasie Częstochowa
+Bartosz Kapustka scores BrukBet Lublin 4 : 4 Podlasie Częstochowa
+Bartosz Kapustka scores BrukBet Lublin 4 : 5 Podlasie Częstochowa
+Pawel Olkowski scores End of match 
+
+Match Wisła Szeroka Skarżysko-Kamienna against Zagłębie Ruhry Ostrowiec Świętokrzyski
+Wisła Szeroka Skarżysko-Kamienna 1 : 0 Zagłębie Ruhry Ostrowiec Świętokrzyski
+Slawomir Peszko scores Wisła Szeroka Skarżysko-Kamienna 2 : 0 Zagłębie Ruhry Ostrowiec Świętokrzyski
+Slawomir Peszko scores Wisła Szeroka Skarżysko-Kamienna 2 : 1 Zagłębie Ruhry Ostrowiec Świętokrzyski
+Przemyslaw Mystkowski scores Wisła Szeroka Skarżysko-Kamienna 2 : 2 Zagłębie Ruhry Ostrowiec Świętokrzyski
+Przemyslaw Mystkowski scores Wisła Szeroka Skarżysko-Kamienna 2 : 3 Zagłębie Ruhry Ostrowiec Świętokrzyski
+Przemyslaw Mystkowski scores End of match 
+
+Match GKS Bydgoszcz against GKS Gleboki Siedlce
+GKS Bydgoszcz 0 : 1 GKS Gleboki Siedlce
+Jaroslaw Fojut scores End of match 
+
+Match GKS Gleboki Siedlce against Górnik Ruda Śląska
+GKS Gleboki Siedlce 1 : 0 Górnik Ruda Śląska
+Jaroslaw Fojut scores GKS Gleboki Siedlce 2 : 0 Górnik Ruda Śląska
+Jaroslaw Fojut scores GKS Gleboki Siedlce 2 : 1 Górnik Ruda Śląska
+Michael Moore scores GKS Gleboki Siedlce 2 : 2 Górnik Ruda Śląska
+Bartosz Szeliga scores GKS Gleboki Siedlce 2 : 3 Górnik Ruda Śląska
+Bartosz Szeliga scores GKS Gleboki Siedlce 2 : 4 Górnik Ruda Śląska
+Bartosz Szeliga scores End of match 
+
+Match Zagłębie Ruhry Ostrowiec Świętokrzyski against GKS Bydgoszcz
+Zagłębie Ruhry Ostrowiec Świętokrzyski 1 : 0 GKS Bydgoszcz
+Przemyslaw Mystkowski scores End of match 
+
+Match Podlasie Częstochowa against Wisła Szeroka Skarżysko-Kamienna
+Podlasie Częstochowa 1 : 0 Wisła Szeroka Skarżysko-Kamienna
+Eugen Polanski scores Podlasie Częstochowa 2 : 0 Wisła Szeroka Skarżysko-Kamienna
+Bartosz Kapustka scores Podlasie Częstochowa 3 : 0 Wisła Szeroka Skarżysko-Kamienna
+Bartosz Kapustka scores Podlasie Częstochowa 4 : 0 Wisła Szeroka Skarżysko-Kamienna
+Bartosz Kapustka scores Podlasie Częstochowa 4 : 1 Wisła Szeroka Skarżysko-Kamienna
+Mateusz Szczepaniak scores End of match 
+
+Match Garbarnia Olsztyn against BrukBet Lublin
+Garbarnia Olsztyn 1 : 0 BrukBet Lublin
+Piotr Wlazlo scores Garbarnia Olsztyn 2 : 0 BrukBet Lublin
+Erik Miles scores Garbarnia Olsztyn 3 : 0 BrukBet Lublin
+Lukasz Moneta scores Garbarnia Olsztyn 4 : 0 BrukBet Lublin
+Lukasz Moneta scores Garbarnia Olsztyn 5 : 0 BrukBet Lublin
+Erik Miles scores Garbarnia Olsztyn 5 : 1 BrukBet Lublin
+Grzegorz Bonin scores End of match 
+
+Match Sokół Zamość against Miedź Będzin
+Sokół Zamość 1 : 0 Miedź Będzin
+Stephen Morgan scores Sokół Zamość 2 : 0 Miedź Będzin
+Patryk Malecki scores Sokół Zamość 3 : 0 Miedź Będzin
+Stephen Morgan scores Sokół Zamość 3 : 1 Miedź Będzin
+Radoslaw Cierzniak scores Sokół Zamość 3 : 2 Miedź Będzin
+Radoslaw Cierzniak scores End of match 
+
+Match Zagłębie Głebokie Kędzierzyn-Koźle against Stal Nierdzewna Bytom
+Zagłębie Głebokie Kędzierzyn-Koźle 1 : 0 Stal Nierdzewna Bytom
+Michael Moore scores Zagłębie Głebokie Kędzierzyn-Koźle 2 : 0 Stal Nierdzewna Bytom
+Fred Watson scores Zagłębie Głebokie Kędzierzyn-Koźle 3 : 0 Stal Nierdzewna Bytom
+Michael Moore scores Zagłębie Głebokie Kędzierzyn-Koźle 4 : 0 Stal Nierdzewna Bytom
+Michael Moore scores Zagłębie Głebokie Kędzierzyn-Koźle 4 : 1 Stal Nierdzewna Bytom
+Aleksander Jagiello scores End of match 
+
+Match Górnik Ruda Śląska against Stal Nierdzewna Bytom
+Górnik Ruda Śląska 1 : 0 Stal Nierdzewna Bytom
+Jakub Kosecki scores Górnik Ruda Śląska 2 : 0 Stal Nierdzewna Bytom
+Bartosz Szeliga scores Górnik Ruda Śląska 3 : 0 Stal Nierdzewna Bytom
+Bartosz Szeliga scores Górnik Ruda Śląska 3 : 1 Stal Nierdzewna Bytom
+Bartosz Kapustka scores Górnik Ruda Śląska 3 : 2 Stal Nierdzewna Bytom
+Aleksander Jagiello scores Górnik Ruda Śląska 3 : 3 Stal Nierdzewna Bytom
+Krzysztof Maczynski scores End of match 
+
+Match Miedź Będzin against Zagłębie Głebokie Kędzierzyn-Koźle
+Miedź Będzin 1 : 0 Zagłębie Głebokie Kędzierzyn-Koźle
+Daniel Richardson scores Miedź Będzin 1 : 1 Zagłębie Głebokie Kędzierzyn-Koźle
+Fred Watson scores Miedź Będzin 1 : 2 Zagłębie Głebokie Kędzierzyn-Koźle
+Michael Moore scores End of match 
+
+Match BrukBet Lublin against Sokół Zamość
+BrukBet Lublin 1 : 0 Sokół Zamość
+Grzegorz Bonin scores BrukBet Lublin 2 : 0 Sokół Zamość
+Grzegorz Bonin scores BrukBet Lublin 3 : 0 Sokół Zamość
+Grzegorz Bonin scores BrukBet Lublin 3 : 1 Sokół Zamość
+Phillip Peterson scores BrukBet Lublin 3 : 2 Sokół Zamość
+Phillip Peterson scores End of match 
+
+Match Wisła Szeroka Skarżysko-Kamienna against Garbarnia Olsztyn
+Wisła Szeroka Skarżysko-Kamienna 1 : 0 Garbarnia Olsztyn
+Slawomir Peszko scores Wisła Szeroka Skarżysko-Kamienna 2 : 0 Garbarnia Olsztyn
+Ernest Alexander scores Wisła Szeroka Skarżysko-Kamienna 2 : 1 Garbarnia Olsztyn
+Benjamin Morgan scores End of match 
+
+Match GKS Bydgoszcz against Podlasie Częstochowa
+GKS Bydgoszcz 1 : 0 Podlasie Częstochowa
+Clifton Boyd scores GKS Bydgoszcz 2 : 0 Podlasie Częstochowa
+Clifton Boyd scores GKS Bydgoszcz 2 : 1 Podlasie Częstochowa
+Bartosz Kapustka scores End of match 
+
+Match GKS Gleboki Siedlce against Zagłębie Ruhry Ostrowiec Świętokrzyski
+GKS Gleboki Siedlce 1 : 0 Zagłębie Ruhry Ostrowiec Świętokrzyski
+Jaroslaw Fojut scores GKS Gleboki Siedlce 2 : 0 Zagłębie Ruhry Ostrowiec Świętokrzyski
+Jaroslaw Fojut scores GKS Gleboki Siedlce 3 : 0 Zagłębie Ruhry Ostrowiec Świętokrzyski
+Jaroslaw Fojut scores GKS Gleboki Siedlce 3 : 1 Zagłębie Ruhry Ostrowiec Świętokrzyski
+Przemyslaw Mystkowski scores GKS Gleboki Siedlce 3 : 2 Zagłębie Ruhry Ostrowiec Świętokrzyski
+Przemyslaw Mystkowski scores GKS Gleboki Siedlce 3 : 3 Zagłębie Ruhry Ostrowiec Świętokrzyski
+Przemyslaw Mystkowski scores GKS Gleboki Siedlce 3 : 4 Zagłębie Ruhry Ostrowiec Świętokrzyski
+Przemyslaw Mystkowski scores End of match 
+
+Match Zagłębie Ruhry Ostrowiec Świętokrzyski against Górnik Ruda Śląska
+Zagłębie Ruhry Ostrowiec Świętokrzyski 1 : 0 Górnik Ruda Śląska
+Billy Martinez scores Zagłębie Ruhry Ostrowiec Świętokrzyski 2 : 0 Górnik Ruda Śląska
+Przemyslaw Mystkowski scores Zagłębie Ruhry Ostrowiec Świętokrzyski 3 : 0 Górnik Ruda Śląska
+Przemyslaw Mystkowski scores Zagłębie Ruhry Ostrowiec Świętokrzyski 4 : 0 Górnik Ruda Śląska
+Przemyslaw Mystkowski scores Zagłębie Ruhry Ostrowiec Świętokrzyski 4 : 1 Górnik Ruda Śląska
+Bartosz Szeliga scores Zagłębie Ruhry Ostrowiec Świętokrzyski 4 : 2 Górnik Ruda Śląska
+Michael Moore scores End of match 
+
+Match Podlasie Częstochowa against GKS Gleboki Siedlce
+Podlasie Częstochowa 1 : 0 GKS Gleboki Siedlce
+Eugen Polanski scores Podlasie Częstochowa 2 : 0 GKS Gleboki Siedlce
+Bartosz Kapustka scores Podlasie Częstochowa 2 : 1 GKS Gleboki Siedlce
+Jaroslaw Fojut scores Podlasie Częstochowa 2 : 2 GKS Gleboki Siedlce
+Johnny Williams scores Podlasie Częstochowa 2 : 3 GKS Gleboki Siedlce
+Jaroslaw Fojut scores End of match 
+
+Match Garbarnia Olsztyn against GKS Bydgoszcz
+Garbarnia Olsztyn 0 : 1 GKS Bydgoszcz
+Ernest Alexander scores Garbarnia Olsztyn 0 : 2 GKS Bydgoszcz
+Leonard Bush scores Garbarnia Olsztyn 0 : 3 GKS Bydgoszcz
+Jakub Lukowski scores End of match 
+
+Match Sokół Zamość against Wisła Szeroka Skarżysko-Kamienna
+Sokół Zamość 1 : 0 Wisła Szeroka Skarżysko-Kamienna
+Stephen Morgan scores Sokół Zamość 1 : 1 Wisła Szeroka Skarżysko-Kamienna
+Slawomir Peszko scores Sokół Zamość 1 : 2 Wisła Szeroka Skarżysko-Kamienna
+Slawomir Peszko scores Sokół Zamość 1 : 3 Wisła Szeroka Skarżysko-Kamienna
+Slawomir Peszko scores End of match 
+
+Match Zagłębie Głebokie Kędzierzyn-Koźle against BrukBet Lublin
+Zagłębie Głebokie Kędzierzyn-Koźle 1 : 0 BrukBet Lublin
+Michael Moore scores Zagłębie Głebokie Kędzierzyn-Koźle 2 : 0 BrukBet Lublin
+Jimmy Kelly scores Zagłębie Głebokie Kędzierzyn-Koźle 3 : 0 BrukBet Lublin
+Michael Moore scores Zagłębie Głebokie Kędzierzyn-Koźle 3 : 1 BrukBet Lublin
+Grzegorz Bonin scores Zagłębie Głebokie Kędzierzyn-Koźle 3 : 2 BrukBet Lublin
+Grzegorz Bonin scores End of match 
+
+Match Stal Nierdzewna Bytom against Miedź Będzin
+Stal Nierdzewna Bytom 1 : 0 Miedź Będzin
+Aleksander Jagiello scores Stal Nierdzewna Bytom 2 : 0 Miedź Będzin
+Aleksander Jagiello scores Stal Nierdzewna Bytom 2 : 1 Miedź Będzin
+Mateusz Kryczka scores End of match 
+
+
+
+*************************************************************************
+       TEAM NAME                                       PTS   W    D    L 
+1.  Zagłębie Ruhry Ostrowiec Świętokrzyski             29    9    2    0   
+2.  GKS Gleboki Siedlce                                27    9    0    2   
+3.  Zagłębie Głebokie Kędzierzyn-Koźle                 21    6    3    2   
+4.  Wisła Szeroka Skarżysko-Kamienna                   19    6    1    4   
+5.  Podlasie Częstochowa                               18    6    0    5   
+6.  GKS Bydgoszcz                                      15    4    3    4   
+7.  BrukBet Lublin                                     11    2    5    4   
+8.  Stal Nierdzewna Bytom                              11    3    2    6   
+9.  Garbarnia Olsztyn                                  10    2    4    5   
+10. Sokół Zamość                                       10    3    1    7   
+11. Górnik Ruda Śląska                                 10    2    4    5   
+12. Miedź Będzin                                        3    0    3    8   
+*************************************************************************
+
+
+   MOST TALENTED PLAYERS   
+1. Damian Chmiel from Wisła Szeroka Skarżysko-Kamienna with 99 skill points. 
+2. Willie Diaz from Górnik Ruda Śląska with 99 skill points. 
+3. Tomasz Kupisz from Zagłębie Ruhry Ostrowiec Świętokrzyski with 97 skill points. 
+4. Bartosz Kapustka from Podlasie Częstochowa with 97 skill points. 
+5. Daniel Richardson from Miedź Będzin with 96 skill points. 
+6. Adam Mojta from Górnik Ruda Śląska with 96 skill points. 
+7. Mateusz Szczepaniak from Wisła Szeroka Skarżysko-Kamienna with 95 skill points. 
+8. Lukasz Moneta from BrukBet Lublin with 93 skill points. 
+9. Jaroslaw Fojut from GKS Gleboki Siedlce with 93 skill points. 
+10. Mateusz Zyro from Podlasie Częstochowa with 93 skill points. 
+11. Paul Rivera from Sokół Zamość with 93 skill points. 
+12. Gilberto Lynch from Stal Nierdzewna Bytom with 93 skill points. 
+13. Artur Jedrzejczyk from Stal Nierdzewna Bytom with 93 skill points. 
+14. Lukasz Moneta from Garbarnia Olsztyn with 92 skill points. 
+15. Pawel Jaroszynski from Górnik Ruda Śląska with 92 skill points. 
+16. Michal Koj from Miedź Będzin with 91 skill points. 
+17. Pawel Olkowski from Podlasie Częstochowa with 91 skill points. 
+18. Roger Baker from Miedź Będzin with 90 skill points. 
+19. Stephen Morgan from Sokół Zamość with 90 skill points. 
+20. Juan Mitchell from Wisła Szeroka Skarżysko-Kamienna with 89 skill points. 
+
+    BEST LEAGUE SCORERS   
+1. Jaroslaw Fojut STRIKER from team GKS Gleboki Siedlce scores 31
+2. Przemyslaw Mystkowski STRIKER from team Zagłębie Ruhry Ostrowiec Świętokrzyski scores 29
+3. Bartosz Kapustka STRIKER from team Podlasie Częstochowa scores 19
+4. Michael Moore STRIKER from team Zagłębie Głebokie Kędzierzyn-Koźle scores 19
+5. Aleksander Jagiello STRIKER from team Stal Nierdzewna Bytom scores 16
+6. Grzegorz Bonin STRIKER from team BrukBet Lublin scores 15
+7. Stephen Morgan STRIKER from team Sokół Zamość scores 15
+
+
+    BEST TEAM SCORERS   
+Jaroslaw Fojut STRIKER from team GKS Gleboki Siedlce scores 31
+Przemyslaw Mystkowski STRIKER from team Zagłębie Ruhry Ostrowiec Świętokrzyski scores 29
+Bartosz Kapustka STRIKER from team Podlasie Częstochowa scores 19
+Michael Moore STRIKER from team Zagłębie Głebokie Kędzierzyn-Koźle scores 19
+Aleksander Jagiello STRIKER from team Stal Nierdzewna Bytom scores 16
+Grzegorz Bonin STRIKER from team BrukBet Lublin scores 15
+Stephen Morgan STRIKER from team Sokół Zamość scores 15
+Slawomir Peszko STRIKER from team Wisła Szeroka Skarżysko-Kamienna scores 14
+Bartosz Szeliga STRIKER from team Górnik Ruda Śląska scores 14
+Erik Miles STRIKER from team Garbarnia Olsztyn scores 8
+Leonard Bush MIDFIELDER from team GKS Bydgoszcz scores 6
+Daniel Richardson MIDFIELDER from team Miedź Będzin scores 5
+

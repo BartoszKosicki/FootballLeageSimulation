@@ -31,6 +31,9 @@ public abstract class Player{
 
     public abstract int getTotalSkill();
 
+    /**
+     * reset player stats at the beginning of a new season;
+     */
     public void startNewSeason(){
     goals = 0;
     canPlay = true;

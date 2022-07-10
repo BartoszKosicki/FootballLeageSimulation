@@ -1,7 +1,5 @@
 package com.codecool.leaguestatistics;
 
-import com.codecool.leaguestatistics.model.Team;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -21,6 +19,10 @@ public class Utils {
         return ThreadLocalRandom.current().nextInt(min, max);
     }
 
+    /**
+     * generates a schedule of matches
+     * @return
+     */
     public static List<RoundPair> generateTimeTable(){
         List<RoundPair> timeTable = new ArrayList<>();
         Collections.addAll(timeTable, new RoundPair(11,0), new RoundPair(1,10), new RoundPair(2,9), new RoundPair(3,8), new RoundPair(4,7), new RoundPair(5,6));
@@ -37,11 +39,24 @@ public class Utils {
         return timeTable;
     }
 
+    /**
+     * verifies the chances of the match event occurring
+     * @param chanceToGo chance of a match event occurring;
+     * @param chanceNotToGo chance of a match event not occurring
+     * @return percentage chance of an event;
+     */
     private static int setPercentageToAction(int chanceToGo, int chanceNotToGo){
         int sum = chanceToGo + chanceNotToGo;
         return chanceToGo * 100 / sum;
     }
-    public static boolean isAction(int chanceToSuccess, int chanceToFail){
+
+    /**
+     * verifies that an event has occurred
+     * @param chanceToSuccess chance of a match event occurring;
+     * @param chanceToFail chance of a match event not occurring;
+     * @return whether there will be match action;
+     */
+    public static boolean isMatchAction(int chanceToSuccess, int chanceToFail){
         int attackPercentage = setPercentageToAction(chanceToSuccess, chanceToFail);
         return getRandomValue(0,100) <= attackPercentage;
     }

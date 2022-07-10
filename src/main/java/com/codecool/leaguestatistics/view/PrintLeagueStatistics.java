@@ -92,39 +92,53 @@ public class PrintLeagueStatistics {
     }
 
     /**
-     * Gets the player with the highest skill rate for given Division.
+     * Gets the player with the highest skill rate for given Division. For future use.
      */
     public static Player getMostTalentedPlayerInDivision(List<Team> teams) {
         return teams.stream()
                 .map(Team::getBestSkillPlayerInTeam).max(Comparator.comparing(Player::getTotalSkill)).get();
     }
 
-    public static List<Player> getMostTalentedPlayersInDivision(List<Player> players, int bestXPlayers) {
+    /**
+     * Get top players with the highest skill rate
+     * @param players list of players from which we select the best players
+     * @param numberPlayers number of top players to be displayed
+     * @return list of top players
+     */
+    public static List<Player> getMostTalentedPlayersInDivision(List<Player> players, int numberPlayers) {
         List<Player> topTalentedPlayers = new ArrayList<>();
         players.stream()
                 .sorted(Comparator.comparing(Player::getTotalSkill).reversed())
-                .limit(bestXPlayers)
+                .limit(numberPlayers)
                 .forEach(topTalentedPlayers::add);
         return topTalentedPlayers;
     }
 
     /**
      * OPTIONAL
-     * Returns the division with greatest amount of points.
+     * Returns the division with the greatest amount of points.
      * If there is more than one division with the same amount current points, then check the amounts of wins.
      */
     public static Division getStrongestDivision(List<Team> teams) {
         throw new RuntimeException("getStrongestDivision method not implemented");
     }
 
-
+    /**
+     * prints a list of results in the console
+     * @param teams list of teams in a given league
+     */
     public static void printTable(List<Team> teams){
         System.out.println("NAME     "+ "PTS" +  " W " + " D " + " L " + "TOTAL");
-        teams.stream().forEach(team -> System.out.println(team.getName() + "   " + team.getCurrentPoints() + " " +
+        teams.forEach(team -> System.out.println(team.getName() + "   " + team.getCurrentPoints() + " " +
                 team.getWins() + "  " + team.getDraws() + "  " + team.getLoses()
                 +"  " + (team.getLoses()+team.getDraws()+team.getWins())));
     }
 
+    /**
+     * selects the player from each team who has missed the most matches
+     * @param teams list of teams in a given league
+     * @return list players which missed the most matches
+     */
     public static Team getTeamWithMostSuspendedPlayers(List<Team> teams){
         return teams.stream()
                 .max(Comparator.comparing(Team::getPlayerOff)).get();

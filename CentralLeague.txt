@@ -507,3 +507,499 @@ Carl Howard MIDFIELDER from team Puszcza Poznań scores 6
 Cameron May MIDFIELDER from team Wisła Szeroka Leszno scores 5
 Moses Parks MIDFIELDER from team Cracovia Kędzierzyn-Koźle scores 5
 
+*****************
+SEASON 1
+*****************
+
+
+Match Widzew Ruda Śląska against Znicz Legionowo
+Widzew Ruda Śląska 1 : 0 Znicz Legionowo
+Tomasz Holota scores Widzew Ruda Śląska 2 : 0 Znicz Legionowo
+Tomasz Holota scores Widzew Ruda Śląska 2 : 1 Znicz Legionowo
+James Stewart scores Widzew Ruda Śląska 2 : 2 Znicz Legionowo
+Adam Matuszczyk scores End of match 
+
+Match Stal Brzeg Gorzów Wielkopolski against Czarni Kielce
+Stal Brzeg Gorzów Wielkopolski 1 : 0 Czarni Kielce
+Steve Lewis scores Stal Brzeg Gorzów Wielkopolski 2 : 0 Czarni Kielce
+Peter Anderson scores Stal Brzeg Gorzów Wielkopolski 3 : 0 Czarni Kielce
+Steve Lewis scores Stal Brzeg Gorzów Wielkopolski 4 : 0 Czarni Kielce
+Peter Anderson scores End of match 
+
+Match GKS Wykopek Gniezno against Lechia Zieloni Racibórz
+GKS Wykopek Gniezno 1 : 0 Lechia Zieloni Racibórz
+Jacek Goralski scores GKS Wykopek Gniezno 2 : 0 Lechia Zieloni Racibórz
+Jacek Goralski scores GKS Wykopek Gniezno 2 : 1 Lechia Zieloni Racibórz
+Steve Lewis scores GKS Wykopek Gniezno 2 : 2 Lechia Zieloni Racibórz
+Jose Jenkins scores End of match 
+
+Match BrukBet Tarnów against Orlęta Żory
+BrukBet Tarnów 1 : 0 Orlęta Żory
+James Williams scores BrukBet Tarnów 2 : 0 Orlęta Żory
+Marcin Pietrowski scores BrukBet Tarnów 3 : 0 Orlęta Żory
+Marcin Pietrowski scores BrukBet Tarnów 4 : 0 Orlęta Żory
+Marcin Pietrowski scores BrukBet Tarnów 4 : 1 Orlęta Żory
+Marek Wasiluk scores BrukBet Tarnów 4 : 2 Orlęta Żory
+Marek Wasiluk scores BrukBet Tarnów 4 : 3 Orlęta Żory
+Eric Morris scores End of match 
+
+Match Pogoń Kacapa Pruszków against Raków Opole
+Pogoń Kacapa Pruszków 1 : 0 Raków Opole
+Thomas Morris scores Pogoń Kacapa Pruszków 1 : 1 Raków Opole
+Dustin Zimmerman scores Pogoń Kacapa Pruszków 1 : 2 Raków Opole
+Piotr Marciniec scores Pogoń Kacapa Pruszków 1 : 3 Raków Opole
+Piotr Marciniec scores End of match 
+
+Match Piast Żmigród Tomaszów Mazowiecki against Gwarek Tarnowski Koszalin
+Piast Żmigród Tomaszów Mazowiecki 0 : 1 Gwarek Tarnowski Koszalin
+Raymond Coleman scores Piast Żmigród Tomaszów Mazowiecki 0 : 2 Gwarek Tarnowski Koszalin
+Raymond Coleman scores Piast Żmigród Tomaszów Mazowiecki 0 : 3 Gwarek Tarnowski Koszalin
+Raymond Coleman scores Piast Żmigród Tomaszów Mazowiecki 0 : 4 Gwarek Tarnowski Koszalin
+Raymond Coleman scores End of match 
+
+Match Gwarek Tarnowski Koszalin against Widzew Ruda Śląska
+Gwarek Tarnowski Koszalin 1 : 0 Widzew Ruda Śląska
+Raymond Coleman scores Gwarek Tarnowski Koszalin 2 : 0 Widzew Ruda Śląska
+Raymond Coleman scores Gwarek Tarnowski Koszalin 2 : 1 Widzew Ruda Śląska
+Tomasz Holota scores End of match 
+
+Match Raków Opole against Piast Żmigród Tomaszów Mazowiecki
+Raków Opole 1 : 0 Piast Żmigród Tomaszów Mazowiecki
+Dustin Zimmerman scores Raków Opole 2 : 0 Piast Żmigród Tomaszów Mazowiecki
+Dustin Zimmerman scores Raków Opole 3 : 0 Piast Żmigród Tomaszów Mazowiecki
+Dustin Zimmerman scores Raków Opole 4 : 0 Piast Żmigród Tomaszów Mazowiecki
+Dustin Zimmerman scores End of match 
+
+Match Orlęta Żory against Pogoń Kacapa Pruszków
+Orlęta Żory 1 : 0 Pogoń Kacapa Pruszków
+Marek Wasiluk scores Orlęta Żory 2 : 0 Pogoń Kacapa Pruszków
+Marek Wasiluk scores Orlęta Żory 2 : 1 Pogoń Kacapa Pruszków
+Maciej Gorski scores Orlęta Żory 2 : 2 Pogoń Kacapa Pruszków
+Lukasz Moneta scores End of match 
+
+Match Lechia Zieloni Racibórz against BrukBet Tarnów
+Lechia Zieloni Racibórz 1 : 0 BrukBet Tarnów
+Steve Lewis scores Lechia Zieloni Racibórz 2 : 0 BrukBet Tarnów
+Fred Green scores Lechia Zieloni Racibórz 3 : 0 BrukBet Tarnów
+Steve Lewis scores Lechia Zieloni Racibórz 4 : 0 BrukBet Tarnów
+Steve Lewis scores Lechia Zieloni Racibórz 5 : 0 BrukBet Tarnów
+Fred Green scores Lechia Zieloni Racibórz 5 : 1 BrukBet Tarnów
+Alan Walker scores Lechia Zieloni Racibórz 5 : 2 BrukBet Tarnów
+James Williams scores End of match 
+
+Match Czarni Kielce against GKS Wykopek Gniezno
+End of match 
+
+Match Znicz Legionowo against Stal Brzeg Gorzów Wielkopolski
+Znicz Legionowo 1 : 0 Stal Brzeg Gorzów Wielkopolski
+Adam Matuszczyk scores Znicz Legionowo 2 : 0 Stal Brzeg Gorzów Wielkopolski
+Adam Matuszczyk scores Znicz Legionowo 2 : 1 Stal Brzeg Gorzów Wielkopolski
+Steve Lewis scores End of match 
+
+Match Widzew Ruda Śląska against Stal Brzeg Gorzów Wielkopolski
+Widzew Ruda Śląska 1 : 0 Stal Brzeg Gorzów Wielkopolski
+Tomasz Holota scores Widzew Ruda Śląska 2 : 0 Stal Brzeg Gorzów Wielkopolski
+Tomasz Holota scores Widzew Ruda Śląska 2 : 1 Stal Brzeg Gorzów Wielkopolski
+Steve Lewis scores End of match 
+
+Match GKS Wykopek Gniezno against Znicz Legionowo
+GKS Wykopek Gniezno 1 : 0 Znicz Legionowo
+Rafal Wolsztynski scores GKS Wykopek Gniezno 2 : 0 Znicz Legionowo
+Rafal Wolsztynski scores End of match 
+
+Match BrukBet Tarnów against Czarni Kielce
+BrukBet Tarnów 1 : 0 Czarni Kielce
+Marcin Pietrowski scores BrukBet Tarnów 2 : 0 Czarni Kielce
+Marcin Pietrowski scores BrukBet Tarnów 3 : 0 Czarni Kielce
+Alan Walker scores End of match 
+
+Match Pogoń Kacapa Pruszków against Lechia Zieloni Racibórz
+Pogoń Kacapa Pruszków 1 : 0 Lechia Zieloni Racibórz
+Maciej Gorski scores Pogoń Kacapa Pruszków 2 : 0 Lechia Zieloni Racibórz
+Jakub Szumski scores Pogoń Kacapa Pruszków 2 : 1 Lechia Zieloni Racibórz
+Jose Jenkins scores Pogoń Kacapa Pruszków 2 : 2 Lechia Zieloni Racibórz
+Steve Lewis scores Pogoń Kacapa Pruszków 2 : 3 Lechia Zieloni Racibórz
+Steve Lewis scores End of match 
+
+Match Piast Żmigród Tomaszów Mazowiecki against Orlęta Żory
+Piast Żmigród Tomaszów Mazowiecki 1 : 0 Orlęta Żory
+Dawid Kort scores Piast Żmigród Tomaszów Mazowiecki 2 : 0 Orlęta Żory
+Dawid Kort scores Piast Żmigród Tomaszów Mazowiecki 3 : 0 Orlęta Żory
+Dawid Kort scores Piast Żmigród Tomaszów Mazowiecki 4 : 0 Orlęta Żory
+Dawid Kort scores End of match 
+
+Match Gwarek Tarnowski Koszalin against Raków Opole
+Gwarek Tarnowski Koszalin 1 : 0 Raków Opole
+Marco Carter scores Gwarek Tarnowski Koszalin 2 : 0 Raków Opole
+Raymond Coleman scores Gwarek Tarnowski Koszalin 2 : 1 Raków Opole
+Dustin Zimmerman scores End of match 
+
+Match Raków Opole against Widzew Ruda Śląska
+Raków Opole 1 : 0 Widzew Ruda Śląska
+Dustin Zimmerman scores Raków Opole 2 : 0 Widzew Ruda Śląska
+Seweryn Michalski scores Raków Opole 3 : 0 Widzew Ruda Śląska
+Dustin Zimmerman scores Raków Opole 4 : 0 Widzew Ruda Śląska
+Dustin Zimmerman scores Raków Opole 4 : 1 Widzew Ruda Śląska
+Roy Peterson scores End of match 
+
+Match Orlęta Żory against Gwarek Tarnowski Koszalin
+Orlęta Żory 0 : 1 Gwarek Tarnowski Koszalin
+Raymond Coleman scores Orlęta Żory 0 : 2 Gwarek Tarnowski Koszalin
+Raymond Coleman scores Orlęta Żory 0 : 3 Gwarek Tarnowski Koszalin
+Raymond Coleman scores End of match 
+
+Match Lechia Zieloni Racibórz against Piast Żmigród Tomaszów Mazowiecki
+Lechia Zieloni Racibórz 1 : 0 Piast Żmigród Tomaszów Mazowiecki
+Fred Green scores Lechia Zieloni Racibórz 2 : 0 Piast Żmigród Tomaszów Mazowiecki
+Piotr Marciniec scores Lechia Zieloni Racibórz 3 : 0 Piast Żmigród Tomaszów Mazowiecki
+Steve Lewis scores Lechia Zieloni Racibórz 3 : 1 Piast Żmigród Tomaszów Mazowiecki
+Dawid Kort scores Lechia Zieloni Racibórz 3 : 2 Piast Żmigród Tomaszów Mazowiecki
+Dawid Kort scores Lechia Zieloni Racibórz 3 : 3 Piast Żmigród Tomaszów Mazowiecki
+Maciej Sadlok scores Lechia Zieloni Racibórz 3 : 4 Piast Żmigród Tomaszów Mazowiecki
+Dawid Kort scores End of match 
+
+Match Czarni Kielce against Pogoń Kacapa Pruszków
+Czarni Kielce 0 : 1 Pogoń Kacapa Pruszków
+Maciej Gorski scores Czarni Kielce 0 : 2 Pogoń Kacapa Pruszków
+Maciej Gorski scores End of match 
+
+Match Znicz Legionowo against BrukBet Tarnów
+Znicz Legionowo 1 : 0 BrukBet Tarnów
+Adam Matuszczyk scores Znicz Legionowo 2 : 0 BrukBet Tarnów
+Adam Matuszczyk scores Znicz Legionowo 3 : 0 BrukBet Tarnów
+Adam Matuszczyk scores Znicz Legionowo 4 : 0 BrukBet Tarnów
+Adam Matuszczyk scores Znicz Legionowo 5 : 0 BrukBet Tarnów
+Adam Matuszczyk scores Znicz Legionowo 5 : 1 BrukBet Tarnów
+Alan Walker scores End of match 
+
+Match Stal Brzeg Gorzów Wielkopolski against GKS Wykopek Gniezno
+Stal Brzeg Gorzów Wielkopolski 1 : 0 GKS Wykopek Gniezno
+Steve Lewis scores Stal Brzeg Gorzów Wielkopolski 1 : 1 GKS Wykopek Gniezno
+Jacek Goralski scores Stal Brzeg Gorzów Wielkopolski 1 : 2 GKS Wykopek Gniezno
+Jacek Goralski scores End of match 
+
+Match Widzew Ruda Śląska against GKS Wykopek Gniezno
+Widzew Ruda Śląska 1 : 0 GKS Wykopek Gniezno
+Roy Peterson scores Widzew Ruda Śląska 2 : 0 GKS Wykopek Gniezno
+Tomasz Holota scores Widzew Ruda Śląska 2 : 1 GKS Wykopek Gniezno
+Damian Kadzior scores End of match 
+
+Match BrukBet Tarnów against Stal Brzeg Gorzów Wielkopolski
+BrukBet Tarnów 1 : 0 Stal Brzeg Gorzów Wielkopolski
+Marcin Pietrowski scores BrukBet Tarnów 2 : 0 Stal Brzeg Gorzów Wielkopolski
+Sebastian Szymanski scores BrukBet Tarnów 3 : 0 Stal Brzeg Gorzów Wielkopolski
+Marcin Pietrowski scores BrukBet Tarnów 3 : 1 Stal Brzeg Gorzów Wielkopolski
+Steve Lewis scores End of match 
+
+Match Pogoń Kacapa Pruszków against Znicz Legionowo
+Pogoń Kacapa Pruszków 1 : 0 Znicz Legionowo
+Maciej Gorski scores Pogoń Kacapa Pruszków 1 : 1 Znicz Legionowo
+Adam Matuszczyk scores Pogoń Kacapa Pruszków 1 : 2 Znicz Legionowo
+Adam Matuszczyk scores Pogoń Kacapa Pruszków 1 : 3 Znicz Legionowo
+Dustin Zimmerman scores End of match 
+
+Match Piast Żmigród Tomaszów Mazowiecki against Czarni Kielce
+Piast Żmigród Tomaszów Mazowiecki 1 : 0 Czarni Kielce
+Dawid Kort scores End of match 
+
+Match Gwarek Tarnowski Koszalin against Lechia Zieloni Racibórz
+Gwarek Tarnowski Koszalin 1 : 0 Lechia Zieloni Racibórz
+Raymond Coleman scores Gwarek Tarnowski Koszalin 2 : 0 Lechia Zieloni Racibórz
+Raymond Coleman scores Gwarek Tarnowski Koszalin 2 : 1 Lechia Zieloni Racibórz
+Jose Jenkins scores End of match 
+
+Match Raków Opole against Orlęta Żory
+End of match 
+
+Match Widzew Ruda Śląska against Orlęta Żory
+Widzew Ruda Śląska 1 : 0 Orlęta Żory
+Damian Zbozien scores Widzew Ruda Śląska 1 : 1 Orlęta Żory
+Albert Rogers scores End of match 
+
+Match Lechia Zieloni Racibórz against Raków Opole
+Lechia Zieloni Racibórz 1 : 0 Raków Opole
+Krzysztof Drzazga scores Lechia Zieloni Racibórz 2 : 0 Raków Opole
+Steve Lewis scores Lechia Zieloni Racibórz 3 : 0 Raków Opole
+Jose Jenkins scores Lechia Zieloni Racibórz 3 : 1 Raków Opole
+Dustin Zimmerman scores Lechia Zieloni Racibórz 3 : 2 Raków Opole
+Dustin Zimmerman scores Lechia Zieloni Racibórz 3 : 3 Raków Opole
+Dustin Zimmerman scores End of match 
+
+Match Czarni Kielce against Gwarek Tarnowski Koszalin
+Czarni Kielce 1 : 0 Gwarek Tarnowski Koszalin
+Pawel Bochniewicz scores Czarni Kielce 2 : 0 Gwarek Tarnowski Koszalin
+Marek Wasiluk scores Czarni Kielce 2 : 1 Gwarek Tarnowski Koszalin
+Robert Diaz scores Czarni Kielce 2 : 2 Gwarek Tarnowski Koszalin
+Raymond Coleman scores Czarni Kielce 2 : 3 Gwarek Tarnowski Koszalin
+Raymond Coleman scores End of match 
+
+Match Znicz Legionowo against Piast Żmigród Tomaszów Mazowiecki
+Znicz Legionowo 0 : 1 Piast Żmigród Tomaszów Mazowiecki
+Dawid Kort scores End of match 
+
+Match Stal Brzeg Gorzów Wielkopolski against Pogoń Kacapa Pruszków
+Stal Brzeg Gorzów Wielkopolski 1 : 0 Pogoń Kacapa Pruszków
+Steve Lewis scores Stal Brzeg Gorzów Wielkopolski 2 : 0 Pogoń Kacapa Pruszków
+Steve Lewis scores Stal Brzeg Gorzów Wielkopolski 2 : 1 Pogoń Kacapa Pruszków
+Thomas Morris scores Stal Brzeg Gorzów Wielkopolski 2 : 2 Pogoń Kacapa Pruszków
+Maciej Gorski scores End of match 
+
+Match GKS Wykopek Gniezno against BrukBet Tarnów
+GKS Wykopek Gniezno 1 : 0 BrukBet Tarnów
+Jacek Goralski scores End of match 
+
+Match BrukBet Tarnów against Widzew Ruda Śląska
+BrukBet Tarnów 1 : 0 Widzew Ruda Śląska
+Marcin Pietrowski scores BrukBet Tarnów 2 : 0 Widzew Ruda Śląska
+Marcin Pietrowski scores BrukBet Tarnów 3 : 0 Widzew Ruda Śląska
+Marcin Pietrowski scores BrukBet Tarnów 3 : 1 Widzew Ruda Śląska
+Tomasz Holota scores BrukBet Tarnów 3 : 2 Widzew Ruda Śląska
+Jakub Lukowski scores End of match 
+
+Match Pogoń Kacapa Pruszków against GKS Wykopek Gniezno
+End of match 
+
+Match Piast Żmigród Tomaszów Mazowiecki against Stal Brzeg Gorzów Wielkopolski
+Piast Żmigród Tomaszów Mazowiecki 1 : 0 Stal Brzeg Gorzów Wielkopolski
+Cezary Demianiuk scores Piast Żmigród Tomaszów Mazowiecki 1 : 1 Stal Brzeg Gorzów Wielkopolski
+Steve Lewis scores Piast Żmigród Tomaszów Mazowiecki 1 : 2 Stal Brzeg Gorzów Wielkopolski
+Steve Lewis scores End of match 
+
+Match Gwarek Tarnowski Koszalin against Znicz Legionowo
+Gwarek Tarnowski Koszalin 1 : 0 Znicz Legionowo
+Robert Diaz scores Gwarek Tarnowski Koszalin 1 : 1 Znicz Legionowo
+Dominik Kun scores Gwarek Tarnowski Koszalin 1 : 2 Znicz Legionowo
+Adam Matuszczyk scores End of match 
+
+Match Raków Opole against Czarni Kielce
+Raków Opole 1 : 0 Czarni Kielce
+Dustin Zimmerman scores Raków Opole 2 : 0 Czarni Kielce
+Dustin Zimmerman scores Raków Opole 2 : 1 Czarni Kielce
+Pawel Bochniewicz scores End of match 
+
+Match Orlęta Żory against Lechia Zieloni Racibórz
+Orlęta Żory 1 : 0 Lechia Zieloni Racibórz
+Albert Rogers scores Orlęta Żory 1 : 1 Lechia Zieloni Racibórz
+Steve Lewis scores Orlęta Żory 1 : 2 Lechia Zieloni Racibórz
+Steve Lewis scores End of match 
+
+Match Widzew Ruda Śląska against Lechia Zieloni Racibórz
+Widzew Ruda Śląska 1 : 0 Lechia Zieloni Racibórz
+Tomasz Holota scores Widzew Ruda Śląska 2 : 0 Lechia Zieloni Racibórz
+Tomasz Holota scores Widzew Ruda Śląska 3 : 0 Lechia Zieloni Racibórz
+Tomasz Holota scores Widzew Ruda Śląska 3 : 1 Lechia Zieloni Racibórz
+Fred Green scores End of match 
+
+Match Czarni Kielce against Orlęta Żory
+Czarni Kielce 1 : 0 Orlęta Żory
+Pawel Bochniewicz scores Czarni Kielce 2 : 0 Orlęta Żory
+Pawel Bochniewicz scores Czarni Kielce 3 : 0 Orlęta Żory
+Pawel Bochniewicz scores Czarni Kielce 3 : 1 Orlęta Żory
+Przemyslaw Szyminski scores Czarni Kielce 3 : 2 Orlęta Żory
+Albert Rogers scores Czarni Kielce 3 : 3 Orlęta Żory
+Albert Rogers scores End of match 
+
+Match Znicz Legionowo against Raków Opole
+Znicz Legionowo 0 : 1 Raków Opole
+Piotr Marciniec scores Znicz Legionowo 0 : 2 Raków Opole
+Victor Barrett scores End of match 
+
+Match Stal Brzeg Gorzów Wielkopolski against Gwarek Tarnowski Koszalin
+Stal Brzeg Gorzów Wielkopolski 1 : 0 Gwarek Tarnowski Koszalin
+Peter Anderson scores Stal Brzeg Gorzów Wielkopolski 1 : 1 Gwarek Tarnowski Koszalin
+Raymond Coleman scores End of match 
+
+Match GKS Wykopek Gniezno against Piast Żmigród Tomaszów Mazowiecki
+End of match 
+
+Match BrukBet Tarnów against Pogoń Kacapa Pruszków
+BrukBet Tarnów 1 : 0 Pogoń Kacapa Pruszków
+Alan Walker scores BrukBet Tarnów 1 : 1 Pogoń Kacapa Pruszków
+Bartosz Salamon scores BrukBet Tarnów 1 : 2 Pogoń Kacapa Pruszków
+Maciej Gorski scores BrukBet Tarnów 1 : 3 Pogoń Kacapa Pruszków
+Maciej Gorski scores End of match 
+
+Match Pogoń Kacapa Pruszków against Widzew Ruda Śląska
+Pogoń Kacapa Pruszków 1 : 0 Widzew Ruda Śląska
+Thomas Morris scores Pogoń Kacapa Pruszków 1 : 1 Widzew Ruda Śląska
+Tomasz Holota scores End of match 
+
+Match Piast Żmigród Tomaszów Mazowiecki against BrukBet Tarnów
+Piast Żmigród Tomaszów Mazowiecki 1 : 0 BrukBet Tarnów
+Maciej Sadlok scores Piast Żmigród Tomaszów Mazowiecki 1 : 1 BrukBet Tarnów
+James Williams scores End of match 
+
+Match Gwarek Tarnowski Koszalin against GKS Wykopek Gniezno
+Gwarek Tarnowski Koszalin 1 : 0 GKS Wykopek Gniezno
+Raymond Coleman scores Gwarek Tarnowski Koszalin 2 : 0 GKS Wykopek Gniezno
+Marco Carter scores Gwarek Tarnowski Koszalin 3 : 0 GKS Wykopek Gniezno
+Raymond Coleman scores Gwarek Tarnowski Koszalin 4 : 0 GKS Wykopek Gniezno
+Raymond Coleman scores End of match 
+
+Match Raków Opole against Stal Brzeg Gorzów Wielkopolski
+Raków Opole 1 : 0 Stal Brzeg Gorzów Wielkopolski
+Dustin Zimmerman scores Raków Opole 2 : 0 Stal Brzeg Gorzów Wielkopolski
+Dustin Zimmerman scores Raków Opole 2 : 1 Stal Brzeg Gorzów Wielkopolski
+Steve Lewis scores End of match 
+
+Match Orlęta Żory against Znicz Legionowo
+Orlęta Żory 1 : 0 Znicz Legionowo
+Eric Morris scores Orlęta Żory 2 : 0 Znicz Legionowo
+Marek Wasiluk scores Orlęta Żory 2 : 1 Znicz Legionowo
+Adam Matuszczyk scores Orlęta Żory 2 : 2 Znicz Legionowo
+Adam Matuszczyk scores Orlęta Żory 2 : 3 Znicz Legionowo
+Adam Matuszczyk scores End of match 
+
+Match Lechia Zieloni Racibórz against Czarni Kielce
+Lechia Zieloni Racibórz 1 : 0 Czarni Kielce
+Steve Lewis scores Lechia Zieloni Racibórz 2 : 0 Czarni Kielce
+Steve Lewis scores Lechia Zieloni Racibórz 2 : 1 Czarni Kielce
+Pawel Bochniewicz scores Lechia Zieloni Racibórz 2 : 2 Czarni Kielce
+Pawel Bochniewicz scores Lechia Zieloni Racibórz 2 : 3 Czarni Kielce
+Pawel Bochniewicz scores End of match 
+
+Match Widzew Ruda Śląska against Czarni Kielce
+Widzew Ruda Śląska 1 : 0 Czarni Kielce
+Tomasz Holota scores Widzew Ruda Śląska 2 : 0 Czarni Kielce
+Roy Peterson scores Widzew Ruda Śląska 2 : 1 Czarni Kielce
+Joseph Cook scores Widzew Ruda Śląska 2 : 2 Czarni Kielce
+Pawel Bochniewicz scores End of match 
+
+Match Znicz Legionowo against Lechia Zieloni Racibórz
+Znicz Legionowo 1 : 0 Lechia Zieloni Racibórz
+Dominik Kun scores Znicz Legionowo 2 : 0 Lechia Zieloni Racibórz
+Adam Matuszczyk scores Znicz Legionowo 2 : 1 Lechia Zieloni Racibórz
+Fred Green scores Znicz Legionowo 2 : 2 Lechia Zieloni Racibórz
+Steve Lewis scores End of match 
+
+Match Stal Brzeg Gorzów Wielkopolski against Orlęta Żory
+Stal Brzeg Gorzów Wielkopolski 1 : 0 Orlęta Żory
+Michal Kopczynski scores Stal Brzeg Gorzów Wielkopolski 2 : 0 Orlęta Żory
+Steve Lewis scores Stal Brzeg Gorzów Wielkopolski 3 : 0 Orlęta Żory
+Steve Lewis scores Stal Brzeg Gorzów Wielkopolski 4 : 0 Orlęta Żory
+Steve Lewis scores Stal Brzeg Gorzów Wielkopolski 5 : 0 Orlęta Żory
+Steve Lewis scores End of match 
+
+Match GKS Wykopek Gniezno against Raków Opole
+GKS Wykopek Gniezno 0 : 1 Raków Opole
+Dustin Zimmerman scores GKS Wykopek Gniezno 0 : 2 Raków Opole
+Piotr Marciniec scores GKS Wykopek Gniezno 0 : 3 Raków Opole
+Dustin Zimmerman scores End of match 
+
+Match BrukBet Tarnów against Gwarek Tarnowski Koszalin
+BrukBet Tarnów 0 : 1 Gwarek Tarnowski Koszalin
+Raymond Coleman scores BrukBet Tarnów 0 : 2 Gwarek Tarnowski Koszalin
+Robert Diaz scores End of match 
+
+Match Pogoń Kacapa Pruszków against Piast Żmigród Tomaszów Mazowiecki
+Pogoń Kacapa Pruszków 1 : 0 Piast Żmigród Tomaszów Mazowiecki
+Maciej Gorski scores Pogoń Kacapa Pruszków 2 : 0 Piast Żmigród Tomaszów Mazowiecki
+Jakub Szumski scores Pogoń Kacapa Pruszków 3 : 0 Piast Żmigród Tomaszów Mazowiecki
+Maciej Gorski scores Pogoń Kacapa Pruszków 3 : 1 Piast Żmigród Tomaszów Mazowiecki
+Dawid Kort scores Pogoń Kacapa Pruszków 3 : 2 Piast Żmigród Tomaszów Mazowiecki
+Lukasz Piszczek scores Pogoń Kacapa Pruszków 3 : 3 Piast Żmigród Tomaszów Mazowiecki
+Dawid Kort scores Pogoń Kacapa Pruszków 3 : 4 Piast Żmigród Tomaszów Mazowiecki
+Dawid Kort scores End of match 
+
+Match Piast Żmigród Tomaszów Mazowiecki against Widzew Ruda Śląska
+Piast Żmigród Tomaszów Mazowiecki 0 : 1 Widzew Ruda Śląska
+Jakub Lukowski scores End of match 
+
+Match Gwarek Tarnowski Koszalin against Pogoń Kacapa Pruszków
+Gwarek Tarnowski Koszalin 1 : 0 Pogoń Kacapa Pruszków
+Raymond Coleman scores Gwarek Tarnowski Koszalin 2 : 0 Pogoń Kacapa Pruszków
+Cezary Demianiuk scores Gwarek Tarnowski Koszalin 3 : 0 Pogoń Kacapa Pruszków
+Raymond Coleman scores Gwarek Tarnowski Koszalin 4 : 0 Pogoń Kacapa Pruszków
+Raymond Coleman scores Gwarek Tarnowski Koszalin 5 : 0 Pogoń Kacapa Pruszków
+Raymond Coleman scores Gwarek Tarnowski Koszalin 5 : 1 Pogoń Kacapa Pruszków
+Bartosz Salamon scores End of match 
+
+Match Raków Opole against BrukBet Tarnów
+Raków Opole 1 : 0 BrukBet Tarnów
+Dustin Zimmerman scores Raków Opole 2 : 0 BrukBet Tarnów
+Dustin Zimmerman scores Raków Opole 2 : 1 BrukBet Tarnów
+Marcin Pietrowski scores Raków Opole 2 : 2 BrukBet Tarnów
+Szymon Drewniak scores End of match 
+
+Match Orlęta Żory against GKS Wykopek Gniezno
+Orlęta Żory 1 : 0 GKS Wykopek Gniezno
+Eric Morris scores Orlęta Żory 1 : 1 GKS Wykopek Gniezno
+Jacek Goralski scores Orlęta Żory 1 : 2 GKS Wykopek Gniezno
+Jacek Goralski scores End of match 
+
+Match Lechia Zieloni Racibórz against Stal Brzeg Gorzów Wielkopolski
+Lechia Zieloni Racibórz 1 : 0 Stal Brzeg Gorzów Wielkopolski
+Steve Lewis scores Lechia Zieloni Racibórz 1 : 1 Stal Brzeg Gorzów Wielkopolski
+Michal Kopczynski scores Lechia Zieloni Racibórz 1 : 2 Stal Brzeg Gorzów Wielkopolski
+Steve Lewis scores End of match 
+
+Match Czarni Kielce against Znicz Legionowo
+Czarni Kielce 1 : 0 Znicz Legionowo
+Pawel Bochniewicz scores Czarni Kielce 1 : 1 Znicz Legionowo
+Adam Matuszczyk scores Czarni Kielce 1 : 2 Znicz Legionowo
+Adam Matuszczyk scores Czarni Kielce 1 : 3 Znicz Legionowo
+Adam Matuszczyk scores Czarni Kielce 1 : 4 Znicz Legionowo
+Adam Matuszczyk scores End of match 
+
+
+
+********************************************************************
+       TEAM NAME                                  PTS   W    D    L 
+1.  Gwarek Tarnowski Koszalin                     28    9    1    1   
+2.  Raków Opole                                   24    7    3    1   
+3.  Znicz Legionowo                               20    6    2    3   
+4.  Piast Żmigród Tomaszów Mazowiecki             17    5    2    4   
+5.  GKS Wykopek Gniezno                           16    4    4    3   
+6.  Widzew Ruda Śląska                            16    4    4    3   
+7.  Stal Brzeg Gorzów Wielkopolski                14    4    2    5   
+8.  BrukBet Tarnów                                14    4    2    5   
+9.  Lechia Zieloni Racibórz                       12    3    3    5   
+10. Pogoń Kacapa Pruszków                         10    2    4    5   
+11. Czarni Kielce                                  6    1    3    7   
+12. Orlęta Żory                                    4    0    4    7   
+********************************************************************
+
+
+   MOST TALENTED PLAYERS   
+1. Maciej Gostomski from BrukBet Tarnów with 98 skill points. 
+2. Adam Matuszczyk from Znicz Legionowo with 96 skill points. 
+3. Christopher Alexander from Raków Opole with 96 skill points. 
+4. Jose Jenkins from Lechia Zieloni Racibórz with 96 skill points. 
+5. Kamil Slaby from Widzew Ruda Śląska with 96 skill points. 
+6. Arkadiusz Milik from Stal Brzeg Gorzów Wielkopolski with 94 skill points. 
+7. Damian Kadzior from GKS Wykopek Gniezno with 94 skill points. 
+8. Wojciech Trochim from Piast Żmigród Tomaszów Mazowiecki with 93 skill points. 
+9. Joseph Adams from GKS Wykopek Gniezno with 92 skill points. 
+10. Piotr Zielinski from Gwarek Tarnowski Koszalin with 91 skill points. 
+11. James Williams from Orlęta Żory with 91 skill points. 
+12. Tomasz Holota from Widzew Ruda Śląska with 91 skill points. 
+13. James Stewart from Znicz Legionowo with 90 skill points. 
+14. Sebastian Szymanski from BrukBet Tarnów with 90 skill points. 
+15. Dawid Szymonowicz from Gwarek Tarnowski Koszalin with 90 skill points. 
+16. Raymond Coleman from Gwarek Tarnowski Koszalin with 90 skill points. 
+17. Robert Diaz from Gwarek Tarnowski Koszalin with 89 skill points. 
+18. Travis Carson from Gwarek Tarnowski Koszalin with 89 skill points. 
+19. Piotr Marciniec from Raków Opole with 89 skill points. 
+20. Henry Hughes from Czarni Kielce with 89 skill points. 
+
+    BEST LEAGUE SCORERS   
+1. Raymond Coleman STRIKER from team Gwarek Tarnowski Koszalin scores 23
+2. Dustin Zimmerman STRIKER from team Raków Opole scores 20
+3. Adam Matuszczyk STRIKER from team Znicz Legionowo scores 19
+4. Steve Lewis STRIKER from team Stal Brzeg Gorzów Wielkopolski scores 16
+
+
+    BEST TEAM SCORERS   
+Raymond Coleman STRIKER from team Gwarek Tarnowski Koszalin scores 23
+Dustin Zimmerman STRIKER from team Raków Opole scores 20
+Adam Matuszczyk STRIKER from team Znicz Legionowo scores 19
+Steve Lewis STRIKER from team Stal Brzeg Gorzów Wielkopolski scores 16
+Steve Lewis STRIKER from team Lechia Zieloni Racibórz scores 14
+Dawid Kort STRIKER from team Piast Żmigród Tomaszów Mazowiecki scores 12
+Tomasz Holota STRIKER from team Widzew Ruda Śląska scores 12
+Marcin Pietrowski STRIKER from team BrukBet Tarnów scores 11
+Maciej Gorski STRIKER from team Pogoń Kacapa Pruszków scores 10
+Pawel Bochniewicz STRIKER from team Czarni Kielce scores 10
+Jacek Goralski STRIKER from team GKS Wykopek Gniezno scores 7
+Marek Wasiluk STRIKER from team Orlęta Żory scores 5
+

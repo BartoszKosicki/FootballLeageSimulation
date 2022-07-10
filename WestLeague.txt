@@ -517,3 +517,483 @@ Adam Wilk STRIKER from team LKS Goczałkowice Suwałki scores 12
 Jonathan Ward STRIKER from team Ślęza Płock scores 10
 Mikolaj Kwietniewski STRIKER from team Puszcza Łomża scores 4
 
+*****************
+SEASON 1
+*****************
+
+
+Match Stal Nowy Sącz against Stal Nierdzewna Przemyśl
+Stal Nowy Sącz 0 : 1 Stal Nierdzewna Przemyśl
+Piotr Zielinski scores End of match 
+
+Match Znicz Ełk against Puszcza Rybnik
+Znicz Ełk 1 : 0 Puszcza Rybnik
+Kevin Young scores Znicz Ełk 2 : 0 Puszcza Rybnik
+Alan Czerwinski scores Znicz Ełk 3 : 0 Puszcza Rybnik
+Alan Czerwinski scores Znicz Ełk 3 : 1 Puszcza Rybnik
+Edward Jackson scores End of match 
+
+Match Korona Mielec against Raków Piaseczno
+Korona Mielec 0 : 1 Raków Piaseczno
+Bartlomiej Kasprzak scores Korona Mielec 0 : 2 Raków Piaseczno
+Waldemar Sobota scores Korona Mielec 0 : 3 Raków Piaseczno
+Waldemar Sobota scores End of match 
+
+Match Zagłębie II Lubin Białystok against Ślęza Tomaszów Mazowiecki
+Zagłębie II Lubin Białystok 1 : 0 Ślęza Tomaszów Mazowiecki
+Ralph Washington scores Zagłębie II Lubin Białystok 2 : 0 Ślęza Tomaszów Mazowiecki
+Ralph Washington scores Zagłębie II Lubin Białystok 3 : 0 Ślęza Tomaszów Mazowiecki
+Ralph Washington scores End of match 
+
+Match GKS Sosnowiec against Unia Rybnik
+GKS Sosnowiec 1 : 0 Unia Rybnik
+Wojciech Szczesny scores GKS Sosnowiec 1 : 1 Unia Rybnik
+Piotr Leciejewski scores End of match 
+
+Match Pogoń Ruska Radom against Siarka Gliwice
+Pogoń Ruska Radom 1 : 0 Siarka Gliwice
+William James scores Pogoń Ruska Radom 2 : 0 Siarka Gliwice
+Kent Moreno scores Pogoń Ruska Radom 2 : 1 Siarka Gliwice
+Terry Bell scores Pogoń Ruska Radom 2 : 2 Siarka Gliwice
+Terry Bell scores End of match 
+
+Match Siarka Gliwice against Stal Nowy Sącz
+Siarka Gliwice 1 : 0 Stal Nowy Sącz
+Mateusz Mak scores End of match 
+
+Match Unia Rybnik against Pogoń Ruska Radom
+Unia Rybnik 1 : 0 Pogoń Ruska Radom
+Jackie Strickland scores Unia Rybnik 2 : 0 Pogoń Ruska Radom
+Jackie Strickland scores Unia Rybnik 2 : 1 Pogoń Ruska Radom
+William James scores End of match 
+
+Match Ślęza Tomaszów Mazowiecki against GKS Sosnowiec
+Ślęza Tomaszów Mazowiecki 1 : 0 GKS Sosnowiec
+Marcin Biernat scores Ślęza Tomaszów Mazowiecki 1 : 1 GKS Sosnowiec
+Maciej Korzym scores End of match 
+
+Match Raków Piaseczno against Zagłębie II Lubin Białystok
+Raków Piaseczno 1 : 0 Zagłębie II Lubin Białystok
+Keith Barnes scores Raków Piaseczno 2 : 0 Zagłębie II Lubin Białystok
+Joe Cruz scores Raków Piaseczno 2 : 1 Zagłębie II Lubin Białystok
+Ralph Washington scores End of match 
+
+Match Puszcza Rybnik against Korona Mielec
+Puszcza Rybnik 1 : 0 Korona Mielec
+Edward Jackson scores Puszcza Rybnik 2 : 0 Korona Mielec
+Marcin Cebula scores Puszcza Rybnik 2 : 1 Korona Mielec
+Wilbur Nunez scores Puszcza Rybnik 2 : 2 Korona Mielec
+Wilbur Nunez scores End of match 
+
+Match Stal Nierdzewna Przemyśl against Znicz Ełk
+Stal Nierdzewna Przemyśl 0 : 1 Znicz Ełk
+Alan Czerwinski scores Stal Nierdzewna Przemyśl 0 : 2 Znicz Ełk
+Michal Nalepa scores Stal Nierdzewna Przemyśl 0 : 3 Znicz Ełk
+Alan Czerwinski scores Stal Nierdzewna Przemyśl 0 : 4 Znicz Ełk
+Kevin Young scores Stal Nierdzewna Przemyśl 0 : 5 Znicz Ełk
+Kevin Young scores End of match 
+
+Match Stal Nowy Sącz against Znicz Ełk
+Stal Nowy Sącz 1 : 0 Znicz Ełk
+Artur Boruc scores Stal Nowy Sącz 2 : 0 Znicz Ełk
+Michal Kopczynski scores Stal Nowy Sącz 3 : 0 Znicz Ełk
+Artur Boruc scores Stal Nowy Sącz 4 : 0 Znicz Ełk
+Artur Boruc scores Stal Nowy Sącz 4 : 1 Znicz Ełk
+Alan Czerwinski scores Stal Nowy Sącz 4 : 2 Znicz Ełk
+Alan Czerwinski scores End of match 
+
+Match Korona Mielec against Stal Nierdzewna Przemyśl
+Korona Mielec 1 : 0 Stal Nierdzewna Przemyśl
+Wilbur Nunez scores Korona Mielec 2 : 0 Stal Nierdzewna Przemyśl
+Wilbur Nunez scores Korona Mielec 2 : 1 Stal Nierdzewna Przemyśl
+Piotr Zielinski scores Korona Mielec 2 : 2 Stal Nierdzewna Przemyśl
+Piotr Zielinski scores End of match 
+
+Match Zagłębie II Lubin Białystok against Puszcza Rybnik
+Zagłębie II Lubin Białystok 0 : 1 Puszcza Rybnik
+Marcin Cebula scores End of match 
+
+Match GKS Sosnowiec against Raków Piaseczno
+GKS Sosnowiec 0 : 1 Raków Piaseczno
+Joe Cruz scores End of match 
+
+Match Pogoń Ruska Radom against Ślęza Tomaszów Mazowiecki
+Pogoń Ruska Radom 1 : 0 Ślęza Tomaszów Mazowiecki
+Bobby White scores Pogoń Ruska Radom 2 : 0 Ślęza Tomaszów Mazowiecki
+Kent Moreno scores Pogoń Ruska Radom 2 : 1 Ślęza Tomaszów Mazowiecki
+Mateusz Machaj scores Pogoń Ruska Radom 2 : 2 Ślęza Tomaszów Mazowiecki
+Marek Wasiluk scores End of match 
+
+Match Siarka Gliwice against Unia Rybnik
+Siarka Gliwice 0 : 1 Unia Rybnik
+Jackie Strickland scores Siarka Gliwice 0 : 2 Unia Rybnik
+Piotr Leciejewski scores Siarka Gliwice 0 : 3 Unia Rybnik
+Gary Rodriguez scores Siarka Gliwice 0 : 4 Unia Rybnik
+Piotr Leciejewski scores End of match 
+
+Match Unia Rybnik against Stal Nowy Sącz
+Unia Rybnik 1 : 0 Stal Nowy Sącz
+Piotr Leciejewski scores Unia Rybnik 2 : 0 Stal Nowy Sącz
+Piotr Leciejewski scores Unia Rybnik 3 : 0 Stal Nowy Sącz
+Piotr Leciejewski scores Unia Rybnik 4 : 0 Stal Nowy Sącz
+Jackie Strickland scores Unia Rybnik 5 : 0 Stal Nowy Sącz
+Daniel Richardson scores Unia Rybnik 5 : 1 Stal Nowy Sącz
+Krzysztof Danielewicz scores Unia Rybnik 5 : 2 Stal Nowy Sącz
+Artur Boruc scores End of match 
+
+Match Ślęza Tomaszów Mazowiecki against Siarka Gliwice
+Ślęza Tomaszów Mazowiecki 1 : 0 Siarka Gliwice
+Mateusz Machaj scores End of match 
+
+Match Raków Piaseczno against Pogoń Ruska Radom
+Raków Piaseczno 1 : 0 Pogoń Ruska Radom
+Waldemar Sobota scores Raków Piaseczno 2 : 0 Pogoń Ruska Radom
+Waldemar Sobota scores End of match 
+
+Match Puszcza Rybnik against GKS Sosnowiec
+Puszcza Rybnik 1 : 0 GKS Sosnowiec
+Edward Jackson scores End of match 
+
+Match Stal Nierdzewna Przemyśl against Zagłębie II Lubin Białystok
+Stal Nierdzewna Przemyśl 1 : 0 Zagłębie II Lubin Białystok
+Daniel Dziwniel scores Stal Nierdzewna Przemyśl 1 : 1 Zagłębie II Lubin Białystok
+Ralph Washington scores End of match 
+
+Match Znicz Ełk against Korona Mielec
+Znicz Ełk 1 : 0 Korona Mielec
+Kevin Young scores Znicz Ełk 1 : 1 Korona Mielec
+Sebastian Tyrala scores End of match 
+
+Match Stal Nowy Sącz against Korona Mielec
+Stal Nowy Sącz 1 : 0 Korona Mielec
+Artur Boruc scores Stal Nowy Sącz 2 : 0 Korona Mielec
+Artur Boruc scores Stal Nowy Sącz 2 : 1 Korona Mielec
+Wilbur Nunez scores Stal Nowy Sącz 2 : 2 Korona Mielec
+Gregory Murphy scores Stal Nowy Sącz 2 : 3 Korona Mielec
+Wilbur Nunez scores End of match 
+
+Match Zagłębie II Lubin Białystok against Znicz Ełk
+Zagłębie II Lubin Białystok 1 : 0 Znicz Ełk
+Ralph Washington scores Zagłębie II Lubin Białystok 2 : 0 Znicz Ełk
+Ralph Washington scores Zagłębie II Lubin Białystok 3 : 0 Znicz Ełk
+Ralph Washington scores Zagłębie II Lubin Białystok 4 : 0 Znicz Ełk
+Ralph Washington scores Zagłębie II Lubin Białystok 4 : 1 Znicz Ełk
+Alan Czerwinski scores Zagłębie II Lubin Białystok 4 : 2 Znicz Ełk
+Alan Czerwinski scores End of match 
+
+Match GKS Sosnowiec against Stal Nierdzewna Przemyśl
+GKS Sosnowiec 1 : 0 Stal Nierdzewna Przemyśl
+Wojciech Szczesny scores End of match 
+
+Match Pogoń Ruska Radom against Puszcza Rybnik
+Pogoń Ruska Radom 1 : 0 Puszcza Rybnik
+Lukasz Hanzel scores Pogoń Ruska Radom 2 : 0 Puszcza Rybnik
+Kent Moreno scores Pogoń Ruska Radom 2 : 1 Puszcza Rybnik
+Edward Jackson scores Pogoń Ruska Radom 2 : 2 Puszcza Rybnik
+Edward Jackson scores End of match 
+
+Match Siarka Gliwice against Raków Piaseczno
+Siarka Gliwice 1 : 0 Raków Piaseczno
+Terry Bell scores Siarka Gliwice 2 : 0 Raków Piaseczno
+Ryan Hernandez scores Siarka Gliwice 2 : 1 Raków Piaseczno
+Waldemar Sobota scores Siarka Gliwice 2 : 2 Raków Piaseczno
+Waldemar Sobota scores Siarka Gliwice 2 : 3 Raków Piaseczno
+Waldemar Sobota scores Siarka Gliwice 2 : 4 Raków Piaseczno
+Waldemar Sobota scores Siarka Gliwice 2 : 5 Raków Piaseczno
+Keith Barnes scores End of match 
+
+Match Unia Rybnik against Ślęza Tomaszów Mazowiecki
+Unia Rybnik 1 : 0 Ślęza Tomaszów Mazowiecki
+Piotr Leciejewski scores Unia Rybnik 2 : 0 Ślęza Tomaszów Mazowiecki
+Piotr Leciejewski scores Unia Rybnik 3 : 0 Ślęza Tomaszów Mazowiecki
+Daniel Richardson scores Unia Rybnik 3 : 1 Ślęza Tomaszów Mazowiecki
+Marek Wasiluk scores Unia Rybnik 3 : 2 Ślęza Tomaszów Mazowiecki
+Mateusz Machaj scores End of match 
+
+Match Stal Nowy Sącz against Ślęza Tomaszów Mazowiecki
+Stal Nowy Sącz 1 : 0 Ślęza Tomaszów Mazowiecki
+Artur Boruc scores Stal Nowy Sącz 1 : 1 Ślęza Tomaszów Mazowiecki
+Mateusz Machaj scores End of match 
+
+Match Raków Piaseczno against Unia Rybnik
+Raków Piaseczno 1 : 0 Unia Rybnik
+Waldemar Sobota scores Raków Piaseczno 2 : 0 Unia Rybnik
+Waldemar Sobota scores Raków Piaseczno 2 : 1 Unia Rybnik
+Jackie Strickland scores Raków Piaseczno 2 : 2 Unia Rybnik
+Piotr Leciejewski scores End of match 
+
+Match Puszcza Rybnik against Siarka Gliwice
+Puszcza Rybnik 1 : 0 Siarka Gliwice
+Edward Jackson scores Puszcza Rybnik 1 : 1 Siarka Gliwice
+David Phillips scores End of match 
+
+Match Stal Nierdzewna Przemyśl against Pogoń Ruska Radom
+Stal Nierdzewna Przemyśl 1 : 0 Pogoń Ruska Radom
+Piotr Zielinski scores Stal Nierdzewna Przemyśl 2 : 0 Pogoń Ruska Radom
+Piotr Zielinski scores Stal Nierdzewna Przemyśl 3 : 0 Pogoń Ruska Radom
+Bartosz Rymaniak scores Stal Nierdzewna Przemyśl 4 : 0 Pogoń Ruska Radom
+Piotr Zielinski scores End of match 
+
+Match Znicz Ełk against GKS Sosnowiec
+Znicz Ełk 1 : 0 GKS Sosnowiec
+Alan Czerwinski scores Znicz Ełk 2 : 0 GKS Sosnowiec
+Alan Czerwinski scores Znicz Ełk 2 : 1 GKS Sosnowiec
+Jesse Gray scores Znicz Ełk 2 : 2 GKS Sosnowiec
+Jesse Gray scores Znicz Ełk 2 : 3 GKS Sosnowiec
+Mateusz Matras scores End of match 
+
+Match Korona Mielec against Zagłębie II Lubin Białystok
+Korona Mielec 1 : 0 Zagłębie II Lubin Białystok
+Wilbur Nunez scores Korona Mielec 2 : 0 Zagłębie II Lubin Białystok
+Wilbur Nunez scores Korona Mielec 2 : 1 Zagłębie II Lubin Białystok
+Ralph Washington scores Korona Mielec 2 : 2 Zagłębie II Lubin Białystok
+Ralph Washington scores End of match 
+
+Match Zagłębie II Lubin Białystok against Stal Nowy Sącz
+Zagłębie II Lubin Białystok 1 : 0 Stal Nowy Sącz
+Ralph Washington scores Zagłębie II Lubin Białystok 2 : 0 Stal Nowy Sącz
+Ralph Washington scores Zagłębie II Lubin Białystok 3 : 0 Stal Nowy Sącz
+Cezary Demianiuk scores Zagłębie II Lubin Białystok 4 : 0 Stal Nowy Sącz
+Ralph Washington scores Zagłębie II Lubin Białystok 4 : 1 Stal Nowy Sącz
+Artur Boruc scores End of match 
+
+Match GKS Sosnowiec against Korona Mielec
+GKS Sosnowiec 1 : 0 Korona Mielec
+Jesse Gray scores GKS Sosnowiec 2 : 0 Korona Mielec
+Wojciech Szczesny scores GKS Sosnowiec 3 : 0 Korona Mielec
+Maciej Korzym scores GKS Sosnowiec 3 : 1 Korona Mielec
+Wilbur Nunez scores End of match 
+
+Match Pogoń Ruska Radom against Znicz Ełk
+Pogoń Ruska Radom 1 : 0 Znicz Ełk
+Michal Mak scores Pogoń Ruska Radom 1 : 1 Znicz Ełk
+Alan Czerwinski scores Pogoń Ruska Radom 1 : 2 Znicz Ełk
+Alan Czerwinski scores Pogoń Ruska Radom 1 : 3 Znicz Ełk
+Alan Czerwinski scores Pogoń Ruska Radom 1 : 4 Znicz Ełk
+Alan Czerwinski scores Pogoń Ruska Radom 1 : 5 Znicz Ełk
+Alan Czerwinski scores Pogoń Ruska Radom 1 : 6 Znicz Ełk
+Alan Czerwinski scores End of match 
+
+Match Siarka Gliwice against Stal Nierdzewna Przemyśl
+Siarka Gliwice 0 : 1 Stal Nierdzewna Przemyśl
+Jaroslaw Kubicki scores Siarka Gliwice 0 : 2 Stal Nierdzewna Przemyśl
+Piotr Zielinski scores End of match 
+
+Match Unia Rybnik against Puszcza Rybnik
+Unia Rybnik 1 : 0 Puszcza Rybnik
+Daniel Richardson scores Unia Rybnik 2 : 0 Puszcza Rybnik
+Daniel Richardson scores Unia Rybnik 3 : 0 Puszcza Rybnik
+Piotr Leciejewski scores Unia Rybnik 3 : 1 Puszcza Rybnik
+Joseph Adams scores End of match 
+
+Match Ślęza Tomaszów Mazowiecki against Raków Piaseczno
+Ślęza Tomaszów Mazowiecki 1 : 0 Raków Piaseczno
+Mateusz Machaj scores End of match 
+
+Match Stal Nowy Sącz against Raków Piaseczno
+Stal Nowy Sącz 1 : 0 Raków Piaseczno
+Artur Boruc scores Stal Nowy Sącz 2 : 0 Raków Piaseczno
+Artur Boruc scores End of match 
+
+Match Puszcza Rybnik against Ślęza Tomaszów Mazowiecki
+End of match 
+
+Match Stal Nierdzewna Przemyśl against Unia Rybnik
+Stal Nierdzewna Przemyśl 0 : 1 Unia Rybnik
+Piotr Leciejewski scores Stal Nierdzewna Przemyśl 0 : 2 Unia Rybnik
+Piotr Leciejewski scores Stal Nierdzewna Przemyśl 0 : 3 Unia Rybnik
+Piotr Leciejewski scores Stal Nierdzewna Przemyśl 0 : 4 Unia Rybnik
+Piotr Leciejewski scores End of match 
+
+Match Znicz Ełk against Siarka Gliwice
+Znicz Ełk 1 : 0 Siarka Gliwice
+Alan Czerwinski scores Znicz Ełk 1 : 1 Siarka Gliwice
+Ryan Hernandez scores Znicz Ełk 1 : 2 Siarka Gliwice
+Mateusz Mak scores Znicz Ełk 1 : 3 Siarka Gliwice
+Terry Bell scores Znicz Ełk 1 : 4 Siarka Gliwice
+Ryan Hernandez scores End of match 
+
+Match Korona Mielec against Pogoń Ruska Radom
+Korona Mielec 1 : 0 Pogoń Ruska Radom
+Wilbur Nunez scores Korona Mielec 2 : 0 Pogoń Ruska Radom
+Wilbur Nunez scores Korona Mielec 2 : 1 Pogoń Ruska Radom
+Kent Moreno scores End of match 
+
+Match Zagłębie II Lubin Białystok against GKS Sosnowiec
+Zagłębie II Lubin Białystok 0 : 1 GKS Sosnowiec
+Lukasz Budzilek scores Zagłębie II Lubin Białystok 0 : 2 GKS Sosnowiec
+Maciej Korzym scores End of match 
+
+Match GKS Sosnowiec against Stal Nowy Sącz
+GKS Sosnowiec 1 : 0 Stal Nowy Sącz
+Wojciech Szczesny scores GKS Sosnowiec 2 : 0 Stal Nowy Sącz
+Lukasz Budzilek scores GKS Sosnowiec 2 : 1 Stal Nowy Sącz
+Artur Boruc scores GKS Sosnowiec 2 : 2 Stal Nowy Sącz
+Artur Boruc scores End of match 
+
+Match Pogoń Ruska Radom against Zagłębie II Lubin Białystok
+Pogoń Ruska Radom 1 : 0 Zagłębie II Lubin Białystok
+Kent Moreno scores Pogoń Ruska Radom 2 : 0 Zagłębie II Lubin Białystok
+Lukasz Hanzel scores Pogoń Ruska Radom 3 : 0 Zagłębie II Lubin Białystok
+Bobby White scores Pogoń Ruska Radom 3 : 1 Zagłębie II Lubin Białystok
+Ralph Washington scores Pogoń Ruska Radom 3 : 2 Zagłębie II Lubin Białystok
+Tomasz Nowak scores Pogoń Ruska Radom 3 : 3 Zagłębie II Lubin Białystok
+Ralph Washington scores End of match 
+
+Match Siarka Gliwice against Korona Mielec
+Siarka Gliwice 1 : 0 Korona Mielec
+Terry Bell scores Siarka Gliwice 2 : 0 Korona Mielec
+Terry Bell scores Siarka Gliwice 2 : 1 Korona Mielec
+Wilbur Nunez scores End of match 
+
+Match Unia Rybnik against Znicz Ełk
+Unia Rybnik 1 : 0 Znicz Ełk
+Piotr Leciejewski scores Unia Rybnik 2 : 0 Znicz Ełk
+Daniel Richardson scores Unia Rybnik 3 : 0 Znicz Ełk
+Piotr Leciejewski scores Unia Rybnik 4 : 0 Znicz Ełk
+Jackie Strickland scores Unia Rybnik 4 : 1 Znicz Ełk
+Maciej Urbanczyk scores Unia Rybnik 4 : 2 Znicz Ełk
+Maciej Urbanczyk scores Unia Rybnik 4 : 3 Znicz Ełk
+Kevin Young scores End of match 
+
+Match Ślęza Tomaszów Mazowiecki against Stal Nierdzewna Przemyśl
+Ślęza Tomaszów Mazowiecki 0 : 1 Stal Nierdzewna Przemyśl
+Piotr Zielinski scores End of match 
+
+Match Raków Piaseczno against Puszcza Rybnik
+Raków Piaseczno 1 : 0 Puszcza Rybnik
+Bartlomiej Kasprzak scores Raków Piaseczno 2 : 0 Puszcza Rybnik
+Waldemar Sobota scores Raków Piaseczno 3 : 0 Puszcza Rybnik
+Waldemar Sobota scores Raków Piaseczno 4 : 0 Puszcza Rybnik
+Waldemar Sobota scores End of match 
+
+Match Stal Nowy Sącz against Puszcza Rybnik
+Stal Nowy Sącz 1 : 0 Puszcza Rybnik
+Michal Kopczynski scores Stal Nowy Sącz 1 : 1 Puszcza Rybnik
+Edward Jackson scores Stal Nowy Sącz 1 : 2 Puszcza Rybnik
+Joseph Adams scores Stal Nowy Sącz 1 : 3 Puszcza Rybnik
+Edward Jackson scores End of match 
+
+Match Stal Nierdzewna Przemyśl against Raków Piaseczno
+Stal Nierdzewna Przemyśl 0 : 1 Raków Piaseczno
+Waldemar Sobota scores End of match 
+
+Match Znicz Ełk against Ślęza Tomaszów Mazowiecki
+Znicz Ełk 1 : 0 Ślęza Tomaszów Mazowiecki
+Maciej Urbanczyk scores Znicz Ełk 2 : 0 Ślęza Tomaszów Mazowiecki
+Alan Czerwinski scores Znicz Ełk 2 : 1 Ślęza Tomaszów Mazowiecki
+Marek Wasiluk scores End of match 
+
+Match Korona Mielec against Unia Rybnik
+Korona Mielec 1 : 0 Unia Rybnik
+Wilbur Nunez scores Korona Mielec 1 : 1 Unia Rybnik
+Piotr Leciejewski scores End of match 
+
+Match Zagłębie II Lubin Białystok against Siarka Gliwice
+Zagłębie II Lubin Białystok 1 : 0 Siarka Gliwice
+Cezary Demianiuk scores Zagłębie II Lubin Białystok 2 : 0 Siarka Gliwice
+Ralph Washington scores Zagłębie II Lubin Białystok 3 : 0 Siarka Gliwice
+Cezary Demianiuk scores Zagłębie II Lubin Białystok 4 : 0 Siarka Gliwice
+Wojciech Szczesny scores End of match 
+
+Match GKS Sosnowiec against Pogoń Ruska Radom
+GKS Sosnowiec 0 : 1 Pogoń Ruska Radom
+Kent Moreno scores End of match 
+
+Match Pogoń Ruska Radom against Stal Nowy Sącz
+Pogoń Ruska Radom 1 : 0 Stal Nowy Sącz
+Michal Mak scores Pogoń Ruska Radom 2 : 0 Stal Nowy Sącz
+Kent Moreno scores Pogoń Ruska Radom 3 : 0 Stal Nowy Sącz
+William James scores Pogoń Ruska Radom 3 : 1 Stal Nowy Sącz
+Artur Boruc scores End of match 
+
+Match Siarka Gliwice against GKS Sosnowiec
+Siarka Gliwice 1 : 0 GKS Sosnowiec
+Terry Bell scores Siarka Gliwice 1 : 1 GKS Sosnowiec
+Jesse Gray scores Siarka Gliwice 1 : 2 GKS Sosnowiec
+Maciej Korzym scores End of match 
+
+Match Unia Rybnik against Zagłębie II Lubin Białystok
+Unia Rybnik 1 : 0 Zagłębie II Lubin Białystok
+Piotr Leciejewski scores Unia Rybnik 2 : 0 Zagłębie II Lubin Białystok
+Gary Rodriguez scores Unia Rybnik 2 : 1 Zagłębie II Lubin Białystok
+Ralph Washington scores Unia Rybnik 2 : 2 Zagłębie II Lubin Białystok
+Cezary Demianiuk scores Unia Rybnik 2 : 3 Zagłębie II Lubin Białystok
+Ralph Washington scores End of match 
+
+Match Ślęza Tomaszów Mazowiecki against Korona Mielec
+Ślęza Tomaszów Mazowiecki 0 : 1 Korona Mielec
+Wilbur Nunez scores End of match 
+
+Match Raków Piaseczno against Znicz Ełk
+Raków Piaseczno 1 : 0 Znicz Ełk
+Waldemar Sobota scores Raków Piaseczno 1 : 1 Znicz Ełk
+Alan Czerwinski scores End of match 
+
+Match Puszcza Rybnik against Stal Nierdzewna Przemyśl
+Puszcza Rybnik 1 : 0 Stal Nierdzewna Przemyśl
+Edward Jackson scores Puszcza Rybnik 1 : 1 Stal Nierdzewna Przemyśl
+Piotr Zielinski scores End of match 
+
+
+
+**************************************************************
+       TEAM NAME                            PTS   W    D    L 
+1.  Unia Rybnik                             24    7    3    1   
+2.  Raków Piaseczno                         23    7    2    2   
+3.  Zagłębie II Lubin Białystok             18    5    3    3   
+4.  GKS Sosnowiec                           18    5    3    3   
+5.  Stal Nierdzewna Przemyśl                15    4    3    4   
+6.  Znicz Ełk                               14    4    2    5   
+7.  Korona Mielec                           14    3    5    3   
+8.  Puszcza Rybnik                          14    3    5    3   
+9.  Siarka Gliwice                          11    3    2    6   
+10. Pogoń Ruska Radom                       10    2    4    5   
+11. Ślęza Tomaszów Mazowiecki               10    2    4    5   
+12. Stal Nowy Sącz                           8    2    2    7   
+**************************************************************
+
+
+   MOST TALENTED PLAYERS   
+1. Jacek Goralski from Korona Mielec with 99 skill points. 
+2. Bartlomiej Babiarz from Puszcza Rybnik with 95 skill points. 
+3. Bartosz Wolski from Znicz Ełk with 94 skill points. 
+4. Piotr Leciejewski from Unia Rybnik with 94 skill points. 
+5. Randy Gonzales from Ślęza Tomaszów Mazowiecki with 94 skill points. 
+6. Dennis Cook from Puszcza Rybnik with 94 skill points. 
+7. Maciej Korzym from GKS Sosnowiec with 93 skill points. 
+8. Jesse Gray from GKS Sosnowiec with 93 skill points. 
+9. Marcin Cebula from Puszcza Rybnik with 93 skill points. 
+10. Jeremy Simmons from Znicz Ełk with 92 skill points. 
+11. Willie Perez from GKS Sosnowiec with 92 skill points. 
+12. Ronald Torres from Zagłębie II Lubin Białystok with 91 skill points. 
+13. William James from Pogoń Ruska Radom with 91 skill points. 
+14. Daniel Dziwniel from Stal Nierdzewna Przemyśl with 90 skill points. 
+15. Jakub Lukowski from Pogoń Ruska Radom with 90 skill points. 
+16. Bartlomiej Kasprzak from Raków Piaseczno with 90 skill points. 
+17. Przemyslaw Szyminski from Stal Nowy Sącz with 90 skill points. 
+18. Gregory Murphy from Korona Mielec with 89 skill points. 
+19. Lukasz Budzilek from GKS Sosnowiec with 89 skill points. 
+20. Daniel Richardson from Unia Rybnik with 89 skill points. 
+
+    BEST LEAGUE SCORERS   
+1. Alan Czerwinski STRIKER from team Znicz Ełk scores 19
+2. Ralph Washington STRIKER from team Zagłębie II Lubin Białystok scores 19
+3. Piotr Leciejewski STRIKER from team Unia Rybnik scores 18
+4. Waldemar Sobota STRIKER from team Raków Piaseczno scores 15
+
+
+    BEST TEAM SCORERS   
+Alan Czerwinski STRIKER from team Znicz Ełk scores 19
+Ralph Washington STRIKER from team Zagłębie II Lubin Białystok scores 19
+Piotr Leciejewski STRIKER from team Unia Rybnik scores 18
+Waldemar Sobota STRIKER from team Raków Piaseczno scores 15
+Wilbur Nunez STRIKER from team Korona Mielec scores 14
+Artur Boruc STRIKER from team Stal Nowy Sącz scores 13
+Piotr Zielinski STRIKER from team Stal Nierdzewna Przemyśl scores 9
+Edward Jackson STRIKER from team Puszcza Rybnik scores 9
+Kent Moreno STRIKER from team Pogoń Ruska Radom scores 7
+Terry Bell STRIKER from team Siarka Gliwice scores 7
+Mateusz Machaj STRIKER from team Ślęza Tomaszów Mazowiecki scores 5
+Maciej Korzym MIDFIELDER from team GKS Sosnowiec scores 4
+

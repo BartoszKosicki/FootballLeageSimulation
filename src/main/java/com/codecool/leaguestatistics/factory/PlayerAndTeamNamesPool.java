@@ -1,6 +1,6 @@
 package com.codecool.leaguestatistics.factory;
 
-public class PlayerNames {
+public class PlayerAndTeamNamesPool {
     private static String[] PlayerNames;
     private static String[] CityNames;
     private static String[] TeamNames;

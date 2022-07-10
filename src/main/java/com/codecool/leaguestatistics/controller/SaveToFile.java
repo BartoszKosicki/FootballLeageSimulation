@@ -11,7 +11,12 @@ import java.io.IOException;
 import java.util.List;
 
 
-public class SaveToFile {
+public abstract class SaveToFile {
+    /**
+     * save statistics to txt file
+     * @param data statistical data
+     * @param pathFile
+     */
     public static void SaveToFile(String data, String pathFile) {
         try {
             FileWriter fw = new FileWriter(pathFile, true);
@@ -26,16 +31,16 @@ public class SaveToFile {
         }
     }
 
-    public static void saveSeasonDataToFile(List<Team> Division, String filePath) {
-        List<Team> allDivisionTeams = PrintLeagueStatistics.getAllTeamsSorted(Division);
+    public static void saveSeasonDataToFile(List<Team> League, String filePath) {
+        List<Team> allDivisionTeams = PrintLeagueStatistics.getAllTeamsSorted(League);
         String dataToSave = String.valueOf(PrintScoresTable.printTable(allDivisionTeams));
         SaveToFile(dataToSave, filePath);
-        saveMostTalentedPlayer(Division, filePath);
-        saveBestScorers(Division, filePath);
-        saveBestScorersInTeam(Division, filePath);
+        saveMostTalentedPlayer(League, filePath);
+        saveBestScorers(League, filePath);
+        saveBestScorersInTeam(League, filePath);
     }
 
-    public static void saveBestScorers(List<Team> League, String filePath) {
+    private static void saveBestScorers(List<Team> League, String filePath) {
         List<Player> bestScorersList = PrintLeagueStatistics.getPlayersWithAtLeastXGoals(League, 15);
         StringBuilder bestScorers = new StringBuilder("    BEST LEAGUE SCORERS   \n");
         for (int i = 0; i < bestScorersList.size(); i++) {
@@ -45,7 +50,7 @@ public class SaveToFile {
         SaveToFile(String.valueOf(bestScorers), filePath);
     }
 
-    public static void saveBestScorersInTeam(List<Team> League, String filePath) {
+    private static void saveBestScorersInTeam(List<Team> League, String filePath) {
         List<Player> bestScorersInTeam = PrintLeagueStatistics.getTopScorersFromEachTeam(League);
         StringBuilder bestScorers = new StringBuilder("\n    BEST TEAM SCORERS   \n");
         for (Player players: bestScorersInTeam) {
@@ -54,7 +59,7 @@ public class SaveToFile {
         SaveToFile(String.valueOf(bestScorers), filePath);
     }
 
-    public static void saveMostTalentedPlayer(List<Team> League, String filePath) {
+    private static void saveMostTalentedPlayer(List<Team> League, String filePath) {
         List<Player> allPlayers = PrintLeagueStatistics.getAllPlayers(League);
         List<Player> mostTalentedPlayersInDivision = PrintLeagueStatistics.getMostTalentedPlayersInDivision(allPlayers, 20);
         StringBuilder players = new StringBuilder("\n   MOST TALENTED PLAYERS   \n");
