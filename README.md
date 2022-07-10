@@ -1,4 +1,4 @@
-# FootballLeageSimulation
+# FootballLeagueSimulation
 
 The requirement was to create a football league simulator that should:
 1) create teams 
