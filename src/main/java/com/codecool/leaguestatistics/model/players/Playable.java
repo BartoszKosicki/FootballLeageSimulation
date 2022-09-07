@@ -5,10 +5,15 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 
 @Getter
-@AllArgsConstructor
-@NoArgsConstructor
 public class Playable {
-    private int counter=0;
+    private int counter;
+
+    public Playable() {
+    }
+
+    public Playable(int counter) {
+        this.counter = counter;
+    }
 
     public void setCounter() {
         if (counter >0) {

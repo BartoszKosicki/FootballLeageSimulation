@@ -1,7 +1,7 @@
 package com.codecool.leaguestatistics.controller;
 
-import com.codecool.leaguestatistics.model.Team;
-import com.codecool.leaguestatistics.model.players.Player;
+import com.codecool.leaguestatistics.model.team.Team;
+import com.codecool.leaguestatistics.model.players.model.Player;
 import com.codecool.leaguestatistics.view.PrintLeagueStatistics;
 import com.codecool.leaguestatistics.view.PrintScoresTable;
 
@@ -11,13 +11,13 @@ import java.io.IOException;
 import java.util.List;
 
 
-public abstract class SaveToFile {
+public class FileManager {
     /**
      * save statistics to txt file
      * @param data statistical data
      * @param pathFile
      */
-    public static void SaveToFile(String data, String pathFile) {
+    public void SaveToFile(String data, String pathFile) {
         try {
             FileWriter fw = new FileWriter(pathFile, true);
             BufferedWriter bw = new BufferedWriter(fw);
@@ -31,7 +31,7 @@ public abstract class SaveToFile {
         }
     }
 
-    public static void saveSeasonDataToFile(List<Team> League, String filePath) {
+    public void saveSeasonDataToFile(List<Team> League, String filePath) {
         List<Team> allDivisionTeams = PrintLeagueStatistics.getAllTeamsSorted(League);
         String dataToSave = String.valueOf(PrintScoresTable.printTable(allDivisionTeams));
         SaveToFile(dataToSave, filePath);
@@ -40,7 +40,7 @@ public abstract class SaveToFile {
         saveBestScorersInTeam(League, filePath);
     }
 
-    private static void saveBestScorers(List<Team> League, String filePath) {
+    private void saveBestScorers(List<Team> League, String filePath) {
         List<Player> bestScorersList = PrintLeagueStatistics.getPlayersWithAtLeastXGoals(League, 15);
         StringBuilder bestScorers = new StringBuilder("    BEST LEAGUE SCORERS   \n");
         for (int i = 0; i < bestScorersList.size(); i++) {
@@ -50,7 +50,7 @@ public abstract class SaveToFile {
         SaveToFile(String.valueOf(bestScorers), filePath);
     }
 
-    private static void saveBestScorersInTeam(List<Team> League, String filePath) {
+    private void saveBestScorersInTeam(List<Team> League, String filePath) {
         List<Player> bestScorersInTeam = PrintLeagueStatistics.getTopScorersFromEachTeam(League);
         StringBuilder bestScorers = new StringBuilder("\n    BEST TEAM SCORERS   \n");
         for (Player players: bestScorersInTeam) {
@@ -59,7 +59,7 @@ public abstract class SaveToFile {
         SaveToFile(String.valueOf(bestScorers), filePath);
     }
 
-    private static void saveMostTalentedPlayer(List<Team> League, String filePath) {
+    private void saveMostTalentedPlayer(List<Team> League, String filePath) {
         List<Player> allPlayers = PrintLeagueStatistics.getAllPlayers(League);
         List<Player> mostTalentedPlayersInDivision = PrintLeagueStatistics.getMostTalentedPlayersInDivision(allPlayers, 20);
         StringBuilder players = new StringBuilder("\n   MOST TALENTED PLAYERS   \n");

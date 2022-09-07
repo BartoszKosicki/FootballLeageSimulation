@@ -1,7 +1,9 @@
-package com.codecool.leaguestatistics.model;
+package com.codecool.leaguestatistics.model.team;
 
 import com.codecool.leaguestatistics.Utils;
+import com.codecool.leaguestatistics.model.Division;
 import com.codecool.leaguestatistics.model.players.*;
+import com.codecool.leaguestatistics.model.players.model.*;
 import lombok.Getter;
 
 import java.util.*;
@@ -18,11 +20,11 @@ public class Team {
     private int loses;
     private final Division division;
 
-    private List<Player> players;
-    private List<Goalkeeper> gk = new ArrayList<>();
-    private List<Midfielder> allMidfielders = new ArrayList<>();
-    private List<Defender> allDefenders = new ArrayList<>();
-    private List<Striker> allStrikers = new ArrayList<>();
+    private final List<Player> players;
+    private final List<Goalkeeper> gk = new ArrayList<>();
+    private final List<Midfielder> allMidfielders = new ArrayList<>();
+    private final List<Defender> allDefenders = new ArrayList<>();
+    private final List<Striker> allStrikers = new ArrayList<>();
 
     private List<Player> squad = new ArrayList<>();
     private List<Midfielder> currentMidfielders = new ArrayList<>();
@@ -30,7 +32,7 @@ public class Team {
     private Goalkeeper currentGoalkeeper;
 
     private boolean changeSquad = false;
-    private List<String> teamTactic = new ArrayList<>();
+    private final List<String> teamTactic = new ArrayList<>();
     private String currentTactic;
     private int playerOff=0;
     private int attackPotential=0;
@@ -106,7 +108,7 @@ public class Team {
                 }
             }
         }
-        changeSquad = changes>0;
+        changeSquad = changes > 0;
     }
 
     /**

@@ -1,11 +1,20 @@
-package com.codecool.leaguestatistics.controller;
+package com.codecool.leaguestatistics.season;
 
 import com.codecool.leaguestatistics.RoundPair;
 import com.codecool.leaguestatistics.Utils;
+import com.codecool.leaguestatistics.controller.FileManager;
 import com.codecool.leaguestatistics.factory.LeagueFactory;
+import com.codecool.leaguestatistics.footballLeague.League;
+import com.codecool.leaguestatistics.footballLeague.LeagueService;
 import com.codecool.leaguestatistics.model.*;
 import com.codecool.leaguestatistics.model.players.*;
+import com.codecool.leaguestatistics.model.players.model.Goalkeeper;
+import com.codecool.leaguestatistics.model.players.model.Midfielder;
+import com.codecool.leaguestatistics.model.players.model.Player;
+import com.codecool.leaguestatistics.model.players.model.Striker;
+import com.codecool.leaguestatistics.model.team.Team;
 import com.codecool.leaguestatistics.view.PrintScoresTable;
+import lombok.Builder;
 
 import java.util.*;
 
@@ -14,35 +23,39 @@ import java.util.*;
  */
 public class Season {
 
-    private List<Team> WEST;
-    private List<Team> CENTRAL;
-    private List<Team> EAST;
+    private League WEST;
+    private League CENTRAL;
+    private League EAST;
+
     int SeasonCount = 0;
     private final String westPathFile = "WestLeague.txt";
     private final String centralPathFile = "CentralLeague.txt";
     private final String eastPathFile = "EastLeague.txt";
+    private final LeagueFactory leagueFactory = new LeagueFactory();
+    private final FileManager fileManager = new FileManager();
 
-    public Season() {
-        WEST = new ArrayList<>();
-        CENTRAL = new ArrayList<>();
-        EAST = new ArrayList<>();
+    @Builder
+    public Season(League WEST, League CENTRAL, League EAST) {
+        this.WEST = WEST;
+        this.CENTRAL = CENTRAL;
+        this.EAST = EAST;
     }
 
     /**
      * Fills league with new teams and simulates all games in season.
-     * After all games played calls table to be displayed.
+     * After played all games calls table to be displayed.
      */
     public void run() {
-        this.WEST = LeagueFactory.createLeague(12, Division.West);
-        this.CENTRAL = LeagueFactory.createLeague(12, Division.Central);
-        this.EAST = LeagueFactory.createLeague(12, Division.East);
+        this.WEST = leagueFactory.createLeague(12, Division.West);
+        this.CENTRAL = leagueFactory.createLeague(12, Division.Central);
+        this.EAST = leagueFactory.createLeague(12, Division.East);
         String next ="";
         do {
             SeasonCount++;
             playAllGames();
-            SaveToFile.saveSeasonDataToFile(WEST, westPathFile);
-            SaveToFile.saveSeasonDataToFile(CENTRAL, centralPathFile);
-            SaveToFile.saveSeasonDataToFile(EAST, eastPathFile);
+//            fileManager.saveSeasonDataToFile(WEST, westPathFile);
+//            fileManager.saveSeasonDataToFile(CENTRAL, centralPathFile);
+//            fileManager.saveSeasonDataToFile(EAST, eastPathFile);
             Scanner scanner = new Scanner(System.in);
             next = scanner.nextLine();
 
@@ -55,9 +68,9 @@ public class Season {
      * Following solution represents the robin-round tournament.
      */
     private void playAllGames() {
-        playSeason((ArrayList<Team>) WEST, westPathFile);
-        playSeason((ArrayList<Team>) CENTRAL, centralPathFile);
-        playSeason((ArrayList<Team>) EAST,eastPathFile);
+//        playSeason((ArrayList<Team>) WEST, westPathFile);
+//        playSeason((ArrayList<Team>) CENTRAL, centralPathFile);
+//        playSeason((ArrayList<Team>) EAST,eastPathFile);
     }
 
     /**
@@ -71,7 +84,7 @@ public class Season {
         for (RoundPair round: timeTable) {
             matchHistory.append(playMatch(League.get(round.team1()), League.get(round.team2())));
         }
-        SaveToFile.SaveToFile(matchHistory.toString(), pathFile);
+        fileManager.SaveToFile(matchHistory.toString(), pathFile);
     }
 
     /**

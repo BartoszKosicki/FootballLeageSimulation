@@ -1,6 +1,8 @@
-package com.codecool.leaguestatistics.model.players;
+package com.codecool.leaguestatistics.model.players.model;
 
 import com.codecool.leaguestatistics.factory.NamesGenerator;
+import com.codecool.leaguestatistics.model.players.Playable;
+import com.codecool.leaguestatistics.model.players.Position;
 import lombok.Getter;
 import lombok.Setter;
 
@@ -15,7 +17,7 @@ public abstract class Player{
     private String team;
     private int aggression;
     private int injuryPotential;
-    private Playable timeCantPlay = new Playable(0);
+    private Playable timeCantPlay = new Playable();
     private boolean canPlay;
     private int goals;
 
@@ -37,7 +39,7 @@ public abstract class Player{
     public void startNewSeason(){
     goals = 0;
     canPlay = true;
-    timeCantPlay = new Playable(0);
+    timeCantPlay = new Playable();
     }
 
     public void setGoals() {

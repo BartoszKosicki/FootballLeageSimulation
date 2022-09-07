@@ -2007,3 +2007,529 @@ Bartosz Wolski STRIKER from team KKS Pociąg Kraków scores 13
 Bartosz Zurek MIDFIELDER from team Sokół Przemyśl scores 4
 Lukasz Burliga STRIKER from team Ruch Stalowa Wola scores 4
 
+*****************
+SEASON 1
+*****************
+
+
+Match Unia Kędzierzyn-Koźle against Jagiellonia Przemyśl
+Unia Kędzierzyn-Koźle 1 : 0 Jagiellonia Przemyśl
+André Dej scores Unia Kędzierzyn-Koźle 2 : 0 Jagiellonia Przemyśl
+André Dej scores Unia Kędzierzyn-Koźle 2 : 1 Jagiellonia Przemyśl
+Daniel Richardson scores End of match 
+
+Match Hutnik Skarżysko-Kamienna against Polonia Jeden Stalowa Wola
+Hutnik Skarżysko-Kamienna 1 : 0 Polonia Jeden Stalowa Wola
+Lukasz Zaluska scores Hutnik Skarżysko-Kamienna 2 : 0 Polonia Jeden Stalowa Wola
+Lukasz Zaluska scores Hutnik Skarżysko-Kamienna 3 : 0 Polonia Jeden Stalowa Wola
+Lukasz Zaluska scores Hutnik Skarżysko-Kamienna 4 : 0 Polonia Jeden Stalowa Wola
+Lukasz Zaluska scores Hutnik Skarżysko-Kamienna 5 : 0 Polonia Jeden Stalowa Wola
+Lukasz Zaluska scores Hutnik Skarżysko-Kamienna 6 : 0 Polonia Jeden Stalowa Wola
+Lukasz Zaluska scores Hutnik Skarżysko-Kamienna 6 : 1 Polonia Jeden Stalowa Wola
+Kamil Glik scores Hutnik Skarżysko-Kamienna 6 : 2 Polonia Jeden Stalowa Wola
+Kamil Glik scores End of match 
+
+Match Wisła Zamulona Ostrów Wielkopolski against Podhale Bydgoszcz
+Wisła Zamulona Ostrów Wielkopolski 1 : 0 Podhale Bydgoszcz
+Michal Mak scores Wisła Zamulona Ostrów Wielkopolski 2 : 0 Podhale Bydgoszcz
+Michal Mak scores Wisła Zamulona Ostrów Wielkopolski 2 : 1 Podhale Bydgoszcz
+Stephen Morgan scores Wisła Zamulona Ostrów Wielkopolski 2 : 2 Podhale Bydgoszcz
+Stephen Morgan scores Wisła Zamulona Ostrów Wielkopolski 2 : 3 Podhale Bydgoszcz
+Ian Jones scores End of match 
+
+Match Sokół Tarnobrzeg against Pogoń Kacapa Gliwice
+Sokół Tarnobrzeg 1 : 0 Pogoń Kacapa Gliwice
+Michal Buchalik scores Sokół Tarnobrzeg 2 : 0 Pogoń Kacapa Gliwice
+Michal Buchalik scores Sokół Tarnobrzeg 2 : 1 Pogoń Kacapa Gliwice
+Mark Wood scores End of match 
+
+Match Chojniczanka Leszno against Lechia Jelenia Góra
+Chojniczanka Leszno 1 : 0 Lechia Jelenia Góra
+Dominik Furman scores End of match 
+
+Match GKS Gleboki Chełm against BrukBet Inowrocław
+GKS Gleboki Chełm 1 : 0 BrukBet Inowrocław
+Hubert Wolakiewicz scores GKS Gleboki Chełm 2 : 0 BrukBet Inowrocław
+Hubert Wolakiewicz scores GKS Gleboki Chełm 2 : 1 BrukBet Inowrocław
+Rafal Wolski scores GKS Gleboki Chełm 2 : 2 BrukBet Inowrocław
+Rafal Wolski scores GKS Gleboki Chełm 2 : 3 BrukBet Inowrocław
+Rafal Wolski scores End of match 
+
+Match BrukBet Inowrocław against Unia Kędzierzyn-Koźle
+BrukBet Inowrocław 0 : 1 Unia Kędzierzyn-Koźle
+Moses Parks scores BrukBet Inowrocław 0 : 2 Unia Kędzierzyn-Koźle
+Rafal Pietrzak scores BrukBet Inowrocław 0 : 3 Unia Kędzierzyn-Koźle
+André Dej scores End of match 
+
+Match Lechia Jelenia Góra against GKS Gleboki Chełm
+Lechia Jelenia Góra 1 : 0 GKS Gleboki Chełm
+Martin Konczkowski scores Lechia Jelenia Góra 1 : 1 GKS Gleboki Chełm
+Hubert Wolakiewicz scores Lechia Jelenia Góra 1 : 2 GKS Gleboki Chełm
+Hubert Wolakiewicz scores Lechia Jelenia Góra 1 : 3 GKS Gleboki Chełm
+Adrian Basta scores End of match 
+
+Match Pogoń Kacapa Gliwice against Chojniczanka Leszno
+Pogoń Kacapa Gliwice 1 : 0 Chojniczanka Leszno
+Carlos Evans scores Pogoń Kacapa Gliwice 1 : 1 Chojniczanka Leszno
+Dominik Furman scores End of match 
+
+Match Podhale Bydgoszcz against Sokół Tarnobrzeg
+Podhale Bydgoszcz 0 : 1 Sokół Tarnobrzeg
+Wojciech Trochim scores Podhale Bydgoszcz 0 : 2 Sokół Tarnobrzeg
+Michal Buchalik scores Podhale Bydgoszcz 0 : 3 Sokół Tarnobrzeg
+Michal Buchalik scores End of match 
+
+Match Polonia Jeden Stalowa Wola against Wisła Zamulona Ostrów Wielkopolski
+Polonia Jeden Stalowa Wola 1 : 0 Wisła Zamulona Ostrów Wielkopolski
+Jakub Blaszczykowski scores Polonia Jeden Stalowa Wola 2 : 0 Wisła Zamulona Ostrów Wielkopolski
+Kamil Glik scores Polonia Jeden Stalowa Wola 3 : 0 Wisła Zamulona Ostrów Wielkopolski
+Kamil Glik scores Polonia Jeden Stalowa Wola 4 : 0 Wisła Zamulona Ostrów Wielkopolski
+Kamil Glik scores Polonia Jeden Stalowa Wola 5 : 0 Wisła Zamulona Ostrów Wielkopolski
+Kamil Glik scores Polonia Jeden Stalowa Wola 6 : 0 Wisła Zamulona Ostrów Wielkopolski
+Kamil Glik scores Polonia Jeden Stalowa Wola 6 : 1 Wisła Zamulona Ostrów Wielkopolski
+Michal Mak scores Polonia Jeden Stalowa Wola 6 : 2 Wisła Zamulona Ostrów Wielkopolski
+Michal Mak scores Polonia Jeden Stalowa Wola 6 : 3 Wisła Zamulona Ostrów Wielkopolski
+Michal Mak scores Polonia Jeden Stalowa Wola 6 : 4 Wisła Zamulona Ostrów Wielkopolski
+Michal Mak scores Polonia Jeden Stalowa Wola 6 : 5 Wisła Zamulona Ostrów Wielkopolski
+Michal Mak scores Polonia Jeden Stalowa Wola 6 : 6 Wisła Zamulona Ostrów Wielkopolski
+Michal Mak scores End of match 
+
+Match Jagiellonia Przemyśl against Hutnik Skarżysko-Kamienna
+Jagiellonia Przemyśl 1 : 0 Hutnik Skarżysko-Kamienna
+Daniel Richardson scores Jagiellonia Przemyśl 1 : 1 Hutnik Skarżysko-Kamienna
+Lukasz Zaluska scores End of match 
+
+Match Unia Kędzierzyn-Koźle against Hutnik Skarżysko-Kamienna
+Unia Kędzierzyn-Koźle 1 : 0 Hutnik Skarżysko-Kamienna
+André Dej scores Unia Kędzierzyn-Koźle 2 : 0 Hutnik Skarżysko-Kamienna
+André Dej scores Unia Kędzierzyn-Koźle 2 : 1 Hutnik Skarżysko-Kamienna
+Radoslaw Pruchnik scores End of match 
+
+Match Wisła Zamulona Ostrów Wielkopolski against Jagiellonia Przemyśl
+Wisła Zamulona Ostrów Wielkopolski 1 : 0 Jagiellonia Przemyśl
+Marcin Biernat scores Wisła Zamulona Ostrów Wielkopolski 2 : 0 Jagiellonia Przemyśl
+Michal Mak scores Wisła Zamulona Ostrów Wielkopolski 3 : 0 Jagiellonia Przemyśl
+Michal Mak scores Wisła Zamulona Ostrów Wielkopolski 3 : 1 Jagiellonia Przemyśl
+Wayne Reed scores Wisła Zamulona Ostrów Wielkopolski 3 : 2 Jagiellonia Przemyśl
+Wayne Reed scores End of match 
+
+Match Sokół Tarnobrzeg against Polonia Jeden Stalowa Wola
+Sokół Tarnobrzeg 1 : 0 Polonia Jeden Stalowa Wola
+Michal Buchalik scores Sokół Tarnobrzeg 1 : 1 Polonia Jeden Stalowa Wola
+Kamil Glik scores End of match 
+
+Match Chojniczanka Leszno against Podhale Bydgoszcz
+Chojniczanka Leszno 1 : 0 Podhale Bydgoszcz
+Dominik Furman scores Chojniczanka Leszno 2 : 0 Podhale Bydgoszcz
+Dominik Furman scores Chojniczanka Leszno 3 : 0 Podhale Bydgoszcz
+Dominik Furman scores Chojniczanka Leszno 3 : 1 Podhale Bydgoszcz
+Krzysztof Piatek scores End of match 
+
+Match GKS Gleboki Chełm against Pogoń Kacapa Gliwice
+GKS Gleboki Chełm 1 : 0 Pogoń Kacapa Gliwice
+Filip Starzynski scores GKS Gleboki Chełm 1 : 1 Pogoń Kacapa Gliwice
+Wayne Collins scores End of match 
+
+Match BrukBet Inowrocław against Lechia Jelenia Góra
+BrukBet Inowrocław 1 : 0 Lechia Jelenia Góra
+Maciej Korzym scores BrukBet Inowrocław 2 : 0 Lechia Jelenia Góra
+Rafal Wolski scores BrukBet Inowrocław 2 : 1 Lechia Jelenia Góra
+Benjamin Morgan scores End of match 
+
+Match Lechia Jelenia Góra against Unia Kędzierzyn-Koźle
+Lechia Jelenia Góra 0 : 1 Unia Kędzierzyn-Koźle
+Rafal Pietrzak scores Lechia Jelenia Góra 0 : 2 Unia Kędzierzyn-Koźle
+André Dej scores End of match 
+
+Match Pogoń Kacapa Gliwice against BrukBet Inowrocław
+Pogoń Kacapa Gliwice 1 : 0 BrukBet Inowrocław
+Adam Stachowiak scores Pogoń Kacapa Gliwice 1 : 1 BrukBet Inowrocław
+Dominik Kun scores Pogoń Kacapa Gliwice 1 : 2 BrukBet Inowrocław
+Rafal Wolski scores End of match 
+
+Match Podhale Bydgoszcz against GKS Gleboki Chełm
+Podhale Bydgoszcz 1 : 0 GKS Gleboki Chełm
+Ian Jones scores Podhale Bydgoszcz 2 : 0 GKS Gleboki Chełm
+Ian Jones scores Podhale Bydgoszcz 2 : 1 GKS Gleboki Chełm
+Hubert Wolakiewicz scores Podhale Bydgoszcz 2 : 2 GKS Gleboki Chełm
+Lukasz Burliga scores Podhale Bydgoszcz 2 : 3 GKS Gleboki Chełm
+Hubert Wolakiewicz scores Podhale Bydgoszcz 2 : 4 GKS Gleboki Chełm
+Hubert Wolakiewicz scores End of match 
+
+Match Polonia Jeden Stalowa Wola against Chojniczanka Leszno
+Polonia Jeden Stalowa Wola 1 : 0 Chojniczanka Leszno
+Kamil Glik scores Polonia Jeden Stalowa Wola 2 : 0 Chojniczanka Leszno
+Kamil Glik scores Polonia Jeden Stalowa Wola 3 : 0 Chojniczanka Leszno
+Kamil Glik scores Polonia Jeden Stalowa Wola 3 : 1 Chojniczanka Leszno
+Dominik Furman scores Polonia Jeden Stalowa Wola 3 : 2 Chojniczanka Leszno
+Dominik Furman scores Polonia Jeden Stalowa Wola 3 : 3 Chojniczanka Leszno
+Krystian Wojcik scores End of match 
+
+Match Jagiellonia Przemyśl against Sokół Tarnobrzeg
+Jagiellonia Przemyśl 1 : 0 Sokół Tarnobrzeg
+Daniel Richardson scores Jagiellonia Przemyśl 2 : 0 Sokół Tarnobrzeg
+Daniel Richardson scores Jagiellonia Przemyśl 2 : 1 Sokół Tarnobrzeg
+Michal Buchalik scores Jagiellonia Przemyśl 2 : 2 Sokół Tarnobrzeg
+Michal Buchalik scores End of match 
+
+Match Hutnik Skarżysko-Kamienna against Wisła Zamulona Ostrów Wielkopolski
+Hutnik Skarżysko-Kamienna 1 : 0 Wisła Zamulona Ostrów Wielkopolski
+Lukasz Zaluska scores Hutnik Skarżysko-Kamienna 2 : 0 Wisła Zamulona Ostrów Wielkopolski
+Lukasz Zaluska scores Hutnik Skarżysko-Kamienna 3 : 0 Wisła Zamulona Ostrów Wielkopolski
+Lukasz Zaluska scores Hutnik Skarżysko-Kamienna 3 : 1 Wisła Zamulona Ostrów Wielkopolski
+Michal Mak scores Hutnik Skarżysko-Kamienna 3 : 2 Wisła Zamulona Ostrów Wielkopolski
+Michal Mak scores Hutnik Skarżysko-Kamienna 3 : 3 Wisła Zamulona Ostrów Wielkopolski
+Michal Mak scores End of match 
+
+Match Unia Kędzierzyn-Koźle against Wisła Zamulona Ostrów Wielkopolski
+Unia Kędzierzyn-Koźle 1 : 0 Wisła Zamulona Ostrów Wielkopolski
+Krzysztof Piatek scores Unia Kędzierzyn-Koźle 1 : 1 Wisła Zamulona Ostrów Wielkopolski
+Michal Mak scores Unia Kędzierzyn-Koźle 1 : 2 Wisła Zamulona Ostrów Wielkopolski
+Michal Mak scores Unia Kędzierzyn-Koźle 1 : 3 Wisła Zamulona Ostrów Wielkopolski
+Michal Mak scores End of match 
+
+Match Sokół Tarnobrzeg against Hutnik Skarżysko-Kamienna
+Sokół Tarnobrzeg 1 : 0 Hutnik Skarżysko-Kamienna
+Michal Buchalik scores Sokół Tarnobrzeg 1 : 1 Hutnik Skarżysko-Kamienna
+Lukasz Zaluska scores Sokół Tarnobrzeg 1 : 2 Hutnik Skarżysko-Kamienna
+Radoslaw Pruchnik scores Sokół Tarnobrzeg 1 : 3 Hutnik Skarżysko-Kamienna
+Lukasz Zaluska scores Sokół Tarnobrzeg 1 : 4 Hutnik Skarżysko-Kamienna
+Lukasz Zaluska scores End of match 
+
+Match Chojniczanka Leszno against Jagiellonia Przemyśl
+End of match 
+
+Match GKS Gleboki Chełm against Polonia Jeden Stalowa Wola
+GKS Gleboki Chełm 1 : 0 Polonia Jeden Stalowa Wola
+Hubert Wolakiewicz scores GKS Gleboki Chełm 1 : 1 Polonia Jeden Stalowa Wola
+Kamil Glik scores End of match 
+
+Match BrukBet Inowrocław against Podhale Bydgoszcz
+BrukBet Inowrocław 1 : 0 Podhale Bydgoszcz
+Rafal Wolski scores BrukBet Inowrocław 2 : 0 Podhale Bydgoszcz
+Rafal Wolski scores BrukBet Inowrocław 2 : 1 Podhale Bydgoszcz
+Clifton Boyd scores BrukBet Inowrocław 2 : 2 Podhale Bydgoszcz
+Krzysztof Piatek scores BrukBet Inowrocław 2 : 3 Podhale Bydgoszcz
+Stephen Morgan scores BrukBet Inowrocław 2 : 4 Podhale Bydgoszcz
+Krzysztof Piatek scores BrukBet Inowrocław 2 : 5 Podhale Bydgoszcz
+Richard Smith scores End of match 
+
+Match Lechia Jelenia Góra against Pogoń Kacapa Gliwice
+Lechia Jelenia Góra 1 : 0 Pogoń Kacapa Gliwice
+Martin Konczkowski scores End of match 
+
+Match Unia Kędzierzyn-Koźle against Pogoń Kacapa Gliwice
+Unia Kędzierzyn-Koźle 0 : 1 Pogoń Kacapa Gliwice
+Adam Stachowiak scores End of match 
+
+Match Podhale Bydgoszcz against Lechia Jelenia Góra
+Podhale Bydgoszcz 1 : 0 Lechia Jelenia Góra
+Clifton Boyd scores Podhale Bydgoszcz 2 : 0 Lechia Jelenia Góra
+Richard Smith scores Podhale Bydgoszcz 3 : 0 Lechia Jelenia Góra
+Stephen Morgan scores Podhale Bydgoszcz 3 : 1 Lechia Jelenia Góra
+Martin Konczkowski scores End of match 
+
+Match Polonia Jeden Stalowa Wola against BrukBet Inowrocław
+Polonia Jeden Stalowa Wola 1 : 0 BrukBet Inowrocław
+Kamil Glik scores Polonia Jeden Stalowa Wola 2 : 0 BrukBet Inowrocław
+Kamil Glik scores Polonia Jeden Stalowa Wola 2 : 1 BrukBet Inowrocław
+Rafal Wolski scores Polonia Jeden Stalowa Wola 2 : 2 BrukBet Inowrocław
+Rafal Wolski scores Polonia Jeden Stalowa Wola 2 : 3 BrukBet Inowrocław
+Rafal Wolski scores Polonia Jeden Stalowa Wola 2 : 4 BrukBet Inowrocław
+Rafal Wolski scores Polonia Jeden Stalowa Wola 2 : 5 BrukBet Inowrocław
+Rafal Wolski scores Polonia Jeden Stalowa Wola 2 : 6 BrukBet Inowrocław
+Rafal Wolski scores End of match 
+
+Match Jagiellonia Przemyśl against GKS Gleboki Chełm
+Jagiellonia Przemyśl 0 : 1 GKS Gleboki Chełm
+Adrian Basta scores Jagiellonia Przemyśl 0 : 2 GKS Gleboki Chełm
+Hubert Wolakiewicz scores End of match 
+
+Match Hutnik Skarżysko-Kamienna against Chojniczanka Leszno
+Hutnik Skarżysko-Kamienna 1 : 0 Chojniczanka Leszno
+Radoslaw Pruchnik scores Hutnik Skarżysko-Kamienna 2 : 0 Chojniczanka Leszno
+Lukasz Zaluska scores Hutnik Skarżysko-Kamienna 2 : 1 Chojniczanka Leszno
+Dominik Furman scores Hutnik Skarżysko-Kamienna 2 : 2 Chojniczanka Leszno
+Dominik Furman scores End of match 
+
+Match Wisła Zamulona Ostrów Wielkopolski against Sokół Tarnobrzeg
+Wisła Zamulona Ostrów Wielkopolski 1 : 0 Sokół Tarnobrzeg
+Michal Mak scores End of match 
+
+Match Sokół Tarnobrzeg against Unia Kędzierzyn-Koźle
+Sokół Tarnobrzeg 1 : 0 Unia Kędzierzyn-Koźle
+Wojciech Trochim scores Sokół Tarnobrzeg 2 : 0 Unia Kędzierzyn-Koźle
+Ian Jones scores Sokół Tarnobrzeg 3 : 0 Unia Kędzierzyn-Koźle
+Michal Buchalik scores Sokół Tarnobrzeg 4 : 0 Unia Kędzierzyn-Koźle
+Bobby Cooper scores Sokół Tarnobrzeg 4 : 1 Unia Kędzierzyn-Koźle
+André Dej scores Sokół Tarnobrzeg 4 : 2 Unia Kędzierzyn-Koźle
+Rafal Pietrzak scores End of match 
+
+Match Chojniczanka Leszno against Wisła Zamulona Ostrów Wielkopolski
+Chojniczanka Leszno 1 : 0 Wisła Zamulona Ostrów Wielkopolski
+Dominik Furman scores Chojniczanka Leszno 2 : 0 Wisła Zamulona Ostrów Wielkopolski
+Dominik Furman scores Chojniczanka Leszno 2 : 1 Wisła Zamulona Ostrów Wielkopolski
+Michal Mak scores Chojniczanka Leszno 2 : 2 Wisła Zamulona Ostrów Wielkopolski
+Lawrence Thomas scores End of match 
+
+Match GKS Gleboki Chełm against Hutnik Skarżysko-Kamienna
+GKS Gleboki Chełm 0 : 1 Hutnik Skarżysko-Kamienna
+Lukasz Zaluska scores GKS Gleboki Chełm 0 : 2 Hutnik Skarżysko-Kamienna
+Lukasz Zaluska scores GKS Gleboki Chełm 0 : 3 Hutnik Skarżysko-Kamienna
+Lukasz Zaluska scores GKS Gleboki Chełm 0 : 4 Hutnik Skarżysko-Kamienna
+Radoslaw Pruchnik scores GKS Gleboki Chełm 0 : 5 Hutnik Skarżysko-Kamienna
+Lukasz Zaluska scores End of match 
+
+Match BrukBet Inowrocław against Jagiellonia Przemyśl
+BrukBet Inowrocław 1 : 0 Jagiellonia Przemyśl
+Rafal Wolski scores BrukBet Inowrocław 1 : 1 Jagiellonia Przemyśl
+Daniel Richardson scores End of match 
+
+Match Lechia Jelenia Góra against Polonia Jeden Stalowa Wola
+Lechia Jelenia Góra 0 : 1 Polonia Jeden Stalowa Wola
+Kamil Glik scores Lechia Jelenia Góra 0 : 2 Polonia Jeden Stalowa Wola
+Kamil Glik scores Lechia Jelenia Góra 0 : 3 Polonia Jeden Stalowa Wola
+Kamil Glik scores Lechia Jelenia Góra 0 : 4 Polonia Jeden Stalowa Wola
+Kamil Glik scores End of match 
+
+Match Pogoń Kacapa Gliwice against Podhale Bydgoszcz
+Pogoń Kacapa Gliwice 1 : 0 Podhale Bydgoszcz
+Adam Stachowiak scores Pogoń Kacapa Gliwice 2 : 0 Podhale Bydgoszcz
+Wayne Collins scores Pogoń Kacapa Gliwice 3 : 0 Podhale Bydgoszcz
+Adam Stachowiak scores End of match 
+
+Match Unia Kędzierzyn-Koźle against Podhale Bydgoszcz
+Unia Kędzierzyn-Koźle 1 : 0 Podhale Bydgoszcz
+Rafal Pietrzak scores Unia Kędzierzyn-Koźle 1 : 1 Podhale Bydgoszcz
+Stephen Morgan scores Unia Kędzierzyn-Koźle 1 : 2 Podhale Bydgoszcz
+Stephen Morgan scores Unia Kędzierzyn-Koźle 1 : 3 Podhale Bydgoszcz
+Stephen Morgan scores End of match 
+
+Match Polonia Jeden Stalowa Wola against Pogoń Kacapa Gliwice
+Polonia Jeden Stalowa Wola 1 : 0 Pogoń Kacapa Gliwice
+Kamil Glik scores Polonia Jeden Stalowa Wola 2 : 0 Pogoń Kacapa Gliwice
+Kamil Glik scores Polonia Jeden Stalowa Wola 3 : 0 Pogoń Kacapa Gliwice
+Kamil Glik scores Polonia Jeden Stalowa Wola 3 : 1 Pogoń Kacapa Gliwice
+Wayne Collins scores Polonia Jeden Stalowa Wola 3 : 2 Pogoń Kacapa Gliwice
+Wayne Collins scores Polonia Jeden Stalowa Wola 3 : 3 Pogoń Kacapa Gliwice
+Wayne Collins scores End of match 
+
+Match Jagiellonia Przemyśl against Lechia Jelenia Góra
+Jagiellonia Przemyśl 1 : 0 Lechia Jelenia Góra
+Wayne Reed scores Jagiellonia Przemyśl 1 : 1 Lechia Jelenia Góra
+Jesse Gray scores End of match 
+
+Match Hutnik Skarżysko-Kamienna against BrukBet Inowrocław
+Hutnik Skarżysko-Kamienna 1 : 0 BrukBet Inowrocław
+Lukasz Zaluska scores Hutnik Skarżysko-Kamienna 2 : 0 BrukBet Inowrocław
+Lukasz Zaluska scores Hutnik Skarżysko-Kamienna 3 : 0 BrukBet Inowrocław
+Lukasz Zaluska scores End of match 
+
+Match Wisła Zamulona Ostrów Wielkopolski against GKS Gleboki Chełm
+Wisła Zamulona Ostrów Wielkopolski 1 : 0 GKS Gleboki Chełm
+Michal Mak scores Wisła Zamulona Ostrów Wielkopolski 2 : 0 GKS Gleboki Chełm
+Michal Mak scores Wisła Zamulona Ostrów Wielkopolski 3 : 0 GKS Gleboki Chełm
+Michal Mak scores Wisła Zamulona Ostrów Wielkopolski 4 : 0 GKS Gleboki Chełm
+Garrett Ferguson scores Wisła Zamulona Ostrów Wielkopolski 5 : 0 GKS Gleboki Chełm
+Michal Mak scores Wisła Zamulona Ostrów Wielkopolski 6 : 0 GKS Gleboki Chełm
+Michal Mak scores Wisła Zamulona Ostrów Wielkopolski 7 : 0 GKS Gleboki Chełm
+Michal Mak scores Wisła Zamulona Ostrów Wielkopolski 7 : 1 GKS Gleboki Chełm
+Hubert Wolakiewicz scores Wisła Zamulona Ostrów Wielkopolski 7 : 2 GKS Gleboki Chełm
+Hubert Wolakiewicz scores Wisła Zamulona Ostrów Wielkopolski 7 : 3 GKS Gleboki Chełm
+Hubert Wolakiewicz scores Wisła Zamulona Ostrów Wielkopolski 7 : 4 GKS Gleboki Chełm
+Hubert Wolakiewicz scores End of match 
+
+Match Sokół Tarnobrzeg against Chojniczanka Leszno
+Sokół Tarnobrzeg 1 : 0 Chojniczanka Leszno
+Greg Vega scores Sokół Tarnobrzeg 2 : 0 Chojniczanka Leszno
+Michal Buchalik scores Sokół Tarnobrzeg 3 : 0 Chojniczanka Leszno
+Michal Buchalik scores End of match 
+
+Match Chojniczanka Leszno against Unia Kędzierzyn-Koźle
+Chojniczanka Leszno 1 : 0 Unia Kędzierzyn-Koźle
+Krystian Wojcik scores Chojniczanka Leszno 2 : 0 Unia Kędzierzyn-Koźle
+Dominik Furman scores Chojniczanka Leszno 3 : 0 Unia Kędzierzyn-Koźle
+Dominik Furman scores Chojniczanka Leszno 4 : 0 Unia Kędzierzyn-Koźle
+Dominik Furman scores End of match 
+
+Match GKS Gleboki Chełm against Sokół Tarnobrzeg
+GKS Gleboki Chełm 1 : 0 Sokół Tarnobrzeg
+Hubert Wolakiewicz scores GKS Gleboki Chełm 2 : 0 Sokół Tarnobrzeg
+Hubert Wolakiewicz scores GKS Gleboki Chełm 3 : 0 Sokół Tarnobrzeg
+Hubert Wolakiewicz scores GKS Gleboki Chełm 4 : 0 Sokół Tarnobrzeg
+Filip Starzynski scores GKS Gleboki Chełm 5 : 0 Sokół Tarnobrzeg
+Hubert Wolakiewicz scores GKS Gleboki Chełm 5 : 1 Sokół Tarnobrzeg
+Michal Buchalik scores GKS Gleboki Chełm 5 : 2 Sokół Tarnobrzeg
+Michal Buchalik scores GKS Gleboki Chełm 5 : 3 Sokół Tarnobrzeg
+Michal Buchalik scores End of match 
+
+Match BrukBet Inowrocław against Wisła Zamulona Ostrów Wielkopolski
+BrukBet Inowrocław 1 : 0 Wisła Zamulona Ostrów Wielkopolski
+Rafal Wolski scores End of match 
+
+Match Lechia Jelenia Góra against Hutnik Skarżysko-Kamienna
+Lechia Jelenia Góra 1 : 0 Hutnik Skarżysko-Kamienna
+Martin Konczkowski scores Lechia Jelenia Góra 1 : 1 Hutnik Skarżysko-Kamienna
+Lukasz Zaluska scores Lechia Jelenia Góra 1 : 2 Hutnik Skarżysko-Kamienna
+Lukasz Zaluska scores Lechia Jelenia Góra 1 : 3 Hutnik Skarżysko-Kamienna
+Lukasz Zaluska scores Lechia Jelenia Góra 1 : 4 Hutnik Skarżysko-Kamienna
+Radoslaw Pruchnik scores End of match 
+
+Match Pogoń Kacapa Gliwice against Jagiellonia Przemyśl
+Pogoń Kacapa Gliwice 1 : 0 Jagiellonia Przemyśl
+Wayne Collins scores Pogoń Kacapa Gliwice 2 : 0 Jagiellonia Przemyśl
+Wayne Collins scores Pogoń Kacapa Gliwice 3 : 0 Jagiellonia Przemyśl
+Wayne Collins scores Pogoń Kacapa Gliwice 4 : 0 Jagiellonia Przemyśl
+Wayne Collins scores Pogoń Kacapa Gliwice 4 : 1 Jagiellonia Przemyśl
+Daniel Richardson scores Pogoń Kacapa Gliwice 4 : 2 Jagiellonia Przemyśl
+Daniel Richardson scores End of match 
+
+Match Podhale Bydgoszcz against Polonia Jeden Stalowa Wola
+Podhale Bydgoszcz 1 : 0 Polonia Jeden Stalowa Wola
+Stephen Morgan scores Podhale Bydgoszcz 2 : 0 Polonia Jeden Stalowa Wola
+Richard Smith scores Podhale Bydgoszcz 2 : 1 Polonia Jeden Stalowa Wola
+Kamil Glik scores Podhale Bydgoszcz 2 : 2 Polonia Jeden Stalowa Wola
+Ralph Washington scores Podhale Bydgoszcz 2 : 3 Polonia Jeden Stalowa Wola
+Kamil Glik scores Podhale Bydgoszcz 2 : 4 Polonia Jeden Stalowa Wola
+Tomasz Loska scores End of match 
+
+Match Unia Kędzierzyn-Koźle against Polonia Jeden Stalowa Wola
+Unia Kędzierzyn-Koźle 0 : 1 Polonia Jeden Stalowa Wola
+Kamil Glik scores Unia Kędzierzyn-Koźle 0 : 2 Polonia Jeden Stalowa Wola
+Kamil Glik scores Unia Kędzierzyn-Koźle 0 : 3 Polonia Jeden Stalowa Wola
+Kamil Glik scores Unia Kędzierzyn-Koźle 0 : 4 Polonia Jeden Stalowa Wola
+Kamil Glik scores Unia Kędzierzyn-Koźle 0 : 5 Polonia Jeden Stalowa Wola
+Kamil Glik scores End of match 
+
+Match Jagiellonia Przemyśl against Podhale Bydgoszcz
+Jagiellonia Przemyśl 1 : 0 Podhale Bydgoszcz
+Raymond Coleman scores Jagiellonia Przemyśl 2 : 0 Podhale Bydgoszcz
+Daniel Richardson scores Jagiellonia Przemyśl 3 : 0 Podhale Bydgoszcz
+Raymond Coleman scores Jagiellonia Przemyśl 3 : 1 Podhale Bydgoszcz
+Ian Jones scores Jagiellonia Przemyśl 3 : 2 Podhale Bydgoszcz
+Stephen Morgan scores End of match 
+
+Match Hutnik Skarżysko-Kamienna against Pogoń Kacapa Gliwice
+Hutnik Skarżysko-Kamienna 1 : 0 Pogoń Kacapa Gliwice
+Lukasz Zaluska scores Hutnik Skarżysko-Kamienna 1 : 1 Pogoń Kacapa Gliwice
+Wayne Collins scores End of match 
+
+Match Wisła Zamulona Ostrów Wielkopolski against Lechia Jelenia Góra
+Wisła Zamulona Ostrów Wielkopolski 1 : 0 Lechia Jelenia Góra
+Michal Mak scores Wisła Zamulona Ostrów Wielkopolski 2 : 0 Lechia Jelenia Góra
+Michal Mak scores Wisła Zamulona Ostrów Wielkopolski 3 : 0 Lechia Jelenia Góra
+Michal Mak scores Wisła Zamulona Ostrów Wielkopolski 3 : 1 Lechia Jelenia Góra
+Milosz Przybecki scores End of match 
+
+Match Sokół Tarnobrzeg against BrukBet Inowrocław
+Sokół Tarnobrzeg 1 : 0 BrukBet Inowrocław
+Michal Buchalik scores End of match 
+
+Match Chojniczanka Leszno against GKS Gleboki Chełm
+Chojniczanka Leszno 0 : 1 GKS Gleboki Chełm
+Rudy Pena scores Chojniczanka Leszno 0 : 2 GKS Gleboki Chełm
+Hubert Wolakiewicz scores End of match 
+
+Match GKS Gleboki Chełm against Unia Kędzierzyn-Koźle
+GKS Gleboki Chełm 1 : 0 Unia Kędzierzyn-Koźle
+Hubert Wolakiewicz scores End of match 
+
+Match BrukBet Inowrocław against Chojniczanka Leszno
+BrukBet Inowrocław 1 : 0 Chojniczanka Leszno
+Rafal Wolski scores BrukBet Inowrocław 2 : 0 Chojniczanka Leszno
+Rafal Wolski scores BrukBet Inowrocław 2 : 1 Chojniczanka Leszno
+Dominik Furman scores End of match 
+
+Match Lechia Jelenia Góra against Sokół Tarnobrzeg
+Lechia Jelenia Góra 1 : 0 Sokół Tarnobrzeg
+Benjamin Morgan scores Lechia Jelenia Góra 1 : 1 Sokół Tarnobrzeg
+Greg Vega scores End of match 
+
+Match Pogoń Kacapa Gliwice against Wisła Zamulona Ostrów Wielkopolski
+Pogoń Kacapa Gliwice 1 : 0 Wisła Zamulona Ostrów Wielkopolski
+Wayne Collins scores Pogoń Kacapa Gliwice 2 : 0 Wisła Zamulona Ostrów Wielkopolski
+Wayne Collins scores Pogoń Kacapa Gliwice 2 : 1 Wisła Zamulona Ostrów Wielkopolski
+Michal Mak scores Pogoń Kacapa Gliwice 2 : 2 Wisła Zamulona Ostrów Wielkopolski
+Michal Mak scores Pogoń Kacapa Gliwice 2 : 3 Wisła Zamulona Ostrów Wielkopolski
+Michal Mak scores End of match 
+
+Match Podhale Bydgoszcz against Hutnik Skarżysko-Kamienna
+Podhale Bydgoszcz 1 : 0 Hutnik Skarżysko-Kamienna
+Clifton Boyd scores Podhale Bydgoszcz 1 : 1 Hutnik Skarżysko-Kamienna
+Lukasz Zaluska scores Podhale Bydgoszcz 1 : 2 Hutnik Skarżysko-Kamienna
+Lukasz Zaluska scores End of match 
+
+Match Polonia Jeden Stalowa Wola against Jagiellonia Przemyśl
+Polonia Jeden Stalowa Wola 1 : 0 Jagiellonia Przemyśl
+Kamil Glik scores Polonia Jeden Stalowa Wola 2 : 0 Jagiellonia Przemyśl
+Tomasz Loska scores Polonia Jeden Stalowa Wola 3 : 0 Jagiellonia Przemyśl
+Kamil Glik scores Polonia Jeden Stalowa Wola 4 : 0 Jagiellonia Przemyśl
+Kamil Glik scores Polonia Jeden Stalowa Wola 5 : 0 Jagiellonia Przemyśl
+Kamil Glik scores Polonia Jeden Stalowa Wola 6 : 0 Jagiellonia Przemyśl
+Kamil Glik scores End of match 
+
+
+
+*********************************************************************
+       TEAM NAME                                   PTS   W    D    L 
+1.  Hutnik Skarżysko-Kamienna                      22    6    4    1   
+2.  Wisła Zamulona Ostrów Wielkopolski             21    6    3    2   
+3.  GKS Gleboki Chełm                              20    6    2    3   
+4.  BrukBet Inowrocław                             19    6    1    4   
+5.  Sokół Tarnobrzeg                               18    5    3    3   
+6.  Polonia Jeden Stalowa Wola                     17    4    5    2   
+7.  Chojniczanka Leszno                            14    3    5    3   
+8.  Pogoń Kacapa Gliwice                           13    3    4    4   
+9.  Podhale Bydgoszcz                              12    4    0    7   
+10. Unia Kędzierzyn-Koźle                          12    4    0    7   
+11. Jagiellonia Przemyśl                            8    1    5    5   
+12. Lechia Jelenia Góra                             5    1    2    8   
+*********************************************************************
+
+
+   MOST TALENTED PLAYERS   
+1. Joe Cruz from Pogoń Kacapa Gliwice with 97 skill points. 
+2. Krzysztof Piatek from Podhale Bydgoszcz with 97 skill points. 
+3. Rafal Wolski from BrukBet Inowrocław with 96 skill points. 
+4. Kamil Drygas from Jagiellonia Przemyśl with 93 skill points. 
+5. Lawrence Thomas from Wisła Zamulona Ostrów Wielkopolski with 92 skill points. 
+6. Michal Mak from Wisła Zamulona Ostrów Wielkopolski with 92 skill points. 
+7. Dominik Furman from Chojniczanka Leszno with 91 skill points. 
+8. Edward Washington from Unia Kędzierzyn-Koźle with 91 skill points. 
+9. Lukasz Burliga from GKS Gleboki Chełm with 90 skill points. 
+10. Dominik Kun from BrukBet Inowrocław with 90 skill points. 
+11. Maciej Sadlok from Polonia Jeden Stalowa Wola with 90 skill points. 
+12. Joe Cruz from Unia Kędzierzyn-Koźle with 90 skill points. 
+13. Eric Morris from Hutnik Skarżysko-Kamienna with 89 skill points. 
+14. Marcin Biernat from Wisła Zamulona Ostrów Wielkopolski with 89 skill points. 
+15. Bobby Cooper from Sokół Tarnobrzeg with 89 skill points. 
+16. Ronald Brown from BrukBet Inowrocław with 89 skill points. 
+17. Ian Jones from Podhale Bydgoszcz with 89 skill points. 
+18. Tomasz Loska from Hutnik Skarżysko-Kamienna with 88 skill points. 
+19. Bartosz Salamon from Sokół Tarnobrzeg with 88 skill points. 
+20. Jakub Lukowski from Chojniczanka Leszno with 88 skill points. 
+
+    BEST LEAGUE SCORERS   
+1. Kamil Glik STRIKER from team Polonia Jeden Stalowa Wola scores 33
+2. Michal Mak STRIKER from team Wisła Zamulona Ostrów Wielkopolski scores 30
+3. Lukasz Zaluska STRIKER from team Hutnik Skarżysko-Kamienna scores 27
+4. Hubert Wolakiewicz STRIKER from team GKS Gleboki Chełm scores 19
+5. Rafal Wolski STRIKER from team BrukBet Inowrocław scores 17
+6. Michal Buchalik STRIKER from team Sokół Tarnobrzeg scores 15
+7. Dominik Furman STRIKER from team Chojniczanka Leszno scores 15
+
+
+    BEST TEAM SCORERS   
+Kamil Glik STRIKER from team Polonia Jeden Stalowa Wola scores 33
+Michal Mak STRIKER from team Wisła Zamulona Ostrów Wielkopolski scores 30
+Lukasz Zaluska STRIKER from team Hutnik Skarżysko-Kamienna scores 27
+Hubert Wolakiewicz STRIKER from team GKS Gleboki Chełm scores 19
+Rafal Wolski STRIKER from team BrukBet Inowrocław scores 17
+Michal Buchalik STRIKER from team Sokół Tarnobrzeg scores 15
+Dominik Furman STRIKER from team Chojniczanka Leszno scores 15
+Wayne Collins STRIKER from team Pogoń Kacapa Gliwice scores 12
+Stephen Morgan STRIKER from team Podhale Bydgoszcz scores 9
+Daniel Richardson STRIKER from team Jagiellonia Przemyśl scores 8
+André Dej STRIKER from team Unia Kędzierzyn-Koźle scores 7
+Martin Konczkowski STRIKER from team Lechia Jelenia Góra scores 4
+

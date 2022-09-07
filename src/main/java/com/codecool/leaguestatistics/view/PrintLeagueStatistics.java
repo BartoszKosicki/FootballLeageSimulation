@@ -1,8 +1,8 @@
 package com.codecool.leaguestatistics.view;
 
 import com.codecool.leaguestatistics.model.Division;
-import com.codecool.leaguestatistics.model.Team;
-import com.codecool.leaguestatistics.model.players.Player;
+import com.codecool.leaguestatistics.model.team.Team;
+import com.codecool.leaguestatistics.model.players.model.Player;
 
 import java.util.*;
 import java.util.stream.Collectors;

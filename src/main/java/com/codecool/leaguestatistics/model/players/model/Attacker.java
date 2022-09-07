@@ -1,4 +1,4 @@
-package com.codecool.leaguestatistics.model.players;
+package com.codecool.leaguestatistics.model.players.model;
 
 public interface Attacker {
     int getAttackPotential();

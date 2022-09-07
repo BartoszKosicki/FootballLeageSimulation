@@ -2154,3 +2154,514 @@ Lukasz Moneta MIDFIELDER from team Warta Wartka Tomaszów Mazowiecki scores 6
 Grzegorz Wojtkowiak MIDFIELDER from team Stomil Wrocław scores 3
 Bradford Harper MIDFIELDER from team Resovia Łomża scores 3
 
+*****************
+SEASON 1
+*****************
+
+
+Match Górnik II Katowice against Pogoń Ruska Puławy
+Górnik II Katowice 1 : 0 Pogoń Ruska Puławy
+Przemyslaw Mystkowski scores Górnik II Katowice 2 : 0 Pogoń Ruska Puławy
+Michal Jakobowski scores Górnik II Katowice 3 : 0 Pogoń Ruska Puławy
+Patryk Tuszynski scores Górnik II Katowice 4 : 0 Pogoń Ruska Puławy
+Michal Jakobowski scores Górnik II Katowice 5 : 0 Pogoń Ruska Puławy
+Szymon Zurkowski scores Górnik II Katowice 6 : 0 Pogoń Ruska Puławy
+Michal Jakobowski scores Górnik II Katowice 6 : 1 Pogoń Ruska Puławy
+Oskar Zawada scores Górnik II Katowice 6 : 2 Pogoń Ruska Puławy
+Mateusz Mak scores End of match 
+
+Match MKS Czerwoni Świdnica against Wisłoka Wałbrzych
+MKS Czerwoni Świdnica 1 : 0 Wisłoka Wałbrzych
+Slawomir Peszko scores MKS Czerwoni Świdnica 2 : 0 Wisłoka Wałbrzych
+Piotr Wlazlo scores MKS Czerwoni Świdnica 2 : 1 Wisłoka Wałbrzych
+Arkadiusz Milik scores MKS Czerwoni Świdnica 2 : 2 Wisłoka Wałbrzych
+Arkadiusz Milik scores MKS Czerwoni Świdnica 2 : 3 Wisłoka Wałbrzych
+Mateusz Wdowiak scores End of match 
+
+Match Chełmianka Suwałki against Tomasovia Ostrów Wielkopolski
+Chełmianka Suwałki 0 : 1 Tomasovia Ostrów Wielkopolski
+Kamil Glik scores End of match 
+
+Match Stal Brzeg Piekary Śląskie against Unia Biała Podlaska
+End of match 
+
+Match Orlęta Żory against Górnik Na Rencie Warszawa
+Orlęta Żory 1 : 0 Górnik Na Rencie Warszawa
+Kacper Przybylko scores End of match 
+
+Match GKS Gleboki Rumia against Pogoń Kacapa Dębica
+GKS Gleboki Rumia 0 : 1 Pogoń Kacapa Dębica
+Alonzo Hayes scores GKS Gleboki Rumia 0 : 2 Pogoń Kacapa Dębica
+Alonzo Hayes scores End of match 
+
+Match Pogoń Kacapa Dębica against Górnik II Katowice
+Pogoń Kacapa Dębica 1 : 0 Górnik II Katowice
+Alonzo Hayes scores Pogoń Kacapa Dębica 2 : 0 Górnik II Katowice
+Alonzo Hayes scores Pogoń Kacapa Dębica 2 : 1 Górnik II Katowice
+Szymon Zurkowski scores End of match 
+
+Match Górnik Na Rencie Warszawa against GKS Gleboki Rumia
+Górnik Na Rencie Warszawa 1 : 0 GKS Gleboki Rumia
+Adam Dzwigala scores Górnik Na Rencie Warszawa 1 : 1 GKS Gleboki Rumia
+Keith Wilson scores Górnik Na Rencie Warszawa 1 : 2 GKS Gleboki Rumia
+Greg Vega scores End of match 
+
+Match Unia Biała Podlaska against Orlęta Żory
+Unia Biała Podlaska 1 : 0 Orlęta Żory
+Roy Peterson scores Unia Biała Podlaska 1 : 1 Orlęta Żory
+Kacper Przybylko scores Unia Biała Podlaska 1 : 2 Orlęta Żory
+Kacper Przybylko scores End of match 
+
+Match Tomasovia Ostrów Wielkopolski against Stal Brzeg Piekary Śląskie
+Tomasovia Ostrów Wielkopolski 1 : 0 Stal Brzeg Piekary Śląskie
+Johnny Williams scores Tomasovia Ostrów Wielkopolski 1 : 1 Stal Brzeg Piekary Śląskie
+Samuel Watson scores End of match 
+
+Match Wisłoka Wałbrzych against Chełmianka Suwałki
+End of match 
+
+Match Pogoń Ruska Puławy against MKS Czerwoni Świdnica
+Pogoń Ruska Puławy 1 : 0 MKS Czerwoni Świdnica
+Michal Kopczynski scores Pogoń Ruska Puławy 2 : 0 MKS Czerwoni Świdnica
+Michal Kopczynski scores Pogoń Ruska Puławy 3 : 0 MKS Czerwoni Świdnica
+Michal Kopczynski scores Pogoń Ruska Puławy 4 : 0 MKS Czerwoni Świdnica
+Michal Kopczynski scores Pogoń Ruska Puławy 4 : 1 MKS Czerwoni Świdnica
+Piotr Wlazlo scores Pogoń Ruska Puławy 4 : 2 MKS Czerwoni Świdnica
+Hubert Adamczyk scores Pogoń Ruska Puławy 4 : 3 MKS Czerwoni Świdnica
+Piotr Wlazlo scores End of match 
+
+Match Górnik II Katowice against MKS Czerwoni Świdnica
+Górnik II Katowice 1 : 0 MKS Czerwoni Świdnica
+Michal Jakobowski scores Górnik II Katowice 2 : 0 MKS Czerwoni Świdnica
+Michal Jakobowski scores Górnik II Katowice 3 : 0 MKS Czerwoni Świdnica
+Michal Jakobowski scores Górnik II Katowice 3 : 1 MKS Czerwoni Świdnica
+Piotr Wlazlo scores End of match 
+
+Match Chełmianka Suwałki against Pogoń Ruska Puławy
+Chełmianka Suwałki 0 : 1 Pogoń Ruska Puławy
+Michal Kopczynski scores Chełmianka Suwałki 0 : 2 Pogoń Ruska Puławy
+Michal Kopczynski scores Chełmianka Suwałki 0 : 3 Pogoń Ruska Puławy
+Michal Kopczynski scores End of match 
+
+Match Stal Brzeg Piekary Śląskie against Wisłoka Wałbrzych
+Stal Brzeg Piekary Śląskie 1 : 0 Wisłoka Wałbrzych
+Samuel Watson scores Stal Brzeg Piekary Śląskie 2 : 0 Wisłoka Wałbrzych
+Rafal Leszczynski scores Stal Brzeg Piekary Śląskie 3 : 0 Wisłoka Wałbrzych
+Rafal Leszczynski scores Stal Brzeg Piekary Śląskie 3 : 1 Wisłoka Wałbrzych
+Rafal Leszczynski scores Stal Brzeg Piekary Śląskie 3 : 2 Wisłoka Wałbrzych
+Arkadiusz Milik scores Stal Brzeg Piekary Śląskie 3 : 3 Wisłoka Wałbrzych
+Arkadiusz Milik scores Stal Brzeg Piekary Śląskie 3 : 4 Wisłoka Wałbrzych
+Arkadiusz Milik scores End of match 
+
+Match Orlęta Żory against Tomasovia Ostrów Wielkopolski
+Orlęta Żory 1 : 0 Tomasovia Ostrów Wielkopolski
+Alan Walker scores Orlęta Żory 1 : 1 Tomasovia Ostrów Wielkopolski
+Johnny Williams scores Orlęta Żory 1 : 2 Tomasovia Ostrów Wielkopolski
+Carlos Garcia scores Orlęta Żory 1 : 3 Tomasovia Ostrów Wielkopolski
+Carlos Garcia scores End of match 
+
+Match GKS Gleboki Rumia against Unia Biała Podlaska
+GKS Gleboki Rumia 0 : 1 Unia Biała Podlaska
+Jakub Zubrowski scores GKS Gleboki Rumia 0 : 2 Unia Biała Podlaska
+Victor Reed scores End of match 
+
+Match Pogoń Kacapa Dębica against Górnik Na Rencie Warszawa
+End of match 
+
+Match Górnik Na Rencie Warszawa against Górnik II Katowice
+Górnik Na Rencie Warszawa 1 : 0 Górnik II Katowice
+Jakub Zubrowski scores Górnik Na Rencie Warszawa 2 : 0 Górnik II Katowice
+Adam Dzwigala scores End of match 
+
+Match Unia Biała Podlaska against Pogoń Kacapa Dębica
+Unia Biała Podlaska 1 : 0 Pogoń Kacapa Dębica
+Roy Peterson scores Unia Biała Podlaska 2 : 0 Pogoń Kacapa Dębica
+Roy Peterson scores Unia Biała Podlaska 3 : 0 Pogoń Kacapa Dębica
+Lukasz Burliga scores Unia Biała Podlaska 3 : 1 Pogoń Kacapa Dębica
+Alonzo Hayes scores Unia Biała Podlaska 3 : 2 Pogoń Kacapa Dębica
+Alonzo Hayes scores Unia Biała Podlaska 3 : 3 Pogoń Kacapa Dębica
+Russell Martin scores End of match 
+
+Match Tomasovia Ostrów Wielkopolski against GKS Gleboki Rumia
+End of match 
+
+Match Wisłoka Wałbrzych against Orlęta Żory
+Wisłoka Wałbrzych 1 : 0 Orlęta Żory
+Kamil Pestka scores Wisłoka Wałbrzych 1 : 1 Orlęta Żory
+Kacper Przybylko scores Wisłoka Wałbrzych 1 : 2 Orlęta Żory
+Kacper Przybylko scores Wisłoka Wałbrzych 1 : 3 Orlęta Żory
+Kacper Przybylko scores Wisłoka Wałbrzych 1 : 4 Orlęta Żory
+Kacper Przybylko scores Wisłoka Wałbrzych 1 : 5 Orlęta Żory
+Alan Walker scores End of match 
+
+Match Pogoń Ruska Puławy against Stal Brzeg Piekary Śląskie
+Pogoń Ruska Puławy 1 : 0 Stal Brzeg Piekary Śląskie
+Rafal Kurzawa scores Pogoń Ruska Puławy 2 : 0 Stal Brzeg Piekary Śląskie
+Michal Kopczynski scores Pogoń Ruska Puławy 2 : 1 Stal Brzeg Piekary Śląskie
+Samuel Watson scores Pogoń Ruska Puławy 2 : 2 Stal Brzeg Piekary Śląskie
+Rafal Leszczynski scores End of match 
+
+Match MKS Czerwoni Świdnica against Chełmianka Suwałki
+MKS Czerwoni Świdnica 1 : 0 Chełmianka Suwałki
+Hubert Adamczyk scores MKS Czerwoni Świdnica 2 : 0 Chełmianka Suwałki
+Piotr Wlazlo scores MKS Czerwoni Świdnica 3 : 0 Chełmianka Suwałki
+Piotr Wlazlo scores MKS Czerwoni Świdnica 4 : 0 Chełmianka Suwałki
+Piotr Wlazlo scores MKS Czerwoni Świdnica 4 : 1 Chełmianka Suwałki
+Alan Bowers scores MKS Czerwoni Świdnica 4 : 2 Chełmianka Suwałki
+Krzysztof Piatek scores MKS Czerwoni Świdnica 4 : 3 Chełmianka Suwałki
+Alan Bowers scores End of match 
+
+Match Górnik II Katowice against Chełmianka Suwałki
+Górnik II Katowice 1 : 0 Chełmianka Suwałki
+Michal Jakobowski scores Górnik II Katowice 2 : 0 Chełmianka Suwałki
+Patryk Tuszynski scores Górnik II Katowice 2 : 1 Chełmianka Suwałki
+Alan Bowers scores Górnik II Katowice 2 : 2 Chełmianka Suwałki
+Krzysztof Piatek scores End of match 
+
+Match Stal Brzeg Piekary Śląskie against MKS Czerwoni Świdnica
+Stal Brzeg Piekary Śląskie 1 : 0 MKS Czerwoni Świdnica
+Rafal Leszczynski scores Stal Brzeg Piekary Śląskie 1 : 1 MKS Czerwoni Świdnica
+Piotr Wlazlo scores Stal Brzeg Piekary Śląskie 1 : 2 MKS Czerwoni Świdnica
+Piotr Wlazlo scores Stal Brzeg Piekary Śląskie 1 : 3 MKS Czerwoni Świdnica
+Piotr Wlazlo scores End of match 
+
+Match Orlęta Żory against Pogoń Ruska Puławy
+Orlęta Żory 1 : 0 Pogoń Ruska Puławy
+Kacper Przybylko scores Orlęta Żory 2 : 0 Pogoń Ruska Puławy
+Kacper Przybylko scores Orlęta Żory 2 : 1 Pogoń Ruska Puławy
+Michal Kopczynski scores Orlęta Żory 2 : 2 Pogoń Ruska Puławy
+Michal Kopczynski scores End of match 
+
+Match GKS Gleboki Rumia against Wisłoka Wałbrzych
+GKS Gleboki Rumia 1 : 0 Wisłoka Wałbrzych
+Bartosz Spiaczka scores GKS Gleboki Rumia 2 : 0 Wisłoka Wałbrzych
+Gilberto Lynch scores GKS Gleboki Rumia 2 : 1 Wisłoka Wałbrzych
+Rafal Leszczynski scores GKS Gleboki Rumia 2 : 2 Wisłoka Wałbrzych
+Kamil Pestka scores End of match 
+
+Match Pogoń Kacapa Dębica against Tomasovia Ostrów Wielkopolski
+Pogoń Kacapa Dębica 1 : 0 Tomasovia Ostrów Wielkopolski
+Alonzo Hayes scores Pogoń Kacapa Dębica 2 : 0 Tomasovia Ostrów Wielkopolski
+Alonzo Hayes scores Pogoń Kacapa Dębica 3 : 0 Tomasovia Ostrów Wielkopolski
+Walter Henderson scores Pogoń Kacapa Dębica 3 : 1 Tomasovia Ostrów Wielkopolski
+Johnny Williams scores Pogoń Kacapa Dębica 3 : 2 Tomasovia Ostrów Wielkopolski
+Johnny Williams scores End of match 
+
+Match Górnik Na Rencie Warszawa against Unia Biała Podlaska
+Górnik Na Rencie Warszawa 1 : 0 Unia Biała Podlaska
+Jakub Zubrowski scores Górnik Na Rencie Warszawa 2 : 0 Unia Biała Podlaska
+Krzysztof Maczynski scores Górnik Na Rencie Warszawa 2 : 1 Unia Biała Podlaska
+Roy Peterson scores Górnik Na Rencie Warszawa 2 : 2 Unia Biała Podlaska
+Roy Peterson scores Górnik Na Rencie Warszawa 2 : 3 Unia Biała Podlaska
+Roy Peterson scores End of match 
+
+Match Górnik II Katowice against Unia Biała Podlaska
+Górnik II Katowice 1 : 0 Unia Biała Podlaska
+Szymon Zurkowski scores Górnik II Katowice 1 : 1 Unia Biała Podlaska
+Lukasz Burliga scores Górnik II Katowice 1 : 2 Unia Biała Podlaska
+Roy Peterson scores End of match 
+
+Match Tomasovia Ostrów Wielkopolski against Górnik Na Rencie Warszawa
+Tomasovia Ostrów Wielkopolski 1 : 0 Górnik Na Rencie Warszawa
+Carlos Garcia scores Tomasovia Ostrów Wielkopolski 1 : 1 Górnik Na Rencie Warszawa
+Jakub Zubrowski scores End of match 
+
+Match Wisłoka Wałbrzych against Pogoń Kacapa Dębica
+Wisłoka Wałbrzych 0 : 1 Pogoń Kacapa Dębica
+Alonzo Hayes scores Wisłoka Wałbrzych 0 : 2 Pogoń Kacapa Dębica
+Alonzo Hayes scores Wisłoka Wałbrzych 0 : 3 Pogoń Kacapa Dębica
+Alonzo Hayes scores Wisłoka Wałbrzych 0 : 4 Pogoń Kacapa Dębica
+Alonzo Hayes scores End of match 
+
+Match Pogoń Ruska Puławy against GKS Gleboki Rumia
+Pogoń Ruska Puławy 1 : 0 GKS Gleboki Rumia
+Michal Kopczynski scores Pogoń Ruska Puławy 2 : 0 GKS Gleboki Rumia
+Michal Kopczynski scores Pogoń Ruska Puławy 3 : 0 GKS Gleboki Rumia
+Mateusz Mak scores Pogoń Ruska Puławy 3 : 1 GKS Gleboki Rumia
+Lawrence Thomas scores End of match 
+
+Match MKS Czerwoni Świdnica against Orlęta Żory
+MKS Czerwoni Świdnica 1 : 0 Orlęta Żory
+Piotr Wlazlo scores MKS Czerwoni Świdnica 2 : 0 Orlęta Żory
+Piotr Wlazlo scores MKS Czerwoni Świdnica 3 : 0 Orlęta Żory
+Piotr Wlazlo scores MKS Czerwoni Świdnica 3 : 1 Orlęta Żory
+Kacper Przybylko scores MKS Czerwoni Świdnica 3 : 2 Orlęta Żory
+Kacper Przybylko scores MKS Czerwoni Świdnica 3 : 3 Orlęta Żory
+Kacper Przybylko scores MKS Czerwoni Świdnica 3 : 4 Orlęta Żory
+Alan Walker scores End of match 
+
+Match Chełmianka Suwałki against Stal Brzeg Piekary Śląskie
+Chełmianka Suwałki 1 : 0 Stal Brzeg Piekary Śląskie
+Krzysztof Piatek scores Chełmianka Suwałki 2 : 0 Stal Brzeg Piekary Śląskie
+Alan Bowers scores Chełmianka Suwałki 3 : 0 Stal Brzeg Piekary Śląskie
+Krzysztof Piatek scores Chełmianka Suwałki 3 : 1 Stal Brzeg Piekary Śląskie
+Rafal Leszczynski scores End of match 
+
+Match Stal Brzeg Piekary Śląskie against Górnik II Katowice
+Stal Brzeg Piekary Śląskie 1 : 0 Górnik II Katowice
+Rafal Leszczynski scores Stal Brzeg Piekary Śląskie 2 : 0 Górnik II Katowice
+Jackie Strickland scores Stal Brzeg Piekary Śląskie 2 : 1 Górnik II Katowice
+Michal Jakobowski scores Stal Brzeg Piekary Śląskie 2 : 2 Górnik II Katowice
+Michal Jakobowski scores End of match 
+
+Match Orlęta Żory against Chełmianka Suwałki
+Orlęta Żory 1 : 0 Chełmianka Suwałki
+Alan Walker scores Orlęta Żory 2 : 0 Chełmianka Suwałki
+Jakub Kuzdra scores Orlęta Żory 3 : 0 Chełmianka Suwałki
+Adam Stachowiak scores Orlęta Żory 3 : 1 Chełmianka Suwałki
+Craig Russell scores End of match 
+
+Match GKS Gleboki Rumia against MKS Czerwoni Świdnica
+GKS Gleboki Rumia 1 : 0 MKS Czerwoni Świdnica
+Gilberto Lynch scores GKS Gleboki Rumia 1 : 1 MKS Czerwoni Świdnica
+Slawomir Peszko scores GKS Gleboki Rumia 1 : 2 MKS Czerwoni Świdnica
+Piotr Wlazlo scores GKS Gleboki Rumia 1 : 3 MKS Czerwoni Świdnica
+Piotr Wlazlo scores End of match 
+
+Match Pogoń Kacapa Dębica against Pogoń Ruska Puławy
+Pogoń Kacapa Dębica 1 : 0 Pogoń Ruska Puławy
+Alonzo Hayes scores Pogoń Kacapa Dębica 2 : 0 Pogoń Ruska Puławy
+Alonzo Hayes scores Pogoń Kacapa Dębica 3 : 0 Pogoń Ruska Puławy
+Alonzo Hayes scores Pogoń Kacapa Dębica 4 : 0 Pogoń Ruska Puławy
+Alonzo Hayes scores Pogoń Kacapa Dębica 5 : 0 Pogoń Ruska Puławy
+Alonzo Hayes scores Pogoń Kacapa Dębica 5 : 1 Pogoń Ruska Puławy
+Michal Kopczynski scores Pogoń Kacapa Dębica 5 : 2 Pogoń Ruska Puławy
+Shawn Powell scores Pogoń Kacapa Dębica 5 : 3 Pogoń Ruska Puławy
+Oskar Zawada scores End of match 
+
+Match Górnik Na Rencie Warszawa against Wisłoka Wałbrzych
+Górnik Na Rencie Warszawa 1 : 0 Wisłoka Wałbrzych
+Adam Dzwigala scores Górnik Na Rencie Warszawa 1 : 1 Wisłoka Wałbrzych
+Arkadiusz Milik scores Górnik Na Rencie Warszawa 1 : 2 Wisłoka Wałbrzych
+Rafal Leszczynski scores End of match 
+
+Match Unia Biała Podlaska against Tomasovia Ostrów Wielkopolski
+Unia Biała Podlaska 1 : 0 Tomasovia Ostrów Wielkopolski
+Krzysztof Maczynski scores Unia Biała Podlaska 1 : 1 Tomasovia Ostrów Wielkopolski
+Johnny Williams scores Unia Biała Podlaska 1 : 2 Tomasovia Ostrów Wielkopolski
+Johnny Williams scores End of match 
+
+Match Górnik II Katowice against Tomasovia Ostrów Wielkopolski
+Górnik II Katowice 0 : 1 Tomasovia Ostrów Wielkopolski
+Kamil Glik scores Górnik II Katowice 0 : 2 Tomasovia Ostrów Wielkopolski
+Carlos Garcia scores End of match 
+
+Match Wisłoka Wałbrzych against Unia Biała Podlaska
+Wisłoka Wałbrzych 1 : 0 Unia Biała Podlaska
+Kamil Pestka scores Wisłoka Wałbrzych 2 : 0 Unia Biała Podlaska
+Kamil Pestka scores Wisłoka Wałbrzych 2 : 1 Unia Biała Podlaska
+Krzysztof Maczynski scores End of match 
+
+Match Pogoń Ruska Puławy against Górnik Na Rencie Warszawa
+Pogoń Ruska Puławy 1 : 0 Górnik Na Rencie Warszawa
+Shawn Powell scores Pogoń Ruska Puławy 2 : 0 Górnik Na Rencie Warszawa
+Michal Kopczynski scores Pogoń Ruska Puławy 2 : 1 Górnik Na Rencie Warszawa
+Jakub Zubrowski scores End of match 
+
+Match MKS Czerwoni Świdnica against Pogoń Kacapa Dębica
+MKS Czerwoni Świdnica 1 : 0 Pogoń Kacapa Dębica
+Piotr Wlazlo scores MKS Czerwoni Świdnica 2 : 0 Pogoń Kacapa Dębica
+Piotr Wlazlo scores MKS Czerwoni Świdnica 3 : 0 Pogoń Kacapa Dębica
+Slawomir Peszko scores MKS Czerwoni Świdnica 4 : 0 Pogoń Kacapa Dębica
+Piotr Wlazlo scores MKS Czerwoni Świdnica 4 : 1 Pogoń Kacapa Dębica
+Alonzo Hayes scores MKS Czerwoni Świdnica 4 : 2 Pogoń Kacapa Dębica
+Alonzo Hayes scores End of match 
+
+Match Chełmianka Suwałki against GKS Gleboki Rumia
+Chełmianka Suwałki 1 : 0 GKS Gleboki Rumia
+Raymond Coleman scores End of match 
+
+Match Stal Brzeg Piekary Śląskie against Orlęta Żory
+Stal Brzeg Piekary Śląskie 1 : 0 Orlęta Żory
+Rafal Leszczynski scores Stal Brzeg Piekary Śląskie 2 : 0 Orlęta Żory
+Rafal Leszczynski scores Stal Brzeg Piekary Śląskie 3 : 0 Orlęta Żory
+Jackie Strickland scores Stal Brzeg Piekary Śląskie 3 : 1 Orlęta Żory
+Alan Walker scores Stal Brzeg Piekary Śląskie 3 : 2 Orlęta Żory
+Kacper Przybylko scores Stal Brzeg Piekary Śląskie 3 : 3 Orlęta Żory
+Jakub Kuzdra scores Stal Brzeg Piekary Śląskie 3 : 4 Orlęta Żory
+Kacper Przybylko scores End of match 
+
+Match Orlęta Żory against Górnik II Katowice
+Orlęta Żory 1 : 0 Górnik II Katowice
+Kacper Przybylko scores Orlęta Żory 2 : 0 Górnik II Katowice
+Samuel Watson scores Orlęta Żory 3 : 0 Górnik II Katowice
+Alan Walker scores End of match 
+
+Match GKS Gleboki Rumia against Stal Brzeg Piekary Śląskie
+GKS Gleboki Rumia 0 : 1 Stal Brzeg Piekary Śląskie
+Damian Zbozien scores End of match 
+
+Match Pogoń Kacapa Dębica against Chełmianka Suwałki
+Pogoń Kacapa Dębica 1 : 0 Chełmianka Suwałki
+Alonzo Hayes scores Pogoń Kacapa Dębica 2 : 0 Chełmianka Suwałki
+Rafal Boguski scores Pogoń Kacapa Dębica 3 : 0 Chełmianka Suwałki
+Alonzo Hayes scores Pogoń Kacapa Dębica 4 : 0 Chełmianka Suwałki
+Alonzo Hayes scores Pogoń Kacapa Dębica 4 : 1 Chełmianka Suwałki
+Craig Russell scores Pogoń Kacapa Dębica 4 : 2 Chełmianka Suwałki
+Craig Russell scores End of match 
+
+Match Górnik Na Rencie Warszawa against MKS Czerwoni Świdnica
+Górnik Na Rencie Warszawa 1 : 0 MKS Czerwoni Świdnica
+Jakub Zubrowski scores Górnik Na Rencie Warszawa 2 : 0 MKS Czerwoni Świdnica
+Jakub Zubrowski scores Górnik Na Rencie Warszawa 2 : 1 MKS Czerwoni Świdnica
+Piotr Wlazlo scores Górnik Na Rencie Warszawa 2 : 2 MKS Czerwoni Świdnica
+Piotr Wlazlo scores Górnik Na Rencie Warszawa 2 : 3 MKS Czerwoni Świdnica
+Slawomir Peszko scores End of match 
+
+Match Unia Biała Podlaska against Pogoń Ruska Puławy
+Unia Biała Podlaska 1 : 0 Pogoń Ruska Puławy
+Roy Peterson scores Unia Biała Podlaska 2 : 0 Pogoń Ruska Puławy
+Roy Peterson scores Unia Biała Podlaska 3 : 0 Pogoń Ruska Puławy
+Roy Peterson scores Unia Biała Podlaska 4 : 0 Pogoń Ruska Puławy
+Roy Peterson scores Unia Biała Podlaska 4 : 1 Pogoń Ruska Puławy
+Michal Kopczynski scores Unia Biała Podlaska 4 : 2 Pogoń Ruska Puławy
+Michal Kopczynski scores Unia Biała Podlaska 4 : 3 Pogoń Ruska Puławy
+Michal Kopczynski scores Unia Biała Podlaska 4 : 4 Pogoń Ruska Puławy
+Michal Kopczynski scores End of match 
+
+Match Tomasovia Ostrów Wielkopolski against Wisłoka Wałbrzych
+Tomasovia Ostrów Wielkopolski 1 : 0 Wisłoka Wałbrzych
+Kamil Glik scores Tomasovia Ostrów Wielkopolski 2 : 0 Wisłoka Wałbrzych
+Louis Griffin scores Tomasovia Ostrów Wielkopolski 2 : 1 Wisłoka Wałbrzych
+Kamil Pestka scores Tomasovia Ostrów Wielkopolski 2 : 2 Wisłoka Wałbrzych
+Arkadiusz Milik scores End of match 
+
+Match Górnik II Katowice against Wisłoka Wałbrzych
+Górnik II Katowice 1 : 0 Wisłoka Wałbrzych
+Przemyslaw Mystkowski scores Górnik II Katowice 1 : 1 Wisłoka Wałbrzych
+Kamil Pestka scores End of match 
+
+Match Pogoń Ruska Puławy against Tomasovia Ostrów Wielkopolski
+Pogoń Ruska Puławy 1 : 0 Tomasovia Ostrów Wielkopolski
+Michal Kopczynski scores Pogoń Ruska Puławy 2 : 0 Tomasovia Ostrów Wielkopolski
+Michal Kopczynski scores Pogoń Ruska Puławy 3 : 0 Tomasovia Ostrów Wielkopolski
+Michal Kopczynski scores End of match 
+
+Match MKS Czerwoni Świdnica against Unia Biała Podlaska
+MKS Czerwoni Świdnica 1 : 0 Unia Biała Podlaska
+Piotr Wlazlo scores MKS Czerwoni Świdnica 2 : 0 Unia Biała Podlaska
+Piotr Wlazlo scores MKS Czerwoni Świdnica 3 : 0 Unia Biała Podlaska
+Piotr Wlazlo scores MKS Czerwoni Świdnica 3 : 1 Unia Biała Podlaska
+Roy Peterson scores MKS Czerwoni Świdnica 3 : 2 Unia Biała Podlaska
+Roy Peterson scores MKS Czerwoni Świdnica 3 : 3 Unia Biała Podlaska
+Roy Peterson scores MKS Czerwoni Świdnica 3 : 4 Unia Biała Podlaska
+Roy Peterson scores End of match 
+
+Match Chełmianka Suwałki against Górnik Na Rencie Warszawa
+Chełmianka Suwałki 1 : 0 Górnik Na Rencie Warszawa
+Alan Bowers scores Chełmianka Suwałki 1 : 1 Górnik Na Rencie Warszawa
+Jakub Zubrowski scores Chełmianka Suwałki 1 : 2 Górnik Na Rencie Warszawa
+Jakub Zubrowski scores Chełmianka Suwałki 1 : 3 Górnik Na Rencie Warszawa
+Jakub Zubrowski scores Chełmianka Suwałki 1 : 4 Górnik Na Rencie Warszawa
+Marcin Staniszewski scores Chełmianka Suwałki 1 : 5 Górnik Na Rencie Warszawa
+Marcin Staniszewski scores Chełmianka Suwałki 1 : 6 Górnik Na Rencie Warszawa
+Adam Dzwigala scores End of match 
+
+Match Stal Brzeg Piekary Śląskie against Pogoń Kacapa Dębica
+Stal Brzeg Piekary Śląskie 1 : 0 Pogoń Kacapa Dębica
+Rafal Leszczynski scores Stal Brzeg Piekary Śląskie 2 : 0 Pogoń Kacapa Dębica
+Rafal Leszczynski scores Stal Brzeg Piekary Śląskie 3 : 0 Pogoń Kacapa Dębica
+Rafal Leszczynski scores Stal Brzeg Piekary Śląskie 3 : 1 Pogoń Kacapa Dębica
+Alonzo Hayes scores Stal Brzeg Piekary Śląskie 3 : 2 Pogoń Kacapa Dębica
+Alonzo Hayes scores Stal Brzeg Piekary Śląskie 3 : 3 Pogoń Kacapa Dębica
+Alonzo Hayes scores End of match 
+
+Match Orlęta Żory against GKS Gleboki Rumia
+Orlęta Żory 1 : 0 GKS Gleboki Rumia
+Kacper Przybylko scores End of match 
+
+Match GKS Gleboki Rumia against Górnik II Katowice
+GKS Gleboki Rumia 1 : 0 Górnik II Katowice
+Lawrence Thomas scores GKS Gleboki Rumia 1 : 1 Górnik II Katowice
+Michal Jakobowski scores End of match 
+
+Match Pogoń Kacapa Dębica against Orlęta Żory
+Pogoń Kacapa Dębica 1 : 0 Orlęta Żory
+Walter Henderson scores End of match 
+
+Match Górnik Na Rencie Warszawa against Stal Brzeg Piekary Śląskie
+Górnik Na Rencie Warszawa 1 : 0 Stal Brzeg Piekary Śląskie
+Jakub Zubrowski scores Górnik Na Rencie Warszawa 1 : 1 Stal Brzeg Piekary Śląskie
+Jackie Strickland scores End of match 
+
+Match Unia Biała Podlaska against Chełmianka Suwałki
+Unia Biała Podlaska 1 : 0 Chełmianka Suwałki
+Roy Peterson scores Unia Biała Podlaska 2 : 0 Chełmianka Suwałki
+Roy Peterson scores Unia Biała Podlaska 3 : 0 Chełmianka Suwałki
+Roy Peterson scores Unia Biała Podlaska 3 : 1 Chełmianka Suwałki
+Raymond Coleman scores End of match 
+
+Match Tomasovia Ostrów Wielkopolski against MKS Czerwoni Świdnica
+Tomasovia Ostrów Wielkopolski 1 : 0 MKS Czerwoni Świdnica
+Kamil Glik scores Tomasovia Ostrów Wielkopolski 2 : 0 MKS Czerwoni Świdnica
+Johnny Williams scores Tomasovia Ostrów Wielkopolski 2 : 1 MKS Czerwoni Świdnica
+Piotr Wlazlo scores End of match 
+
+Match Wisłoka Wałbrzych against Pogoń Ruska Puławy
+Wisłoka Wałbrzych 1 : 0 Pogoń Ruska Puławy
+Kamil Pestka scores Wisłoka Wałbrzych 1 : 1 Pogoń Ruska Puławy
+Michal Kopczynski scores End of match 
+
+
+
+****************************************************************
+       TEAM NAME                              PTS   W    D    L 
+1.  Orlęta Żory                               25    8    1    2   
+2.  Pogoń Kacapa Dębica                       24    7    3    1   
+3.  Pogoń Ruska Puławy                        19    5    4    2   
+4.  Tomasovia Ostrów Wielkopolski             19    5    4    2   
+5.  Unia Biała Podlaska                       18    5    3    3   
+6.  Wisłoka Wałbrzych                         17    4    5    2   
+7.  MKS Czerwoni Świdnica                     15    5    0    6   
+8.  Górnik II Katowice                        10    2    4    5   
+9.  Stal Brzeg Piekary Śląskie                 9    1    6    4   
+10. Górnik Na Rencie Warszawa                  9    2    3    6   
+11. Chełmianka Suwałki                         8    2    2    7   
+12. GKS Gleboki Rumia                          6    1    3    7   
+****************************************************************
+
+
+   MOST TALENTED PLAYERS   
+1. Grzegorz Kuswik from GKS Gleboki Rumia with 98 skill points. 
+2. Adam Stachowiak from Orlęta Żory with 95 skill points. 
+3. Lukasz Budzilek from MKS Czerwoni Świdnica with 94 skill points. 
+4. Kamil Wojtkowski from Górnik Na Rencie Warszawa with 94 skill points. 
+5. Szymon Zurkowski from Wisłoka Wałbrzych with 93 skill points. 
+6. Oskar Zawada from Pogoń Ruska Puławy with 91 skill points. 
+7. Eugene Rogers from Górnik Na Rencie Warszawa with 91 skill points. 
+8. Roy Peterson from Unia Biała Podlaska with 91 skill points. 
+9. Kamil Pestka from Wisłoka Wałbrzych with 91 skill points. 
+10. Raymond Coleman from Chełmianka Suwałki with 90 skill points. 
+11. Lawrence Thomas from GKS Gleboki Rumia with 90 skill points. 
+12. Alan Bowers from Chełmianka Suwałki with 89 skill points. 
+13. Lukasz Burliga from Unia Biała Podlaska with 89 skill points. 
+14. Michal Kopczynski from Pogoń Ruska Puławy with 88 skill points. 
+15. Michal Kucharczyk from MKS Czerwoni Świdnica with 88 skill points. 
+16. Slawomir Peszko from MKS Czerwoni Świdnica with 88 skill points. 
+17. Rafal Leszczynski from Stal Brzeg Piekary Śląskie with 88 skill points. 
+18. Kenneth Brown from Tomasovia Ostrów Wielkopolski with 88 skill points. 
+19. Adam Stachowiak from Orlęta Żory with 87 skill points. 
+20. Russell Martin from Pogoń Kacapa Dębica with 87 skill points. 
+
+    BEST LEAGUE SCORERS   
+1. Alonzo Hayes STRIKER from team Pogoń Kacapa Dębica scores 25
+2. Piotr Wlazlo STRIKER from team MKS Czerwoni Świdnica scores 24
+3. Michal Kopczynski STRIKER from team Pogoń Ruska Puławy scores 22
+4. Roy Peterson STRIKER from team Unia Biała Podlaska scores 18
+5. Kacper Przybylko STRIKER from team Orlęta Żory scores 16
+
+
+    BEST TEAM SCORERS   
+Alonzo Hayes STRIKER from team Pogoń Kacapa Dębica scores 25
+Piotr Wlazlo STRIKER from team MKS Czerwoni Świdnica scores 24
+Michal Kopczynski STRIKER from team Pogoń Ruska Puławy scores 22
+Roy Peterson STRIKER from team Unia Biała Podlaska scores 18
+Kacper Przybylko STRIKER from team Orlęta Żory scores 16
+Rafal Leszczynski STRIKER from team Stal Brzeg Piekary Śląskie scores 11
+Jakub Zubrowski STRIKER from team Górnik Na Rencie Warszawa scores 10
+Michal Jakobowski STRIKER from team Górnik II Katowice scores 10
+Johnny Williams STRIKER from team Tomasovia Ostrów Wielkopolski scores 7
+Kamil Pestka MIDFIELDER from team Wisłoka Wałbrzych scores 7
+Alan Bowers MIDFIELDER from team Chełmianka Suwałki scores 5
+Lawrence Thomas MIDFIELDER from team GKS Gleboki Rumia scores 2
+
