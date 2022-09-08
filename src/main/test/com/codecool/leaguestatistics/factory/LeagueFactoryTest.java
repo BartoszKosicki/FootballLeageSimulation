@@ -1,12 +1,7 @@
 package com.codecool.leaguestatistics.factory;
 
-import com.codecool.leaguestatistics.footballLeague.League;
 import com.codecool.leaguestatistics.model.Division;
-import com.codecool.leaguestatistics.model.team.Team;
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.function.Executable;
-
-import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -20,7 +15,7 @@ class LeagueFactoryTest {
         int expectedResult = 10;
 
         //Act
-        int sut = leagueFactory.createLeague(10, Division.East).getTeams().size();
+        int sut = leagueFactory.createLeague(10, Division.East, "EastLeague.txt").teams().size();
         //Assert
 
         assertEquals(expectedResult, sut);
@@ -29,18 +24,16 @@ class LeagueFactoryTest {
     @Test
     void createLeague_testIfThrowIllegalArgumentExceptionWhenTeamsInDivisionIsNegative_shouldGenerateAListOfTeamsOfTheGivenSize() {
         //Assert
-        assertThrows(IllegalArgumentException.class, ()-> leagueFactory.createLeague(-10, Division.East));
-        assertThrows(IllegalArgumentException.class, ()-> leagueFactory.createLeague(30, Division.East));
-        assertThrows(IllegalArgumentException.class, ()-> leagueFactory.createLeague(0, Division.East));
+        assertThrows(IllegalArgumentException.class, ()-> leagueFactory.createLeague(-10, Division.East, "EastLeague.txt"));
     }
     @Test
     void createLeague_testIfThrowIllegalArgumentExceptionWhenTeamsInDivisionIsZero_shouldGenerateAListOfTeamsOfTheGivenSize() {
         //Assert
-        assertThrows(IllegalArgumentException.class, ()-> leagueFactory.createLeague(0, Division.East));
+        assertThrows(IllegalArgumentException.class, ()-> leagueFactory.createLeague(0, Division.East, "EastLeague.txt"));
     }
     @Test
     void createLeague_testIfThrowIllegalArgumentExceptionWhenTeamsInDivisionIsOverTheLimit_shouldGenerateAListOfTeamsOfTheGivenSize() {
         //Assert
-        assertThrows(IllegalArgumentException.class, ()-> leagueFactory.createLeague(30, Division.East));
+        assertThrows(IllegalArgumentException.class, ()-> leagueFactory.createLeague(30, Division.East, "EastLeague.txt"));
     }
 }

@@ -2,10 +2,10 @@ package com.codecool.leaguestatistics.view;
 
 import com.codecool.leaguestatistics.view.texts.menuTexts.MenuTexts;
 
-public class GameMenu {
+public class GameMenuTextDisplay {
     private final MenuTexts menuTexts;
 
-    public GameMenu(MenuTexts menuTexts) {
+    public GameMenuTextDisplay(MenuTexts menuTexts) {
         this.menuTexts = menuTexts;
     }
 

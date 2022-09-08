@@ -7,12 +7,7 @@ import lombok.Getter;
 import java.util.List;
 
 @Getter
-public class League {
-    private final List<Team> teams;
-    private final Division division;
+public record League(List<Team> teams, Division division, String filePath) {
 
-    public League(List<Team> teams, Division division) {
-        this.teams = teams;
-        this.division = division;
-    }
+
 }

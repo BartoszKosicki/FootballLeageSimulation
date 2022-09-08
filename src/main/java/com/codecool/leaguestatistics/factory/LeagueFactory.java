@@ -24,12 +24,11 @@ public class LeagueFactory {
      * @param teamsInDivision Indicates number of teams are in division
      * @return Full set of teams with players
      */
-    public League createLeague(int teamsInDivision, Division division) throws IllegalArgumentException{
+    public League createLeague(int teamsInDivision, Division division, String filePath) throws IllegalArgumentException{
         if (teamsInDivision > 0 && teamsInDivision < 30) {
             List<Team> teamList = new ArrayList<>();
             createTeam(teamsInDivision, division, teamList);
-            Collections.shuffle(teamList);
-            return new League(teamList, division);
+            return new League(teamList, division, filePath);
         } else {
             throw new IllegalArgumentException();
         }

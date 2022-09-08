@@ -5,6 +5,7 @@ import com.codecool.leaguestatistics.model.Division;
 import com.codecool.leaguestatistics.model.players.*;
 import com.codecool.leaguestatistics.model.players.model.*;
 import lombok.Getter;
+import lombok.Setter;
 
 import java.util.*;
 
@@ -12,6 +13,7 @@ import java.util.*;
  * Represents a team.
  */
 @Getter
+@Setter
 public class Team {
 
     private final String name;
@@ -52,7 +54,7 @@ public class Team {
     /**
      * resets team statistics at the start of a new season
      */
-    public void startNewSeason(){
+    public void resetStatistic(){
         wins = 0;
         draws = 0;
         loses = 0;

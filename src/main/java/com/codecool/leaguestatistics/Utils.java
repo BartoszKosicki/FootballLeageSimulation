@@ -20,10 +20,11 @@ public class Utils {
     }
 
     /**
-     * generates a schedule of matches
+     * generates a schedule of matches for 12 teams in league. If you change count teams in league you should also
+     * change. For 12 teams in league I used Round robin algorithm.
      * @return
      */
-    public static List<RoundPair> generateTimeTable(){
+    public List<RoundPair> generateTimeTable(){
         List<RoundPair> timeTable = new ArrayList<>();
         Collections.addAll(timeTable, new RoundPair(11,0), new RoundPair(1,10), new RoundPair(2,9), new RoundPair(3,8), new RoundPair(4,7), new RoundPair(5,6));
         Collections.addAll(timeTable, new RoundPair(6,11), new RoundPair(7,5), new RoundPair(8,4), new RoundPair(9,3), new RoundPair(10,2), new RoundPair(0,1));

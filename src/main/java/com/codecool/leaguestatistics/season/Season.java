@@ -5,7 +5,6 @@ import com.codecool.leaguestatistics.Utils;
 import com.codecool.leaguestatistics.controller.FileManager;
 import com.codecool.leaguestatistics.factory.LeagueFactory;
 import com.codecool.leaguestatistics.footballLeague.League;
-import com.codecool.leaguestatistics.footballLeague.LeagueService;
 import com.codecool.leaguestatistics.model.*;
 import com.codecool.leaguestatistics.model.players.*;
 import com.codecool.leaguestatistics.model.players.model.Goalkeeper;
@@ -15,12 +14,14 @@ import com.codecool.leaguestatistics.model.players.model.Striker;
 import com.codecool.leaguestatistics.model.team.Team;
 import com.codecool.leaguestatistics.view.PrintScoresTable;
 import lombok.Builder;
+import lombok.Getter;
 
 import java.util.*;
 
 /**
  * Provides all necessary methods for season simulation
  */
+@Getter
 public class Season {
 
     private League WEST;
@@ -33,6 +34,7 @@ public class Season {
     private final String eastPathFile = "EastLeague.txt";
     private final LeagueFactory leagueFactory = new LeagueFactory();
     private final FileManager fileManager = new FileManager();
+    private final Utils utils = new Utils();
 
     @Builder
     public Season(League WEST, League CENTRAL, League EAST) {
@@ -40,15 +42,14 @@ public class Season {
         this.CENTRAL = CENTRAL;
         this.EAST = EAST;
     }
-
     /**
      * Fills league with new teams and simulates all games in season.
      * After played all games calls table to be displayed.
      */
     public void run() {
-        this.WEST = leagueFactory.createLeague(12, Division.West);
-        this.CENTRAL = leagueFactory.createLeague(12, Division.Central);
-        this.EAST = leagueFactory.createLeague(12, Division.East);
+        this.WEST = leagueFactory.createLeague(12, Division.West, westPathFile);
+        this.CENTRAL = leagueFactory.createLeague(12, Division.Central, centralPathFile);
+        this.EAST = leagueFactory.createLeague(12, Division.East, eastPathFile);
         String next ="";
         do {
             SeasonCount++;
@@ -79,8 +80,8 @@ public class Season {
     private void playSeason(ArrayList<Team> League, String pathFile){
         startNewSeason(League);
         StringBuilder matchHistory = new StringBuilder("*****************\nSEASON " + SeasonCount + "\n*****************"
-        +"\n\n\n");
-        List<RoundPair> timeTable = Utils.generateTimeTable();
+                +"\n\n\n");
+        List<RoundPair> timeTable = utils.generateTimeTable();
         for (RoundPair round: timeTable) {
             matchHistory.append(playMatch(League.get(round.team1()), League.get(round.team2())));
         }
@@ -92,7 +93,7 @@ public class Season {
      * @param League list of all teams in league
      */
     private void startNewSeason(ArrayList<Team> League){
-        League.forEach(Team::startNewSeason);
+        League.forEach(Team::resetStatistic);
         League.stream()
                 .map(Team::getPlayers)
                 .flatMap(Collection::stream)

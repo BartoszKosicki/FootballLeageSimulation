@@ -1,5 +1,8 @@
 package com.codecool.leaguestatistics.season;
 
 public interface SeasonService {
-    void setupNewSeason();
+    Season setupNewSeason();
+
+    void playLeaguesRound(Season season);
+
 }
