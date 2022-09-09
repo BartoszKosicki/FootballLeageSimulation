@@ -1,8 +1,6 @@
 package com.codecool.leaguestatistics.model.players;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
-import lombok.NoArgsConstructor;
 
 @Getter
 public class Playable {
@@ -15,7 +13,7 @@ public class Playable {
         this.counter = counter;
     }
 
-    public void setCounter() {
+    public void decreaseCounter() {
         if (counter >0) {
             this.counter--;
         }

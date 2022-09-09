@@ -1,15 +1,16 @@
 package com.codecool.leaguestatistics.model.players.model;
 
 import com.codecool.leaguestatistics.model.players.Position;
+import lombok.Builder;
 import lombok.Getter;
 
 @Getter
-public class Midfielder extends Player implements Comparable<Midfielder>, Attacker, DefenderPotential{
+public class Midfielder extends Player implements Comparable<Midfielder>, AttackerPotential, DefenderPotential{
     private final int attackSkill;
     private final int defenceSkill;
     private final int longShot;
 
-
+    @Builder
     public Midfielder(int attackSkill, int defenceSkill, int aggression, int injuryPotential, int distanceShot, String teamName, Position position) {
         super(aggression, injuryPotential, teamName, position);
         this.attackSkill = attackSkill;

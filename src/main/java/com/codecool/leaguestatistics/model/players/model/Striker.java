@@ -5,7 +5,7 @@ import lombok.Builder;
 import lombok.Getter;
 
 @Getter
-public class Striker extends Player implements Comparable<Striker>, Attacker{
+public class Striker extends Player implements Comparable<Striker>, AttackerPotential {
     private final int attackSkill;
     private final int oneOnOne;
     @Builder

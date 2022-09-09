@@ -22,17 +22,16 @@ public class Team {
     private int loses;
     private final Division division;
 
-    private final List<Player> players;
-    private final List<Goalkeeper> gk = new ArrayList<>();
-    private final List<Midfielder> allMidfielders = new ArrayList<>();
-    private final List<Defender> allDefenders = new ArrayList<>();
-    private final List<Striker> allStrikers = new ArrayList<>();
+    private final List<Player> allPlayers;
+    private final List<Goalkeeper> goalkeepers = new ArrayList<>();
+    private final List<Midfielder> midfielders = new ArrayList<>();
+    private final List<Defender> defenders = new ArrayList<>();
+    private final List<Striker> strikers = new ArrayList<>();
 
     private List<Player> squad = new ArrayList<>();
     private List<Midfielder> currentMidfielders = new ArrayList<>();
     private List<Striker> currentStrikers = new ArrayList<>();
     private Goalkeeper currentGoalkeeper;
-
     private boolean changeSquad = false;
     private final List<String> teamTactic = new ArrayList<>();
     private String currentTactic;
@@ -40,10 +39,9 @@ public class Team {
     private int attackPotential=0;
     private int defencePotential=0;
 
-
-    public Team(List<Player> players, String name, Division division) {
+    public Team(List<Player> allPlayers, String name, Division division) {
         this.name = name;
-        this.players = players;
+        this.allPlayers = allPlayers;
         this.division = division;
         setPlayersByPosition();
         sortListByPlayersSkills();
@@ -89,7 +87,7 @@ public class Team {
             if (player instanceof DefenderPotential p) {
                 defencePotential += p.getDefSkill();
             }
-            if (player instanceof Attacker p) {
+            if (player instanceof AttackerPotential p) {
                 attackPotential += p.getAttackPotential();
             }
         }
@@ -101,9 +99,9 @@ public class Team {
     private void checkPlayerStatus(){
         int changes=0;
         if (changeSquad){
-            for (Player player: players) {
+            for (Player player: allPlayers) {
                 if (!player.isCanPlay() && player.getTimeCantPlay().getCounter() > 0) {
-                    player.getTimeCantPlay().setCounter();
+                    player.getTimeCantPlay().decreaseCounter();
                     } else {
                     player.setCanPlay(true);
                     changes++;
@@ -116,26 +114,26 @@ public class Team {
     /**
      * sets the line-up for the next match if any player is off;
      */
-    private void getSquad(){
-        if (changeSquad) {
-            setSquad();
-        }
-        teamTactic.add(currentTactic);
-    }
+//    public void getSquad(){
+//        if (changeSquad) {
+//            setSquad();
+//        }
+//        teamTactic.add(currentTactic);
+//    }
 
     /**
      * classifies players according to their position;
      */
     private void setPlayersByPosition(){
-        for (Player player : players) {
+        for (Player player : allPlayers) {
             if (player instanceof Goalkeeper) {
-                gk.add((Goalkeeper) player);
+                goalkeepers.add((Goalkeeper) player);
             } else if (player instanceof Defender) {
-                allDefenders.add((Defender) player);
+                defenders.add((Defender) player);
             } else if (player instanceof Midfielder) {
-                allMidfielders.add((Midfielder) player);
+                midfielders.add((Midfielder) player);
             } else {
-                allStrikers.add((Striker) player);
+                strikers.add((Striker) player);
             }
         }
     }
@@ -144,10 +142,10 @@ public class Team {
      * sort the best players according to their position;
      */
     private void sortListByPlayersSkills(){
-        Collections.sort(gk);
-        Collections.sort(allDefenders);
-        Collections.sort(allMidfielders);
-        Collections.sort(allStrikers);
+        Collections.sort(goalkeepers);
+        Collections.sort(defenders);
+        Collections.sort(midfielders);
+        Collections.sort(strikers);
     }
 
     /**
@@ -195,10 +193,10 @@ public class Team {
         currentStrikers = new ArrayList<>();
         int gkCount = 1;
         for (int i = 0; i < gkCount; i++) {
-            if (gk.get(i).isCanPlay()) {
-                squad.add(gk.get(i));
-                currentGoalkeeper = gk.get(i);
-            } else if (gkCount < gk.size()) {
+            if (goalkeepers.get(i).isCanPlay()) {
+                squad.add(goalkeepers.get(i));
+                currentGoalkeeper = goalkeepers.get(i);
+            } else if (gkCount < goalkeepers.size()) {
                 gkCount++;
             } else {
                 Goalkeeper temporaryGk =new Goalkeeper(30, 0, 0, 10, 20, this.name, Position.GOALKEEPER);
@@ -207,25 +205,25 @@ public class Team {
             }
         }
         for (int i = 0; i < defCount; i++) {
-            if (allDefenders.get(i).isCanPlay()){
-                squad.add(allDefenders.get(i));
-            } else if (defCount < allDefenders.size()) {
+            if (defenders.get(i).isCanPlay()){
+                squad.add(defenders.get(i));
+            } else if (defCount < defenders.size()) {
                 defCount++;
             }
         }
         for (int i = 0; i < mfdCount; i++) {
-            if (allMidfielders.get(i).isCanPlay()){
-                squad.add(allMidfielders.get(i));
-                currentMidfielders.add(allMidfielders.get(i));
-            } else if (mfdCount < allMidfielders.size()) {
+            if (midfielders.get(i).isCanPlay()){
+                squad.add(midfielders.get(i));
+                currentMidfielders.add(midfielders.get(i));
+            } else if (mfdCount < midfielders.size()) {
                 mfdCount++;
             }
         }
         for (int i = 0; i < strCount; i++) {
-            if (allStrikers.get(i).isCanPlay()){
-                squad.add(allStrikers.get(i));
-                currentStrikers.add(allStrikers.get(i));
-            } else if (strCount < allStrikers.size()) {
+            if (strikers.get(i).isCanPlay()){
+                squad.add(strikers.get(i));
+                currentStrikers.add(strikers.get(i));
+            } else if (strCount < strikers.size()) {
                 strCount++;
             }
         }
@@ -260,19 +258,19 @@ public class Team {
     private int sumPlayersPotential(int defendersCount, int midfieldersCount, int strikersCount){
         int sum = 0;
         for (int i = 0; i < defendersCount; i++) {
-            if (allDefenders.get(i).isCanPlay()) {
-                sum += allDefenders.get(i).getDefSkill();
-            } else if (defendersCount< allDefenders.size()) defendersCount+=1;
+            if (defenders.get(i).isCanPlay()) {
+                sum += defenders.get(i).getDefSkill();
+            } else if (defendersCount< defenders.size()) defendersCount+=1;
         }
         for (int i = 0; i < midfieldersCount; i++) {
-            if (allMidfielders.get(i).isCanPlay())
-            sum+= allMidfielders.get(i).getAttackSkill() + allMidfielders.get(i).getDefenceSkill();
-            else if (midfieldersCount < allMidfielders.size()) midfieldersCount += 1;
+            if (midfielders.get(i).isCanPlay())
+            sum+= midfielders.get(i).getAttackSkill() + midfielders.get(i).getDefenceSkill();
+            else if (midfieldersCount < midfielders.size()) midfieldersCount += 1;
         }
         for (int i = 0; i < strikersCount; i++) {
-            if (allStrikers.get(i).isCanPlay())
-            sum += allStrikers.get(i).getAttackPotential();
-            else if (strikersCount < allStrikers.size()) strikersCount +=1;
+            if (strikers.get(i).isCanPlay())
+            sum += strikers.get(i).getAttackPotential();
+            else if (strikersCount < strikers.size()) strikersCount +=1;
         }
         return sum;
     }
@@ -297,7 +295,7 @@ public class Team {
      * Helper method that finds the best player with most scored goals in team
      */
     public Player getBestScorer() {
-        return players.stream()
+        return allPlayers.stream()
                 .max(Comparator.comparing(Player::getGoals)).get();
     }
 
@@ -359,7 +357,7 @@ public class Team {
     public Player getBestSkillPlayerInTeam(){
         Player bestPlayer = null;
         int skillSum = 0;
-        for (Player player : players) {
+        for (Player player : allPlayers) {
             if (player.getTotalSkill() > skillSum) {
                 skillSum = player.getTotalSkill();
                 bestPlayer = player;

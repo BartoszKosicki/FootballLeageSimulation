@@ -95,7 +95,7 @@ public class Season {
     private void startNewSeason(ArrayList<Team> League){
         League.forEach(Team::resetStatistic);
         League.stream()
-                .map(Team::getPlayers)
+                .map(Team::getAllPlayers)
                 .flatMap(Collection::stream)
                 .forEach(Player::startNewSeason);
     }

@@ -35,9 +35,9 @@ public class SeasonServiceImpl implements SeasonService {
 
     @Override
     public void playLeaguesRound(Season season) {
-        leagueService.playLeagueSeason(season.getCENTRAL());
-        leagueService.playLeagueSeason(season.getEAST());
-        leagueService.playLeagueSeason(season.getEAST());
+        leagueService.playNewLeagueSeason(season.getCENTRAL());
+        leagueService.playNewLeagueSeason(season.getEAST());
+        leagueService.playNewLeagueSeason(season.getEAST());
     }
 
 }

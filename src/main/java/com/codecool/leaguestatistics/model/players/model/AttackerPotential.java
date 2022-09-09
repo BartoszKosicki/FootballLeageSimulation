@@ -1,5 +1,5 @@
 package com.codecool.leaguestatistics.model.players.model;
 
-public interface Attacker {
+public interface AttackerPotential {
     int getAttackPotential();
 }

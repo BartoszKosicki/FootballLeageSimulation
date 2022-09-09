@@ -17,7 +17,7 @@ public abstract class Player{
     private String team;
     private int aggression;
     private int injuryPotential;
-    private Playable timeCantPlay = new Playable();
+    private Playable timeCantPlay;
     private boolean canPlay;
     private int goals;
 

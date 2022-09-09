@@ -28,7 +28,7 @@ public class PrintLeagueStatistics {
      */
     public static List<Player> getAllPlayers(List<Team> teams) {
         return teams.stream()
-                .map(Team::getPlayers)
+                .map(Team::getAllPlayers)
                 .flatMap(Collection::stream)
                 .collect(Collectors.toList());
     }
@@ -81,7 +81,7 @@ public class PrintLeagueStatistics {
      */
     public static List<Player> getPlayersWithAtLeastXGoals(List<Team> teams, int goals) {
         List<Player> scorers = teams.stream()
-                .map(Team::getPlayers)
+                .map(Team::getAllPlayers)
                 .flatMap(Collection::stream).toList()
                 .stream()
                 .sorted(Comparator.comparing(Player::getGoals).reversed())
